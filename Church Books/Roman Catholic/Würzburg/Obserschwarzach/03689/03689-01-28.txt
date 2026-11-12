@@ -1,0 +1,90 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 25-25
+
+Archive-ID    ┠ 03689-01-28
+URL pg#       ┠ 29
+Years         ┠ 1781
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 9
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=29
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 25
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 7 Dürr ␤ ??  ??
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 25
+Entry  ┠ 5 | year-entry 7
+Year   ┠ 1891
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 7
+c1     ┠ Dürr ␤ ??  ??
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03689-01-28
+20925    Dürr, Kasper                       28 Jan 1891                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Valentin and Fuchs, Margarete
+
+
+has wrong date, but could be right person
+
+===========================================DIV50==
+

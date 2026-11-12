@@ -53,7 +53,7 @@ e20    ┠
 Details
 
 Page   ┠ $
-Entry  ┠ $ 
+Entry  ┠ $
 Year   ┠ $
 Detail ┠ file://./
 

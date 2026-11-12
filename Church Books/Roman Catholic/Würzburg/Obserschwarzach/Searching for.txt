@@ -191,9 +191,11 @@ F       03689-01-22
 13854    Thomas, Josef                      28 Nov 1889                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Unknown and Unknown
 
+F       03689-01-28
 20925    Dürr, Kasper                       28 Jan 1891                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Dürr, Valentin and Fuchs, Margarete
 
+F       03689-01-30
 68       Maier, Theresia                    8 Jun 1891                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Maier, Nikolaus and Dürr, Katharina
 
