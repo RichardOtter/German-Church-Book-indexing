@@ -1,0 +1,78 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-13
+Mat.pg#         14
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           18-19
+Years           1721-1723
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:        
+Columns:        5
+#Entries:       10 + 10
+
+image           file://./00154-01-13.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=14
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 18
+        _YEAR-HEADER 1721
+e1      21 jul
+e2      19 aug
+e3      14 sep
+        _YEAR 1722
+e4      30 jan          RMID-13737 Mehling, Anna Maria Birth 1722-01-30
+e5      22 feb
+e6      10 mar
+e7      2 aug
+e8      16 sep
+e9      27 aug
+e10     10 may ???
+-----------------------DIV30--
+Page 19
+        _YEAR-HEADER 1723
+e1      9 jan
+e2      13 jan
+e3      22 mar
+e4      29 may
+e5      29 jun
+e6      1 jul
+e7      29 aug
+e8      2 sep
+e9      19 ?
+e10     5 oct
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    18
+Entry   4
+Year    1922
+Detail  file://./00154-01-13-A.png
+
+Transcription
+col
+c1      30 January
+c2      Matthäi Mehling ␤ Margareta
+c3      Anna Maria
+c4      Ann Josmis ␤ Georgius Büchner ␤ filia
+c5      ??
+
+Match to RM database
+RMID-13737 Mehling, Anna Maria Birth 1722-01-30
+        daughter of Matthäi Mehling & Margarteha
+
+
+-----------------------DIV30--

@@ -1,0 +1,145 @@
+Hösbach, Landkreis Aschaffenburg, Bayern, Deutschland
+FSPID=9738555
+Hösbach-St. Michael (Altort)
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/hoesbach-sankt-michael-altort/
+
+12 Volumes
+	02412	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen – Ehen – Sterbefälle – Sonstiges)	(1608–1655), 1655–1769
+	02413	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen – Ehen – Sterbefälle – Sonstiges) (tlw. Abschrift)	1687–1735, [1930]
+	02414	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	(1720), 1731–1821
+	02415	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1783–1823
+	02416	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen) (inkl. Register)	1823–1882
+	02417	Pfarrmatrikel Hösbach-St. Michael (Altort) (Ehen) (inkl. Register)	1823–1894
+	02418	Pfarrmatrikel Hösbach-St. Michael (Altort) (Sterbefälle – Sonstiges)	(1783–1823), 1823–1880
+	02419	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen) (Registerband)	1823–1850
+	02420	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen) (Registerband)	1823–1852
+	02421	Pfarrmatrikel Hösbach-St. Michael (Altort) (Taufen) (inkl. Register)	1871–1895
+	02422	Pfarrmatrikel Hösbach-St. Michael (Altort) (Kommunion – Firmungen – Sonstiges)	1810–1897
+	02423	Pfarrbuch Hösbach-St. Michael (Altort) (Sonstiges)	(1608–[1783]), [1783]–1822
+
+
+
+_INDEX
+
+_LOOKING-FOR
+
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Hösbach%	Hösbach, Hösbach, Aschaffenburg, Bayern, Deutschland					
+		2994	Baumann, Anton	Marriage	1928-10-28	D.+19281028..+00000000..
+		3119	Baumann, Brigit	Birth	1968-05-13	D.+19680513..+00000000..
+		3113	Baumann, Jutta	Birth	1965-01-07	D.+19650107..+00000000..
+		3117	Baumann, Silvia	Birth	1967-04-11	D.+19670411..+00000000..
+		22758	Bergmann, Franz Xaver	Birth	1884-08-03	D.+18840803..+00000000..
+		13554	Brand, Alfonse	Birth	1902-11-21	D.+19021121..+00000000..
+		12509	Brand, Anton Eugen	Birth	1876-10-05	D.+18761005..+00000000..
+		12491	Brand, Balthasar	Birth	1803-00-00	D.+18030000.S+00000000..
+		12491	Brand, Balthasar	Death	.	.
+		12494	Brand, Franz Philip	Birth	1689-03-09	D.+16890309..+00000000..
+		12494	Brand, Franz Philip	Death	.	.
+		12508	Brand, Jakob	Birth	1831-06-17	D.+18310617..+00000000..
+		12508	Brand, Jakob	Death	1895-06-11	D.+18950611..+00000000..
+		12490	Brand, Johann	Birth	1802-12-20	D.+18021220..+00000000..
+		12490	Brand, Johann	Death	.	.
+		12498	Brand, Johann	Birth	1830-00-00	D.+18300000.S+00000000..
+		12496	Brand, Johann Adam	Birth	1660-00-00	D.+16600000..+00000000..
+		12496	Brand, Johann Adam	Death	.	.
+		12492	Brand, Johann Georg	Birth	1778-03-22	D.+17780322..+00000000..
+		12492	Brand, Johann Georg	Death	.	.
+		13552	Brand, John	Birth	1906-02-23	D.+19060223..+00000000..
+		13553	Brand, Margaretha	Birth	1901-09-09	D.+19010909..+00000000..
+		3316	Brenner, Maria	Birth	1930-09-30	D.+19300930..+00000000..
+		2561	Elbert, Johann Adam	Marriage	1787-05-29	D.+17870529..+00000000..
+		12495	Faith, Maria Magdalena	Birth	1691-00-00	D.+16910000.S+00000000..
+		12497	Farth, Magdalena	Birth	1662-00-00	D.+16620000..+00000000..
+		12497	Farth, Magdalena	Death	.	.
+		12502	Fecher, Adam	Birth	1790-00-00	D.+17900000.S+00000000..
+		12502	Fecher, Adam	Death	.	.
+		12501	Fecher, Katharina	Birth	1818-00-00	D.+18180000.S+00000000..
+		16171	Flittner, Anna Maria	Birth	1774-10-07	D.+17741007..+00000000..
+		13583	Fäth, Adam	Birth	1899-09-11	D.+18990911..+00000000..
+		13584	Fäth, Anton	Birth	1884-01-31	D.+18840131..+00000000..
+		13582	Fäth, Josef	Birth	1891-04-17	D.+18910417..+00000000..
+		14115	Fäth, Philipp Jakob	Birth	1888-06-07	D.+18880607..+00000000..
+		13581	Fäth, Ulrich	Birth	1895-11-08	D.+18951108..+00000000..
+		3649	Graf, Alfred	Marriage	1948-06-05	D.+19480605..+00000000..
+		2763	Graf, Margaretha	Birth	1886-04-10	D.+18860410..+00000000..
+		3644	Heeg, Marga	Birth	1930-01-19	D.+19300119..+00000000..
+		3644	Heeg, Marga	Marriage	1952-08-14	D.+19520814..+00000000..
+		12513	Hock, Gertrudis	Birth	1847-04-07	D.+18470407..+00000000..
+		12513	Hock, Gertrudis	Death	1907-04-15	D.+19070415..+00000000..
+		3112	Hornung, Helene	Birth	1945-05-15	D.+19450515..+00000000..
+		2600	Hufgart, Peter	Birth	1906-03-27	D.+19060327..+00000000..
+		2602	Hufgart, Rita	Birth	1937-08-29	D.+19370829..+00000000..
+		2601	Hufgart, Rosa	Birth	1935-06-19	D.+19350619..+00000000..
+		12504	Lebkuchner, Katharina	Death	.	.
+		2641	Otter, Alfred	Birth	1926-05-20	D.+19260520..+00000000..
+		2522	Otter, Anton	Death	1898-06-22	D.+18980622..+00000000..
+		12489	Otter, Charitas	Death	.	.
+		2635	Otter, Eleonore	Birth	1921-05-30	D.+19210530..+00000000..
+		2636	Otter, Emilie	Birth	1923-03-25	D.+19230325..+00000000..
+		13182	Otter, Franz Anton	Birth	1890-01-29	D.+18900129..+00000000..
+		2583	Otter, Georg	Birth	1906-05-17	D.+19060517..+00000000..
+		2625	Otter, Georg	Death	1966-05-23	D.+19660523..+00000000..
+		2625	Otter, Georg	Marriage	1908-08-29	D.+19080829..+00000000..
+		2769	Otter, Georg Felix	Death	1892-04-13	D.+18920413..+00000000..
+		2634	Otter, Hans	Birth	1917-07-12	D.+19170712..+00000000..
+		3633	Otter, Helmut	Birth	1929-02-01	D.+19290201..+00000000..
+		2579	Otter, Josef	Birth	1904-04-08	D.+19040408..+00000000..
+		2584	Otter, Juliane	Birth	1911-07-31	D.+19110731..+00000000..
+		2577	Otter, Karl	Birth	1914-04-25	D.+19140425..+00000000..
+		11669	Otter, Margareta	Birth	1835-00-00	D.+18350000.S+00000000..
+		11669	Otter, Margareta	Death	.	.
+		2582	Otter, Margarethe	Birth	1908-02-02	D.+19080202..+00000000..
+		2637	Otter, Margarthe	Marriage	1948-06-05	D.+19480605..+00000000..
+		3624	Otter, Maria	Birth	1920-01-29	D.+19200129..+00000000..
+		3624	Otter, Maria	Death	1974-10-07	D.+19741007..+00000000..
+		13183	Otter, Maria Barbara	Birth	1887-09-05	D.+18870905..+00000000..
+		2580	Otter, Rosa	Birth	1910-01-26	D.+19100126..+00000000..
+		3651	Otter, Rosa	Birth	1915-02-19	D.+19150219..+00000000..
+		2578	Otter, Wilhelmine	Birth	1902-08-08	D.+19020808..+00000000..
+		2639	Otter, Wilhelmine	Birth	1914-08-03	D.+19140803..+00000000..
+		12515	Rausch, Margarete	Birth	1803-07-04	D.+18030704..+00000000..
+		13444	Reising, Elisabeth	Birth	1731-00-00	D.+17310000..+00000000..
+		2995	Sauer, Anna	Birth	1908-03-09	D.+19080309..+00000000..
+		2995	Sauer, Anna	Marriage	1928-10-28	D.+19281028..+00000000..
+		14224	Sauer, Anna Margaretha	Birth	1809-09-12	D.+18090912..+00000000..
+		12511	Sauer, Elisabeth Aloyisa	Birth	1878-06-20	D.+18780620..+00000000..
+		12516	Sauer, Georg	Birth	1807-10-22	D.+18071022..+00000000..
+		3645	Sauer, Georg	Marriage	1952-08-14	D.+19520814..+00000000..
+		12512	Sauer, Johann	Birth	1844-09-12	D.+18440912..+00000000..
+		12512	Sauer, Johann	Death	1916-03-24	D.+19160324..+00000000..
+		12519	Sauer, Margarethe	Birth	1888-10-05	D.+18881005..+00000000..
+		12519	Sauer, Margarethe	Death	1976-00-00	D.+19760000..+00000000..
+		12518	Sauer, Maria	Birth	1885-12-29	D.+18851229..+00000000..
+		12518	Sauer, Maria	Death	1957-03-03	D.+19570303..+00000000..
+		12514	Sauer, Martin	Birth	1797-10-22	D.+17971022..+00000000..
+		3647	Sauer, Monika	Birth	1958-03-13	D.+19580313..+00000000..
+		3646	Sauer, Willi	Birth	1953-05-27	D.+19530527..+00000000..
+		2638	Schmitt, Anna Maria	Birth	1886-04-10	D.+18860410..+00000000..
+		2638	Schmitt, Anna Maria	Death	1955-12-04	D.+19551204..+00000000..
+		2638	Schmitt, Anna Maria	Marriage	1908-08-29	D.+19080829..+00000000..
+		2762	Schmitt, Balthasar	Birth	1860-00-00	D.+18600000.A+00000000..
+		12507	Schwind, Elisabeth	Birth	1770-00-00	D.+17700000.S+00000000..
+		2965	Schwind, Marion	Birth	1955-09-29	D.+19550929..+00000000..
+		3626	Schäfer, Heinrich	Birth	1945-10-30	D.+19451030..+00000000..
+		12503	Sickenberger, Franz	Birth	1813-09-22	D.+18130922..+00000000..
+		12503	Sickenberger, Franz	Death	.	.
+		12499	Sickenberger, Margareta	Birth	1840-00-00	D.+18400000.S+00000000..
+		12506	Sickenberger, Michael	Birth	1732-09-19	D.+17320919..+00000000..
+		12506	Sickenberger, Michael	Death	.	.
+		12500	Sickenberger, Valentin	Birth	1813-09-22	D.+18130922..+00000000..
+		2523	Stegmann, Elisabeth Katharina	Death	1889-07-08	D.+18890708..+00000000..
+		2562	Wiesmann, Anna Maria	Marriage	1787-05-29	D.+17870529..+00000000..
+		2627	Wolz, Josefine	Birth	1886-12-01	D.+18861201..+00000000..

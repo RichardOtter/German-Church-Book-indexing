@@ -1,0 +1,51 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-24
+
+Parish      Waldzell
+Volume      3
+Page#       8
+Years       1840
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    14 or 15
+#Entries:   4
+
+Comments
+several years skipped
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1  1840    Endres
+e2  1843    R�b
+e3  y
+e4  y
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-03-24-A.png
+Acquired:           16-Oct-2019  14:52      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

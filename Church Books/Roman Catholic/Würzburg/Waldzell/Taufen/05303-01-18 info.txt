@@ -1,0 +1,113 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-18
+
+Parish      Waldzell
+Volume      1
+Page#       24/25
+Years       1726-1727
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    5303-01-16.txt
+Columns:    5
+#Entries:   > 5
+
+Comments
+Entry numbers are absolute
+
+Only p24, left side of archive -image was imaged
+the first column of p25 can also bee seen
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 24
+        _HEADER-ROW
+        _YEAR 1726
+e1      30 Dec  1726
+        _YEAR 1727
+e2      30 Mar  1727
+e3      30 Apr  1727
+e4      8 May   1727
+e5      28 Aug  1727
+-----------------------------
+Entry   Page 25     
+
+
+the rest is not visible
+
+
++++++++++++++++++++++++DIV30++
+Details
+
++++++++++++++++++++++++DIV30++
+Page    24
+Entry   5
+Year    1727
+Detail
+
+Transcription
+c1      28 August
+c2      Georgius Oder / ?? / Anna
+c3      Georgius ???
+c4      ????? / ????
+c5      tem???
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2457    Line 4
+Georg Adam Otter                    4th gg uncle
+b,ba    28 Aug 1727 
+    f   Georg Otter
+    m   Anna Meling
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 24, notation 3
+Otter, Georgius Adamus
+28-Aug-1727
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-01-18-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   1-5, absolute
+
+Comments
+These are absolute positions
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1546
+BAP WCR-p024-Otter,Georgius Adamus      
+ Waldzell Church Book - Baptisms, p024-Otter, Georgius Adamus
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Georgius Adamus Otter; before 28 August 1727; ; 28 August 1727; p24 - e5; 5303; 01; 18; 24/25; 16 July 2024; RAVigus, RJOtter
+
+
+entry   RM-ID       Name                tags using source
+p24-e5  TMG-2457    Georg Adam Otter    name, father, mother, baptism
+
+===========================================DIV50==

@@ -1,0 +1,81 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 5
+Record:        ┠ _TAUFE
+Page#          ┠ 103
+
+Archive-ID     ┠ 03686-04-07
+URL pg#        ┠ 111
+Years          ┠ 1870
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 10
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=111
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 103
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 56 Rost ␤ Franz. ␤ Handthal.
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+  
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 103
+Entry  ┠ 6 | year-entry  56
+Year   ┠ 1870
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 56
+c1     ┠ Rost ␤ Franz. ␤ Handthal.
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-04-07
+127      Rost, Franz                        10 Nov 1870                Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Brönner, Eva
+
+
+===========================================DIV50==

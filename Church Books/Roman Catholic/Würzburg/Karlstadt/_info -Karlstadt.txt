@@ -1,0 +1,128 @@
+Karlstadt, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9286788
+Karlstadt-St. Andreas (Innenstadt)
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/karlstadt-sankt-andreas-innenstadt/
+
+26 Volumes
+	02580	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Ehen – Sterbefälle – Sonstiges)	1581–1648
+	02581	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Ehen – Sterbefälle)	1648–1668
+	02582	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1669–1701
+	02583	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1695–1723
+	02584	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Firmungen – Ehen – Sterbefälle)	1724–1742
+	02585	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Firmungen – Ehen – Sterbefälle)	1742–1749
+	02586	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Firmungen – Sonstiges)	(1588–1746), 1746–1813, (1813–1822), 1822–1892
+	02587	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen)	1814–1871
+	02588	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Ehen)	1748–1924
+	02589	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Sterbefälle)	1750–1858
+	02590	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Sterbefälle)	1859–1899
+	02591	Familien-/Häuserbuch Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	(1845–1900), [1900]–1941
+	02592	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Ehen – Sterbefälle) (Registerband)	(1648–1860), [1860]
+	02593	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Ehen) (Registerband)	(1648–1860), 1940
+	02594	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Taufen – Ehen – Sterbefälle) (Registerband)	1861–1960
+	02595	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Firmungen)	1815–1922
+	02596	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Kommunion)	1899–1924
+	02597	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Kommunion) (Registerband)	1928–1929
+	02598	Einwohnerverzeichnis Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	(1720–1820), [1830]
+	02599	Einwohnerverzeichnis Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	[1820]
+	02600	Einwohnerverzeichnis Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	[1830]
+	02601	Einwohnerverzeichnis Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	[1835]
+	02602	Einwohnerverzeichnis Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	[1840]
+	02603	Pfarrmatrikel Karlstadt-St. Andreas (Innenstadt) (Sonstiges)	(1844–1851), [1851]
+	02604	Judenmatrikel Karlstadt-St. Andreas (Innenstadt) (Geburten – Ehen) (inkl. Register)	1863–1873
+	02605	Judenmatrikel Karlstadt-St. Andreas (Innenstadt) (Ehen – Sonstiges) (inkl. Register)	1864–1875
+
+_INDEX
+
+Taufen 1746–1813
+https://data.matricula-online.eu/en/deutschland/wuerzburg/karlstadt-sankt-andreas-innenstadt/02585/?pg=1
+02586_01_0005		Baptism title page
+02586_01_0008		Baptism 1746
+02586_01_0013		Baptism 1746
+02586_01_0020		Baptism 1748
+02586_01_0030		Baptism 1750
+02586_02_0010		Baptism 1752
+02586_02_0020		Baptism 1753
+02586_03_0002		Baptism 1756
+02586_03_0020		Baptism 1762
+02586_03_0021		Baptism 1763
+02586_04_0004		Baptism 1767
+02586_05_0001		Baptism 1772
+02586_06_0001		Baptism 1777
+02586_07_0001		Baptism 1780
+02586_08_0001		Baptism 1787
+02586_09_0001		Baptism 1796
+02586_09_0024		Baptism 1804
+02586_09_0025		Baptism 1804	START OF 13 COLUMN FORMAT
+02586_10_0012		Baptism 1806
+02586_11_0002		Baptism 1809
+02586_12_0001		Baptism 1812
+02586_12_0022		Baptism 1813
+02586_12_0023		New section  1757
+02586_13_0022		1811
+02586_13_0024		END 1813
+
+Taufen 1814–1871
+https://data.matricula-online.eu/en/deutschland/wuerzburg/karlstadt-sankt-andreas-innenstadt/02587/?pg=1
+02587_01_001		title page- Baptisms
+02587_01_005		1815		12 column format	headers read
+02587_02_001		1817
+02587_03_001		1823
+02587_04_001		1829
+02587_05_001		1834
+02587_06_001		1839
+02587_07_001		1844
+02587_08_001		1849
+02587_09_001		1853
+02587_10_001		1858
+02587_11_001		1862
+02587_12_001		1866
+02587_13_001		1870
+
+
+
+
+_LOOKING-FOR
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate
+karlstadt%	Karlstadt, Main-Spessart, Bayern, Deutschland				
+		22563	Ruff, Margaretha	Death	1855-00-00
+		22516	Kamm, Dorothea	Birth	1875-12-09
+		22467	Schürger, Josef	Birth	1880-07-28
+		22526	Ludwig, Karl Josef	Birth	1895-10-18
+		22538	Schürger, Leonard Joseph	Birth	1900-09-25
+		22537	Schürger, Joseph Hans	Birth	1902-01-17
+		22471	Schuerger, Maria Gertrude	Marriage	1904-00-00
+		22527	Ziegler, Georg	Marriage	1904-00-00
+		22535	Schürger, Karl Ludwig	Birth	1904-08-01
+		22516	Kamm, Dorothea	Marriage	1905-11-18
+		22469	Schürger, Karl	Marriage	1905-11-18
+		22530	Ziegler, Maria Gertrude	Birth	1906-01-18
+		22529	Ziegler, Karl	Birth	1907-03-07
+		22519	Schürger, Karl	Birth	1907-03-30
+		22477	Romig, Peter	Marriage	1907-10-06
+		22465	Schürger, Katharina	Marriage	1907-10-06
+		22517	Schürger, Johann August	Birth	1916-09-27
+		22459	Schürger, Johann	Death	1932-06-24
+		22516	Kamm, Dorothea	Death	1946-03-29
+		22526	Ludwig, Karl Josef	Death	1947-08-30
+		22527	Ziegler, Georg	Death	1951-09-11
+		22537	Schürger, Joseph Hans	Death	1970-08-01
+		7	Otter, Ferdinand	Death	1978-04-27
+		22470	Schürger, Gretel	Death	1980-11-23
+		22529	Ziegler, Karl	Death	1985-02-24
+		22519	Schürger, Karl	Death	1989-02-27
+		22530	Ziegler, Maria Gertrude	Death	1989-07-02
+		4498	Schlotz, Fiona Larissa	Birth	2004-11-17
+		4499	Schlotz, Tamara Regina	Birth	2007-03-25
+		22517	Schürger, Johann August	Death	2010-12-11

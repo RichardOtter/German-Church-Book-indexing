@@ -1,0 +1,123 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-12-46
+
+Parish      Urspringen
+Record:     _EHE
+Volume      4
+Page#       9
+Years       1825
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    TODO
+Columns:    16
+#Entries:   >= 3
+
+Comments
+Entry numbers are not absolute. 
+Only a single entry was described and imaged.
+Partial entries above and below.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 9
+e2      11      Johann ␤ Schürger
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2
+c00     11
+c01     Johann ␤ Schürger
+c02     kathol ␤ isch 
+c03     107
+c04     Johann ␤ Schürger ␤ Anna ␤ Ebingerin
+c05     ledig
+c06     1797 ␤ 10ber 6 ?? ␤ Urspring ␤ en
+c07     ?? ␤ ?? ␤ ?? ␤ ?? ␤ ?? ␤ ?? ␤ ?? 
+c08     .1825 ␤ .18 ␤ Sept??
+c09     Anna ␤ Maria ␤ Scheuer ␤ mann ␤ inn
+c10     ?? ␤ ?? 
+c11     ?? ␤ ?? ␤ ?? ␤ ?? ␤ ?? 
+c12     Stefan ␤ Scheuer ␤ mann ␤ Doro ␤ thea ␤ Handlinn
+c13     ledig
+c14     1797 ␤ 15. Juli  ␤ ??  Urspring ␤ en ␤ 28
+c15     ?? ␤ ?? ␤ ?? ␤ ?? ␤ ?? ␤ ??
+c16     Matthäus ␤ Albertius ␤ Matthäus ␤ Scheuermann ␤ ?? ␤ ?? ␤ ?? ␤ ?? ␤ Urspringen
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+2. Johann Schürger and his wife Anna Maria, nee Scheuermann:
+oo.18.09.1825 Urspringen: Johann Schürger, *04.10.1795 in Urspringen, house number 107, legitimate son of the Johann Schürger and his wife Anna, nee Ebinger, married Anna Maria Scheuermann, *15.07.1797 in Urspringen, legitimate daughter of Stefan Scheuermann and his wife Dorothea, nee Handl, witnesses Matthäus Albert and Matthäus Scheuermann, both from Urspringen (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 9).
+
+
+new as of 2023-08
+oo.18.09.1825 Urspringen: Johann Schürger, *04.10.1798 in Urspringen, house number 107, legitimate son of the Johann Schürger and his wife Anna, nee Leininger (not Ebinger), married Anna Maria Scheuermann, *15.07.1797 in Urspringen, legitimate daughter of Stefan Scheuermann and his wife Dorothea, nee Handl, witnesses Matthäus Albert and Matthäus Scheuermann, both from Urspringen (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 9).
+
+
+-----------------------DIV30--
+
+Johann Schürger   *04 Oct 1798   Urspringen; wohnort Urspringen HN:107
+&   18 Sep 1825   Urspringen
+Anna Maria Scheuermann   *15 Jul 1797   Urspringen
+
+Johann Schürger
+&
+Anna Leininger
+=> Johann Schürger
+
+Stefan Scheuermann
+&
+Dorothea Handl
+=> Anna Maria Scheuermann 
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 9
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5191-12-46-A.jpg
+Acquired:           05-Jul-2023  12:11  Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   1  & 2 partial, above and below
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-<_NOT-YET-DONE>
+
+entry   RM src          Name                tags using source
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 12    image 46    Urspringen  Trauungs    vol 4   p 9
+5191-12-46
+
+Johann Schürger     RMID 11411
+* 04.10.1795 in Urspringen, house number 107    (RM has Oct 1798)
+
+parents RMID 11413 & 11414
+Johann Schürger and his wife Anna, nee Ebinger      (RM has Johannes Peter Schürger & Anna Leininger)
+
+oo.18.09.1825 Urspringen    (RM no info, plain marr event)
+
+Anna Maria Scheuermann  RMID 11412
+* 15.07.1797 in Urspringen  (RM same)
+
+parents RMID 11415 & 11416
+Stefan Scheuermann and his wife Dorothea, nee Handl     (RM has Stephan Scheuermann & Dorthea Handl)
+
+===========================================DIV50==
+===========================================DIV50==

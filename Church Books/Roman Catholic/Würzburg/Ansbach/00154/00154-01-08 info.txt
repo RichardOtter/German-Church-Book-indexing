@@ -1,0 +1,84 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-08
+Mat.pg#         9
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           8-9
+Years           1710-1712
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _PARAGRAPH + _TABLE-SINGLE
+Headers:        n/a
+Columns:        5
+#Entries:       12 + 6
+
+image       file://./00154-01-08.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=9
+
+Comments
+Starts with paragraph format in 1710 on p8
+on p9, half way down, new table section with a mini title
+starts with 1712. Some entries of 1712 before the table section.
+Can't read the month names
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 8
+        _YEAR 1710
+e1      
+e2      
+e3      
+        _YEAR 1711
+e4      8 Feb
+e5      16 Mar
+e6      ??
+e7      ??
+e8      21 Sep
+e10     11 Dec
+        _YEAR 1709
+e11     10 Jan
+e12     ??
+-----------------------DIV30--
+Page 9
+        _YEAR 1712
+e1      7 feb
+e2      11 mar
+e3      13 ?
+        _TABLE-START
+        _YEAR 1712
+e4      12 apr
+e5      15 jul
+e6      1 sep      RMID-1832 Pfeifer, Margaretha Birth 1712-09-01
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    9
+Entry   6
+Year    1712
+Detail  file://./00154-01-08-A.png
+
+Transcription
+col
+c1      eadem ␤ 1
+c2      Joann Pfeifer ␤ Dorothea.
+c3      Mararetha
+c4      Mararetha ␤ Brücknerin
+c5      ??
+
+Match to RM database
+RMID-1832 Pfeifer, Margaretha Birth 1712-09-01
+        parents not recorded
+
+Entry above has col1= September 1
+This entry appears to be on the same day.(eadem)
+
+-----------------------DIV30--

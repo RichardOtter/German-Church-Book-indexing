@@ -1,0 +1,88 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-22
+Mat.pg#         23
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           36-37
+Years           1744-1748
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       15 + 13
+
+image           file://./00154-01-22.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=23
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 36
+        _YEAR-CONTINUED 1744
+e1     6 mar
+e2     2 may
+e3     1 apr
+e4     23 jul
+e5     21 oct
+        _YEAR 1745
+e6     6 feb
+e7     25 apr
+e8     10 jul
+e9     31 aug
+e10     1 sep
+e11     7 sep
+e12     14 sep
+e13     18 sep
+e14     29 oct ??
+e15     9 oct
+-----------------------DIV30--
+Page 37
+        _YEAR-CONTINUED 1745
+e1      23 nov
+e2      2 dec
+        _YEAR 1746
+e3      19 mar
+e4      31 apr
+e5      24 may
+e6      19 jul
+        _YEAR 1747
+e7      8 feb
+e8      2 mar
+e9      21 mar          RMID-13739 Loschert, Johann Georg Birth 1747-03-21
+e10     17 apr
+e11     11 may
+e12     3 jul
+        _YEAR 1748
+e13     27 mar
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    37
+Entry   9
+Year    1747
+Detail  file://./00154-01-22-A.png
+
+Transcription
+col
+c1      21. Martz ␤ circa ??
+c2      22. Martz.
+c3      Michael Loschert ␤ Anna.
+c4      Joes Georgius.
+c5      Joes Michael ␤ ?? ?? ␤?? in ?? ␤ filli.
+c6      ??.
+
+Match to RM database
+RMID-13739 Loschert, Johann Georg Birth 1747-03-21
+
+-----------------------DIV30--

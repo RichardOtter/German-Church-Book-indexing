@@ -1,0 +1,204 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-05
+
+Parish      Waldzell
+Volume      1
+Page#       4/5
+Years       1712-1713/1715-1717
+Record:     _STERBEFALL
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    4
+#Entries:   21/30
+
+Comments
+Absolute entry numbers
+Don't see any candidates for match with RM
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 4
+_HEADER-ROW
+e1      Joannes Georgius Künkel     35 ammorium
+_YEAR 1713
+e2      16 Jan  Joh. Gerogius ??    3 1/2 ammorium
+e3      ?? Feb  Michael Oder        22 ammorium
+e4      28 Feb  Hartmann Kunkel  7 1/2 ammoriun
+e5      8 Mar                   10 ammorium
+
+-----------------------------
+Entry   Page 5
+_HEADER-ROW
+e1      27 August   Englert ??
+e2      Oktoer  Jacob Oder
+e3      9bis        Barbara     73 am.
+_YEAR 1716
+e4      19 Feb; Michael Öhring      80 annos
+e5      19 feb      Margaretha      80 annos
+e6      12 Marz     Gertrudis Öhringin
+e7      27 Sep; Joannes ?? Meling   
+_YEAR 1717
+e8      17 Jan  
+_PARTIAL-ENTRY
+
+new scan page  5
+
+new scan
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+e3      ?? Feb  Michael Oder        22 ammorium
+Michael Otter RMID-2389
+b 1691
+d 7 Feb 1713
+
+from Rainer-
+Listed as "Anno 1713 Mensis: 7 Februarii Defunctus: Michael Oder Aetas 22 annorum Locus seulturae: Cemeterium." Recorded in Waldzell.
+
+Liber defunctorium - Sterbematrikel von Waldzell  via Rainer Otter
+
+===========================================DIV50==
+Source Citation
+
+entry   RM-ID       Name                tags using source
+
+Candidates- but can't identify in RM
+19 Feb 1716     Michael Öhring
+27 Jun 1716     Gertrud Öhring
+17 Jul 1816     Johannes ?? Meling
+
+===========================================DIV50==
+RAVigus transcription
+None
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-04-05-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   5
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-05-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   8  contiguous
+
+Comments
+
+===========================================DIV50==
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; Michael Otter; 1691; ; 7 February 1713; p4 - e3; 5303; 04; 05; 4/5; 18 July 2024; RAVigus
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; _UNCITED; ; ; range 1712-1713 / 1715-1717; ; 5303; 04; 05; 4/5; 1 August 2023; RAVigus
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; Jacobus Öder; 1655; ; 28 October 1715; p5 - e2; 5303; 04; 05; 4/5; 18 July 2024; RROtter, RJOtter
+
+
+from old cit in RM-
+Margartha Otterin
+
+father: Georgi Adani Otter
+mother: Margaretha Oehring
+
+
+??
+Reference on MicroFiche
+DAW Waldzell, PF, TF + HAE
+[+REG], Fiche 4 BD 1  FIRM 1786-1822
+
+Waldzell Deaths - Church records  from summary sheet of Richard
+
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-05
+
+Parish      Waldzell
+Volume      1
+Page#       3-4
+Years       1712-1717
+Record:     _OTHER   Confirmation  or Sterbefall  ??
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    4
+#Entries:   > 14
+
+Comments
+Entry numbers not absolute
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 3      1712-1713
+_HEADER-ROW
+e1      22 ???  Joanne Georgius Künkel  25 yrs old
+_YEAR 1713
+e2      Joan. Georgius Loschert ?
+e3      Michael Oder
+
+-----------------------------
+Entry   Page 4      1715-1717
+_YEAR 1715   header ?
+e1      Joan Georgius Seufert ?     40 yrs old
+e2      Jacob Oder  60 yrs old
+e3      Barbara gluckin 73 yrs old
+_YEAR 1716
+e4      19 Feb  Michael Öhring  80 yrs old
+e5      28 Feb  Margaretha ??   80 yrs old
+e6      12 Jul  Gertrudic Öhring    60 yrs old
+e7      27 Jul  Joannes Adam Meling 17 yrs old
+_YEAR 1717
+e8      17 Jan
+e9      24 Jan  Apolonia 
+e10     2 Feb   Jos Valentin
+e11     6 Feb   Dorothea ????
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-04-05-C.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _LANDSCAPE
+Entries in Image:   20
+
+Comments
+Image is the top half across both L & R pages
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

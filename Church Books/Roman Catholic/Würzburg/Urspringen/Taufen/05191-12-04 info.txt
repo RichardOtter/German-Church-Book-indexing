@@ -1,0 +1,97 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-12-04
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      4
+Page#       63
+Years       1830
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   >1
+
+Comments
+Entry numbers are not absolute. 
+Only a single entry was described and imaged.
+Partial entries above and below.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 51
+e2     424     Andreas ␤ Schürger ␤ ✠
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2
+c00     424
+c01     Andreas ␤ Schürger ␤ ✠ ␤ obit 1833 ␤ 27.Juli
+c02     .3t gebornt, ␤ ?? ␤ ?? ␤ ??
+c03     Johannes ␤ Schürger ␤ ??
+c04     ?? ␤ ?? :107.
+c05     ?? ␤ ?? ␤ ?? ␤ ??
+c06     ??
+c07     3t ber ␤ July 6 uhr
+c08     ??
+c09     3t ber.
+c10     ??
+c11     Andreas ␤ Scheuermann ␤ Sohn Stefan ␤ Scheuermann ␤ ??
+c12     2
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+*/~03.07.1830 Urspringen: Andreas Schürger, legitimate son (3rd child) of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, Urspringen house number 107, godfather Andreas Scheuermann, son of Stefan Scheuermann (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 63).
++27.02.1833.
+
+
+-----------------------DIV30--
+
+Andreas Schürger
+*03 Jul 1830   Urspringen
+~03 Jul 1830   Urspringen
+
+Johann Schürger   wohnort Urspringen HN:107
+&
+Anna Maria Scheuermann
+=> Kaspar Schürger #3
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 63
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5191-12-04-A.jpg
+Acquired:           05-Jul-2023  12:11 Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   e1 partial, e2, e3 partial
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 12    image 4     Urspringen  Tauf        vol 4   p 63
+5191-12-04
+
+RMID  NEW
+Andreas Schürger    */~03.07.1830 Urspringen:
+# 3 child
+
+===========================================DIV50==
+===========================================DIV50==

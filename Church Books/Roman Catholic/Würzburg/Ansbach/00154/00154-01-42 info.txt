@@ -1,0 +1,239 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-42
+Mat.pg#         43
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       74-75
+Years       1797-1798
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   14 + 
+
+image       file://./00154-01-42.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=43
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 74
+        _YEAR 1797
+e1      22 jan
+e2      31 jan
+e3      9 feb
+e4      9 mar
+e5      31 may
+e6      27 jun
+e7      17 aug
+e8      22 sep
+e9      19 oct
+e10     25 nov
+e11     17 dec
+e12     17 dec
+e13     20 dec
+        _YEAR 1798
+e14     20 jan
+-----------------------DIV30--
+Page 75
+        _YEAR-CONTINUED 1798
+e1      ?
+e2      28 mar
+e3      23 apr          RMID-15117 Sendelbach, Johann Georg Birth 1798-04-23
+e4      29 apr
+e5      14 may
+e6      3 sep
+e7      1 oct
+e8      3 oct
+e9      14 oct          RMID-15121 Mehling, Georg Adam Birth 1798-10-14
+e10     30 oct
+e11     22 nov ?    
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    75
+Entry   3
+Year    1798
+Detail  file://./00154-01-42-A.png
+
+Transcription
+Die 23 aprily     circa 6 dem Vesper
+baptizatus fuit Johann Georg Sendelbach
+ejus pater Georgius Adam Sendelbach filius dignissimi honesti
+Georgii Sendelbach et Maria Catharina coniug. nata Mehlingin
+levantes fuerunt honestus Joannes Voscher et Michaelis D. Saletty
+Parochiani.
+
+Letter by letter
+A. Line 1 — “Die 23 aprily circa 6 dem Vesper”
+Die
+D — upright capital D with looped backstroke
+i — short vertical with dot
+e — open e, typical 18th‑c Latin hand
+23
+clear Arabic numerals
+
+aprily
+a — single‑storey
+p — long descender
+r — short r
+i — dotted
+l — tall ascender
+y — German y with tail
+
+circa
+c i r c a — all standard Latin cursive forms
+
+6 dem
+6 — Arabic numeral
+d — looped ascender
+e — open
+m — three minims, last slightly raised
+Vesper
+V — capital V with serif
+e — open
+ſ — long‑s (looks like f without crossbar)
+p — descender
+e — open
+r — short r
+B. Child’s name — “Johann Georg Sendelbach”
+Johann
+J — long sweeping capital
+o — round
+h — tall ascender + loop
+a — single‑storey
+n n — two minims groups
+
+Georg
+G — capital with open bowl
+e — open
+o — round
+r — short
+g — descender with loop
+
+Sendelbach
+S — long‑ſ form at start (looks like tall f without crossbar)
+e — open
+n — minims
+d — looped ascender
+e — open
+l — tall
+b — tall ascender with loop
+a — single‑storey
+c — open
+h — tall ascender + loop
+
+C. Father — “Georgius Adam Sendelbach”
+Georgius
+G — capital
+e — open
+o — round
+r — short
+g — descender
+i u s — clear Latin ending
+
+Adam
+A — capital
+d — looped
+a — single‑storey
+m — three minims
+
+Sendelbach
+(same letter shapes as above)
+
+D. Mother — “Maria Catharina coniug. nata Mehlingin”
+Maria
+M — capital with two arches
+a — single‑storey
+r — short
+i — dotted
+a — single‑storey
+
+Catharina
+C — capital
+a — single‑storey
+t h a r i n a — all standard Latin cursive
+
+coniug.
+abbreviation for coniux / coniugata
+g. — clear abbreviation dot
+nata
+straightforward
+Mehlingin
+M — capital
+e — open
+h — tall
+l — tall
+i n g i n — German feminine suffix ‑in clearly written
+E. Sponsors — “Joannes Voscher et Michaelis D. Saletty”
+Joannes
+J — long sweeping
+o a n n e s — standard
+Voscher
+V — capital
+o — round
+ſ — long‑s
+c h e r — clear
+
+Michaelis
+genitive form
+M i c h a e l i s — all standard
+D. Saletty
+D. — abbreviation (likely Dominus)
+Saletty — S + a + l + e + tt + y
+
+Translation
+On 23 April, around the sixth hour of Vespers,
+Johann Georg Sendelbach was baptized.
+His father was Georg Adam Sendelbach, son of the most worthy and honorable Georg Sendelbach,
+and his mother was Maria Catharina, née Mehling.
+The sponsors were the honorable Johann Voscher and Michael Saletty, parishioners.
+
+
+Match to RM database
+RMID-15117 Sendelbach, Johann Georg Birth 1798-04-23
+
+-----------------------DIV30--
+Page    75
+Entry   9
+Year    1798
+Detail  file://./00154-01-42-B.png
+
+Transcription
+
+Die 14 octob
+circa 2dam pomer.
+Born and baptized was Georg Adam, the legitimate son of Georg
+Johann Mehling and Anna Maria, a married couple, at/under Briensinger,
+Georg Adam from Hering, schoolmaster, [was] witness, [together with others] from Larech, Kem.
+
+Translation
+On the 14th of October, at about the second hour of the afternoon, was born and baptized Georg Adam, the legitimate son of Georg  and Anna Maria, a married couple at/under Briensinger, with Georg Adam from Hering, schoolmaster, as witness, together with [others] from Larech, Kem[.].
+
+Match to RM database
+RMID-15121 Mehling, Georg Adam Birth 1798-10-14
+
+-----------------------DIV30--
+
+
+AI Prompt
+For the attached image of a german baptism record, create a diplomatic transcription(preserving original line breaks and word splits), perform letter by letter analysis and then english translation.
+The text is in 2 columns. The first column has the date on line 1 and time on line 2. The second column is the paragraph of text.
+Probably has this info: child and parents:
+Georg Adam Mehling birth 14 oct 1798
+
+Johann Georg Mehling
+and
+Anna Maria Brunn.
+

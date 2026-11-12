@@ -1,0 +1,27 @@
+NO LONGER RELEVANT
+new images will come from Matricula website, not the archive printing system.
+
+
+This image shows printout from an archive-image in _TABLE-DOUBLE format.
+
+This example shows entries printed in _LANDSCAPE mode.
+(The printout headers are always printed in portrait mode.)
+
+The example shows three non-adjacent entries copied from the one archive-image.
+
+Each entry line on the archive-image was captured using 2 regions.  
+Note that there is a small overlap between the left and right hand captures to
+prove that they go together.
+
+
+Note that most of the printout area is used.
+If the entry lines were not captured with 2 regions, each would need
+to be pasted on the A4 area at a reduced size so as to fit the length.
+That would make them 1/2 as wide, so the final page would be half empty. That
+wastes resolution.
+
+
+Note that if adjacent entries were desired (say #3 and #4), then they would 
+be captured as a block. First the 3 and 4 lines left side, then the 3 and 4 line right side.
+There would still be enough space to capture another non-adjacent entry.
+

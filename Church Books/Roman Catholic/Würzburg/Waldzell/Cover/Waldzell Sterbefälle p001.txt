@@ -1,0 +1,60 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+
+Archive-ID      05503-04-??
+
+Parish      Waldzell
+Volume      1
+Page#       1
+
+Years       1702
+Record:     _STERBEFALL
+Width:      _SINGLE     probably _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   >1
+
+Comments
+Cover of book
+"Lieber Defun..."
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 1      1702
+e1      5 Mar
+_YEAR 1702
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+None
+
+===========================================DIV50==
+Description of Image
+Image name:     Waldzell Sterbefälle p001 (Title page).png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   1
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

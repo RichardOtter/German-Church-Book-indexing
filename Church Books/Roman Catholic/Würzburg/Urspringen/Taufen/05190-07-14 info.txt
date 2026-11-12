@@ -1,0 +1,92 @@
+TODO  future info added?
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05190-07-14
+
+Parish      Urspringen
+Volume      3
+
+Page#       93
+Years       1798
+Record:     _TAUFE
+Width:      _SINGLE
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   >- 3
+
+
+Comments
+This seems to be the entry for the baptism of Johann Schürger in 1798
+It lists that date and his parents, but also includes his future wife !
+Was that added later?
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 93     1798
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+5. Johann Schürger and his wife Anna Maria, nee Scheuermann:
+*/~04.10.1798 Urspringen: Johann Schürger, legitimate son of Johann Schürger and his wife Anna, nee Leiniger, godfather Johann Schürger (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5190, Fiche 7, p. 93). 
+
+
+-----------------------DIV30--
+
+Johann Schürger
+*04 Oct 1798   Urspringen
+~04 Oct 1798   Urspringen
+
+Johann Schürger
+&
+Anna Leiniger
+=> Johann Schürger
+
+<future>
+Johann Schürger
+&
+Anna Maria Scheuermann
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5190-07-14-A.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1  & 2 partial, above and below
+
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==

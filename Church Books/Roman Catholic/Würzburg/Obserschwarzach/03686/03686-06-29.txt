@@ -1,0 +1,86 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03686
+Parish        ┠ Oberschwarzach
+Volume        ┠ 4
+Record:       ┠ _TAUFE
+Page#         ┠ 192-192
+
+Archive-ID    ┠ 03686-06-29
+URL pg#       ┠ 205
+Years         ┠ 1883
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 9
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=205
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 192
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 33 Barth ␤ Eva Maria
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 192
+Entry  ┠  9 | year-entry 33
+Year   ┠ 1883
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 33
+c1     ┠ Barth ␤ Eva Maria
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ Eva Maria Barth
+BirthDate  ┠ 29 May 1883        CONFIRM
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F      03686-06-29
+26       Barth, Eva Maria                   30 May 1883                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Vitus and [wife of Vitus Barth],
+
+===========================================DIV50==

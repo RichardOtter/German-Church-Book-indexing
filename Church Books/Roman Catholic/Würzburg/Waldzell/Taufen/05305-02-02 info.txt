@@ -1,0 +1,216 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-02-02
+
+Parish      Waldzell
+Volume      3
+Page#       28
+Years       1849-1850
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _THIS  5305-02-02
+#Columns:   12
+#Entries:   9
+
+Comments
+?   Otters      died in war   <??>
+?   Schürger    died in war   <??>
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 28     1849-1850
+_HEADER-ROW
+e1      Möhler      <1849>
+e2                  <1849>
+e3      Otter       <1849>
+e4      Mehling     <1849>
+e5                  <1849>
+_YEAR 1850
+e6      Schürger    <1850>
+e7                  <1850>
+e8                  <1850>
+
+-----------------------------
+Entry   Page 28     1849-1850
+
+e1      Möhler
+-------------
+e3      Otter
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------------
+Entry   Page 20     1849-1850
+
+h01      Name des Kindes:
+h02      Geburts- Geschlechtsfolge (etc.):
+h03      Vater, Zuname und Geburtsort
+h04      Stand, Gewerbe, Religion und Aufenthalt, Hausnummer, Landgericht:
+h05      Mutter, Vor- und Geschlechtsname, Geburtsort:
+h06      Stand, Gewerbe, Religion und Aufenthalt, Hausnummer, Landgericht:
+h07      Zeit der Geburt, Jahr, Monat, Tag und Stunde:
+h08      Geburtsverlauf und Erfolg, Name Hebamme oder Geburtshelfer:
+h09      Zeit und Ort der Taufe, Landgericht: 
+h10      Pfarrer oder dessen Stellvertreter:
+h11      Taufpate Vor- und Geschlechtsname, Name, Stand, Religion, etc.:
+h12      Stellvertreter:
+
+
+-----------------------------
+Entry   Page 20     1850
+e6
+
+c01      Schürger / Johann / ✠ 28.8.A ??
+c02      1st Kind
+c03      Schürger / Heinrich 
+c04      Bauer
+c05      Katharina / Mehling
+c06      ??
+c07      4 / Januar / 1850 / ??  3 Uhr.
+c08      ??
+c09      04 / Januar / ?? 10 Uhr
+c10      ??   <the same>
+c11      Johann / Gauenfelder / Waldzell
+c12      _EMPTY
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+1. Johann Schürger (*1850 in Waldzell):
+*/~04.01.1850 Waldzell: Johann Schürger, legitimate son (1st child) of the farmer Heinrich Schürger and his wife Katharina, nee Mehling, godfather Johann Gauenfelder, from Waldzell (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5305 Fiche 2, p. 20). +28.08.1912.
+
+
+-----------------------DIV30--
+
+Johann Schürger
+*04.01.1850   Waldzell
+~04.01.1850   Waldzell
+
+Heinrich Schürger   bauer
+&
+Katharina Mehling   #1
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-02-A.png
+Acquired:       14-Oct-2019  15:25      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   1, 3
+
+Comments
+Absolute entry numbers
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-02-B.png
+Acquired:       14-Oct-2019  15:25      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   4, 6, ? tot=3
+
+Comments
+Not absolute entry numbers
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 28     1849-1850
+
+e4      Mehling     
+-------------
+e6      Schürger    Jan 6 1850
+-------------
+e?      Rüb
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-02-C.jpg
+Acquired:       02-Aug-2023  12:23      TW
+Orientation:    _PORTRAIT
+Entries in Image:   H, 6
+
+Comments
+
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 20     1849-1850
+
+H
+-------------
+e6      Schürger    Jan 6 1850
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------------
+Entry   Page 20     1850
+
+e6
+1. Johann Schürger (*1850 in Waldzell):
+*/~04.01.1850 Waldzell: Johann Schürger, legitimate son (1st child) of the farmer Heinrich Schürger and his wife Katharina, nee Mehling, godfather Johann Gauenfelder, from Waldzell (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5305 Fiche 2, p. 20). +28.08.1912.
+
+Archive-ID      05305-02-02
+Page# 20
+
+01 Name des Kindes: Johann Schürger
+02 Geburts- Geschlechtsfolge (etc.): 1st child
+03 Vater, Zuname und Geburtsort: Heinrich Schürger
+04 Stand, Gewerbe, Religion und Aufenthalt, Hausnummer, Landgericht: farmer
+05 Mutter, Vor- und Geschlechtsname, Geburtsort: Katharina Mehling
+06 Stand, Gewerbe, Religion und Aufenthalt, Hausnummer, Landgericht
+07 Zeit der Geburt, Jahr, Monat, Tag und Stunde: *04.01.1850, 3 Uhr.
+08 Geburtsverlauf und Erfolg, Name Hebamme oder Geburtshelfer
+09 Zeit und Ort der Taufe, Landgericht: ~04.01.1850, 10 Uhr
+10 Pfarrer oder dessen Stellvertreter: the same
+11 Taufpate Vor- und Geschlechtsname, Name, Stand, Religion, etc.: Johann Gauenfelder
+12 Stellvertreter
+
+
+
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RM Sources and Citations
+
+Johann Schürger; 4 January 1850; ; after 4 January 1850; e6 p28; 5305; 2; 2; _TAUFE; 28; 23 August 2023; RJO, TW
+
+entry   RM-ID       Name                tags using source
+e6      RMID-29     Johann Schürger     name, birth, CP, each parent
+
+
+===========================================DIV50==

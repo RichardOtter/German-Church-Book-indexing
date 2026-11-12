@@ -1,0 +1,96 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03686
+Parish        ┠ Oberschwarzach
+Volume        ┠ 4
+Record:       ┠ _TAUFE
+Page#         ┠ 205-205
+
+Archive-ID    ┠ 03686-07-07
+URL pg#       ┠ 291
+Years         ┠ 1885
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 11
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=219
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 205
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 24 Maier Leonhard ␤ <s>Georg</s> ???
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 
+Entry  ┠  
+Year   ┠ 1885
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 24
+c1     ┠ Maier Leonhard ␤ <s>Georg</s> ???
+c2     ┠ ␤
+c3     ┠ Nikolaus ␤ Maier
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ Kathar ␤ geb. Dürr
+c7     ┠ <blank>
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Name Georg is crossed out.
+Can't read the next line.
+
+Confirm mother's name
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ 
+EventDate  ┠ 31 May 1885
+Name       ┠ Leonhard Maier
+BirthDate  ┠ 29 May 1885
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-07-07
+9        Maier, Leonhard                    29 May 1885                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Nikolaus and Dürr, Katharina
+
+===========================================DIV50==
+

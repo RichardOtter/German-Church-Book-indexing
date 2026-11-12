@@ -1,0 +1,60 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-28
+
+Parish      Waldzell
+Volume      3
+Page#       24
+Years       1844-1845
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   7
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      TMG-2431    Maria Anna Margaretha Otter     20 Jul
+e2      Rauch       2 Aug
+_YEAR 1845
+e3      Johann Georg ?? Brunn       4 Apr 1845
+e4
+e5
+e6
+e7
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-01-28-A.png
+Acquired:           16-Oct-2019  17:40      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   1, 2, 3
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e1      TMG-2431    Maria Anna Margaretha Otter     20 Jul
+
+===========================================DIV50==

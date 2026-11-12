@@ -1,0 +1,420 @@
+===========================================DIV50==
+_LOOKING-FOR in Ansbach
+
+	00155-91-18   first entry for 1829
+		RMID-22080	Loschert, Anna Maria  -b 1820-01-09
+
+
+
+		RMID-15127	Mehling, Johann Adam  -b 1820-06-13
+
+		RMID-1855	Seyfried, Maria Barbara  -b 1823-09-23
+		RMID-15128	Mehling, Elisabeth  -b 1823-10-04
+		RMID-15129	Mehling, Michael Andreas  -b 1826-11-30
+		RMID-15135	Müller, Michael  -b 1829-07-07
+		RMID-15130	Mehling, Maria Katharina  -b 1831-08-07
+		RMID-15131	Mehling, Katharina  -b 1833-12-23
+		RMID-15132	Mehling, Anna Maria  -b 1835-09-23
+		RMID-13457	Loschert, Adam Joseph  -b 1838-10-31
+		RMID-13456	Loschert, Maria Barbara  -b 1841-05-06
+		RMID-13454	Loschert, Johannes Karl  -b 1842-08-12
+		RMID-12983	Büttner,   -b 1843-00-00
+		RMID-13452	Loschert, Anna Maria  -b 1843-11-19
+		RMID-13453	Loschert, Johann Georg  -b 1846-11-09
+		RMID-13997	Mehling, Maria Elisabeth  -b 1849-04-12
+		RMID-13455	Loschert, Susanna  -b 1849-08-16
+		RMID-1820	Loschert, Johannes  -b 1849-10-25
+		RMID-12159	Oehring, Johann  -b 1857-08-01
+		RMID-20987	Müller, Georg Michael  -b 1858-06-18
+		RMID-1615	Weyer, Kaspar August  -b 1859-08-28
+		RMID-1807	Küffner, Margaretha Mathilde  -b 1867-06-14
+		RMID-886		Völker,   -b 1872-00-00
+		RMID-13996	Loschert, Susanne Elisabeth  -b 1875-05-09
+		RMID-13998	Loschert, Johann Georg  -b 1877-03-17
+		RMID-13999	Loschert, Franz Hubert  -b 1878-09-16
+		RMID-13995	Loschert, Elisabeth Genoveva  -b 1881-01-03
+		RMID-13992	Loschert, Julius  -b 1884-06-10
+		RMID-13993	Loschert, Franziska  -b 1886-08-14
+		RMID-13994	Loschert, Maria  -b 1886-08-14
+		RMID-1520	Weyer, Gustav  -b 1890-12-31
+		RMID-20992	Müller, Gertraud Maria  -b 1891-12-09
+		RMID-1841	Weyer, Emil  -b 1892-00-00
+		RMID-1939	Oehring, Ludwig  -b 1893-12-17
+		RMID-20991	Müller, Genoveva Klementine  -b 1894-01-02
+		RMID-1839	Weyer, Kaspar Engelbert  -b 1895-01-06
+		RMID-817	, [Parent of known siblings]  -b 1896-00-00
+		RMID-20973	Müller, Bruno  -b 1897-11-17
+		RMID-1521	Loschert, Mathilde  -b 1899-07-05
+		RMID-20968	Loschert, Genoveva  -b 1902-08-31
+		RMID-20972	Loschert, Johann Adalbert  -b 1904-05-16
+		RMID-20971	Loschert, Hubert Joseph  -b 1905-07-11
+		RMID-20969	Loschert, Burkhard  -b 1907-09-22
+		RMID-20970	Loschert, Maria Wilhelmina  -b 1913-06-24
+		RMID-1518	Weyer, Emil  -b 1923-08-11
+		RMID-1873	Weyer, Lotte  -b 1925-03-19
+		RMID-640	Völker, Erich  -b 1927-01-29
+		RMID-1870	Weyer, Maria  -b 1928-09-11
+		RMID-647	Schubert, Hugo  -b 1929-04-10
+		RMID-1874	Weyer, Hiltrud  -b 1934-00-00
+		RMID-661	, Marga  -b 1934-05-08
+		RMID-15096	Oehring, Walter  -b 1935-11-09
+		RMID-15101	Oehring, Irma Rosa  -b 1936-12-16
+		RMID-1045	Büttner, Karola  -b 1940-03-00
+		RMID-15102	Oehring, Günter  -b 1941-07-19
+		RMID-1872	Mergler, Anita  -b 1952-02-00
+		RMID-1516	Weyer, Marlese  -b 1958-01-28
+		RMID-1517	Weyer, Thomas  -b 1959-12-04
+
+
+		RMID-1806	Hepp, Franziska	Death	.
+		RMID-1805	Küffner, Andreas	Death	.
+		RMID-15125	Mehling, Johann Georg	Death	.
+		RMID-886	Völker, 	Death	.
+		RMID-2086	Weyer, Gertraud	Death	.
+		RMID-2085	Weyer, Hanns	Death	.
+		RMID-887	[wife of Volker], 	Death	.
+		RMID-1838	, Margaretta	Death	1656-11-11
+		RMID-15144	Lang, Anna	Death	1661-12-15
+		RMID-15143	Schürger, Michael	Death	1664-03-07
+		RMID-13240	, Anna	Death	1672-03-30
+		RMID-13235	Loschert, Hartmann	Death	1675-12-00
+		RMID-1826	Kress, Elisabetha	Death	1678-08-22
+		RMID-1827	Loschardt, Johann	Death	1685-03-24
+		RMID-16688	Joha, Margaretha	Death	1701-08-24
+		RMID-16691	Joha, Gertrud	Death	1704-09-17
+		RMID-13236	Greßer, Anna	Death	1709-02-13
+		RMID-1825	Loschert, Johannes	Death	1715-10-20
+		RMID-13233	Schwind, Barbara	Death	1725-02-05
+		RMID-15142	Schürger, Johann	Death	1726-06-03
+		RMID-15145	Öhring, Maria	Death	1727-03-13
+		RMID-16694	Joha, Clemens	Death	1729-09-25
+		RMID-16677	Joha, Philipp	Death	1729-11-26
+		RMID-10921	Nöth, Appolonia	Death	1730-05-05
+		RMID-16678	Loschert, Margaretha	Death	1731-04-28
+		RMID-1833	Weyer, Kilian	Death	1733-01-06
+		RMID-1835	Weyer, Michael	Death	1734-12-10
+		RMID-16690	Joha, Maria Elisabeth	Death	1735-05-04
+		RMID-10923	Nöth, Anna Maria	Death	1736-05-18
+		RMID-15147	Loschert, Elisabeth	Death	1739-04-29
+		RMID-1824	Menling, Maria	Death	1740-05-06
+		RMID-13234	Loschert, Michael	Death	1743-02-18
+		RMID-15146	Schürger, Johann	Death	1749-07-24
+		RMID-1823	Loschert, Christophonius	Death	1750-10-19
+		RMID-13737	Mehling, Anna Maria	Death	1750-10-27
+		RMID-1834	Hartmann, Anne Maria	Death	1750-12-07
+		RMID-13738	Loschert, Adam Michael	Death	1753-09-03
+		RMID-13736	Loschert, Anna Maria	Death	1759-12-13
+		RMID-1822	Pfeifer, Anna Maria	Death	1760-10-21
+		RMID-1831	Weyer, Johann Georg	Death	1766-12-18
+		RMID-16059	Nöth, Adam	Death	1768-09-08
+		RMID-13733	Loschert, Johann Philipp	Death	1768-12-08
+		RMID-10919	Nöth, Johannes Georg	Death	1769-07-24
+		RMID-13740	Loschert, Maria Margaretha	Death	1769-10-13
+		RMID-16675	Joha, Johann Georg	Death	1769-12-07
+		RMID-10922	Nöth, Maria Barbara	Death	1770-01-24
+		RMID-1821	Loschert, Johann Adam	Death	1772-03-08
+		RMID-16676	Brueckner, Anna Maria	Death	1775-01-10
+		RMID-10920	Sendelbach, Anna Maria	Death	1779-01-19
+		RMID-1832	Pfeifer, Margaretha	Death	1784-06-12
+		RMID-13731	Loschert, Anna Maria	Death	1790-11-13
+		RMID-10918	Nöth, Maria Margaretha	Death	1793-05-03
+		RMID-1829	Weyer, Johann Georg	Death	1794-10-20
+		RMID-10917	Loschert, Johann Michael	Death	1795-05-14
+		RMID-16058	Weyer, Anna Maria	Death	1795-05-15
+		RMID-16060	Brückner, Johannes Georg	Death	1797-09-14
+		RMID-15121	Mehling, Georg Adam	Death	1798-10-16
+		RMID-16674	Greser, Maria Anna	Death	1800-03-22
+		RMID-1809	Mehling, Maria Katharina	Death	1803-11-23
+		RMID-1816	Schürger, Eva	Death	1804-05-16
+		RMID-1842	Weyer, Laurentius	Death	1805-06-27
+		RMID-16673	Joha, Johann Georg	Death	1805-11-12
+		RMID-10924	Nöth, Johannes Adam	Death	1805-11-29
+		RMID-1843	Ehehalt, Philippinn	Death	1806-02-18
+		RMID-22077	Loschert, Maria Margaretha	Death	1808-05-19
+		RMID-1815	Loschert, Johann Framm	Death	1808-07-25
+		RMID-15115	Mehling, Johann Georg	Death	1810-11-24
+		RMID-1808	Sendelbach, Georg Adam	Death	1813-12-19
+		RMID-1811	Weyer, Johann Georg	Death	1814-02-28
+		RMID-1812	Schürger, Barbara	Death	1814-04-22
+		RMID-13739	Loschert, Johann Georg	Death	1815-02-22
+		RMID-1845	Greser, Maria Elizabeth	Death	1815-12-09
+		RMID-1844	Loschert, Johann Philipp	Death	1817-06-02
+		RMID-22080	Loschert, Anna Maria	Death	1820-01-15
+		RMID-13990	, Barbara	Death	1827-10-14
+		RMID-15116	Brunn, Anna Maria	Death	1831-11-11
+		RMID-15117	Sendelbach, Johann Georg	Death	1832-01-13
+		RMID-15130	Mehling, Maria Katharina	Death	1833-04-11
+		RMID-15124	Ludwig, Anna Maria	Death	1833-08-09
+		RMID-15131	Mehling, Katharina	Death	1834-01-11
+		RMID-15141	Geisler, Anna Maria	Death	1834-07-19
+		RMID-13730	Loschert, J**/ohannes Michael	Death	1835-05-28
+		RMID-13732	Loschert, Johann Georg	Death	1840-01-12
+		RMID-15977	Joha, Johann Georg	Death	1840-06-23
+		RMID-1817	Loschert, Johannes Georg	Death	1841-10-08
+		RMID-13454	Loschert, Johannes Karl	Death	1842-08-25
+		RMID-1818	Gimmerwald, Maria Margaretha	Death	1845-12-05
+		RMID-15139	Öhring, Georg	Death	1846-07-02
+		RMID-1852	Seyfried, Bartholomaeus	Death	1847-05-12
+		RMID-1850	Weyer, Johann Laurentius	Death	1847-12-08
+		RMID-15978	Ludwig, Margaretha	Death	1850-01-10
+		RMID-1813	Weyer, Maria Philippina	Death	1852-03-06
+		RMID-1853	Öhring, Katharina**/	Death	1852-12-08
+		RMID-13457	Loschert, Adam Joseph	Death	1853-05-10
+		RMID-1810	Sendelbach, Johann Adam	Death	1856-08-19
+		RMID-15122	Mehling, Elisabeth	Death	1857-04-13
+		RMID-2459	Otter, Anna Maria Katharina	Death	1859-02-18
+		RMID-1851	Loschert, Anna	Death	1864-05-11
+		RMID-15128	Mehling, Elisabeth	Death	1864-06-28
+		RMID-22078	Loschert, Johann Michael	Death	1864-11-21
+		RMID-15138	Mehling, Anna Maria	Death	1865-03-07
+		RMID-13451	Loschert, Georg Adam	Death	1869-05-04
+		RMID-13996	Loschert, Susanne Elisabeth	Death	1875-08-14
+		RMID-15123	Mehling, Johann Michael	Death	1876-01-07
+		RMID-1854	Weyer, Johannes	Death	1876-02-03
+		RMID-2426	Otter, Michael	Death	1877-02-19
+		RMID-1855	Seyfried, Maria Barbara	Death	1886-06-23
+		RMID-13993	Loschert, Franziska	Death	1886-08-25
+		RMID-13994	Loschert, Maria	Death	1886-10-03
+		RMID-15118	Mehling, Johann Adam	Death	1887-05-25
+		RMID-19457	Seyfried, Georg	Death	1890-03-10
+		RMID-15114	Mehling, Anna Maria	Death	1891-09-12
+		RMID-22079	Loschert, Johann Georg	Death	1892-02-17
+		RMID-1814	Sendelbach, Anna Maria	Death	1893-10-13
+		RMID-15132	Mehling, Anna Maria	Death	1893-10-20
+		RMID-15134	Ühlein, Georg Laurentius	Death	1895-03-06
+		RMID-15135	Müller, Michael	Death	1898-10-06
+		RMID-1819	Loschert, Johann Georg	Death	1902-01-14
+		RMID-20972	Loschert, Johann Adalbert	Death	1904-07-27
+		RMID-13455	Loschert, Susanna	Death	1904-12-28
+		RMID-20969	Loschert, Burkhard	Death	1907-10-18
+		RMID-13452	Loschert, Anna Maria	Death	1913-05-26
+		RMID-13997	Mehling, Maria Elisabeth	Death	1918-11-17
+		RMID-1820	Loschert, Johannes	Death	1919-03-08
+		RMID-13453	Loschert, Johann Georg	Death	1920-10-23
+		RMID-1615	Weyer, Kaspar August	Death	1936-04-18
+		RMID-1377	Oehring, Martha Rosina	Death	1936-06-18
+		RMID-20987	Müller, Georg Michael	Death	1936-11-01
+		RMID-13999	Loschert, Franz Hubert	Death	1938-08-21
+		RMID-1521	Loschert, Mathilde	Death	1938-10-06
+		RMID-1807	Küffner, Margaretha Mathilde	Death	1941-03-20
+		RMID-20967	Thoma, Maria Magdalena	Death	1944-06-05
+		RMID-12159	Oehring, Johann	Death	1944-07-25
+		RMID-20988	Mehling, Maria Gertraud	Death	1946-12-02
+		RMID-1520	Weyer, Gustav	Death	1951-01-05
+		RMID-13995	Loschert, Elisabeth Genoveva	Death	1964-03-21
+		RMID-20973	Müller, Bruno	Death	1964-06-20
+		RMID-20992	Müller, Gertraud Maria	Death	1965-10-06
+		RMID-20991	Müller, Genoveva Klementine	Death	1981-06-20
+		RMID-1938	Rüb, Sabina Theresia	Death	1983-10-21
+		RMID-1870	Weyer, Maria	Death	1984-06-29
+		RMID-20985	Ühlein, Anton Joseph	Death	1986-09-15
+		RMID-20968	Loschert, Genoveva	Death	1993-03-16
+		RMID-20970	Loschert, Maria Wilhelmina	Death	1995-10-08
+		RMID-20971	Loschert, Hubert Joseph	Death	1996-07-20
+		RMID-20975	Ühlein, Justina Walburga	Death	2003-09-15
+		RMID-20974	Müller, Otmar Joseph	Death	2004-01-27
+		RMID-1519	Schmitt, Maria	Death	2009-02-26
+		RMID-15102	Oehring, Günter	Death	2014-07-19
+
+		
+		RMID-1630	Ludwig, Gertraud	Marriage	.
+		RMID-1894	Rüb, 	Marriage	.
+		RMID-15142	Schürger, Johann	Marriage	1665-01-19
+		RMID-15145	Öhring, Maria	Marriage	1665-01-19
+		RMID-13236	Greßer, Anna	Marriage	1665-11-24
+		RMID-13235	Loschert, Hartmann	Marriage	1665-11-24
+		RMID-1826	Kress, Elisabetha	Marriage	1670-01-27
+		RMID-1825	Loschert, Johannes	Marriage	1670-01-27
+		RMID-1836	Väth, Anne Katharina	Marriage	1681-07-21
+		RMID-1835	Weyer, Michael	Marriage	1681-07-21
+		RMID-1823	Loschert, Christophonius	Marriage	1697-02-18
+		RMID-15147	Loschert, Elisabeth	Marriage	1697-02-18
+		RMID-1824	Menling, Maria	Marriage	1697-02-18
+		RMID-15146	Schürger, Johann	Marriage	1697-02-18
+		RMID-1834	Hartmann, Anne Maria	Marriage	1705-01-13
+		RMID-1833	Weyer, Kilian	Marriage	1705-01-13
+		RMID-13234	Loschert, Michael	Marriage	1705-02-17
+		RMID-13233	Schwind, Barbara	Marriage	1705-02-17
+		RMID-10919	Nöth, Johannes Georg	Marriage	1717-01-26
+		RMID-10920	Sendelbach, Anna Maria	Marriage	1717-01-26
+		RMID-1821	Loschert, Johann Adam	Marriage	1732-02-05
+		RMID-1822	Pfeifer, Anna Maria	Marriage	1732-02-05
+		RMID-1832	Pfeifer, Margaretha	Marriage	1735-02-15
+		RMID-1831	Weyer, Johann Georg	Marriage	1735-02-15
+		RMID-10917	Loschert, Johann Michael	Marriage	1751-05-11
+		RMID-10918	Nöth, Maria Margaretha	Marriage	1751-05-11
+		RMID-1830	Scheiner, Maria Magdalena	Marriage	1765-05-21
+		RMID-1829	Weyer, Johann Georg	Marriage	1765-05-21
+		RMID-1815	Loschert, Johann Framm	Marriage	1766-01-07
+		RMID-1816	Schürger, Eva	Marriage	1766-01-07
+		RMID-1843	Ehehalt, Philippinn	Marriage	1770-05-01
+		RMID-1842	Weyer, Laurentius	Marriage	1770-05-01
+		RMID-1845	Greser, Maria Elizabeth	Marriage	1772-01-21
+		RMID-1844	Loschert, Johann Philipp	Marriage	1772-01-21
+		RMID-1849	Seufert, Katharina	Marriage	1794-01-27
+		RMID-1848	Öhring, Nikolaus	Marriage	1794-01-27
+		RMID-1812	Schürger, Barbara	Marriage	1796-02-10
+		RMID-1811	Weyer, Johann Georg	Marriage	1796-02-10
+		RMID-15977	Joha, Johann Georg	Marriage	1799-01-22
+		RMID-15978	Ludwig, Margaretha	Marriage	1799-01-22
+		RMID-1851	Loschert, Anna	Marriage	1807-05-12
+		RMID-1850	Weyer, Johann Laurentius	Marriage	1807-05-12
+		RMID-1818	Gimmerwald, Maria Margaretha	Marriage	1814-08-17
+		RMID-1817	Loschert, Johannes Georg	Marriage	1814-08-17
+		RMID-1810	Sendelbach, Johann Adam	Marriage	1814-10-05
+		RMID-1813	Weyer, Maria Philippina	Marriage	1814-10-05
+		RMID-1852	Seyfried, Bartholomaeus	Marriage	1814-11-17
+		RMID-1853	Öhring, Katharina	Marriage	1814-11-17
+		RMID-15122	Mehling, Elisabeth	Marriage	1816-05-14
+		RMID-15123	Mehling, Johann Michael	Marriage	1816-05-14
+		RMID-15138	Mehling, Anna Maria	Marriage	1822-02-12
+		RMID-15139	Öhring, Georg	Marriage	1822-02-12
+		RMID-15114	Mehling, Anna Maria	Marriage	1823-02-04
+		RMID-15117	Sendelbach, Johann Georg	Marriage	1823-02-04
+		RMID-15114	Mehling, Anna Maria	Marriage	1833-02-04
+		RMID-2426	Otter, Michael	Marriage	1833-02-04
+		RMID-13451	Loschert, Georg Adam	Marriage	1834-02-04
+		RMID-2459	Otter, Anna Maria Katharina	Marriage	1834-02-04
+		RMID-1819	Loschert, Johann Georg	Marriage	1847-05-18
+		RMID-1814	Sendelbach, Anna Maria	Marriage	1847-05-18
+		RMID-1855	Seyfried, Maria Barbara	Marriage	1853-04-26
+		RMID-1854	Weyer, Johannes	Marriage	1853-04-26
+		RMID-15128	Mehling, Elisabeth	Marriage	1857-02-22
+		RMID-15134	Ühlein, Georg Laurentius	Marriage	1857-02-22
+		RMID-1377	Oehring, Martha Rosina	Marriage	1884-07-06
+		RMID-1615	Weyer, Kaspar August	Marriage	1884-07-06
+		RMID-1807	Küffner, Margaretha Mathilde	Marriage	1892-06-14
+		RMID-1820	Loschert, Johannes	Marriage	1892-06-14
+		RMID-1521	Loschert, Mathilde	Marriage	1922-11-14
+		RMID-1520	Weyer, Gustav	Marriage	1922-11-14
+		RMID-1519	Schmitt, Maria	Marriage	1955-11-17
+		RMID-1518	Weyer, Emil	Marriage	1955-11-17
+
+
+RESULTS
+
+this section refers to dates before the ansbach books
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate
+%ansbach, rod%	[~] Ansbach, Roden, Main-Spessart, Bayern, Deutschland				
+		birth places for some were changed to [~] Ansbach....
+
+%ansbach, rod%	Ansbach, Roden, Main-Spessart, Bayern, Deutschland				
+		RMID-22805	Brückner, Franziska  -b .
+		RMID-13240	, Anna  -b 1605-00-00
+		RMID-13236	Greßer, Anna  -b 1635-00-00
+		RMID-13235	Loschert, Hartmann  -b 1636-06-06
+		RMID-1825	Loschert, Johannes  -b 1640-09-02
+		RMID-15142	Schürger, Johann  -b 1644-09-23
+		RMID-1835	Weyer, Michael  -b 1654-04-01
+		RMID-1824	Menling, Maria  -b 1662-08-06
+		RMID-15146	Schürger, Johann  -b 1663-10-24
+		RMID-16678	Loschert, Margaretha  -b 1667-07-02
+		RMID-1823	Loschert, Christophonius  -b 1670-12-26
+		RMID-15147	Loschert, Elisabeth  -b 1675-04-07
+		RMID-13234	Loschert, Michael  -b 1675-12-13
+		RMID-2086	Weyer, Gertraud  -b 1677-00-00
+		RMID-1833	Weyer, Kilian  -b 1682-08-13
+		RMID-1834	Hartmann, Anne Maria  -b 1683-12-02
+		RMID-2085	Weyer, Hanns  -b 1689-00-00
+		RMID-16686	Joha, Mathias  -b 1691-07-02
+		RMID-16687	Joha, Maria Margarethe  -b 1693-08-15
+		RMID-16689	Joha, Anna Maria  -b 1695-07-29
+		RMID-16688	Joha, Margaretha  -b 1695-07-29
+		RMID-10919	Nöth, Johannes Georg  -b 1695-10-25
+		RMID-16690	Joha, Maria Elisabeth  -b 1698-01-26
+		RMID-16691	Joha, Gertrud  -b 1700-06-23
+
+Vol 00154 starts at 1701	
+_FOUND			RMID-1821	Loschert, Johann Adam  -b 1702-01-02
+_FOUND			RMID-16693	Joha, Anna Margarethe  -b 1702-06-23
+_FOUND			RMID-10920	Sendelbach, Anna Maria  -b 1702-11-13
+_FOUND			RMID-16676	Brueckner, Anna Maria  -b 1706-12-06
+_FOUND			RMID-16694	Joha, Clemens  -b 1707-06-09	TWIN
+_FOUND			RMID-16675	Joha, Johann Georg  -b 1707-06-09  TWIN
+_FOUND			RMID-1822	Pfeifer, Anna Maria  -b 1708-09-21
+_FOUND			RMID-1832	Pfeifer, Margaretha  -b 1712-09-01
+_FOUND			RMID-1831	Weyer, Johann Georg  -b 1716-10-17
+_NOT-FOUND		RMID-10917	Loschert, Johann Michael  -b 1721-06-14
+_FOUND			RMID-13737	Mehling, Anna Maria  -b 1722-01-30
+_FOUND			RMID-10921	Nöth, Appolonia  -b 1725-10-20
+_FOUND			RMID-10922	Nöth, Maria Barbara  -b 1728-02-15
+_NOT-FOUND		RMID-16060	Brückner, Johannes Georg  -b 1728-12-07
+	on 00154-01-16 there are 2 Johannes Georg on page- 4-Dec and 6-Aug. Nothing looks like Brückner
+_FOUND			RMID-10918	Nöth, Maria Margaretha  -b 1730-09-01
+_NOT-FOUND		RMID-1830	Scheiner, Maria Magdalena  -b 1730-12-21
+_FOUND			RMID-10923	Nöth, Anna Maria  -b 1733-01-17
+_FOUND			RMID-10924	Nöth, Johannes Adam  -b 1735-08-06 =>1736-08-06
+_FOUND			RMID-16674	Greser, Maria Anna  -b 1735-12-29
+_FOUND			RMID-16058	Weyer, Anna Maria  -b 1736-01-20 & twin RMID-23066 Johann Georg
+_FOUND			RMID-16673	Joha, Johann Georg  -b 1736-11-10
+_NOT-FOUND		RMID-16056	Nöth, Johannes Michael  -b 1739-05-24
+_FOUND			RMID-1844	Loschert, Johann Philipp  -b 1741-04-11
+_FOUND			RMID-1815	Loschert, Johann Framm  -b 1741-05-02
+_FOUND			RMID-1816	Schürger, Eva  -b 1742-01-24
+_FOUND			RMID-1829	Weyer, Johann Georg  -b 1742-04-30
+_FOUND			RMID-1842	Weyer, Laurentius  -b 1744-02-13
+_FOUND			RMID-13739	Loschert, Johann Georg  -b 1747-03-21
+_NOT-FOUND		RMID-1860	Herrmann, Johannes  -b 1747-12-18
+_FOUND			RMID-1845	Greser, Maria Elizabeth  -b 1748-10-09
+_FOUND			RMID-13738	Loschert, Adam Michael  -b 1749-09-27
+_FOUND			RMID-13735	Loschert, Georg Adam  -b 1752-07-17
+_FOUND			RMID-15140	Öhring, Johann Georg  -b 1753-10-13
+_FOUND			RMID-13734	Loschert, Johann Adam  -b 1755-01-20
+_FOUND			RMID-13740	Loschert, Maria Margaretha  -b 1756-08-29
+_FOUND			RMID-13736	Loschert, Anna Maria  -b 1759-08-25
+_NOT-FOUND		RMID-15125	Mehling, Johann Georg  -b 1760-00-00
+_FOUND			RMID-13731	Loschert, Anna Maria  -b 1760-10-24
+_FOUND			RMID-16059	Nöth, Adam  -b 1761-11-11
+_FOUND			RMID-15115	Mehling, Johann Georg  -b 1762-03-02
+_FOUND			RMID-15124	Ludwig, Anna Maria  -b 1762-09-28
+_FOUND			RMID-13730	Loschert, Johannes Michael  -b 1763-08-19
+_FOUND			RMID-15141	Geisler, Anna Maria  -b 1763-12-17
+_FOUND			RMID-1809	Mehling, Maria Katharina  -b 1767-02-02
+_FOUND			RMID-1808	Sendelbach, Georg Adam  -b 1767-08-02
+_FOUND			RMID-13732	Loschert, Johann Georg  -b 1768-12-01
+_FOUND			RMID-13733	Loschert, Johann Philipp  -b 1768-12-01
+_NOT-FOUND		RMID-1811	Weyer, Johann Georg  -b 1772-09-22
+_FOUND			RMID-15977	Joha, Johann Georg  -b 1773-02-12
+_FOUND			RMID-1812	Schürger, Barbara  -b 1778-03-21
+_FOUND			RMID-15978	Ludwig, Margaretha  -b 1779-02-23
+_FOUND			RMID-1817	Loschert, Johannes Georg  -b 1779-11-07
+_FOUND			RMID-1850	Weyer, Johann Laurentius  -b 1786-02-04
+_FOUND			RMID-1851	Loschert, Anna  -b 1787-01-04
+_NOT-FOUND		RMID-1810	Sendelbach, Johann Adam  -b 1790-06-22
+_FOUND			RMID-15122	Mehling, Elisabeth  -b 1793-01-04
+_FOUND			RMID-15123	Mehling, Johann Michael  -b 1795-06-25
+_FOUND			RMID-1813	Weyer, Maria Philippina  -b 1796-06-09
+_FOUND			RMID-15117	Sendelbach, Johann Georg  -b 1798-04-23
+_FOUND			RMID-15121	Mehling, Georg Adam  -b 1798-10-14
+_FOUND			RMID-15114	Mehling, Anna Maria  -b 1799-08-14
+_FOUND			RMID-15139	Öhring, Georg  -b 1800-04-30
+_FOUND			RMID-20993	Mehling, Maria Elisabth  -b 1801-06-25
+_FOUND			RMID-15138	Mehling, Anna Maria  -b 1802-01-17
+_FOUND			RMID-22076	Loschert, Maria Barbara  -b 1803-08-17
+_FOUND			RMID-15975	Joha, Johann Georg  -b 1804-08-24	suspect baptis is 26
+_FOUND			RMID-15975	Joha, Johann Georg  -b 1804-08-26
+_NOT-FOUND   	RMID-13247	Rosenberger, Barbara  -b 1804-11-28
+_FOUND			RMID-2372	Loschert, Maria Anna  -b 1805-08-30
+_FOUND			RMID-15118	Mehling, Johann Adam  -b 1806-03-23
+_FOUND			RMID-22077	Loschert, Maria Margaretha  -b 1807-08-13
+_FOUND			RMID-13451	Loschert, Georg Adam  -b 1810-01-12
+
+_NOT-FOUND 		RMID-1854	Weyer, Johannes  -b 1812-01-12
+				copied close date 12 Feb 1812)	00155-01-03 info.txt
+
+_NOT-FOUND 		RMID-22078	Loschert, Johann Michael  -b 1814-01-17
+			  	found date 17 Jan 1814) , but not name  00155-01-06 info.txt
+
+_NOT-FOUND 		RMID-22079	Loschert, Johann Georg  -b 1816-08-14
+
+_NOT-FOUND 		RMID-19457	Seyfried, Georg  -b 1817-05-20
+_NOT-FOUND 		RMID-15126	Mehling, Johann Georg  -b 1817-09-02
+_NOT-FOUND 		RMID-1819	Loschert, Johann Georg  -b 1819-01-10
+
+_NOT-FOUND 		RMID-1814	Sendelbach, Anna Maria  -b 1819-01-14
+			00155-01-16-A date correct, but...
+
+
+
+
+

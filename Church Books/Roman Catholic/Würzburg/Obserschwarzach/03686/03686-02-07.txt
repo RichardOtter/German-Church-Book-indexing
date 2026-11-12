@@ -1,0 +1,94 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 34
+
+Archive-ID     ┠ 03686-02-07.png
+URL pg#        ┠ 49
+Years          ┠ 1861-1862
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 13
+
+image          ┠ file://./03686-02-07.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=39
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 34
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 1 Katharina ␤ Dürr ␤ Oberschwarzach
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+e13    ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 34
+Entry  ┠  4 | year-entry 1
+Year   ┠ 1862
+Detail ┠ file://./03686-02-07-A.png
+
+Transcription
+col    ┠ contents
+margin ┠ 1
+c1     ┠ Katharina ␤ Dürr ␤ Oberschwarzach
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 4 Jan 1862
+Name       ┠ Katharina Dürr
+BirthDate  ┠ 4 Jan 1862
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+
+F       03686-02-07
+32       Dürr, Katharina                    4 Jan 1862                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [husband of Kataharina Dürr I],  and Dürr, Katharina
+
+
+
+===========================================DIV50==
+

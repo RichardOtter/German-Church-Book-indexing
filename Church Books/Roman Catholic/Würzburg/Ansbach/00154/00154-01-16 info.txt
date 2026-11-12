@@ -1,0 +1,86 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-16
+Mat.pg#         17
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           24-25
+Years           1728-1730
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        5 and then 6
+#Entries:       11 + 13
+
+image           file://./00154-01-16.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=17
+
+Comments
+Page 25 transitions to a six column format
+c1= birth date, c2= baptism date
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 24
+        _YEAR-HEADER 1728
+e1      7 may
+e2      10 aug
+e3      6 aug ??
+e4      24 aug
+e5      16 sep
+e6      15 oct
+e7      4 dec
+e8      20 dec
+        _YEAR 1729
+e9      27 feb
+e10     5 apr
+e11     9 ??
+-----------------------DIV30--
+Page 25
+        _YEAR-CONTINUED 1729
+        _6-COLUMNS
+e1      5 may
+e2      13 jun
+e3      3 jul
+e4      6 oct
+e5      15 oct
+e6      18 oct
+e7      28 nov
+e8      7 dec
+        _YEAR 1730
+e9      23 feb
+e10     19 apr
+e11     1 sep          RMID-10918 Nöth, Maria Margaretha Birth 1730-09-01
+e12     30 sep
+e13     30 nov
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    23
+Entry   11
+Year    1739
+Detail  file://./00154-01-16-A.png
+
+Transcription
+col
+c1      1. September
+c2      2. September
+c3      Joannes Nöth ␤ Maria
+c4      Maria Mar- ␤ garetha
+c5      Maria Margaretha ␤ ?? ?? ??␤ ?? ?? 
+c6      ??
+
+Match to RM database
+RMID-10918 Nöth, Maria Margaretha Birth 1730-09-01
+        daughter of Johannes Georg Nöth & Anna Maria Sendelbach
+
+-----------------------DIV30--

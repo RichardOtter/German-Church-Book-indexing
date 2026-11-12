@@ -1,0 +1,84 @@
+Arnshausen, Bad Kissingen, Landkreis Bad Kissingen, Bayern, Deutschland
+FSPID=9721810
+Arnshausen
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburgtext po
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/arnshausen/
+
+14 Volumes
+    00157	Pfarrmatrikel Arnshausen (Taufen – Ehen – Sterbefälle)	1610–1702
+    00158	Pfarrmatrikel Arnshausen (Taufen – Firmungen – Ehen – Sterbefälle)	1703–1874
+    00159	Pfarrmatrikel Arnshausen (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1746–1872, 1900, 1906
+    00160	Pfarrmatrikel Arnshausen (Taufen – Ehen – Sterbefälle) (Registerband)	(1746–1872), 1875
+    00161	Pfarrmatrikel Arnshausen (Taufen – Sonstiges) (inkl. Register)	1832–1907
+    00162	Pfarrmatrikel Arnshausen (Taufen – Firmungen – Ehen – Sterbefälle) (inkl. Register)	1873–1952
+    00163	Familien-/Häuserbuch Arnshausen (Sonstiges)	1876–1972
+    00164	Pfarrmatrikel Arnshausen (Taufen)	1829–1918
+    00165	Pfarrmatrikel Arnshausen (Ehen)	1829–1950
+    00166	Pfarrmatrikel Arnshausen (Sterbefälle)	1829–1938
+    00167	Pfarrmatrikel Arnshausen (Taufen – Ehen – Sterbefälle) (Registerband)	1703–[1854]), 1854–1953
+    00168	Familien-/Häuserbuch Arnshausen (Sonstiges) (inkl. Register)	1720–1950
+    00169	Familien-/Häuserbuch Arnshausen (Sonstiges) (inkl. Register)	1936–1958
+    00170	Familien-/Häuserbuch Arnshausen (Sonstiges) (Registerband)	(1750–1958), 1958
+
+
+_INDEX
+
+    00158
+1703    01_9996
+1713    01_0016
+1733    02_0002
+1742    02_0018
+1756    02_0035
+1770    03_0015
+1797    03_0034
+1812    04_0007
+
+1718    04_0032
+1719    05_0001
+1749    05_0016
+1784    05_0028
+
+1819    06_0004
+
+
+
+    00159
+1762    01_0013
+1770    01-0020
+1783    01_0029
+1784    01-0030
+1793    02-0008
+
+1783    02_0010     deaths
+
+1872    02_0030     bap
+
+1829    03_0020
+
+
+_LOOKING-FOR
+
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Arnshausen%	Arnshausen, Bad Kissingen, Bad Kissingen, Bayern, Deutschland					
+		12712	Greubel, Jacobus	Birth	1784-06-29
+		12712	Greubel, Jacobus	Death	1837-05-01
+
+
+https://data.matricula-online.eu/en/deutschland/wuerzburg/arnshausen/00158/?pg=93
+00158_03_0024
+show 1784  perhaps not taufe
+
+found 2 listings for 1784, but neither had name or even a Jun entry.
+Probably not baptism.
+

@@ -1,0 +1,60 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      04719-02-02
+
+Parish      Steinfeld
+Volume      D1
+Page#       ??
+Years       1831-1832
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+
+Headers:    _TODO
+Columns:    12
+#Entries:   > 3
+
+Comments
+Full header readable
+
+Not clear who is the person of interest.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     1831-1832
+_HEADER-ROW
+------
+?       Andreas Hann    28 Oct 1831
+?+1                     12 Jan 1832
+?+2     Catharina Roth  18 Jan 1832
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     4719-02-02-A.png
+Acquired:   11-Apr-2012  13:06      Armin Otter
+Orientation:    _LANDSCAPE
+Entries in Image:   total=3  contiguous
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==

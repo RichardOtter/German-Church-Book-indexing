@@ -1,0 +1,91 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ N
+Record:        ┠ _TAUFE
+Page#          ┠ 32
+
+Archive-ID     ┠ 03686-02-05
+URL pg#        ┠ 37
+Years          ┠ 1861
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 03686-02-05-header.txt
+Columns:       ┠ 13
+#Entries:      ┠ 12
+
+image          ┠ file://./03686-02-05.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=37
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 32
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 49  Georg Dürr ␤ Oberschearzach
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 32
+Entry  ┠ 5 | year-entry 49 
+Year   ┠ 1861
+Detail ┠ file://./03686-02-05-A.png
+
+Transcription
+col    ┠ contents
+margin ┠ 49
+c1     ┠ Georg Dürr ␤ Oberschwarzach
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ Baptism
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 10 August 1861
+Name       ┠ Georg Dürr
+BirthDate  ┠ 9 August 1861
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-02-05
+2270     Dürr, Georg                        9 Aug 1861                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Jakob and Völker, Kunigunda
+
+
+===========================================DIV50==
+

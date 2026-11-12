@@ -1,0 +1,63 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-19
+
+Parish      Waldzell
+Volume      3
+Page#       15
+Years       1835-1836
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   7
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 15     1835
+
+e1
+e2
+e3
+e4
+e5      6 Jan   1836
+e6      12 Mar  1836    Mehling 
+e7      May 9   1836    Anna Maria Otter    died    Adamus Otter    R�b
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-19-A.png
+Acquired:           16 Oct-2019  17:38      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   5, 6, 7
+
+Comments
+includes date
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e7      TMG-2427    Anna Maria Otter
+                    Adamus Otter
+
+===========================================DIV50==

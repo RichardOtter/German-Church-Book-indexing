@@ -1,0 +1,130 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-20
+
+Parish      Waldzell
+Volume      1
+Page#       28/29
+Years       1795-1796
+Record:     _EHE
+Width:      2 page
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   5/7
+
+Comments
+These are absolute entry numbers. Top of page visible along with page number "28".
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 28     1795-1796
+_YEAR 1795
+e1      10 Feb  Otterin
+_YEAR 1796
+e2      9 Feb   Schürger
+_YEAR 1797
+e3
+_YEAR 1798
+e4
+e5
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 28     1795
+10 Feb  Otterin     Georgi Adami    Anna maria  Brunn   Anna Maria Öhringin Michaely Öhring Dorothea    Jooae Geogius Gress Joannes Schürger ex Waldzell.
+
+
+e2      Page 28     1796
+9 Feb   Schürger    Anna    Elisabetha Weyera   Johanne Georgius Weyer  Joanne Georgius Öhring ex ?nach
+
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+marriage    10-Feb-1795     Waldzell
+man     RMID-2412   Line 7
+Joannes Otter                               1 cousin 5r
+b,ba    21-Jun-1756     Waldzell
+d       ?               ?
+    f   Georgius Adamus Otter
+    m   Anna Maria Brunn
+woman   RMID-2413   Line 92
+Anna Maria Ohring
+b       ?
+    f   Michael Ohring
+    m   Dorothea
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 28; notation 7
+marriage    10-Feb-1795     recorded in Waldzell
+Johannes Otter
+    f   Adami
+    m   Anna Maria geb Brunnin
+Anna Maria Öhringin
+    f   Michaelis Öhring
+    m   Dorothea geb Gressin
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-20-A.png
+Acquired:           2010-11  RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   1, 2
+
+Comments
+These are absolute entry numbers. Top of page visible along with page number "28".
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-20-B.png
+Acquired:           2024-07    RJOTTER
+Orientation:        _PORTRAIT
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-20-C.png
+Acquired:           2024-07    RJOTTER
+Orientation:        _PORTRAIT
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-W p028  1795-1796 J Otter & AM Öhring
+Marriage Record, Waldzell Church Records: p028  1795-1796 J Otter & AM Öhring
+
+RM:
+p28 - e1
+ChurchBook -Waldzell
+_EHE; Johannes Otter; 21 June 1756; Johannes Otter & Anna Maria Öhringin; 10 February 1795; p28 - e1; 5303; 03; 20; 28/29; 30 July 2023; RAVigus, RJOtter
+
+
+
+entry   RM-ID       Name                tags using source
+p28-e1  RMID-2412   Joannes Otter
+p28-e1  RMID-2413   Anna Maria Öhring
+
+===========================================DIV50==
+===========================================DIV50==

@@ -1,0 +1,59 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-29
+
+Parish      Waldzell
+Volume      3
+Page#       13
+Years       1860-1863
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   10
+
+Comments
+Entries are numbered in the margin to the left of col 1
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+1
+2
+3
+4
+5
+6       ?? Heidenfelder
+7       ?? R�b
+8
+9       ?? Oehring
+10
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+==========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-29-A.png
+Acquired:       16-Oct-2019  14:53      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   6, 7, 9
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

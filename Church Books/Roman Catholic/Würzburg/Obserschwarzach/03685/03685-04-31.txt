@@ -1,0 +1,91 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03685
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 220
+
+Archive-ID     ┠ 03685-04-31
+URL pg#        ┠ 134
+Years          ┠ 1828
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 12
+#Entries:      ┠ 14
+
+image          ┠ file://./03685-04-31.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=134
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 220
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ Jakob ␤ Dürr, Oberschwarzach
+e12    ┠ 
+e13    ┠  
+e14    ┠  
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 220
+Entry  ┠ 11
+Year   ┠ 1828
+Detail ┠ file://./03685-04-31-A.png
+
+Transcription
+col    ┠ contents
+margin ┠ 
+c1     ┠ Jakob ␤ Dürr, Oberschwarzach
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ Jakob Dürr
+BirthDate  ┠ 6 Jul 1828
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F	    03685-04-31
+20912    Dürr, Jakob                        6 Jul 1828                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg Nikolaus and Haag, Katharina Luisa
+
+
+===========================================DIV50==

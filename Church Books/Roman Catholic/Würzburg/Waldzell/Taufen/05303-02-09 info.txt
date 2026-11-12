@@ -1,0 +1,158 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-02-09
+
+Parish      Waldzell
+Volume      01
+Page#       68/69
+Years       1802-1803
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 1
+
+Comments
+Absolute entry numbers. Can see top of p68 and the page number "68" at top left corner.
+Can see top of p69 and the page number "69" at top right corner.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 68     1802
+_YEAR 1802
+e1      4 Jan
+e2      16 Jan
+e3      17 Jan
+e4      26 Jan
+e5      16 Feb
+e6      18 Mar
+e7      4 Apr
+e8      ??      Michael Adam Otter et Margaretha Öhringin
+e9      12 Sep          et Maria    Otterinn
+_PARTIAL-ENTRY
+
+-----------------------------
+Entry   Page 69     1802-1803
+e1      
+e2      
+_YEAR 1803
+e3      
+e4      15 Feb  Maria Grun; 
+e5      
+e6      
+e7      
+e8      
+e9      
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2475    Line 26
+Michael Otter                       2 cousin 4 r
+b,ba    3-Aug-1802      Waldzell
+    f   Georg Adam Otter
+    m   Margaretha Öhring
+
+TMG-2434    Line 27
+Christophorous Otter                2 gg uncle
+b,ba    4-Jan-1802      Waldzell
+    f   Andreas Otter
+    m   Anna Maria Handel
+
+TMG-NONE    Line 28
+Maria Grun
+b,ba    15-Feb-1803     Waldzell
+    f   Adami Grun
+    m   Maria Otterin
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 68, notation 25
+Otter, Michael
+3-Aug-1802
+
+DAW; PF. Waldzell; Fiche 1; page 68, notation 26
+Otter, Christophous
+4-Jan-1802
+
+DAW; PF. Waldzell; Fiche 1; page 69, notation 27
+Maria Grun
+15-Feb-1803
+    f   Adam Grün
+    m   Maria Otter
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-02-09-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+page 68
+Comments
+Absolute entry numbers. Can see top of p68 and the page number "68" at top left corner.
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-02-09-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+page 69
+
+Comments
+Absolute entry numbers. Can see top of p69 and the page number "69" at top right corner.
+_TODO       where are entries?
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1564
+BAP WCR-p068-Otter,Michael; Christophorus
+ Waldzell Church Book - Baptisms, p068-Otter,Michael & Christophorus
+
+RM:
+p68 - e1
+ChurchBook -Waldzell
+_TAUFE; Christophus Otter; 4 January 1802; ; 4 January 1802; p68 - e1; 5303; 3; 09; 68-69; 16 July 2024; RAVigus, RJOtter
+
+
+TMG-src-1565
+BAP WCR-p069-Grun,Maria  
+ Waldzell Church Book - Baptisms, p069-Grun, Maria
+
+RM:
+p69 -e04
+ChurchBook -Waldzell
+_TAUFE; Maria Grun; before 15 February 1803; ; 15 February 1803; p69 -e04; 5303; 02; 09; 68/69; 1 August 2023; RAVigus, RJOtter
+
+
+entry   RM-ID       Name                tags using source
+p68-e8      TMG-2475    Michael Otter   name, father, mother, baptism
+p68-e1      TMG-2434    Christophorous Otter
+
+p69-e4      TMG-NONE    Maria Grunname, father, mother, baptism
+
+===========================================DIV50==

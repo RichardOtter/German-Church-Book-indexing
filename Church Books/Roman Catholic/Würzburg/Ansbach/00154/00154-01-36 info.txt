@@ -1,0 +1,97 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-36
+Mat.pg#         37
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       64-65
+Years       1785-1787
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    
+Columns:    6
+#Entries:   10 + 7
+
+image       file://./00154-01-36.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=37
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 64
+        _YEAR-CONTINUED 1785
+e1      
+e2      
+e3      
+e4      
+e5      
+e6      
+e7      
+e8      
+        _YEAR 1786
+e9      4 feb        RMID-1850 Weyer, Johann Laurentius Birth 1786-02-04
+e10     17 dec ??
+-----------------------DIV30--
+Page 65
+        _YEAR-CONTINUED 1786
+e1      28 apr
+e2      17 may
+e3      28 jun
+e4      23 nov
+        _YEAR 1787
+e5      13 jan ??
+e6      4 jan       RMID-1851 Loschert, Anna Birth 1787-01-04
+e7      5 apr
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    64
+Entry   9
+Year    1786
+Detail  file://./00154-01-36-A.png
+
+Transcription
+col
+c1      Die 2. February. circa ␤ 10. nom? vesper?
+c2      Eadem
+c3      Lauencisus ␤ Weier. et  Philippinn conj.
+c4      Joes. ␤ Lauencisus.
+c5      Lauencisus ␤Ludwig ??.
+c6      ??
+
+Match to RM database
+RMID-1850 Weyer, Johann Laurentius Birth 1786-02-04
+
+-----------------------DIV30--
+Page    65
+Entry   6
+Year    1787
+Detail  file://./00154-01-36-B.png
+
+Transcription
+col
+c1      Die 4 ?? January. ␤ ?
+c2      <blank>
+c3      Philippy Los- ␤ chert et Elisa ␤-betha Conjugy.
+c4      Anna
+c5      Anna Hefsin ␤ ??.
+c6      ??
+
+Match to RM database
+RMID-1851 Loschert, Anna Birth 1787-01-04
+
+NOTE: baptism date is blank. Assume it is on same day as birth, 
+as are all other entires in this image,
+
+-----------------------DIV30--
+

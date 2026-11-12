@@ -1,0 +1,222 @@
+Steinfeld, Steinfeld, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9286763
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+
+not yet online
+
+
+There are three parts of the municipality (the settlement type is indicated in parentheses ): [ 2 ] [ 3 ]
+Hausen ( Kirchdorf )
+Steinfeld ( parish village )
+Waldzell (Kirchdorf)
+
+
+_INDEX
+
+_LOOKING-FOR
+
+
+
+TODO	Number of Signatur's (call numbers/volumes) for Steinfeld not examined.
+What is known is listed.
+TODO	Don't understand the Band (Volume) numbering system.
+
+Beside village of Steinfeld, Steinfeld parish also has records from:
+Ansbach bei Roden			until 1701
+Hausen bei Steinfeld		1750-1840
+Mariabuchen, Stadelhofen	1677-1685
+Waldzell					until 1701
+
+
+
+List of known Volumes / Archiv-IDs
+===========================================DIV50==
+===========================================DIV50==
+Signatur	4711		Band A1
+7	Fiche
+
+Taufen Gesamtpfarrei	1602-1702
+Ehen Gesamtpfarrei	1600-1702
+Stebfälle Gesamtpfarrei	1620-1898
+Kommunion/Firmung	--
+Familienbuch  Haäusenbuch	--
+
+Beside Steinfeld, also has
+Ansbach bei Roden	bis 1701
+Hausen bei Steinfeld	1750-1840
+Mariabuchen, Stadelhofen	1677-1685
+Waldzell	bis 1701
+
+total images = 305
+
+===========================================DIV50==
+Signatur	4715		Band B3
+?	Fiche
+
+===========================================DIV50==
+Signatur	4719		Band D1
+?	Fiche
+
+===========================================DIV50==
+===========================================DIV50==
+
+Index of Fiche
+
+4711	F 1		45 images total
+
+img=image number from Fiche
+LR=left or right if double page
+sd=single or double page
+p=handwritten page number from top
+
+img	LR	sd	p		contents
+1		s			Mechanical tile for microfilming
+	
+2		s			front cover
+					"1602-1702
+					Steinfeld, Waldzell
+					Ansbach <??> "
+	
+3		d	2		"Steinfeld H1"
+					Contents page handwritten
+					Taufe	1602-1702
+						p3-303
+					Ehen	1600-1702
+						p331-491
+					Sterbefälle	1620-1707
+						p557, 569-649
+					Firmungen	1685-1695
+						p313-329
+
+4		s			frown symbol
+	
+5		s			starts with 1602
+	
+7	L	d			MDCIII	<1604>
+8	R	d			MDCV	<1605>
+10	R	d			MDCVI	<1606>
+12	R	d					<1607>
+14	R	d					<1608>
+18	R	d					<1610>
+21	L	d	34				<1611>
+23	L	d					<1673 ?>
+23	R	d					1613
+24	R	d					1614
+34	L	d					1618
+45	L	d	82				1628
+45	R	d	83
+
+===========================================DIV50==
+4711	F 2		50 images total
+img	LR	sd	p			contents
+2	L	d	84
+19	L	d			1653
+28	L	d			1659
+29	L	d			1660
+39	R	d	157		1668
+49	R	d	177		1675
+50	R	d	179
+
+===========================================DIV50==
+4711	F 3		50 images total
+img	LR	sd	p		contents
+2	L	d	180		1696
+50	L	d			1696
+50	R	d	277
+
+===========================================DIV50==
+4711	F 4		43 images total
+img	LR	sd	p		contents
+2	L	d	278		
+3	R	d	281		<1697>
+43	R	d	355
+43	L	d	354		MDCVII  <1607>
+
+===========================================DIV50==
+4711	F 5		50 images total
+img	LR	sd	p	contents
+2	L	d	356		1607
+25	L	d	402		1645
+50	L	d			1690
+50	R	d	453	
+
+===========================================DIV50==
+4711	F 6		49 images total
+img	LR	sd	p		contents
+2	L	d	454		1691
+26	L	d	571		1638 <?>
+49	R	d	617		1691
+
+===========================================DIV50==
+4711	F 7		18 images total
+img	LR	sd	p		contents
+2	L	d	618		
+5	L	d	624		1692
+17	L	d	648		1702
+18	L	d	650
+
+===========================================DIV50==
+4715	F 6		? images total
+img	LR	sd	p		contents
+25	d	d	?		
+
+PRINTOUT	4715-06-25.png
+
+===========================================DIV50==
+4719	F 2		? images total
+img	LR	sd	p		contents
+02	d	d	55?		
+
+PRINTOUT	4715-02-02.png
+
+===========================================DIV50==
+4719	F 3		? images total
+img	LR	sd	p		contents
+03	d	d	?		
+07	d	d	?		
+
+PRINTOUT	4715-03-03.png
+PRINTOUT	4715-03-07.png
+
+===========================================DIV50==
+4719	F 5		? images total
+img	LR	sd	p		contents
+13	d	d	185/34		
+
+PRINTOUT	4715-05-13.png
+
+===========================================DIV50==
+
+
+
+
+
+
+
+===========================================DIV50==
+Scan List
+
+Printouts by Armin Otter 2012
+Signatur   4719
+4719-02-02.png
+4719-03-04.png
+4719-03-07.png
+4719-05-13.png
+
+Printouts by Richard Otter 2019
+4715-06-25.png
+
+===========================================DIV50==
+
+

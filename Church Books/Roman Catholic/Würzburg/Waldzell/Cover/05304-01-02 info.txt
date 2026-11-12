@@ -1,0 +1,63 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05304-01-02
+
+Parish      Waldzell
+Volume      2
+Page#       n/a
+Years       n/a
+Record:     _OTHER      cover
+Width:      _SINGLE
+
+Format:     _OTHER
+Headers:    _TODO
+Columns:    n/a
+#Entries:   0
+
+Comments
+Front cover of bound volume 2
+
+"Kirchen Buch
+    f�r
+das Fihalort Waldzell
+zur Marren Steinfeld
+enthaltend der Gebohrnen
+Verehlichetn und Verstorbenen
+1812 - 1825 (1824)"
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5304-01-02-A Cover.png
+Acquired:           15-Oct-2019  15:28      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   0
+
+Comments
+"Kirchen Buch
+    f�r
+das Fihalort Waldzell
+zur Marren Steinfeld
+enthaltend der Gebohrnen
+Verehlichetn und Verstorbenen
+1812 - 1825 (1824)"
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

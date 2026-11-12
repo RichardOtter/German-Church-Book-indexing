@@ -1,0 +1,81 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-31
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-31-A.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-31-B.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-31
+
+Parish      Waldzell
+Volume      3
+Page#       15
+Years       1867-1874
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   10
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e5      
+e6      TMG-2145    Otter & Sch�rger
+-----------
+e8      
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-31-C.png
+Acquired:       16-Oct-2019  14:54      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   5, 6, 8
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e6      TMG-2145    Otter & Sch�rger
+
+===========================================DIV50==

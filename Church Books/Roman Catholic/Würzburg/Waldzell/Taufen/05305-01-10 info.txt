@@ -1,0 +1,53 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-10
+
+Parish      Waldzell
+Volume      3
+Page#       6
+Years       1828
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      Otterin     Maria Margaretha Gehring
+e2      winfried Seufert ?  died in war
+e3      ?
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-10-A.png
+Acquired:           16 Oct-2019  14:56      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   1, 2, 3
+
+Comments
+each entry divided across 2 lines on printout
+Not clear why this was printed
+
+===========================================DIV50==
+RM Sources and Citations
+
+?   Michael Loschert & Margarethe Otter     TMG-2468  [?]
+
+===========================================DIV50==

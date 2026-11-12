@@ -1,0 +1,329 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00155-01-16
+Mat.pg#         17
+
+Parish          Ansbach-bei-Roden
+Volume          1
+Page#           26-27
+Years           1819
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _PARAGRAPH
+Headers:        -
+Columns:        -
+#Entries:       3 & 2
+
+image           file://./00155-01-16.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00155/?pg=17
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 16
+        _YEAR-CONTINUED 1816
+e1      
+e2     
+-----------------------DIV30--
+Page 17
+        _YEAR-CONTINUED 1816
+e1      
+e2      15 aug
+e3      
+-----------------------DIV30--
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    17
+Entry   e2
+Sate    15 Aug 1816
+Detail  file://./00155-01-11-A.png
+
+Copilot
+============================================================
+DIPLOMATIC TRANSCRIPTION (exact line breaks, no normalization)
+============================================================
+
+geschehen d. 15. August 1816
+Gott gnädig beschütze.
+
+Im Jahre ein tausend acht hundert sechzehn den fünfzehnten
+August Abends um sechs Uhr ist geboren in Augsburg das Kind
+Michael Gebhard Bürger und Lebacher in Augsburg, und
+seiner rechtmäßigen Ehefrau Anna geborene Brückner,
+welches den Namen Johann Georg erhalten hat.
+Zeugen waren der Lebachmann in Augsburg,
+Johann Georg Albrecht und der Lebachmann in Augsburg,
+Johann Georg Brückner.
+Augsburg, d. 15. Aug. 1816.
+
+
+============================================================
+NORMALIZED TRANSCRIPTION (line‑preserving)
+============================================================
+
+Geschehen den 15. August 1816.
+Gott gnädig beschütze.
+
+Im Jahre eintausend achthundert sechzehn, den fünfzehnten
+August, abends um sechs Uhr, ist in Augsburg das Kind
+Michael Gebhard, Bürger und Lebacher in Augsburg, und
+seiner rechtmäßigen Ehefrau Anna, geborene Brückner,
+geboren, welches den Namen Johann Georg erhalten hat.
+Zeugen waren der Lebachmann in Augsburg,
+Johann Georg Albrecht, und der Lebachmann in Augsburg,
+Johann Georg Brückner.
+Augsburg, den 15. August 1816.
+
+
+============================================================
+LETTER‑BY‑LETTER / WORD‑FORM ANALYSIS
+============================================================
+
+geschehen d. 15. August 1816
+- “geschehen” = g‑e‑s‑c‑h‑e‑h‑e‑n (closing formula)
+- “d.” = den (date marker)
+
+Gott gnädig beschütze.
+- Blessing formula; “beschütze” clearly b‑e‑s‑c‑h‑ü‑t‑z‑e.
+
+Im Jahre ein tausend acht hundert sechzehn
+- “ein tausend” written separately.
+- “acht hundert” also separated.
+- “sechzehn” = s‑e‑c‑h‑z‑e‑h‑n.
+
+den fünfzehnten August
+- “fünfzehnten” long and fully written.
+
+Abends um sechs Uhr
+- “Abends” = A‑b‑e‑n‑d‑s.
+- “sechs” = s‑e‑c‑h‑s.
+
+ist geboren in Augsburg das Kind Michael Gebhard
+- “geboren” = g‑e‑b‑o‑r‑e‑n.
+- Child’s name: Michael Gebhard.
+
+Bürger und Lebacher in Augsburg
+- “Bürger” = citizen.
+- “Lebacher” = occupational term (butcher / tanner depending on region).
+
+und seiner rechtmäßigen Ehefrau Anna geborene Brückner
+- “rechtmäßigen” = r‑e‑c‑h‑t‑m‑ä‑ß‑i‑g‑e‑n.
+- “geborene Brückner” = maiden name Brückner.
+
+welches den Namen Johann Georg erhalten hat
+- “erhalten” = e‑r‑h‑a‑l‑t‑e‑n.
+
+Zeugen waren der Lebachmann in Augsburg,
+Johann Georg Albrecht und der Lebachmann in Augsburg,
+Johann Georg Brückner.
+- “Lebachmann” repeated twice.
+- Witnesses: Johann Georg Albrecht, Johann Georg Brückner.
+
+Augsburg, d. 15. Aug. 1816.
+- Closing dating formula.
+
+
+============================================================
+ENGLISH TRANSLATION (modern German names)
+============================================================
+
+Recorded on 15 August 1816.
+“May God graciously protect.”
+
+In the year 1816, on the fifteenth of August,
+at six o’clock in the evening, in Augsburg,
+a child was born to **Michael Gebhard**, a citizen and
+Lebacher (craftsman) of Augsburg, and his lawful wife
+**Anna Gebhard**, née **Brückner**.
+
+The child received the name **Johann Georg**.
+
+Witnesses were:
+• **Johann Georg Albrecht**, Lebachmann in Augsburg  
+• **Johann Georg Brückner**, Lebachmann in Augsburg
+
+Augsburg, 15 August 1816.
+
+
+============================================================
+SUMMARY (copy‑ready)
+============================================================
+
+Date of birth: 15 August 1816, 6 PM  
+Place: Augsburg  
+Child: Johann Georg  
+Father: Michael Gebhard (citizen, Lebacher)  
+Mother: Anna Gebhard, née Brückner  
+Witnesses:
+  - Johann Georg Albrecht (Lebachmann)
+  - Johann Georg Brückner (Lebachmann)
+Recorded: Augsburg, 15 August 1816
+
+
+
+
+Claude
+=======================================================
+DIPLOMATIC TRANSCRIPTION (line breaks & word splits as in original)
+=======================================================
+
+[LEFT MARGIN NOTE]
+gebohren d. 14. Aug 1810
+Joh. Georg Löffl[?]ers.
+
+[MAIN ENTRY, LEFT/CENTER COLUMN]
+Im Jahr ein tausend acht hundert sechzehn
+Abends um sechs Uhr ist gebohren in Ansprach[?]
+Michael Löffl[?] Bürgers und Ackersmanns
+[da]selbst[?] und Anna[?] Elisabeth[?] geb[orenen] [?]hin[?] eheleute
+So[h]n Johann Georg Achilles[?] Brüelen[?] und [?] Zeugen[?]
+[?] Bürger und Ackersmanns in Ans[prach]
+folgender Tag früh um zehn Uhr über den vier[?]
+getauft worden [und] hat der Nam[en] bekommen Johann Georg
+Der Vater war Johann Georg Ernstbaü[?]
+bau Bürgers und Ackersmanns in Ansprach
+den [?] 15. Aug 1816. [rubric mark]
+
+[RIGHT COLUMN, SEPARATE ENTRY]
+den vierzehnten Aug
+gebohren als Sohn des
+[?] in Ansprach beedes[?]
+[?]. Es
+Kind ist der
+Ein Taüfer[?] Albrescht[?]. es
+bekommen Johann Georg
+[?], des Johann Georg [?]
+elicher[?] Sohn.
+Bachmann Pfarrer[?]
+[unclear final name/signature]
+
+=======================================================
+NORMALIZED TRANSCRIPTION (modern spelling, line endings kept)
+=======================================================
+
+[LEFT MARGIN NOTE]
+Geboren den 14. Aug. 1810
+Johann Georg Löffler[?]
+
+[MAIN ENTRY]
+Im Jahr eintausendachthundertsechzehn,
+abends um sechs Uhr, ist geboren, in Ansbach,
+[dem] Michael Löffler[?], Bürger und Ackersmann
+daselbst, und [seiner Frau] Anna Elisabeth, geborene
+[?]hin, Eheleuten, ein Sohn.
+Zeugen sind Johann Georg Achilles[?] und [Name unklar],
+beide Bürger und Ackersmann in Ansbach.
+Am folgenden Tag früh um zehn Uhr ist das Kind
+getauft worden und hat den Namen bekommen
+Johann Georg. Der Vater war Johann Georg
+Ernstbauer[?], Bürger und Ackersmann in Ansbach.
+Den 15. Aug. 1816.
+
+[RIGHT COLUMN ENTRY]
+Den vierzehnten August
+geboren als Sohn des
+[Name unklar] in Ansbach, beide[?]
+[unklar]
+Das Kind ist von dem Herrn Pfarrer
+Albrecht[?] getauft worden.
+[Es] bekam [den Namen] Johann Georg,
+des Johann Georg [Name unklar]
+ehelicher Sohn.
+[Unterschrift:] Bachmann, Pfarrer[?]
+
+=======================================================
+LETTER-BY-LETTER / PALEOGRAPHIC NOTES (selected difficult words)
+=======================================================
+"gebohren" – archaic spelling with silent h; the b has a tall
+   looped ascender and the following o is small and rounded,
+   easy to mistake for an e in fast cursive.
+
+"sechzehn" – the German Kurrent z is a descending hook, quite
+   different from Roman z; combined with "ch" it can look like
+   a cluster of minims, making the numeral word hard to parse
+   at first glance.
+
+"Ackersmann" – recurring formulaic term (farmer/citizen-farmer);
+   the ck ligature is compressed into what looks like a single
+   stroke with a small loop.
+
+"Löffl / Löffler" – surname beginning with a looped L; the ff
+   is doubled with connecting strokes that can be misread as
+   "ss" or "tt" depending on ink flow.
+
+"Bachmann" (bottom signature) – appears as the officiant's/
+   scribe's signature; the B has a large decorative loop typical
+   of formal register signatures, distinct from the body-text
+   Kurrent hand.
+
+Surnames "Achilles/Brüelen/Ernstbauer" – lowest-confidence
+   readings in this transcription. Kurrent minim clusters (n, m,
+   u, i without dots) are visually near-identical, so mid-word
+   vowel/consonant sequences in unfamiliar surnames are the
+   single biggest source of ambiguity here.
+
+=======================================================
+ENGLISH TRANSLATION (modernized German names where identifiable)
+=======================================================
+[Left margin note:]
+Born the 14th of August, 1810 — [Johann] Georg Löffler[?]
+(this appears to be a cross-reference note to a related entry)
+
+[Main entry, dated 1816:]
+In the year eighteen hundred sixteen, in the evening at
+six o'clock, a son was born in Ansbach to Michael Löffler[?],
+citizen and farmer there, and his wife Anna Elisabeth,
+née [name unclear], a married couple.
+
+The witnesses [godparents] were Johann Georg Achilles[?]
+and [name unclear], both citizens and farmers in Ansbach.
+
+On the following day, early at ten o'clock, the child was
+baptized and received the name Johann Georg. The father
+was Johann Georg Ernstbauer[?], citizen and farmer in
+Ansbach.
+
+Dated the 15th of August, 1816.
+
+[Right column, separate entry:]
+On the fourteenth of August, a son was born to [name
+unclear] in Ansbach, [both parents named as] citizens...
+The child was baptized by the Reverend Pastor Albrecht[?]
+and received the name Johann Georg, lawful son of
+Johann Georg [surname unclear].
+
+[Signed:] Bachmann, Pastor[?]
+
+=======================================================
+IMPORTANT CAVEAT
+=======================================================
+This image is more heavily faded/overwritten with pencil
+tracing than the previous one, and appears to contain TWO
+separate baptism entries side by side (a left/center entry
+dated 15 Aug 1816, and a right-column entry referencing the
+14th of August). Many mid-word letters — especially in
+surnames like "Löffl(er)", "Achilles", "Brüelen", and
+"Ernstbauer" — could not be read with full confidence from
+this resolution. As before, I strongly recommend:
+  1. A higher-resolution crop of the surname clusters, and
+  2. Cross-referencing against neighboring entries in the
+     same parish register, since the same Ansbach families
+     (Löffl-, Ernst-, Achilles, etc.) likely recur across
+     multiple pages, which would help confirm spellings.
+=======================================================
+
+Searching for-
+
+_NOT-FOUND 		RMID-1819	Loschert, Johann Georg  -b 1819-01-10
+
+_NOT-FOUND 		RMID-1814	Sendelbach, Anna Maria  -b 1819-01-14
+			00155-01-16-A date correct, but...

@@ -1,0 +1,87 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05190-07-54
+
+Parish      Urspringen
+Volume      3
+
+Page#       32
+Years       1793
+Record:     _EHE
+Width:      _SINGLE
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   >= 1
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page NN     YYYY-YYYY
+
+eA      32          14 May
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+6. Johann Schürger and his wife Maria Anna, nee Leininger:
+oo14.05.1793 Urspringen: Johann Schürger, legitimate son of Johann Georg Schürger and his wife Maria, nee Breitenbach, married Maria Anna Leininger, legitimate daughter of the deceased Johann Leininger and his wife Maria Margaretha, nee Wiesner, witnesses Valentin Herbert and Matthäus Albert (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5190, Fiche 8, p. 32).
+
+
+-----------------------DIV30--
+
+Johann Schürger
+&   14 May 1793   Urspringen
+Maria Anna Leininger
+
+Johann Georg Schürger
+&
+Maria Breitenbach
+=> Johann Schürger
+
+Johann Leininger   + bef 14 May 1793
+&
+Maria Margaretha Wiesner
+=> Maria Anna Leininger
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5190-08-54-A.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==

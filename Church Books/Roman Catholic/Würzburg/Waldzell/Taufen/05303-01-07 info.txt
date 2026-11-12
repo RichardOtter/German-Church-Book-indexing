@@ -1,0 +1,71 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-07
+
+Parish      Waldzell
+Volume      1
+Page#       2 ?
+Years       1703-1704
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   >6
+
+Comments
+RJO did not see original archive-image. 
+Description is from scan of printout by Armin 2012-04-11
+Only one, partial page image, so entry numbers are not absolute
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 2
+_PARTIAL-ENTRY
+e1      23 Mar 1703
+e2      ?
+e3      7 Apr 1703
+e4      17 Nov 1703
+_YEAR 1704
+e5      11 Mar 1704
+e6      1 Dec 1704
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+Transcription
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-01-07-A.png
+Acquired:           11-Apr-2012  17:33      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   total=6
+
+Comments
+printout by Armin Otter 11-Apr-2012
+Seems like that in 2012, there was no 25% of page max rule enforced by the software.
+Seems to be bottom 4/5 of page, left hand page.
+Left edge is ragged.
+None of the entries has been interpreted. 
+Unclear who the principal person is.
+Only one, partial page image, so entry numbers are not absolute
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

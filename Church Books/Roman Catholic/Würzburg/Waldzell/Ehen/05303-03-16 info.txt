@@ -1,0 +1,180 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-16
+Parish      Waldzell
+Volume      1
+Page#       20/21
+Years       1763-1766/1767-1773
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   12/7
+
+Comments
+Not absolute entry numbers. Top of page not imaged.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 20     1763-1766
+_YEAR 1763
+e1		18 jan
+e2		24 jan
+e3		25 jan	ohrinh
+e4		25 jan
+e5		17 mai
+_YEAR 1764
+e6		17 feb
+e7		28 feb  oehring
+_YEAR 1765
+e8		22 jan
+_YEAR 1766
+e9		21 jan
+e10		27 jan
+e11		4 feb
+e12		10 may
+
+-----------------------------
+Entry   Page 21     1767-1773
+_YEAR 1767
+e1
+e2
+_YEAR 1768
+e3
+_YEAR 1770
+e4
+_YEAR 1771
+e5
+_YEAR 1772
+e6
+_YEAR 1773
+e7
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page 20     e5      1763
+17 May  Fredrich Otter  Georgi Otter    Anna    Aadelhofen  Georgy Amend    Margaretha
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+4. Georg Schürger and his wife Anna Maria, nee Michler (Seuffert?):
+oo06.02.1770 Waldzell: Georg Schürger, legitimate son of Johann Schürger and his deceased wife Anna, married Anna Maria, nee Seuffert, legitimate daughter of Christoph Seuffert from Waldzell and his wife Anna Maria, witnesses Johann Geisler and Johann Müller (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5303, Fiche 3, p. 21).
+
+
+-----------------------DIV30--
+
+Georg Schürger
+&   06 Feb 1770 Waldzell
+Anna Maria Michler (Seuffert?)
+
+Johann Schürger
+&
+Anna
+=>
+Georg Schürger
+
+Christoph Seuffert
+&
+Anna Maria
+=>
+Anna Maria Michler (Seuffert?)
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+marriage    19-May-1763     Waldzell
+man     RMID-77 Line 6
+Fridericus Otter                                4th gg father
+b,ba    18-Jan-1736         Waldzell
+d       16/26-Mar-1809      Waldzell
+    f   Georgius Otter
+    m   Anna Meling
+woman   RMID-78 Line 32
+Elisabetha Amend                                4th gg mother
+b       ??-1736             Stadelhofen
+d       21-Jan-1796         Waldzell
+    f   Georgii Amend
+    m   Margarethae
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 20; notation 4
+marriage    19-May-1763     recorded in Waldzell
+Fridericus Otter
+    f   Georgius Otter
+    m   Anna
+Elisabetha Amendin
+from                Stadelhofen
+    f   Georgius Amend
+    m   Margaretha
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-16-A.png
+Acquired:           2010-11  RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   5
+
+Comments
+Not absolute entry numbers. Top of page not imaged.
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-16-B.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1 & 2 partial, above and below
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-16-C.jpg
+Acquired:           2024-07  RJOtter
+Orientation:        _PORTRAIT
+Entries in Image:   
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-W p020  1763-1765 Otter & Amend
+Marriage Record, Waldzell Church Records: p020  1763-1765 Otter & Amend
+
+RM:
+p20 - e5
+ChurchBook -Waldzell
+_EHE; Friedrich Otter ; 18 January 1736; Friedrich Otter & Elisabetha Ahmend; 17 May 1763; p20 - e5; 5303; 03; 16; 20/21; 17 July 2024; RAVigus
+
+RM:
+p21 - e4
+ChurchBook -Waldzell
+_EHE; Georg Schürger; ; Georg Schürger & Anna Maria Michler (Seuffert?); 6 February 1770; p21 - e4; 5303; 3; 16; 21; 25 August 2023; TGWagner
+
+
+entry   RM-ID       Name                tags using source
+p20-e3  RMID-77     Fredrich Otter
+p20-e3  RMID-78     Elisabetha Amend
+
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==

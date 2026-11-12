@@ -1,0 +1,89 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 5
+Record:        ┠ _TAUFE
+Page#          ┠ 54
+
+Archive-ID     ┠ 03686-02-27
+URL pg#        ┠ 59
+Years          ┠ 1864
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 9
+
+image          ┠ file://./03686-02-07.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=59
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 54
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 44 Fabian ␤ Handthal
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 54
+Entry  ┠ 3
+Year   ┠ 1864
+Detail ┠ file://./03686-02-07-A.png
+
+Transcription
+col    ┠ contents
+margin ┠ 44
+c1     ┠ Fabian ␤ Handthal
+c2     ┠ <empty>
+c3     ┠ <empty>
+c4     ┠ <empty>
+c5     ┠ <empty>
+c6     ┠ Josefa ␤ Brenner
+c7     ┠ <empty>
+c8     ┠ ?? ␤ ??  
+c9     ┠ 1864 ␤ 29
+c10    ┠ 1864 ␤ 30 ␤
+c11    ┠ ?? ␤ ??
+c12    ┠ ?? ␤ ??
+c13    ┠ <empty>
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ Handthal
+EventDate  ┠ 
+Name       ┠ Fabian Brenner
+BirthDate  ┠ 29 Jul 1864
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+RM Match
+
+F       03686-02-27
+117      Brönner, Fabian                    29 Jul 1864                Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [father of Fabian Brönner],  and Brönner, Eva
+
+
+no father info
+
+===========================================DIV50==

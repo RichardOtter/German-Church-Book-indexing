@@ -1,0 +1,118 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-41
+Mat.pg#         42
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       72-73
+Years       1795-1796
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   7 + 8
+
+image       file://./00154-01-41.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=42
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 72
+        _YEAR 1795
+e1      23 apr
+e2      9 jun
+e3      25 jun      RMID-15123 Mehling, Johann Michael Birth 1795-06-25
+e4      22 jul
+e5      22 jul
+e6      26 jul
+e7      10 aug
+e8      14 aug
+-----------------------DIV30--
+Page 73
+        _YEAR-CONTINUED 1793
+e1      ?
+e2      26 oct
+e3      25 nov
+        _YEAR 1796
+e4      jan
+e5      4 mar
+e6      ?
+e7      24 may
+e8      4 jun
+e9      9 jun       RMID-1813 Weyer, Maria Philippina Birth 1796-06-09
+e10     31 aug
+e11     22 sep
+e12     8 oct
+e13     19 dec
+e14     24 dec
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    72
+Entry   3
+Year    1795
+Detail  file://./00154-01-41-A.png
+
+Transcription
+Die 25 junii circa 7 man
+es gut machel.
+
+Natus et eadem die Baptizatus est Joannes Michael, filius
+legitimus Joannis Georgii Mehling et Anna Maria,
+coniugum nata Brunnin. Levant Michael Mehling, Baptisma 
+P. Longing cap.
+
+Translation
+On 25 June, around 7 in the morning.
+(the 2nd line is a local note; see below)
+
+Born and on the same day baptized was Johann Michael,
+legitimate son of Johann Georg Mehling and Anna Maria,
+a married couple, born Brunn.
+Sponsors: Michael Mehling . Baptized by P. Longiny,
+Chaplain.
+
+Note: “es gut machel.”
+This is vernacular German, very sloppy handwriting. 
+This is likely a clerical note, not part of the baptism entry.
+It may refer to preparing the register, correcting an entry, or performing a ritual “properly.”
+
+Match to RM database
+RMID-15123 Mehling, Johann Michael Birth 1795-06-25
+
+-----------------------DIV30--
+Page    73
+Entry   6
+Year    17
+Detail  file://./00154-01-41-B.png
+
+Transcription
+Die Nonojunii
+Natus et deinde baptizatus est Maria Philippina filia Johannis Georgii Weyer
+et Barbara nata Schürgerina. Levans Philippina Weyerin ?? Sang.
+
+Translation
+On the ninth of June,
+was born and then baptized Maria Philippina,
+daughter of Johann Georg Weyer
+and Barbara, born Schürger.
+Godmother: Philippina Weyer, ?? Sang.
+
+Match to RM database
+RMID-1813 Weyer, Maria Philippina Birth 1796-06-09
+
+-----------------------DIV30--
+
+
+

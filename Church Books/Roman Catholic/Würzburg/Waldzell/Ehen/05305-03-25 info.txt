@@ -1,0 +1,175 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-25
+
+Parish      Waldzell
+Volume      3
+Page#       9
+Years       1843-1847
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _THIS
+Columns:    16
+#Entries:   6
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page NN     YYYY-YYYY
+H
+A        9          1845 <not shown>
+
+
+_CONTINUE 1843
+e3
+_YEAR 1844
+<NULL>
+_YEAR 1845
+<NULL>
+_YEAR 1846
+e2
+_YEAR 1847
+e1
+
+e1	mehling
+e2	moehler
+e3	rauch
+
+scan this full image
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+H01         Name des Bräutigams, Vor- und Geschlechtsname:
+H02         Stand und Religion:
+H03         Landgericht, Aufenthalt, Hausnummer:
+H04         Eltern des Bräutigams:
+H05         Ledig oder Witwer (Name der verstorbenen Gattin):
+H06         Gebohren, wann, wo:
+H07         Getraut mit oder ohne Dispens/Denuntiation:
+H08         Tag, Monat, Jahr der Trauung:
+H09         Name der Braut Vor- und Geschlechtsname:
+H10         Stand und Religion:
+H11         Landgericht, Aufenthalt, Hausnummer:
+H12         Eltern der Braut:
+H13         Ledig oder Witwe (Name des verstorbenen Gatten):
+H14         Geboren, wann, wo:
+H15         Pfarrer:
+H16         Zeugen Vor- und Zunamen, Stand, Aufenthalt: 
+
+Ae1    page 9
+c01         Heinrich Schürger
+c02         Bauer, Kath
+c03         Rothenfels Waldzell
+c04         +Heinrich Schürger, Margaretha Mehling
+c05         ledig
+c06         zu Waldzell
+c07         without Dispens
+c08         oo16.02.(1845)
+c09         Maria Katharina Mehling
+c10         farmer´s daughter, catholic
+c11         Rothenfels Waldzell
+c12         Heinrich Mehling, Katharina März
+c13         ledig
+c14         zu Waldzell
+c15         Vollmuth (?)
+c16         _EMPTY
+
+
+===========================================DIV50==
+Interpretation
+
+oo.16.02.1845 Waldzell: Heinrich Schürger, * in Waldzell, legitimate son of Heinrich Schürger and his wife Margaretha, nee Mehling, married Maria Katharina Mehling, legitimate daughter of Heinrich Mehling and his wife Katharina, nee März (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5305, Fiche 3, p. 9).
+
+
+-----------------------DIV30--
+
+Heinrich Schürger * Waldzell
+&   16 Feb 1845   Waldzell
+Maria Katharina Mehling
+
+Heinrich Schürger
+&
+Margaretha, nee Mehling
+=>   Heinrich Schürger
+
+Heinrich Mehling
+&
+Katharina, nee März
+=>   Maria Katharina Mehling
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+p9 - Ae1
+ChurchBook -Waldzell
+_EHE; Heinrich Schürger; 3 May 1820; Heinrich Schürger & Maria Katharina Mehling; 16 February 1845; p9 - Ae1; 5305; 03; 25; 9; 17 July 2024; TGWagner
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-25-A.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1   & 2 partial, above and below
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-25-B.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        _PORTRAIT
+Entries in Image:   
+
+Comments
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-25-C.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        _PORTRAIT
+Entries in Image:   
+
+Comments
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-25-D.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        _PORTRAIT
+Entries in Image:   
+
+Comments
+
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==

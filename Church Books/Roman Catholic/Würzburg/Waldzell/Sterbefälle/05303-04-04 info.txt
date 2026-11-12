@@ -1,0 +1,102 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-04
+
+Parish      Waldzell
+Volume      1
+Page#       2/3
+Years       1705
+Record:     _STERBEFALL
+Width:      _TODO   _DOUBLE  _SINGLE
+
+Format:     PARAGRAPH
+Headers:    _TODO
+Columns:    n/a
+#Entries:   4 ?
+
+Comments
+Only one, partial page image, so entry numbers are not absolute
+
+All three images are the same, so put all details in the Archive-Image section.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 2      1705
+_PARTIAL-ENTRY
+_YEAR 1705
+e1      6 May
+e2      
+e3      
+e4      19 Jul  
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./05303-04-04-A.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   5
+
+Comments
+All three are the same except for exposure levels.
+All have same date and time stamp in printout header.
+Maybe Armin's one printout was scanned with different settings.
+A is too dark, B and C about the same.
+
+
+SEE_ABOVE_FOR_CONTENT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./05303-04-04-B.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   5
+
+Comments
+All three are the same except for exposure levels.
+All have same date and time stamp in printout header.
+Maybe Armin's one printout was scanned with different settings.
+A is too dark, B and C about the same.
+
+
+SEE_ABOVE_FOR_CONTENT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./05303-04-04-C.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   5
+
+Comments
+All three are the same except for exposure levels.
+All have same date and time stamp in printout header.
+Maybe Armin's one printout was scanned with different settings.
+A is too dark, B and C about the same.
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; _UNCITED; ; ; range  1705; ; 5303; 04; 04; 2/3; 18 July 2024; AWOtter
+
+===========================================DIV50==

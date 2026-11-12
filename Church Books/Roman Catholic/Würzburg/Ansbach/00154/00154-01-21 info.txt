@@ -1,0 +1,160 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-21
+Mat.pg#         22
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           34-35
+Years           1741-1744
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       16 + 13
+
+image           file://./00154-01-21.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=22
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 34
+        _YEAR-HEADER 1741
+e1     11 apr           RMID-1844 Loschert, Johann Philipp Birth 1741-04-11
+e2     2 may            RMID-1815 Loschert, Johann Framm Birth 1741-05-02
+e3     21 may
+e4      4 jun
+e5      27 jul
+e6      11 aug
+e7      2 oct
+e8      17 oct
+e9      10 dec
+        _YEAR 1742
+e10     24 jan          RMID-1816 Schürger, Eva Birth 1742-01-24
+e11     20 mar
+e12     10 apr
+e13     26 apr
+e14     29 apr
+e15     30 apr          RMID-1829 Weyer, Johann Georg Birth 1742-04-30
+e16     20 jun
+-----------------------DIV30--
+Page 35
+        _YEAR-CONTINUED 1742
+e1      1 nov
+e2      4 nov
+e3      16 dec
+        _YEAR 1743
+e4      10 jan
+e5      11 feb
+e6      1 mar
+e7      10 mar
+e8      27 may
+e9      14 aug
+e10     17 oct
+e11     27 dec
+        _YEAR 1744
+e12     10 jan
+e13     13 feb          RMID-1842 Weyer, Laurentius Birth 1744-02-13
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    34
+Entry   1
+Year    1741
+Detail  file://./00154-01-21-A.png
+
+Transcription
+col
+c1      Die 11. Aprilis, ␤ circa 9 noctis.
+c2      12. ␤ Aprilis.
+c3      Joannes Georgius ␤ Loschert ␤ Margaretha
+c4      Joannes Philippus.
+c5      Philippus Müller
+c6      Taushung??.
+
+Match to RM database
+RMID-1844 Loschert, Johann Philipp Birth 1741-04-11
+
+-----------------------DIV30--
+Page    34
+Entry   2
+Year    1741
+Detail  file://./00154-01-21-A.png
+
+Transcription
+col
+c1      2. Maii circa ␤ 2 ? noni??
+c2      eadem
+c3      Joannes ?? ␤ Loschert ␤ Anna Maria
+c4      Joannes Franciscus.
+c5      Joannes ?? ␤ Georg Scheimer, ␤ ?? filia
+c6      Dem.
+
+Match to RM database
+RMID-1815 Loschert, Johann Framm Birth 1741-05-02
+
+-----------------------DIV30--
+Page    34
+Entry   10
+Year    1742
+Detail  file://./00154-01-21-B.png
+
+Transcription
+col
+c1      Die 24. January ␤ circa 7. vespertinus
+c2      25. ␤ January
+c3      Joannes Schürger. ␤ Anna.
+c4      Eva Barbara.
+c5      Eva Mathoi ␤ Ludwig filia.
+c6      sacerdos
+
+Match to RM database
+RMID-1816 Schürger, Eva Birth 1742-01-24
+
+-----------------------DIV30--
+Page    34
+Entry   15
+Year    1742
+Detail  file://./00154-01-21-C.png
+
+Transcription
+col
+c1      30. Aprilis ␤ circa 8. ??
+c2      Eadem.
+c3      Joes Georgius Weyer. ␤ Margaretha.
+c4      Joes Georgius.
+c5      Georgius Geisler
+c6      Dem.
+
+Match to RM database
+RMID-1829 Weyer, Johann Georg Birth 1742-04-30
+
+-----------------------DIV30--
+Page    35
+Entry   13
+Year    1744
+Detail  file://./00154-01-21-D.png
+
+Transcription
+col
+c1      13. February ␤ circa 2. ??
+c2      Eadem.
+c3      ?? Georgius ␤ Weyer. ␤ Margaretha
+c4      Laurentius.
+c5      Laurentius Michaely ␤ Öhinger p.m. ?? ␤ in Waldzell fili?
+c6      Dem.
+
+Match to RM database
+RMID-1842 Weyer, Laurentius Birth 1744-02-13
+
+-----------------------DIV30--

@@ -1,0 +1,90 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-18
+
+Parish      Waldzell
+Volume      3
+Page#       2
+Years       1825-1827
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   7
+
+Comments
+_TODO
+INTOUT  5305    F-3     i-18    p-02    entries 3,5 of 7
+?   Adam Otter  31 Oct 1795     1 Apr 1825
+-----
+?   1826    Sch�rger Johannes
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+??? where did this come from?
+
+e1  Adam Otter  TMG-2472
+e2  Sch�rger
+e4  Otter 30 Jun 1,1827     TMG-2435
+e6  y
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-18-A.png
+Acquired:       15-Oct-2019  15:29      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   1, 2
+
+Comments
+where is scan file ?
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      
+e2      
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-03-18-.png
+Acquired:           15-Oct-2019  15:29      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   3, 5
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+3       ?? Otter  Waldzell, 29 ?? 1803;  20 Jan 1827,  19 Nov 1805; 
+-------
+5       ?? Otter   31 Oct 1795 zu Waldzell ; 31 Oct 1795 zu Waldzell
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

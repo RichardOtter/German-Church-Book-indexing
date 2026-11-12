@@ -1,0 +1,86 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03685
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 60-61
+
+Archive-ID     ┠ 03685-02-04
+URL pg#        ┠ 36
+Years          ┠ 1803-1804
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-SINGLE
+Headers:       ┠ 
+Columns:       ┠ 4
+#Entries:      ┠ 6 + 7
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=36
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 60
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠      
+
+-----------------------DIV30--
+Page 61
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 
+Entry  ┠  
+Year   ┠ 
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 
+c1     ┠ ␤
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+????  who was in 1803-1804  ??
+
+===========================================DIV50==
+
+

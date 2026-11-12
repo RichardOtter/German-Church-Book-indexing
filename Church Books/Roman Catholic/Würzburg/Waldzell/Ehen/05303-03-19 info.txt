@@ -1,0 +1,126 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-19
+
+Parish      Waldzell
+Volume      1
+Page#       26-27
+Years       1794
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   6/5
+
+Comments
+Entry numbers are not absolute because top of page not imaged.
+
+RAVigus made a notation on the image of p27 saying "Note Bene". It points to the bottom partial line on the image page.
+I cannot understand its significance.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+p26
+_CONTINUE _YEAR 1793
+e1
+e2
+e3
+_YEAR 1794
+e4
+e5
+e6
+
+-----------------------------
+Entry   Page 27     1794
+_CONTINUE _YEAR 1794
+e1      4 Feb
+e2      10 Feb
+e3
+e4
+e5
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1  page 27     1794
+4 Feb   Heidenfelder    Joy Georgius Heidenfelder   Barbara     Anna Maria  Victor Öhring   Michaele Noth
+
+e2  page 27     1794
+10 Feb  Georg Adam Otter    Margaretha Öhring   Michaely et Dorothea    Georgio Adam Loschert et Michaeli 
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+marriage    10-Feb-1794     Waldzell
+man     RMID-2421   Line 5
+Georgius Adamus Otter                           1 cousin 5r
+b,ba    16-Feb-1763         Waldzell
+d           ?               ?
+    f   Georgius Adamus Otter
+    m   Anna Maria
+woman   RMID-2422   Line 91
+Margaretha Öhring
+b           ?           ?
+d           ?           ?
+    f   Michael Öhring
+    m   Dorothea
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 27; notation 6
+marriage    10 Feb 1794     recorded in Waldzell
+Adamus Otter
+    f   Adami Otter
+    m   Anna Maria
+Margaretha Öhringin
+    f   Michaelis Öhring
+    m   Dorothea
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-19-A.png
+Acquired:           2010-11  RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   2  contiguous
+
+Comments
+RAVigus wrote year 1794 in pencil on original photocopy.
+Entry numbers are not absolute because top of page not imaged.
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-W p027  1794 Otter & Öhring
+Marriage Record, Waldzell Church Records: p027  1794 Otter & Öhring
+
+RM:
+p27 - e2
+ChurchBook -Waldzell
+_EHE; Georg Adam Otter; 16 February 1763; Georg Adam Otter & Margaretha Öhring; 10 February 1794; p27 - e2; 5503; 03; 19; 26/27; 17 July 2024; RAVigus
+
+
+
+entry   RM-ID       Name                tags using source
+p27-e2  RMID-2421   Georg Adam Otter
+p27-e2  RMID-2422   Margaretha Öhring
+
+===========================================DIV50==
+===========================================DIV50==

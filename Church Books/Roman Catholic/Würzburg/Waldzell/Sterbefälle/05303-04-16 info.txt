@@ -1,0 +1,231 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-16
+
+Parish      Waldzell
+Volume      1
+Page#       26/27
+Years       1808-1809
+Record:     _STERBEFALL
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 8
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 26     1809
+_YEAR 1808
+e1
+e2
+e3
+e4
+e5
+e6
+e7
+e8
+e9
+e10
+e11
+e12
+_YEAR 1809
+e13     29 Jan 1809     Barbara Schürger
+e14     16/20 Mar 1809  Fridericus Josephus Otter   age 74 Anno
+e15     16/20 Mar 1809  Anna Maria [Amendin]        age 50 Anno
+e16     23 Apr
+e17     3 Aug       Georgius Adamus Loschert
+e18     20 Oct
+e19     21 dez
+
+-----------------------------
+Entry   Page 27     1810 -?
+e1      26 Jun    Margareta Otter
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e13      Page 26     1809
+29 Jan 1809     Barbara Schürger                        f Joannis Schürger      m Elizabeth Weyer(in)
+
+e14     16/20 Mar 1809  Fridericus Josephus Otter   age 74 Anno
+
+e17     Page 26     1809
+3 Aug 1809      Georgius Adamus Loschert    3d          f Henricus Loschert     m Catharina Brockner(in)
+
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+Line 6  TMG-2407    28  d   18-Jan-1736 WALDZELL    OTTER, FRIDERICUS   GEORGIUS OTTER  ANNA MELING         d   19-MAY-1763 WALDZELL    EHEN-20 16/26-MAR-1809  d   WALDZELL    DEATHS-26
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page , notation 
+
+RAVigus transcription
+4   26      29 Jan 1809     Barbara Schürger
+        Joannis Schürger        Elizabeth Weyer(in)
+5   26      16/20 Mar 1809  Fridericus Josephus Otter
+        74
+6   26      16/20 Mar 1809  Anna Maria [Amend(in)]
+        50
+7   26      3 Aug 1809      Georgius Adamus Loschert
+        3d  Henricus Loschert       Catharina Brockner(in)
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-04-16-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   total=8 contiguous
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+DR-CR-W p026
+Death Record, Waldzell Church Records: p026
+
+RM:
+p26 - e14
+ChurchBook -Waldzell
+_STERBEFALL; Friedrich Otter; 18 January 1736; ; 1809; p26 - e14; 5303; 04; 16; 26; 1 August 2023; RAVigus
+
+RM:
+p27 - e1
+ChurchBook -Waldzell
+_STERBEFALL; Margaretha Otter; 15 March 1797; ; 26 June 1810; p27 - e1; 5303; 04; 16; 26/27; 1 August 2023; RAVigus, RJOtter
+
+RMID-77     5   26      16/20 Mar 1809  Fridericus Josephus Otter
+        74
+
+===========================================DIV50==
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-04-16
+
+
+same image as last
+
+Parish      Waldzell
+Volume      1
+Page#       27
+Years       1810
+Record:     _STERBEFALL
+Width:      _SINGLE     probably _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 5
+
+Comments
+Clear handwriting
+In details, list c2 first because of odd layout on page.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 27     1810
+_YEAR 1810
+e1      26 Jun 1810     Margartha Otter(in)
+e2      7 Aug           Joannes leonanrdus Gerling 
+e3      19 Sep 1810     Joes Michael Otter
+e4      9 Nov 1810      Dorothea Michler(in)    wife of Joannis Michler
+_PARTIAL-ENTRY           wife of Joannis Michler
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 27     1810
+c2      Margaretha Otterin
+c1      26 Jun 1810     Georgi Adani Otter          <col2> Margartha Oehring
+
+e2      Page 27     1810
+c2      Joannes leonanrdus Gerling
+c1      7 Aug
+
+e3      Page 27     1810
+c2      Joes Michael Otter
+c1      19 Sep 1810
+        Andrea Otter            Maria Handlin
+
+e4      Page 27     1810
+c2      Dorothea Michlerin
+c1      9 Nov 1810      
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page , notation 
+
+RAVigus transcription
+1   27      26 Jun 1810     Margartha Otter(in) <TMG-2473>
+        Georgi Adani Otter      Margaretha Oehring
+2   27      19 Sep 1810     Joes Michael Otter (probably Johannes)<TMG-2511>
+        Andrea Otter            Maria Handl(in)
+3   27      9 Nov 1810      Dorothea Michler(in)
+            ?   ?               wife of Joannis Michler
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-04-16-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   5
+
+Comments
+2 columns, second column list principle person ?
+
+===========================================DIV50==
+RM Sources and Citations
+
+DR-CR-W p027
+Death Record, Waldzell Church Records: p027
+
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; _UNCITED; ; ; range 1727–1729; ; 5303; 04; 06; 7; 18 July 2024; RAVigus
+
+
+entry   RM-ID       Name                tags using source
+e2      RMID-2424   26 Jun 1810     Margartha Otter(in) 
+e3      RMID-2460   19 Sep 1810     Joes Michael Otter  
+
+===========================================DIV50==

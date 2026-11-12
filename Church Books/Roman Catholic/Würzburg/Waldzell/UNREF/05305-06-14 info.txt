@@ -1,0 +1,85 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-06-14
+
+Parish      Waldzell
+Volume      3
+Page#       ??
+Years       ????-????
+Record:     _OTHER  index Taufen and other events ??
+Width:      _DOUBLE
+
+Format:     _OTHER
+Headers:    _TODO
+Columns:    9
+#Entries:   22
+
+Comments
+Section of index with Otters
+Seems to be an index of Taufen because second column header is Familien & Tauf Namm
+Columns have roman numbers and Arabic numbers. Could be volume I, II or III and page number.
+columns may include other events
+Header line is fully visible. Absolute entry numbers
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+_HEADER-ROW
+e1      
+e2      
+e3      
+e4      
+e5      
+e6      
+e7      
+e8      
+e9      
+e10     
+e11     
+e12     
+e13     
+e14     
+e15     
+e16     
+e17     
+e18     
+e19     
+e20     
+e21     
+e22     
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+_HEADER-ROW      Page ??     YYYY
+c1      familien & Tauf Namen
+c2      B (band ?)
+c3      p (page ?)
+c4      ??
+c5      ??
+c6      ??
+c7      ??
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-06-14-A.png
+Acquired:           15-Oct-2019  15:29      RJO
+Orientation:        _PORTRAIT
+Entries in Image:   22
+
+Comments
+May be the right side of archive-image
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

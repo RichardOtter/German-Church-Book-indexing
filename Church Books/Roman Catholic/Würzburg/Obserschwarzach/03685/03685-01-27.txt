@@ -1,0 +1,89 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 46-47
+
+Archive-ID     ┠ 03685-01-27
+URL pg#        ┠ 28
+Years          ┠ 1828
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ single word
+Columns:       ┠ 8
+#Entries:      ┠ 6
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=28
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 46
+
+entry ┠ contents
+e1    ┠ 17 jul 1802                         Carolus
+e2    ┠ 19 aug 1802     Oberschwarzach      Eva Cunegunda
+e3    ┠ 16 aug 1802     Kammerforst         Andreas
+e4    ┠ 24 aug 1802     Wiebelsberg         Margaretha
+e5    ┠ 2 sept 1802     Oberschwarzach      Josephus
+e6    ┠  3   ???
+
+-----------------------DIV30--
+Page 47
+
+entry   contents
+
+A TABLE DOUBLE with right hand page numbered separately.
+Right hand side of the same table as on left
+Ignore this page number and cite the left page number.
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 46
+Entry  ┠ 
+Year   ┠ 1828
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 
+c1     ┠ ␤
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType   ┠
+EventPlace  ┠
+EventDate   ┠
+Name        ┠
+BirthDate   ┠
+Father      ┠
+Mother      ┠
+Godparent   ┠
+
+-----------------------DIV30--
+Match to RM database
+
+NF	    03685-01-27
+2268     Dürr, Georg Nikolaus               26 Aug 1802                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Johann Paulus and Geiersbach, Rosina Juliane Christina
+
+NOT FOUND
+
+===========================================DIV50==

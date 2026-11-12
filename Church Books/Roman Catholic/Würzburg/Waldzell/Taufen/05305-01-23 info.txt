@@ -1,0 +1,118 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-23
+
+
+Parish      Waldzell
+Volume      3
+Page#       19
+Years       1839
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   
+
+Comments
+The three PO from i-23 were not marked and are now confused.
+
+Try to reconstruct order: Date 1839  Is at top of 5305-01-23_A.png
+If notes are correct and $4 is Katharina Sch�rger, she is the second entry on 5305-01-23_B.png  That leaves 5305-01-23_C.png to contain entries 5 +6.
+Actually, 1839 divider may not be at top...
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      Georg Adamus Mehling    5 Mar 1839
+e2      Margaretha Abt  3 May 1839
+e3      Joh Adam Otter  A. Maria    9 Apr 1839
+e4      Maria Katharina Sch�rger    10 Apr 1839 
+e5      Joh. Michael Otter  7 Aug   
+e6      Geor A?? R�b    27 Oct 1839 
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-23-A.png
+Acquired:           16-Oct-2019  17:39      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   1, 2
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      Georg Adamus Mehling    5 Mar 1839
+e2      Margaretha Abt  3 May 1839
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-23-B.png
+Acquired:           16-Oct-2019  17:39      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   3, 4
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e3      Joh Adam Otter  A. Maria    9 Apr 1839
+e4      Maria Katharina Sch�rger    10 Apr 1839 
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-23-C.png
+Acquired:           16-Oct-2019  17:39      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   5, 6
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e5      Joh. Michael Otter  7 Aug   
+e6      Geor A?? R�b    27 Oct 1839 
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e4      TMG-2146    Maria Katharina Sch�rger    10 Apr 1839 
+e5      TMG-2429    Joh. Michael Otter  7 Aug   
+
+===========================================DIV50==

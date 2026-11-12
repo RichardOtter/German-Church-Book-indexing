@@ -1,0 +1,111 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-27
+Mat.pg#         28
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           46-47
+Years           1758-1761
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       14 + 18
+
+image           file://./00154-01-27.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=28
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 46
+        _YEAR-CONTINUED 1758
+e1      5 jun
+e2      10 jul
+e3      10 aug
+e4      9 sep
+e5      23 ot
+e6      28 dec
+         _YEAR 1759
+e7      28 may
+e8      24 jun
+e9      19 aug
+e10     25 aug          RMID-13736 Loschert, Anna Maria Birth 1759-08-25
+e11     14 sep
+e12     11 oct
+e13     25 oct
+e14     29 oct
+-----------------------DIV30--
+Page 47
+        _YEAR-CONTINUED 1759
+e1      20 nov
+e2      3 dec
+e3      22 dec
+        _YEAR 1760
+e4      2 feb
+e5      7 feb
+e6      18 mar
+e7      1 apr
+e8      10 jun
+e9      26 jul
+e10     23 sep
+e11     24 oct          RMID-13731 Loschert, Anna Maria Birth 1760-10-24
+e12     31 oct
+e13     5 nov
+        _YEAR 1761
+e14     12 jan
+e15     18 mar
+e16     12 apr
+e17     29 jun
+e18     25 oct
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    46
+Entry   19
+Year    1759
+Detail  file://./00154-01-27-A.png
+
+Transcription
+col
+c1      25. Aug ␤ ? 9 m? ␤ ✠
+c2      Eadem
+c3      Michael Loschert ␤ ? Margareha.
+c4      Anna ␤ Maria
+c5      Anna Maria ␤Greserin ? ?
+c6      Pat?
+
+Match to RM database
+RMID-13736 Loschert, Anna Maria Birth 1759-08-25
+
+-----------------------DIV30--
+Page    47
+Entry   11
+Year    1760
+Detail  file://./00154-01-27-B.png
+
+Transcription
+col
+c1      24. October ␤ posi 10 anm?
+c2      Eadem
+c3      Michael Loschert ␤ Margareha ??..
+c4      Anna ␤ Maria
+c5      Anna Maria ␤Greserin ? ?
+c6      ??
+
+Match to RM database
+RMID-13731 Loschert, Anna Maria Birth 1760-10-24
+
+-----------------------DIV30--
+
+

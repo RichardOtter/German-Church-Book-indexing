@@ -1,0 +1,131 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05237-02-07
+
+Parish      Volkach
+Volume      4
+Page#       ??
+Years       1823
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    5237-08-10.txt
+Columns:    12
+#Entries:   18
+
+Comments
+First 4 cols of info avail for all 18 entries
+All cols of info avail for 6 entries
+Year is 1823 for e4 to 49. Others not recorded.
+
+Not clear why these images were taken. Was looking for Georg Maier b~1828 Volkach.
+See a Jacob Mayer in 1823. Could be an unknown older brother.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     1823
+_HEADER-ROW
+e1      Nicolaus
+e2      Andreas
+e3      Johann Georg ??
+e4      Maria Anna          1823
+e5      Andreas Joseph      1823
+e6      Jacob Mayer         1823
+e7      Joh. Michel         1823
+e8      Heinrich            1823
+e9      Anna Barbara        1823
+e10     Catharina   
+e11     Georg   
+e12     Cheyrina
+e13     anonyna
+e14     Anna Catharina
+e15     Georg Adam
+e16     Wilhelm
+e17     Bicolaus
+e18     Francis ??
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5237-02-07-A.png
+Acquired:   14-Oct-2019  15.26      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   18
+
+Comments
+L side full length top to bottom
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     1823
+_HEADER-ROW
+e1      Nicolaus
+e2      Andreas
+e3      Johann Georg ??
+e4      Maria Anna
+e5      Andreas Joseph
+e6      Jacob
+e7      Joh. Michel
+e8      Heinrich
+e9      Anna Barbara
+e10     Catharina
+e11     Georg 
+e12     Cheyrina
+e13     anonyna
+e14     Anna Catharina
+e15     Georg Adam
+e16     Wilhelm
+e17     Bicolaus
+e18     Francis ??
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5237-02-07-B.png
+Acquired:   14-Oct-2019  15.26      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   4,5,6,7,8,9
+
+Comments
+absolute entry numbering comes from looking at full list in image A
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     1823
+e4      Maria Anna
+e5      Andreas Joseph
+e6      Jacob
+e7      Joh. Michel
+e8      Heinrich
+e9      Anna Barbara
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

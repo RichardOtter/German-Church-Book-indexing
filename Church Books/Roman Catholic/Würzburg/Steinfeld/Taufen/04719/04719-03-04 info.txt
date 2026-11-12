@@ -1,0 +1,57 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      04719-03-04
+
+Parish      Steinfeld
+Volume      D1
+Page#       ??
+Years       ????
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   total=2 contiguous
+
+Comments
+Not clear who is the person of interest.
+
+The two entries appear to be at the bottom of the page.
+No year recorded.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     YYYY-YYYY
+e1      22 Apr  Johann
+e2      13 May
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     4719-03-04-A.png
+Acquired:   11-Apr-2012  13:07      Armin Otter
+Orientation:    _LANDSCAPE
+Entries in Image:   total=2  contiguous
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==
+===========================================DIV50==

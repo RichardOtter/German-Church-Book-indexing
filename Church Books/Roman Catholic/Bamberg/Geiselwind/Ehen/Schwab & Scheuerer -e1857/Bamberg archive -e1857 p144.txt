@@ -1,0 +1,191 @@
+Bamberg archive
+
+Comments
+Credit for the image and interpretation-
+"Marriage record for Georg Schwab and Eva Margareta Scheuerer
+from Bamberg diocese visit by Ulrike Bergauer (Scan #17-2)
+May 2016"
+Source for the image did not give archive information
+so archive call file numbers, volume numbers, book names not available.
+
+
+===========================================DIV50==
+Description of Archive-Image
+
+Signatur#   
+Fiche#      
+Image#      
+
+Parish      Geiselwind ???
+Volume      
+Page#       144
+Years       1857-1858
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    TODO
+Columns:    18 = 10/8
+#Entries:   3 +
+
+Comments
+Only one image available.
+The first column seems to be the entry number for the page (or perhaps the year)
+
+Row divider lines do not correspond to entries.
+Rows 1, 2, 6 and 8 are of unknown content and do not have entry numbers
+For this image, label rows that have no entry serial number "rN"
+and entry lines as "eN"
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 144 L +R
+
+header          
+_YEAR 1857
+r1      11 Apr 1857     Row text written across columns.
+r2      25 Mai 1857     Row text written across columns.
+e1      26 Mai 1857
+e2      25 Aug 1857
+r6
+e3       1 Sep 1857
+_YEAR 1858
+e4      19 Jan 1858
+r8
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+header      
+h1      Laufunter Nummer (entry #)
+h2      Tag, Monat und Jahr des Trauung
+h3      Name und Zuname des Bräutigam
+h4      Geburtsort und Zeit
+h5      Stand (=Beruf)_ und Religion
+h6      Landgericht , Aufenthalts Ort, Hausnummer
+h7      Namen und Zunamen der Eltern des Bräutigam; Name und Geschlechtsnmae Mutter
+h8      Ledig oder Wittwer
+h9      Name und Zuname der Braut
+h10     Geburtsort und Zeit
+h11     Stand und Religion
+h12     Landgericht Aufenthalts Ort, Hausnummer
+h13     Namen und Zunamen der Eltern der Braut,  Name und Geschlechtsname Mutter
+h14     Ledig oder Wittwer
+h15     Names des trauenden Pfarrers oder seines Stellvertreters 
+h16     Namen und Zunamen der Zeugen der Brautleute 
+h17     <?>
+h18     <?>
+
+e2      
+c1      2
+c2      25 Aug 1857 Pfarr Geiselwind <25 Aug 1857 Pfarrkirche Geiselwind>
+c3      Georg Schwab
+c4      Neugrub 11 Nov 1831
+c5      Bauer; katholisch
+c6      Scheinfeld, Neugrub N. 7
+c7      David Schwab; Dorothea Rückel
+c8      ledig 
+c9      Eva Marg. Scheurer
+c10     Füttersee 25 Nov 1816
+c11     Bauerstochter; katholisch
+c12     Scheinfeld, Füttersee N. 1 
+c13     Michael Scheuerer, Dorothea Dittmayer
+c14     Ledig
+c15     <?>
+c16     Michael Schaumann von Füttersee und David Schwab von Neugrub
+c17     Scheinfeld 18 August 1857
+c18     <?>
+
+
+
+
+Original with minor editing. See accompanying MS Word file
+parts of transcript are in red. 
+Probably means it was difficult to read,
+or in some cases, fills in abbreviated text.
+
+Tag, Monat und Jahr des Trauung
+Day, Month and Year of Wedding
+25 Aug 1857 Pfarrkirche Geiselwind
+
+Name und Zuname des Bräutigam
+First and last name of the groom
+Georg Schwab
+
+Geburtsort und Zeit
+Birth town and date
+Neugrub 11 Nov 1831
+
+Stand (=Beruf)_ und Religion
+Occupation (?) and Religion
+Farmer Bauer; katholisch
+
+Landgericht , Aufenthalts Ort, Hausnummer
+District, town, house number
+Scheinfeld, Neugrub N. 7
+
+Namen und Zunamen der Eltern des Bräutigam; Name und Geschlechtsnmae Mutter
+First and last names of parents of the groom
+David Schwab; Dorothea Rückel
+
+Ledig oder Wittwer
+Single or widowed
+ledig (unmarried)
+
+Name und Zuname der Braut
+First and last names of the bride
+Eva Marg. Scheurer
+
+Geburtsort und Zeit
+Birth town and date
+Füttersee 25 Nov 1816
+
+Stand und Religion
+Occupation (?) and Religion
+farmer's daughter (?) Bauerstochter; katholisch
+
+Landgericht Aufenthalts Ort, Hausnummer
+District, town, housenumber
+Scheinfeld, Füttersee N. 1 
+
+Namen und Zunamen der Eltern der Braut,  Name und Geschlechtsname Mutter
+First and last names of the parents of the bride
+Michael Scheuerer, Dorothea Dittmayer
+
+Ledig oder Wittwer
+Single or Widowed
+single
+
+Names des trauenden Pfarrers oder seines Stellvertreters :
+kann ich nicht genau lesen
+Namen und Zunamen der Zeugen der Brautleute
+Michael Schaumann von Füttersee und David Schwab von Neugrub
+
+Civil License (granted in) 
+Scheinfeld 18 August 1857
+
+
+
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./Georg%20Schwab%20and%20Eva%20Margareta%20marriage%20(Ulrike%20Bergauer%2017-2).pdf
+Acquired:           May 2016 Ulrike Bergauer
+Orientation:        _LANDSCAPE
+Entries in Image:   8 rows, probably 4 entries
+
+Comments
+Bottom of archive image not visible in captured image.
+

@@ -1,0 +1,194 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-30
+
+Parish      Waldzell
+Volume      1
+Page#       48/49
+Years       1775-1778
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   > 1
+
+Comments
+
+NOTES  parents unclear in row 10
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page    48
+        _HEADER-ROW
+e1      Jan 2
+e2      
+e3      
+e4      
+e5      
+        _YEAR 1776
+e6      
+e7      
+e8      6 Sep
+e9      
+-----------------------------
+Page    49
+        _HEADER-ROW
+e1      25 Sep
+e2      
+e3      21 Nov
+        _YEAR 1777
+e4      
+e5      12 Mar
+e6      22 Mar
+e7      19 Jul
+e8      
+e9      
+        _YEAR 1778
+e10     3 Jan
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page    48
+Entry   1
+Year    1775
+Detail  
+
+Transcription
+col
+c1      2 Jan
+c2      eoden
+c3      Fridericus / Otter et Elisa- / betha ?
+c4      Maria Veronica
+c5      Maria / Veronica Grapin / aus ?
+        from Rainer Otter's GEDCOM Witness: Maria Veronica Gru�
+c6      ?
+
+
+Page    48
+Entry   8
+Year    1776
+Detail  
+
+Transcription
+col
+c1      Die 6 September
+c2      eoden
+c3      
+c4      Theobaldus Josephus
+c5      Theobaldus Mehling
+        From Rainer Otter's GEDCOM  Witness Theobaldus Mehling
+c6      ?
+
+
+e10     Page 49     1778
+c1      Die 3 Jan
+c2      eoden
+c3      JOHANNIS MICHAEL OTHER  / GERLADZLIN
+c4      MARIA MAGDALENA
+c5      MARIA MAGDALENA / ? / ?
+c6      ?
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2503    Line 16
+Maria Veronica Otter                3 gg aunt
+b,ba    05-Feb-1775
+    f   Freidrich Otter
+    m   Elisabetha Amend
+
+TMG-2495    Line 17
+Theobaldus Josephus Otter           2 cousin 5 r
+b,ba    6-Sep-1776
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+TMG-NONE    Line 18
+Other, Maria Magdalena
+B,Ba    03-Jan-1778
+    F   Johannis Michael Other
+    M   Gerladzlin
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 48, notation 15
+Otter, M. Veronica
+2-Feb-1775
+
+DAW; PF. Waldzell; Fiche 1; page 48, notation 16
+Otter, Theobaldus Josephus
+6-Sep-1776
+
+DAW; PF. Waldzell; Fiche 1; page 49, notation 17
+Otter, M. Magdal
+3-Jan-1778
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-30-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-30-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1556
+BAP WCR-p048-Otter,Maria Veronica; Theobaldus Jos 
+ Waldzell Church Book - Baptisms, p048-Otter, Maria Veronica & Theobaldus Jos
+
+RM:
+p48 -e01
+ChurchBook -Waldzell
+_TAUFE; Maria Veronica Otter; before 5 February 1775; ; 5 February 1775; p48 -e01; 5303; 01; 30; 48/49; 17 July 2024; RAVigus
+
+
+RM:
+p49 - e10
+ChurchBook -Waldzell
+_TAUFE; Maria Magdalena Other; before 3 January 1778; ; 3 January 1778; p49 - e10; 5303; 01; 30; 48/49; 1 August 2023; RAVigus
+
+RM:
+p48 -e8
+ChurchBook -Waldzell
+_TAUFE; Theobaldus Josephus Otter; before 6 September 1776; ; 6 September 1776; p48 -e8; 5303; 01; 30; 48/49; 1 August 2023; RAVigus
+
+entry   RM-ID       Name                tags using source
+p48-e1  TMG-2503    Maria Veronica Otter    name, father, mother, baptism
+p48-e8  TMG-2495    Theobaldus Josephus Otter
+p49-e10 TMG-NONE        OTHER, MARIA MAGDALENA
+
+===========================================DIV50==

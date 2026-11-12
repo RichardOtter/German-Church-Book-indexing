@@ -1,0 +1,55 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-15
+
+Parish      Waldzell
+Volume      3
+Page#       11
+Years       1832
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+4
+5
+6   might be Veronika Otter b1831
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-15-A.png
+Acquired:           16-Oct-2019  17:38      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   4, 5, 6
+
+Comments
+entries 4, 5, & 6 were copied as halves with overlap.
+Since they were adjacent on archive-image, couldn't they have been copied together?
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e6      TMG-2485    Veronika Otter  ????
+
+===========================================DIV50==

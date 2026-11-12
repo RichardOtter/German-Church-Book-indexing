@@ -1,0 +1,91 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03685
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 77
+
+Archive-ID     ┠ 03685-02-20
+URL pg#        ┠ 52
+Years          ┠ 1806
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ numbered columns see fir instance at TODO
+Columns:       ┠ 13
+#Entries:      ┠ 8
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=52
+
+Comments
+Row dividers for months
+
+????   03685-02-05 has the first numbered columns, presumably the same
+????   headings as in 03685-02-04 (also 8 columns)  
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 77
+
+entry  ┠ contents
+e1     ┠ 28 feb 1606
+e2     ┠  4 mar 1806
+e3     ┠  9 mar 1806
+e4     ┠ 15 mar 1806
+e5     ┠ 21 mar 1806
+e6     ┠ 29 mar 1806
+e7     ┠ 30 mar 1806
+e8     ┠  3 apr 1896
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 77
+Entry  ┠ 
+Year   ┠ 
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 
+c1     ┠ ␤
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+NOT FOUND
+
+NF	    03685-02-20
+2269     Haag, Katharina Luisa              20 Mar 1806                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+===========================================DIV50==

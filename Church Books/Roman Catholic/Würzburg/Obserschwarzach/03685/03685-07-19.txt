@@ -1,0 +1,90 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03685
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 311
+
+Archive-ID     ┠ 03685-07-19
+URL pg#        ┠ 229
+Years          ┠ 1846
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ none- same as previous
+Columns:       ┠ 12
+#Entries:      ┠ 12
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=229
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 311
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ Georg Peter ␤ Rädler ␤ Wiebelsberg
+e12    ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 311
+Entry  ┠  11
+Year   ┠ 1846
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 
+c1     ┠ Georg Peter ␤ Rädler ␤ Wiebelsberg
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+
+F	    03685-07-19
+4632     Rädler, Georg Peter                20 Sep 1846                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+
+===========================================DIV50==

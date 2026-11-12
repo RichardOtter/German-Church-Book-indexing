@@ -1,0 +1,109 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-15
+
+Parish      Waldzell
+Volume      1
+Page#       24/25
+Years       1804-1805
+Record:     _STERBEFALL
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 4
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 24     1804-1805
+_YEAR 1803
+e1
+e2
+e3
+_YEAR 1804
+e4
+e5      Die 25 August   Obit J. Michael Geisler
+e6      9 Sep 1806      Henricus Michler            10d Theobald Michler        Catharina Gron(in)
+_YEAR 1805
+e7      7 Jan 1805      Adamus Otter                80      ?   ?
+e8      21 Mar 1805     Johannes Georgius Schürger      22d Johanis Schürger    Maria Otter(in)
+_PARTIAL-ENTRY   14 Apr  Michael; Catharina
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e?1     Page 24     1804
+Die 25 August <1804>    Obit J. Michael Geisler vidmexus
+                        con ??? ??? ??? ??? ???
+                        circa??  86 Annorum.
+
+e?2     Page 24     1804
+Die 9 Sep <1804>        Henricus 10  / Theobald / Michler et  Catharina Gron(in)
+
+e?3     Page 24     1805
+Die 7 Jan <1805>        Obit Adamus Otter / 80 Annorum / ???
+
+e?4     Page 24     1805
+Die 21 Mar <1805>       Obit Johannes Georgius Schürger 22d / Johanis Schürger / Maria Otter(in)
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+DR-CR-W p024
+Death Record, Waldzell Church Records: p024
+
+e3 could be
+RMID-2408       e3  Adamus Otter        7 Jan <1805>        Obit Adamus Otter / 80 Annorum 
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+Line 4  TMG-2457    24  cd  28 AUG 1727 WALDZELL    OTTER, GEORGIUS ADAMUS  GEORGIUS OTTER  ANNA MELING         d   16-FEB-1756 WALDZELL    EHEN-18 07-JAN-1805 d   WALDZELL    DEATHS-24
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 4; page 24, notation <first number in list>
+
+8   24      9 Sep 1806      Henricus Michler
+    10d Theobald Michler        Catharina Gron(in)
+
+9   24      7 Jan 1805      Adamus Otter
+    80      ?   ?
+
+10  24      21 Mar 1805         Johannes Georgius Schürger
+    22d Johanis Schürger    Maria Otter(in)
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-04-15-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   total=4  contiguous
+
+Comments
+2 columns, date and entry.
+Entry numbers are not absolute because the top of page was not imaged.
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+p24 - e4
+ChurchBook -Waldzell
+_STERBEFALL; Georg Adam Otter; ; ; 7 January 1805; p24 - e4; 5303; 04; 15; 24/25; 18 July 2024; RAVigus, RJOtter
+
+===========================================DIV50==

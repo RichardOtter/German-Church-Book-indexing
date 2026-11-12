@@ -1,0 +1,161 @@
+03689	Pfarrmatrikel Oberschwarzach (Taufen) (inkl. Register)	1886–1926
+
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=1
+-----------
+Register type
+Taufen
+Date range start
+Jan. 1, 1886
+Date range end
+Dec. 31, 1926
+Description
+Taufen 1886–1926;
+(inkl. Register).
+
+Umfang
+1 Band (3,0 cm)
+
+Provenienz
+Pfarrei Oberschwarzach
+
+Zitation
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien, Nr. 3689
+(Bitte geben Sie beim Zitieren der Fundstelle auch die jeweilige Kasualie (z. B. Taufen), den (Teil-)Ort, das Jahr und die Seitenangabe an)
+
+Alte Archivsignatur
+Oberschwarzach, Band 8
+
+Matrikelband vollständig online
+Nein
+
+Microfilm identifier
+Oberschwarzach, Band 8, Fiche 1–7
+Storage location
+Archiv und Bibliothek des Bistums Würzburg (ABBW)
+-----------
+
+===========================================DIV50==
+RJO analysis
+3 fiche
+fiche	# images	last URLpg    pages
+1		30          31             1-27
+2		34          66            28-61
+3		26          93            62-87
+
+
+===========================================DIV50==
+fiche	# images	last URLpg  pages
+1		30          31             1-27
+
+0		fiche title
+1		URLpg  	p 
+
+1		cover
+2		
+3		wave symbol
+4		_TAUFE 1886     _CONTINUED
+5		
+6		
+7		_TAUFE 1886
+8		_TAUFE 1886-1887   === YEAR ===
+9		
+10		
+11		
+12		_TAUFE 1887-1888   === YEAR ===
+13		
+14		
+15		
+16		
+17		
+18		_TAUFE 1888-1889   === YEAR ===
+19		
+20		
+21		
+22		
+23		_TAUFE 1890   === YEAR ===
+24		
+25		
+26		
+27		_TAUFE 1890-1891   === YEAR ===
+28		
+29		
+30		
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+2		34          66            28-61
+
+0		fiche title
+1		URLpg  	p 
+
+1		
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		
+31		
+32		
+33		
+34		
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+3		26          93            62-87
+
+0		fiche title
+1		URLpg  	p 
+
+1		
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		
+21		
+22		
+23		
+24		
+25		
+26		
+
+===========================================DIV50==
+===========================================DIV50==

@@ -1,0 +1,192 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-06
+
+Parish      Waldzell
+Volume      1
+Page#       6/7
+Years       1727-1729
+Record:     _STERBEFALL
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 14
+
+Comments
+Cannot see top of page. Not absolute entry numbers.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 7      1727-1729
+_CONTINUE 1722
+e1
+y 1723
+e2 - 5
+y 1724
+e6
+y 1725
+e7-10
+y 1726
+e11-14
+
+_YEAR 1727
+e15      21 Feb      Barbara ??  Meling  ??
+e16      2 Mar       Barbara
+e17      3 May       Joannes Heidenfelder
+_YEAR 1728
+e18      27 Feb
+e19      ---
+e20      7 Jun       Jung Anna
+e21      11 Sept     Dorothea
+e22      17 Oct      Magdalena Georg Loschert
+_YEAR 1729
+e23      2 Jan       Michael Meling
+e24     1 Feb       Michael Sendelbach
+e25     12 Feb      Ottilia
+e26     27 Marz     Georgius
+e27     14 April    Caspar
+e28    31 August   Maria Margaretha
+
+
+new scan p7 right
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+None
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-06-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   14
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-06-B.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-06-C.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+p7 - e25
+ChurchBook -Waldzell
+_STERBEFALL; Ottilia Oderin; 1859; ; 12 February 1729; p7 - e25; 5303; 04; 06; 6/7; 18 July 2024; RROtter
+
+
+
+===========================================DIV50==
+===========================================DIV50==
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-06
+
+
+Parish      Waldzell
+Volume      1
+Page#       4
+Years       1723-1729
+Record:     _STERBEFALL
+Width:      _SINGLE
+
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   > 23
+
+Comments
+Only one, partial page image, so entry numbers are not absolute
+Seems like that in 2012, there was no 25% of page max rule enforced by the software.
+Entry numbers are not absolute
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 68     1723-1729
+_PARTIAL-ENTRY   22 Oct
+R1      5 Dec   
+_YEAR 1724
+R2      7 Aug   
+_YEAR 1725
+e3      4 Jan   Michael Meling
+e4      20 Feb  Anna Barbara
+e5      31 Mar
+e6      12 Apr  Anna Maria
+_YEAR 1726
+e7      4 Mar
+e8      14 Jul
+e9      15 Jul
+e10     25 Nov
+_YEAR 1727
+e11     21 Feb
+e12     2 May
+e13     7 May
+_YEAR 1728
+e14     27 Feb
+e15     7 Jun
+e16     11 Oct
+e17     17 Oct
+_YEAR 1729
+e18     2 Jan
+e19     1 Feb
+e20     12 Feb
+e21     27 Mar
+e22     14 Apr
+e23     31 Aug
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-04-06-D.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   23
+
+Comments
+Image is of Bottom of page
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

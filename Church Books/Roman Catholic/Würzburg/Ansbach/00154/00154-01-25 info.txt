@@ -1,0 +1,102 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-25
+Mat.pg#         26
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           42-43
+Years           1754-1756
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       
+
+image           file://./00154-01-25.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=26
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 42
+        _YEAR-CONTINUED 1754
+e1       2 mar
+e2       13 apr
+e3       18 apr
+e4       1 jun
+e5       14 sep
+e6       25 oct
+          _YEAR 1755
+e7       20 jan           RMID-13734 Loschert, Johann Adam Birth 1755-01-20
+e8       17 feb
+e9       26 feb
+e10      13 apr
+e11      25 jun
+e12      9 aug
+e13      19 aug
+-----------------------DIV30--
+Page 43
+         _YEAR-CONTINUED 1755
+e1       29 oct
+e2       2? sep
+e3       4 dec
+         _YEAR 1756
+e4       14 jan
+e5       19 mar
+e6       23 mar
+e7       25 mar
+e8       17 jun
+e9       29 aug          RMID-13740 Loschert, Maria Margaretha Birth 1756-08-29
+e10      Eadem 20 aug
+e11      13 sep
+e12      4 nov
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    42
+Entry   7
+Year    1755
+Detail  file://./00154-01-25-A.png
+
+Transcription
+col
+c1      20. January ␤ circa 3. m??
+c2      Eadem
+c3      Michael Loschert. ␤ . Margaretha
+c4      Joanes ␤ Adamus
+c5      Adamus Joamis ?? ␤ Schrins?? filius.
+c6      Dem??.
+
+Match to RM database
+RMID-13734 Loschert, Johann Adam Birth 1755-01-20
+
+-----------------------DIV30--
+Page    43
+Entry   9
+Year    1756
+Detail  file://./00154-01-25-B.png
+
+Transcription
+col
+c1      29. Augusti, ␤ circa 1. ??
+c2      Eadem
+c3      Michael Loschert ␤ Margaretha.
+c4      Maria ␤ Margaretha
+c5      Maria Marga- ␤ retha ␤ pfeufer?? filia.
+c6      Dem??.
+
+Match to RM database
+RMID-13740 Loschert, Maria Margaretha Birth 1756-08-29
+
+-----------------------DIV30--
+

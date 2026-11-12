@@ -1,0 +1,134 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-02-05
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5305-02-05-A.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+Entries in Image:   9
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5305-02-05-B.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+Entries in Image:   9
+
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5305-02-05-C.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+Entries in Image:   9
+
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-02-05
+
+Parish      Waldzell
+Volume      3
+Page#       31
+Years       1853-1854
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   10
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+-----------------------DIV30--
+        _HEADER-ROW
+e1
+e2
+e3
+e4      Johann ?? Otter; 23.Marz.1853; Andreas Otter
+e5
+e6
+e7
+e8      TMG-27      Georg Martin Otter; Andreas Otter, 9 Apr 1853
+e9      ??
+e10     Mehling
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-02-05-D.png
+Acquired:           11-Apr-2012  13:06      Armin Otter
+Orientation:        _LANDSCAPE
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-02-05-E.png
+Acquired:           11-Apr-2012  13:06      Armin Otter
+Orientation:        _LANDSCAPE
+Entries in Image:   
+
+Comments
++++++++++++++++++++++++DIV30++
+Entries List
+
+_HEADER-ROW
+-----------------
+e4      Johann ?? Otter; 23.Marz.1853; Andreas Otter
+-----------------
+e8      TMG-27      Georg Martin Otter; Andreas Otter, 9 Apr 1853
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-02-05-B.png
+Acquired:           16-Oct-2019  17:41      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   4, 8, 9, 10
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e4      Johann ?? Otter; 23.Marz.1853; Andreas Otter
+--------
+e8      TMG-27      Georg Martin Otter; Andreas Otter, 9 Apr 1853
+e9      ??
+e10     Mehling
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e8      TMG-27      Georg Martin Otter; Andreas Otter, 9 Apr 1853
+
+===========================================DIV50==

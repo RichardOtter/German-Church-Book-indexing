@@ -1,0 +1,759 @@
+03685	Pfarrmatrikel Oberschwarzach (Taufen – Ehen – Sterbefälle) (inkl. Register)	1797–1855
+
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=1
+
+-----------
+Register type
+Taufen – Ehen – Sterbefälle
+Date range start
+Jan. 1, 1797
+Date range end
+Dec. 31, 1855
+Description
+Taufen 1797–1855;
+Ehen 1797–1855;
+Sterbefälle 1797–1855;
+(inkl. Register).
+
+Umfang
+1 Band (14,2 cm)
+
+Provenienz
+Pfarrei Oberschwarzach
+
+Zitation
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien, Nr. 3685
+(Bitte geben Sie beim Zitieren der Fundstelle auch die jeweilige Kasualie (z. B. Taufen), den (Teil-)Ort, das Jahr und die Seitenangabe an)
+
+Alte Archivsignatur
+Oberschwarzach, Band 4
+
+Alt-/Vorsignaturen
+AIU1914: 235,24 | PBV1943: Oberschwarzach, Band 4
+
+Matrikelband vollständig online
+Ja
+
+Microfilm identifier
+Oberschwarzach, Band 4, Fiche 1–17
+Storage location
+Archiv und Bibliothek des Bistums Würzburg (ABBW)
+-----------
+
+===========================================DIV50==
+RJO analysis
+17 fiche
+
+fiche	# images	last URLpg  pages
+1		30          31          1-53
+2		34          66          54-95
+3		35          102         96-165
+4		35          138         166-224
+5		34          173         225-257
+6		35          209         258-292
+7		35          245         293-327
+8		31          277         328-365
+9		33          311         366-21
+10		35          347         22-80
+11		32          380         81-119
+12		32          413         116-29
+13		35          449         30-92
+14		35          485         93-134
+15		35          521         135-169
+16		35          557         170-204
+17		13          571         205-217
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+1		30          31          1-53
+
+0		fiche title
+1		URLpg 2 	p cover
+
+1			
+2		
+3		wave symbol
+4		_TAUFEN		1797
+5		
+6		
+7		
+8		
+9		_TAUFEN		1797-1798
+10		
+11		
+12		
+13		
+14		
+15		_TAUFEN		1799-1800
+16		_TAUFEN		1800
+17		_TAUFEN		1800
+18		_TAUFEN		1800
+19		_TAUFEN		1800
+20		_TAUFEN		1800-1801
+21		_TAUFEN		1801
+22		_TAUFEN		1801
+23		_TAUFEN		1801-1802
+24		_TAUFEN		1802
+25		_TAUFEN		1802
+26		_TAUFEN		1802
+27		_TAUFEN		1802
+28		_TAUFEN		1802-1803
+29		
+30		_TAUFEN		1803
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+2		34          66          54-95
+
+0		fiche title
+1		URLpg 33		p 54
+
+1			
+2		_TAUFEN		1803
+3		
+4		
+5		_TAUFEN		1803-1804
+6		
+7		
+8		
+9		
+10		
+11		
+12		_TAUFEN		1804-1805
+13		
+14		
+15		
+16		
+17		
+18		_TAUFEN		1805-1806	13 numbered columns across both sides
+19		_TAUFEN		1806
+20		_TAUFEN		1806
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFEN		1806-1807
+31		
+32		
+33		
+34		_TAUFEN		1808
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+3		35          102         96-165
+
+0		fiche title
+1		URLpg 68	p 96-97
+
+1		_TAUFEN		1808
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFEN		1811
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_TAUFEN		1814
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFEN		1817
+31		
+32		
+33		
+34		
+35		_TAUFEN		1819
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+4		35          138         166-224
+
+0		fiche title
+1		URLpg 194	p 166-167
+
+1		_TAUFEN		1819
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFEN		1822
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_TAUFEN		1825
+21		
+22		
+23		_TAUFEN		1826-1827
+24		
+25		
+26		
+27		_TAUFEN		1827
+28		_TAUFEN		1827
+29		_TAUFEN		1827-1828
+30		_TAUFEN		1828
+31		_TAUFEN		1828
+32		
+33		_TAUFEN		1828-1829
+34		
+35		_TAUFEN		1829
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+5		34          173         225-257
+
+0		fiche title
+1		URLpg 140	p 225
+
+1		_TAUFEN		1829
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFEN		1832
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_TAUFEN		1834
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFEN		1835
+31		
+32		
+33		
+34		_TAUFEN		1836
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+6		35          209         258-292
+
+0		fiche title
+1		URLpg 175	p 258
+
+1		_TAUFEN		1836
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFEN		1838
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_TAUFEN		1829-1830
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFEN		1841-1842
+31		
+32		
+33		
+34		
+35		_TAUFEN		1842-1843
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+7		35          245         293-327
+
+0		fiche title
+1		URLpg 211	p 293
+
+1		_TAUFEN		1843
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFEN		1844
+11		
+12		
+13		
+14		_TAUFEN		1845
+15		_TAUFEN		1845
+16		_TAUFEN		1845-1846
+17		
+18		
+19		
+20		_TAUFEN		1846
+21		_TAUFEN		1846-1847
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFEN		1847
+31		
+32		
+33		
+34		
+35		_TAUFEN		1850
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+8		31          277         328-365
+
+0		fiche title
+1		URLpg 247	p 328
+
+1		_TAUFEN		1850-1851
+2		_TAUFEN		1851
+3		
+4		_TAUFEN		1851
+5		_TAUFEN		1851-1852
+6		_TAUFEN		1852
+7		_TAUFEN		1852
+8		_TAUFEN		1852
+9		_TAUFEN		1852
+10		_TAUFEN		1853
+11		_TAUFEN		1853
+12		_TAUFEN		1853
+13		_TAUFEN		1853
+14		_TAUFEN		1853-1854
+15		
+16		
+17		
+18		
+19		
+20		_TAUFEN		1855
+21		_TAUFEN		1855
+22		_TAUFEN		1855
+23		_TAUFEN		1855
+24		_TAUFEN		1855
+25		_TAUFEN		INDEX   =========================================
+26		
+27		
+28		
+29		
+30		
+31		_TAUFEN		INDEX
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+9		33          311         366-21
+
+0		fiche title
+1		URLpg 279	p 366-367
+
+1		_TAUFEN		INDEX
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		_TAUFEN		INDEX
+20		Double circle symbol
+21		_EHEN	1797
+22		
+23		
+24		
+25		
+26		_EHEN	1800
+27		
+28		
+29		
+30		_EHEN	1804
+31		
+32		
+33		_EHEN	1806
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+10		35          347         22-80
+
+0		fiche title
+1		URLpg 313		p 22
+
+1		_EHEN	1806
+2		_EHEN	1806-1807
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_EHEN	1812-1813
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_EHEN	1820
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_EHEN	1831
+31		_EHEN	1831-1832
+32		
+33		
+34		
+35		_EHEN	1835
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+11		32          380         81-119
+
+0		fiche title
+1		URLpg 349	p 87
+
+1		_EHEN	1836
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_EHEN	1843
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_EHEN	1851
+21		
+22		
+23		_EHEN	1853
+24		_EHEN	1854
+25		_EHEN	1855
+26		_EHEN	INDEX   =======================
+27		
+28		
+29		
+30		_EHEN	INDEX
+31		
+32		_EHEN	INDEX
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+12		32          413         116-29
+
+0		fiche title
+1		URLpg 382	p 116-117
+
+1		_EHEN	INDEX
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_EHEN	INDEX
+11		
+12		cross symbol
+13		_STERBFÄLLE		1797
+14		
+15		
+16		
+17		
+18		
+19		
+20		_STERBFÄLLE		1801-1802
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		
+31		_STERBFÄLLE		1905
+32		_STERBFÄLLE		1805-1806
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+13		35          449         30-92
+
+0		fiche title
+1		URLpg 415	p 30
+
+1			
+2		
+3		
+4		
+5		_STERBFÄLLE		1807
+6		
+7		
+8		
+9		
+10		_STERBFÄLLE		1808
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_STERBFÄLLE		1813
+21		
+22		
+23		
+24		
+25		_STERBFÄLLE		1815
+26		
+27		
+28		
+29		
+30		_STERBFÄLLE		1818
+31		
+32		
+33		
+34		
+35		_STERBFÄLLE		1822
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+14		35          485         93-134
+
+0		fiche title
+1		URLpg 451	p 93-94
+
+1		_STERBFÄLLE		1822-1823
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_STERBFÄLLE		1827-1828
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_STERBFÄLLE		1831
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_STERBFÄLLE		1833
+31		
+32		
+33		
+34		
+35		_STERBFÄLLE		1824
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+15		35          521         135-169
+
+0		fiche title
+1		URLpg 487	p 135
+
+1		_STERBFÄLLE		1825
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_STERBFÄLLE		1836
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_STERBFÄLLE		1838
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_STERBFÄLLE		1841
+31		
+32		
+33		
+34		
+35		_STERBFÄLLE		1842
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+16		35          557         170-204
+
+0		fiche title
+1		URLpg 523	p 170
+
+1		_STERBFÄLLE		1842
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_STERBFÄLLE		1844
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_STERBFÄLLE		1846
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_STERBFÄLLE		1849
+31		
+32		
+33		_STERBFÄLLE		1850
+34		
+35		_STERBFÄLLE		1851
+
+===========================================DIV50==
+fiche	# images	last URLpg   pages
+17		13          571         205-217
+
+0		fiche title
+1		URLpg 559	p 205
+
+1		_STERBFÄLLE		1851
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_STERBFÄLLE		1854-1855
+11		
+12		
+13		_STERBFÄLLE		1855
+
+===========================================DIV50==
+===========================================DIV50==
+
+

@@ -1,0 +1,63 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      04715-06-25
+
+Parish      Steinfeld
+Volume      B3
+Page#       ??
+Years       ????
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    5237-08-10.txt
+Columns:    13
+#Entries:   11
+
+Comments
+Looking for Maria Stamm b5 Jan 1863.
+Year not recorded.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     YYYY
+e1      _NO-DATA 
+e2      _NO-DATA 
+e3      Stamm
+e4      
+e5      Stamm
+e6      
+e7      _NO-DATA 
+e8      _NO-DATA 
+e9      _NO-DATA 
+e10     _NO-DATA 
+e11     _NO-DATA 
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     4715-06-25-A.txt
+Acquired:   14-Oct-2019  15:27      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   3,4,5,6
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==

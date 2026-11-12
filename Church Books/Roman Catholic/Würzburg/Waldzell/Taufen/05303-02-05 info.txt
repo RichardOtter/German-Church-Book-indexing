@@ -1,0 +1,107 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-02-05
+
+Parish      Waldzell
+Volume      1
+Page#       60/61
+Years       1794
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 1
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 60
+e1      
+e2      
+e3      
+e4      
+e5      
+-----------------------DIV30--
+Page 61
+        _YEAR-CONTINUED 1794
+e1      4 Jun
+e2      23 Sep
+e3      10 Nov
+e4      26 Dec
+        _YEAR 1795
+e5      Feb
+        _PARTIAL-ENTRY   17 Mar
+-----------------------DIV30--
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e3      Page 61     1794
+Die 10 November circa Deciman machard nabaseleoien Baptism /
+? Catharina Otterin friderici, elisabetha filia /
+fevaus. Caudaniy Eanfmann Baptism.
+
+
+NOTE: This is does not correspond to names in GEDCOM file.
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2553    Line 19
+Theobaldus Otter                    1 cousin 4 r
+b,ba    10-Nov-1794
+    f   Georgius Adamus Grün    NOT GIVEN-NOTED AS ILLEGITIMATE
+    m   Maria Catharina Otter
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 61, notation 18
+
+Comments
+Theobaldus Otter 10-Nov-1794 not listed on summary sheet.
+Image has notation #18 for him.
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-02-05-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1558
+BAP WCR-p061-Otter,Theobaldus
+ Waldzell Church Book - Baptisms, p061-Otter, Theobaldus
+
+RM:
+p61 - e3
+ChurchBook -Waldzell
+_TAUFE; Theobaldus Otter; before 10 November 1794; ; 10 November 1794; p61 - e3; 5303; 02; 05; 60/61; 1 August 2023; RAVigus
+
+entry   RM-ID       Name                tags using source
+p61-e3  TMG-2553    Theobaldus Otter    name, father, mother, baptism
+
+===========================================DIV50==

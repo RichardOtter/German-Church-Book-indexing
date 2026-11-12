@@ -1,0 +1,305 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-02-08
+
+Parish      Waldzell
+Volume      1
+Page#       66/67
+Years       1799-1800/?
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   >9/?
+
+Comments
+RJO saw original image, but complete info was not recorded
+AO copied image
+RAVigus also took images (now called C & D)
+
+Can see most of p66 & 67
+Possibly absolute entry numbers, but not sure.
+
+
+Identifications
+e2      TMG-2418    19 Apr  1799; Georgius Adam Otter
+
+from extract b cert: Witness Taufpate: Georg Adam Loschert aus Waldzell.
+from Rainer Otter's GEDCOM: Georgius Adamus Loschert Ex Waldzell
+
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+---------------------------------
+Entry   Page 66     1799-1800
+_PARTIAL-ENTRY
+e1      Anna Maria Catharina Mehlingin  Michael Seufert     Mehling Waldzell
+_YEAR 1799
+e2      11 Apr  1799    Eva Catharina, Michael Seufert, Eva Catharina Otterin
+e3      19 Apr  1799    Georgius Adam Otter, Andreas Otter, Anna Maria  Loschert
+e4      01 Mai  1799    Michael Otter   Adami Otter Margaretha Oehringin    Michael Gress Waldzel
+e5      12 Jul  1799    Anna Catharina  Joanes Georgius Brum    Anna Maria  Steinfeld
+e6      18 Sep  1799    18 Jul  Maria Catharina Brunn
+e7      22 Nov  1799
+_YEAR 1800
+e8      6 Jan   1800    Georgius Öhring
+e9      22 Jan  1800    Adamus
+
+-----------------------------
+Entry   Page 67     1799-1801
+e1      May
+e2      Jun     Adam Möhler Josef Öhring
+e3      13 Jul
+e4      Dec Michael Mehling
+e5      Maria Margaretha Otter
+e6      27 Dec  Veronica
+e7      Brunn   Anna Maria
+_YEAR 1800
+e8      27 Dec  Anna Maria Otter
+_YEAR 1801
+e9      28 Feb  Joanes Nöth
+e10     17 Mar  Anna Maria
+e11     19 Mar  Öhring
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 66     1799
+11 Apr  1799    Eva Catharina, Michael Seufert, Eva Catharina Otterin
+
+e2      Page 66     1799
+_TODO       full transcription
+19 Apr  1799;
+Georgius Adam Otter;
+Andreas Otter;
+Maria
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-02-08-A.png
+Acquired:           11-Apr-2012  17:32  Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   8
+
+Comments
+Scan of printout by Armin 2012-04-11
+Seems like that in 2012, there was no 25% of page max rule enforced by the software.
+Entry numbers are not absolute.
+
+
+
+LEFT p67
++++++++++++++++++++++++DIV30++
+Entries List
+
+_PARTIAL-ENTRY
+_YEAR 1799
+e1      11 Apr  1799; Eva Catharina
+e2      19 Apr  1799; Georgius Adam Otter
+e3      01 Mai  1799
+e4      12 Jul  1799
+e5      18 Sep  1799
+e6      22 Nov  1799
+_YEAR 1800
+e7      6 Jan   1800    Georgius Öhring
+e8      22 Jan  1800    Adamus
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+e1      Page 60     1799
+c1      11 Apr
+c2      Eva Catharina
+c3      Michael Seufert
+c4      Eva Catharina Otterin
+
+
+e2      Page 60     1799
+_TODO  full transcription
+19 Apr  1799;
+Georgius Adam Otter;
+Andreas Otter;
+Maria
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file://./5303-02-08-B.png
+Acquired:           14-Oct-2019  10:37  RJOtter
+Orientation:        _LANDSCAPE
+Entries in Image:   1
+
+Comments
+Subset of 5303-02-08-A.png scan.
+Only date 1799 and entry 2 from Lp066
+Due to orientation, this image is of slightly higher resolution.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e2      19-Apr-1799     Georgius Adam Otter, Andreas Otter, Maria
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2      Page 60     1799
+_TODO       full transcription
+19 Apr  1799;
+Georgius Adam Otter;
+Andreas Otter;
+Maria
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-C.png   (was Waldzell Taufen -p066  1799.png)
+Acquired:       2010-11  RAVigus
+Orientation:    _PORTRAIT
+Entries:        L: 8 contiguous; R: 6 contiguous
+
+Comments
+All (?) of Lp66 and 3/4 or Rp67
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-D.png   (was Waldzell Taufen -p067  1800.png)
+Acquired:       2010-11  RAVigus
+Orientation:    _PORTRAIT
+Entries:         R: ~8 contiguous
+
+Comments
+Maybe can see page number "67" at top right corner. Would imply absolute entry numbers. 
+Shows all(?) of Rp67
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-1A-2.png
+Acquired:       2024-07  RJOtter
+Orientation:    _PORTRAIT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-1A.png
+Acquired:       2024-07  RJOtter
+Orientation:    _PORTRAIT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-1B-2.png
+Acquired:       2024-07  RJOtter
+Orientation:    _PORTRAIT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-1B.png
+Acquired:       2024-07  RJOtter
+Orientation:    _PORTRAIT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-1C.png
+Acquired:       2024-07  RJOtter
+Orientation:    _PORTRAIT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-02-08-1D.png
+Acquired:       2024-07  RJOtter
+Orientation:    _PORTRAIT
+
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2418    Line 23
+Georg Adam Otter                2 gg uncle
+b,ba    19-Apr-1799
+    f   Andreas Otter
+    m   Anna Maria Handel
+
+TMG-2474    Line 24
+Michael Otter                   2 cousin 4 r
+b,ba    1-May-1799      1 or 31 May ?
+    f   Georg Adam Otter
+    m   Margaretha Öhring
+
+TMG-2477    Line 25
+Maria Margaretha Otter          2 cousin 4 r
+b,ba    18-Jul-1800
+    f   Georg Adam Otter
+    m   Margaretha Öhring
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 66, notation 22
+Otter, Georgius Adamus
+19-Apr-1799
+
+DAW; PF. Waldzell; Fiche 1; page 66, notation 23
+Otter, Michael
+1-May-1799
+
+DAW; PF. Waldzell; Fiche 1; page 67, notation 24
+Otter, M. Margaretha 
+18-Jul-1800
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM ChurchBook -Waldzell
+A & V & RJO; Georgius Adamus Otter; before 19 April 1799; ; 19 April 1799; ; 5503; 2; 9; _TAUFE; 66-67; 2 August 2023
+
+RM:
+p67 - e5
+RM ChurchBook -Waldzell
+_TAUFE; Maria Margaretha Otter; before 18 July 1800; ; 18 July 1800; p67 - e5; 5303; 02; 08; 66-67; 2 August 2023; AWOtter, RJO
+
+RM:
+
+RM ChurchBook -Waldzell
+A & V & RJO; Michael Otter; before 1 May 1799; ; 1 May 1799; e4-66; 5303; 2; 8; _TAUFE; 66-67; 2 August 2023
+
+
+entry       RM-ID       Name                    tags using source
+p66-e3      RMID-2369   Georg Adam Otter        name, CP, baptism
+p66-e4      RMID-2425   Michael Otter           name, CP, baptism
+p67-e5      RMID-1996   Maria Margaretha Otter  name, CP, baptism
+
+
+===========================================DIV50==

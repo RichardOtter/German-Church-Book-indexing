@@ -1,0 +1,47 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-06-30
+
+Parish      Waldzell
+Volume      1
+Page#       97
+Years       
+Record:     _TODO   Family list     ??
+Width:      _TODO   _DOUBLE  _SINGLE
+
+Format:     Irregular
+Headers:    _TODO
+Columns:    n/a
+#Entries:   >7
+
+Comments
+not clear what this is is a listing of.
+Only one, partial page image, so entry numbers are not absolute
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5303-05-17-A.png
+Acquired:           15-Oct-2019  15:27      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   ~ 7
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

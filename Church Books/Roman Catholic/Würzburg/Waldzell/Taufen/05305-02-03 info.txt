@@ -1,0 +1,342 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-02-03
+
+
+Parish      Waldzell
+Volume      3
+Page#       29
+Years       1850-1851
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    5305-02-03.txt   (this file)
+Columns:    12
+#Entries:   10
+
+Comments
+Standard Headers for Taufen
+Year not recorded; from other sources, e8 Michael Otter b 1851.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 29     1850-1851
+
+_HEADER-ROW
+e1      Mehling
+e2
+e3
+e4      Schürger Maria Anna
+e5
+e6
+e7
+e8      Michael Otter
+e9      Otter
+e10
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------------
+Entry   Page 29     1850-1851
+
+Header  Page 29             Also in "Church Books Overview.txt"
+c0      Tauf Register
+c1      Name ??? ??????
+c2      Geburts und ??? orte /  ????????????????
+c3      Vater / Name und ???? ??? ????
+c4      Stand, Geminde / ?????  ??? ??? ???
+c5      Mutter / ???? ?? ???? ???  ????
+c6      Stand, Geminde / ?????  ??? ??? ???
+c7      Zeit wnn Gebornen ??? ??? ??? ???
+c8      Geburt ????? ???? ???? 
+c9      Zrit und Ort ihn Taufen  ????? 
+c10     Pfarrer  ???? ????
+c11     Tauf vater, Tauf mutter / ???? ??? ???
+c12     ??????? / ?????????????????
+
+
+e1      Page 29
+c1      Mehling
+c2      ???
+c3      ??? Mehling
+c4      bauer
+c5      ??? Mehling
+c6      bauerin
+c7      12 April
+c8      ??
+c9      12 April
+c10     ??
+c11     ??
+c12     _EMPTY
+
+
+e4      Page 29
+c0      "8"
+c1      Schürger Maria Anna
+c2      
+c3      Johann Schürger
+c4      Bo
+c5      A. Maria ???
+c6      Bo
+c7      18 Oct
+c8      ??
+c9      18 October an 9 Uhr
+c10     ??
+c11     ??? ??? ???
+c12     _EMPTY
+
+
+e8      Page 29
+c0      indication that he died in war
+c1      Otter
+c2      ????
+c3      ???? Andreas? Otter
+c4      ???
+c5      ???
+c6      Bo
+c7      19 Februar  ????
+c8      Bo
+c9      17 Februar  ????
+c10     ???
+c11     ???  Waldzell
+c12     _EMPTY
+
+
+e9      Page 29
+c0      indication that he died in war
+c1      Otter
+c2      ????
+c3      ??? Otter
+c4      ???
+c5      ???
+c6      Bo
+c7      25 Februar  ????
+c8      Bo
+c9      25 Februar  ????
+c10     ???
+c11     ???
+c12     _EMPTY
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5305-02-03-A%20%20Header%20Taufung.png
+Acquired:       14-Oct-2019  11:51      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   H, 1
+
+Comments
+same as "5305-02-03-B  Header Taufung.png" except copied in halves and zoomed; so this is higher resolution.
+Year not recorded.
+Absolute entry number.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 29     1850-1851
+
+_HEADER-ROW
+e1      Mehling;  12 April
+
++++++++++++++++++++++++DIV30++
+Details
+
+Entry   Page 29     1850-1851
+
+Header  Page 29     Tauf Register       Also in "Church Books Overview.txt"
+c1      Name ??? ??????
+c2      Geburts und ??? orte /  ????????????????
+c3      Vater / Name und ???? ??? ????
+c4      Stand, Geminde / ?????  ??? ??? ???
+c5      Mutter / ???? ?? ???? ???  ????
+c6      Stand, Geminde / ?????  ??? ??? ???
+c7      Zeit wnn Gebornen ??? ??? ??? ???
+c8      Geburt ????? ???? ???? 
+c9      Zeit und Ort ihn Taufen  ????? 
+c10     Pfarrer  ???? ????
+c11     Tauf vater, Tauf mutter / ???? ??? ???
+c12     ??????? / ?????????????????
+
+
+e1      Page 29
+c1      Mehling
+c2      ???
+c3      ??? Mehling
+c4      bauer
+c5      ??? Mehling
+c6      bauerin
+c7      12 April
+c8      ??
+c9      12 April
+c10     ??
+c11     ??
+c12     _EMPTY
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-03-B%20%20Header%20Taufung.png
+Acquired:       14-Oct-2019  11:51      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   H, 1
+
+Comments
+same as 5305-02-03-A  except not copied in halves.
+so it is lower resolution. This was the first printout RJO created at archive.
+Ignore this image, instead, see: 5305-02-03-A  Header Taufung.png
+Year not recorded
+
+SEE_ABOVE_FOR_CONTENT
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-03-C.png
+Acquired:       14-Oct-2019  11:52      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   4, 8-9
+
+Comments
+Absolute entry numbers
+Year not recorded
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 29     1850-1851
+
+e4      Schürger Maria Anna
+-----------
+e8      Otter
+e9      Otter
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+Entry   Page 29     1850-1851
+
+e4      Page 29
+c0      "8"
+c1      Schürger Maria Anna
+c2      
+c3      Johann Schürger
+c4      Bo
+c5      A. Maria ???
+c6      Bo
+c7      18 Oct
+c8      ??
+c9      18 October an 9 Uhr
+c10     ??
+c11     ??? ??? ???
+c12     _EMPTY
+
+
+e8      Page 29
+c0      indication that he died in war
+c1      Otter
+c2      ????
+c3      ???? Andreas? Otter
+c4      ???
+c5      ???
+c6      Bo
+c7      19 Februar  ????
+c8      Bo
+c9      17 Februar  ????
+c10     ???
+c11     ???  Waldzell
+c12     _EMPTY
+
+
+e9      Page 29
+c0      indication that he died in war
+c1      Otter
+c2      ????
+c3      ??? Otter
+c4      ???
+c5      ???
+c6      Bo
+c7      25 Februar  ????
+c8      Bo
+c9      25 Februar  ????
+c10     ???
+c11     ???
+c12     _EMPTY
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-03-D.png
+Acquired:       16-Oct-2019  17:41      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   total=3 contiguous
+
+Comments
+not absolute entry numbers
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 29     1850-1851
+
+e1      
+e2      
+e3      
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5305-02-03-E.png
+Acquired:       11-Apr-2012  13:07      Armin Otter
+Orientation:    _LANDSCAPE
+Entries in Image:   header and 2 others that are adjacent
+
+Comments
+not absolute entry numbers
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 29     1850-1851
+
+_HEADER-ROW
+_PARTIAL-ENTRY
+-----------------
+e1      
+e2  
+_PARTIAL-ENTRY
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-2791
+BAP WCR 5305-02-03 Michael Otter
+
+RM:
+p29 -e8
+ChurchBook -Waldzell
+_TAUFE; Michael Otter; before 12 February 1851; ; 12 February 1851; p29 -e8; 5305; 02; 03; 20; 30 July 2023; AWOtter
+
+
+entry      RM-ID       Name                tags using source
+e8 p29     RMID-1607    Michael Otter       name, birth, both parents
+
+===========================================DIV50==

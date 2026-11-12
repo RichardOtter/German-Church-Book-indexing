@@ -1,0 +1,202 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-26
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-26-A.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-26-B.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-26-C.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-26
+
+
+Parish      Waldzell
+Volume      3
+Page#       10
+Years       1847-1850
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   8
+
+Comments
+what are there old line-
+PRINTOUT    5305    F-3     i-26    p-10    entry 1, 2
+PRINTOUT    5305    F-3     i-26    p-10    entry 4, 5
+PRINTOUT    5305    F-3     i-26    p-10    entry 7, 8
+PRINTOUT    5305    F-3     i-26    p-10    entries 3,5 of 8
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+1
+2
+3   1848    Andreas Otter II    TMG-45
+4
+5
+6   Georg Otter         TMG-2418    [TMG-2418 married w/ Maria Dorothea Amend] 
+7
+8
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-26-D.png
+Acquired:       15-Oct 2019  15:30      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+1   1848    Otter Andreas   19 April 1799   30 may 18830
+-------
+2   19 April 179
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-26-E.png
+Acquired:       16-Oct 2019  14:52      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+1   Gehrling Ludwig     22 August 1821      Loschert Anna Maria
+2   Otter August    19 Apr 1799     23 May 1828 or 1858
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-26-F.png
+Acquired:       16-Oct 2019  14:53      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+1
+2   Mehling
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-26-G.png
+Acquired:       16-Oct 2019  14:52      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+1       21 Jan 1820
+2       R�b     15 AUg 1809     14 Sep 1817
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==
+5305-03-26
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-26-A.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-26-B.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5305-03-26-C.jpg
+Acquired:           2024-07   RJOtter
+Orientation:        
+Entries in Image:   
+
+Comments

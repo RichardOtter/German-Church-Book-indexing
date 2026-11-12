@@ -1,0 +1,57 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-24
+
+Parish      Waldzell
+Volume      3
+Page#       20
+Years       1840
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   9
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+    <date> 1840
+---------------
+e1
+e2
+e3
+e4
+e5
+e6      Johann M�hler   
+e7      Sch�rger, Michler, Otter    25 Oct
+e8      Joh. Michael Otter      Maria R�b   26 Nov
+e9
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-24-A.png
+Acquired:           16-Oct-2019  17:39      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   6, 7, 8
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

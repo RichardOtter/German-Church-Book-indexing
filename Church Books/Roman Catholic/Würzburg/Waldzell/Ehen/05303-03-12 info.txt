@@ -1,0 +1,124 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-12
+Parish      Waldzell
+Volume      1
+Page#       18/19
+Years       1755-1757/?
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH /?
+Headers:    N/A
+Columns:    N/A
+#Entries:   6/
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 18     1755-1757
+_YEAR 1752
+e1
+e2
+_YEAR 1753 1754 _NONE
+_YEAR 1755
+e3
+e4
+_YEAR 1756
+e5
+_YEAR 1757
+e6
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page 18     e4      1755
+4 Feb   Andreas Georgius Öhring Anna Maria  Maria Catharina Christophorus   Maria Barbare   Georgius Oder et Michäcle Loschert
+
+Page 18     e5      1756
+16 Feb  Adamus Otter    Georgy Otter    Anne    legitimus   Anna Maria  Michelis Brunn  Valentinus Heger    Anna Maria Brunn
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+marriage    16-Feb-1756     Waldzell
+man     RMID-2408   Line 4
+Georgius Adamus Otter                   4th gg uncle
+b,ba        28-Aug-1727     Waldzell
+d           7-Jan-1805      Waldzell
+    f   Georgius Otter
+    m   Anna Meling
+not listed  woman   RMID-2409
+not listed  Anna Maria Brunn
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 18; notation 3
+marriage    16-Feb-1756     recorded in Waldzell
+Adamus Otter
+    f   Georgius Otter
+    m   Anna
+Anna Maria Brunn
+    f   Michaelis Brunn
+    m   Gertrudis
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-12-A.png
+Acquired:           2010-11  RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   2  contiguous
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+-----------------------------
+p18
+_PARTIAL-ENTRY
+e1      4 Feb
+_YEAR    1756
+e2      16 Feb
+_YEAR    1757
+_PARTIAL-ENTRY
+
+
+Comments
+entry numbers are not absolute
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-W p018  1755-1757 Otter & Brun 
+Marriage Record, Waldzell Church Records: p018  1755-1757 Otter & Brun
+
+RM:
+p18 - e4
+ChurchBook -Waldzell
+_EHE; Georg Adama Otter; before 28 August 1727; Georg Adama Otter & Anna Maria Brunn; 16 February 1756; p18 - e4; 5303; 03; 12; 18/19; 17 July 2024; RAVigus
+
+
+entry   RM-ID       Name                tags using source
+p18-e2  RMID-2408   Georg Adam Otter
+p18-e2  RMID-2409   Anna Maria Brunn
+
+===========================================DIV50==
+===========================================DIV50==

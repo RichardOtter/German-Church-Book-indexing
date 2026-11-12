@@ -1,0 +1,148 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-29
+Mat.pg#         30
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       50-51
+Years       1766-1769
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    
+Columns:    6
+#Entries:   20 + 10
+
+image       file://./00154-01-29.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=30
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 50
+        _YEAR-CONTINUED 1766
+e1      9 oct
+e2      15 oct
+e3      13 nov
+e4      31 ?
+        _YEAR 1767
+e5      2 feb       RMID-1809 Mehling, Maria Katharina Birth 1767-02-02
+e6      17 may
+e7      13 jun
+e8      2 aug       RMID-1808 Sendelbach, Georg Adam Birth 1767-08-02
+e9      28 aug
+e10     4 aug
+e11     30 sep
+e12     11 oct
+e13     24 oct
+e14     22 nov
+e15     10 dec
+e16     17 dec
+        _YEAR 1768
+e17     10 ??
+e18     17 mar
+e19     26 mar
+e20     21 may
+-----------------------DIV30--
+Page 51
+        _YEAR-CONTINUED 1768
+e1      30 jul
+e2      1 dec       RMID-13732 Loschert, Johann Georg Birth 1768-12-01  TWIN
+                    RMID-13733 Loschert, Johann Philipp Birth 1768-12-01  TWIN
+e3      9 dec
+e4      14 dec
+e5      21 dec
+e6      23 dec
+e7      27 dec
+        _YEAR 1769
+e8      27 jan
+e9      15 mar
+e10     18 mar
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    50
+Entry   5
+Year    1767
+Detail  file://./00154-01-29-A.png
+
+Transcription
+col
+c1      2. Febr circa ␤ 7 morte ?
+c2      Eadem
+c3      Mathaus Mehlinh ␤ Elisabetha
+c4      Maria Catherina
+c5      Maria Cath. lendel? ␤ ?? ??
+c6      jacelly??
+
+Match to RM database
+RMID-1809 Mehling, Maria Katharina Birth 1767-02-02
+
+-----------------------DIV30--
+Page    50
+Entry   8
+Year    1767
+Detail  file://./00154-01-29-B.png
+
+Transcription
+col
+c1      2. Aug: circa ␤ 4 pomerid
+c2      3 Aug
+c3      Joes Geotg Sendelbach ␤ Anna Maria
+c4      Georgius Adamus
+c5      Georg ?? ?? ␤ Michaelis
+c6      anelly??
+
+Match to RM database
+RMID-1808 Sendelbach, Georg Adam Birth 1767-08-02
+
+-----------------------DIV30--
+Page    51
+Entry   2
+Year    1768
+Detail  file://./00154-01-29-C.png
+
+Transcription
+<there is unusual text just above this entry, between e1 and e2
+Perhaps a new data recorder because handwriting changes>
+
+Club cura Geory Bauch pro J: Rarochi
+col
+c1      1 ina  december ␤circa horah ␤ 12 noctuim.
+c2      aeka ␤ die  <guess this means- same day>
+c3      Michael Loschert ␤ Margaretha ␤ 2j??
+c4      Johann ␤ Philipiwes?? ␤ Joes Georgius ␤ gemini
+c5      Johanny Philipp ␤Coschefel ␤ Joey Georgius ␤ Baunach Jolali.
+c6      anelly??
+
+Match to RM database
+RMID-13732 Loschert, Johann Georg Birth 1768-12-01  TWIN
+
+-----------------------DIV30--
+Page    51
+Entry   2
+Year    1768
+Detail  file://./00154-01-29-C.png
+
+Transcription
+col
+c1      1 ina  december ␤circa horah ␤ 12 noctuim.
+c2      aeka ␤ die  <guess this means- same day>
+c3      Michael Loschert ␤ Margaretha ␤ 2j??
+c4      Johann ␤ Philipiwes?? ␤ Joes Georgius ␤ gemini
+c5      Johanny Philipp ␤Coschefel ␤ Joey Georgius ␤ Baunach Jolali.
+c6      anelly??
+
+Match to RM database
+RMID-13733 Loschert, Johann Philipp Birth 1768-12-01    TWIN
+
+-----------------------DIV30--

@@ -1,0 +1,521 @@
+Archive-Image Interpretation File
+
+Würzburg archive data history
+Physical church books were photographed and microfiche were created. Each microfiche stores about 36 images (Some varieties of microfiche go much higher). At some point the images on the microfiche were scanned to create digital images. Those are the images viewable in the Würzburg archive.
+
+The original church books could be cited by the parish they came from, the book title, the volume number and the page number.
+Books were often not page numbered when the data were created. Many page numberings happened later.
+
+The digital images are cited by the fiche they were scanned from. The fiche were cited by the book series  they were generated from. Overall, the Würzburg archive catalogs images by "signatur" number, fiche number and image on the fiche number.
+
+When the physical book was photographed, there were a number of options for content. A book laid out flat has 2 pages showing the left and right. It is not always obvious which side is in an image when only one side is photographed at a time.
+
+The term archive image is used to be more general than saying the fiche image.
+There may be archives where the was no fiche intermediate, no microfilm intermediate, but straight to digital.
+
+
+Process
+While at the archive, a researcher will find information about a family member's life event in a church book. The persons mentioned in the event entry are the "Principal Person/s". That information will be viewed at the archive as the "Archive-Image".
+
+At some point after viewing the Archive-Image, and recording the information and location in the church book, an image is taken of the Archive-Image (there may need to be multiple images taken of the same Archive-Image depending on archive's policies).
+These images need to be given unique identifiers.
+
+A file is created for each archive-image called the "Archive-Image Interpretation file".
+
+All information about a particular Archive-Image shall be recorded in this file. If multiple images have been taken for a particular Archive-Image, then they shall all be listed and analyzed in the same Archive-Image Interpretation file.
+
+In order to maintain a consistent format, a template file is shown below.
+
+*	The first part of the file contains information about the Archive-Image in its entirety. 
+*	Additional sections are added for each image taken of the Archive-Image.
+*	Sections at the end are for creating a citation, and for listing links to my TMG database.
+
+Note:
+Text in pointy brackets < > is for descriptive purpose and does not appear in the actual data file.
+Some words used are predefined keywords from a controlled vocabulary. See the "Church Books Overview.txt" file for definitions.
+
+===========================================DIV50==
+Archive-Image Interpretation file Template
+===========================================DIV50==
+
+<start template /////////////////////////////////////////////////////>
+
+===========================================DIV50==
+Description of Archive-Image
+Signatur#	
+Fiche#		
+Image#		
+Parish		
+Volume		
+
+Page#		
+<The handwritten number at top of the church book original page. If an archive image has multiple page numbers, list them all>
+Years		
+Record:		_TAUFE		_EHE	_STERBEFALL		_OTHER
+<if other, append a simple description>
+Width:		_DOUBLE		_SINGLE
+<Most archive-images are double; they are a picture of an opened book showing both the left and right hand side pages.>
+Format:		PARAGRAPH	_TABLE-SINGLE	_TABLE-DOUBLE	_OTHER
+Headers:	
+<if format is TABLE, specify the name of an Archive-Image Interpretation file that lists and transcribes the headers that appear on this archive-image.>
+Columns:	
+<if format is TABLE, the number of columns defined by header>
+#Entries:	
+<total count of entries on page. 
+Do not include header line or dividers that start years. If unknown, say ">N" where N is the minimum >
+
+Comments
+<free form comments>
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry	Page NN		YYYY-YYYY
+<this header/separator line is helpful when an archive-image contains 2 pages.>
+
+
+< This is a composite list what was found in all images taken of this archive image, >
+< and what was recorded from looking at the image in the archive. >
+< This is overview of the page's content. Just list dates for no Primary Persons >
+< List each entry on the page with its number and its date, adding the year >
+< divider lines, and possible interesting secondary names. >
+< Make sure primary person names are listed and add a bit more information for them. >
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+< Only include entries that have expanded information.>
+< If Table format, >
+< Expand entries of principal persons by documenting each column separately.>
+< For Paragraph format, >
+< transcribe as much as possible. >
+< if the year is not in the date as written on the image, add the implied year in pointy brackets >
+< The details should consist of exact transcription of the Latin. >
+< Interpretation of the Latin should be done separately in the Interpretation section of this file (below) >
+
+
+===========================================DIV50==
+Interpretation
+
+< Give an interpretation of each principal person descrobed in the Details section above. >
+< List each separately. see example. >
+
+< Where do we put the genealogical proof evidence ? >
+
+
+===========================================DIV50==
+Source Citation
+
+< write an appropriate citation to this source (the archive image) >
+
+
+===========================================DIV50==
+< all references to RM should go here. R.Otter will do this. >
+
+RM Sources and Citations
+
+RM-src-<_NOT-YET-DONE>
+
+entry	RM src  		Name				tags using source
+
+
+===========================================DIV50==
+< Repeat this section for each Image taken >
+
+Description of Image
+Image name:		
+<unique identifier written on printout or file name of scan file>
+Acquired:		
+<date, time, researcher name>
+Orientation:	_PORTRAIT	_LANDSCAPE	N/A
+<N/A if this is not a scan of a printout>
+Entries in Image:	
+<e.g.  1,2,4>  <e.g.  1-10> <note whether these are the absolute entry numbers for this archive image>
+
+Comments
+
+
+< If there is only one image of the Archive-Image then there is no need to >
+< enter the "Entries List" and "Details" in both sections which just duplicates data. >
+< Enter SEE_ABOVE_FOR_CONTENT after the Comments part of the Description of Image section. >
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+< same format as entries list section above >
+
++++++++++++++++++++++++DIV30++
+Details
+
+< same format as details list above >
+
+
+===========================================DIV50==
+===========================================DIV50==
+
+<end template ///////////////////////////////////////////////////////>
+
+
+
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==
+
+
+<start EXAMPLE ///////////////////////////////////////////////////////>
+
+
+===========================================DIV50==
+Description of Archive-Image
+Signatur#	5505
+Fiche#		3
+Image#		28
+Parish		Waldzell
+Volume		3
+
+Page#		11-12
+Years		1857-1859
+Record:		_TAUFE
+
+Width:		_DOUBLE
+Format:		_TABLE-SINGLE
+Headers:	5303-02-12.txt
+Header cols:	6
+Entries#:		7
+
+Comments
+Example of archive file description
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry	Page 11		1857
+e1		6 Jan
+e2		10 Feb 
+e3		12 Feb
+
+
+-----------------------------
+Entry	Page 12		1857-1859
+e1		5 Jun
+e2		10 Jun 			Johann Schürger		Possible gg grandfather
+		YEAR_DIVIDER  1858
+e3		4 Jan			Adam Fluss
+e4		28 Mar			Martin Otter
+		YEAR_DIVIDER  1859
+e5		14 Dec 		Georg
+e6		21 Dec 
+e7		14 Dec ; Josef Otter
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+e2		Page 12		1857
+c1		10 Jun <1857>
+c2		Johann Schürger
+c3		Frederich und Maria Schürger
+c4		Waldzell
+c5		Bauer
+c6		_EMPTY
+
+e4		Page 12		1858
+c1		14 Dec <1858>
+c2		Martin Otter
+c3		born in Waldzell
+c4		parents are ddf df df df
+c5		dssd sd sdsd d 
+c6		_EMPTY
+
+e7		Page 12		1859
+c1		14 Dec <1859>
+c2		Josef Otter
+c3		born in Waldzell
+c4		parents are ddf df df df
+c5		dssd sd sdsd d 
+c6		<blank>
+
+
+===========================================DIV50==
+Interpretation
+e2		Page 12		1857
+marriage date: 10 Jun 1857
+groom:	Johann Schürger
+groom parents: John and Linda Green
+bride:	Jane Doe
+bride parents
+etc
+
+e4		Page 12		1858
+marriage date: 10 Jun 1857
+groom:	Johann Schürger
+groom parents: John and Linda Green
+bride:	Jane Doe
+bride parents
+etc
+
+e7		Page 12		1859
+marriage date: 10 Jun 1857
+groom:	Johann Schürger
+groom parents: John and Linda Green
+bride:	Jane Doe
+bride parents
+etc
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-2665
+MR WCR p027  1794 Otter & Öhring   
+Marriage Record, Waldzell Church Records: p027  1794 Otter & Öhring
+
+entry	RM-ID 		Name				tags using source
+p27-e2	TMG-2470	Georg Adam Otter	name, birth, both parents
+p27-e2	TMG-2471	Margaretha Öhring	name, birth, both parents
+
+
+===========================================DIV50==
+RAVigus transcription
+<new files will not have this section>
+
+
+===========================================DIV50==
+Description of Image 
+Image name:	5505-03-28-A.png
+Acquired: 15-Oct-2019
+Orientation: _LANDSCAPE
+Entries in Image:	1,2,4
+
+Comments
+This is an example
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry	Page 12		1857-1859
+
+e1		4 jun 
+<entry 1 is not principal person and has not been interpreted. Only date is listed >
+
+e2		10 jun 
+
+e4		4 jan ;		Adam Fluss
+<entry 4 is not principal person and has not been fully interpreted. Date and Name are listed. Name is considered  potentially interesting.>
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------------
+Entry	Page 12
+
+e2		Page 12		1857
+<entry 2 is principal person and has been interpreted and full info for all 6 columns is listed>
+c1		10 jun 1857
+c2		Johann Schürger
+c3		Frederich und Maria Schürger
+c4		Waldzell
+c5		Bauer
+c6		_EMPTY
+
+e4		Page 12		1858
+c1		14 dec 1858
+c2		Martin Otter
+c3		born in Waldzell
+c4		parents are ddf df df df
+c5		dssd sd sdsd d 
+c6		_EMPTY
+
+
+===========================================DIV50==
+Description of Image 
+Image name:	5505-03-28-B.png
+Acquired: 16-Oct-2019
+Orientation: _LANDSCAPE
+Entries in Image:	5-6
+<5-6 means that they are contiguous, in one screen clipping using archive software. If not contiguous, use: 5,6 >
+
+Comments
+This is an example
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry	Page 11		1857
+e1		6 Jan
+e2		10 Feb 
+
+
+-----------------------------
+Entry	Page 12		1858-1859
+
+e5		28 Mar 1858;	Georg Stamm
+		YEAR_DIVIDER 1859
+e7		14 dec 1859; Martin Otter
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------------
+Entry	Page 12
+
+e7		Page 12		1859
+c1		14 dec 1859
+c2		Martin Otter
+c3		born in Waldzell
+c4		parents are ddf df df df
+c5		dssd sd sdsd d 
+c6		<blank>
+
+
+===========================================DIV50==
+===========================================DIV50==
+
+<end EXAMPLE ///////////////////////////////////////////////////////>
+
+
+
+
+
+Boilerplate stuff for copy paste
+e1		
+e2		
+e3		
+e4		
+e5		
+e6		
+e7		
+e8		
+e9		
+e10		
+e11		
+e12		
+e13		
+e14		
+e15		
+e16		
+e17		
+e18		
+e19		
+e20		
+e21		
+e22		
+e23		
+e24		
+e25		
+e26		
+e27		
+e28		
+e29		
+
+
+
+
+
+
+
+
+
+
+
+c1		
+c2		
+c3		
+c4		
+c5		
+c6		
+c7		
+c8		
+c9		
+c10		
+c11		
+c12		
+
+_HEADER-ROW
+YEAR_DIVIDER
+_PARTIAL-ENTRY
+_EMPTY
+
+_NOT-YET-DONE
+_NO-DATA 
+
+SEE_ABOVE_FOR_CONTENT
+
+
+===========================================DIV50==
+source format in RootsMagic
+Repository is the archive itself. Seems clear.
+
+the "master source" can be either
+* the entire book  and its volumes
+* a page from any book
+
+a citation could be (in each of the above cases-
+* the entire book  and its volumes
+  an entire page of the book
+  an entry in the book (the entry might span multiple pages)   (USE THIS)
+    the citation needs to specify the page or pages and the entry number & date name
+
+* a page from any book
+  an entry on a page of the book 
+
+
+Current  in process of lumping by parish
+the "master source" is
+* a page from any book
+a citation is
+  an entry on a page of the book
+
+
+============================
+replaces above?
+
+Source = all church books of a particular parish
+
+cit
+for each entry in the church book- new citation
+
+documented in files as one archive image 
+microfilm image- sometimes single ,page, sometimes double width=2 pages
+
+Citation has fill reference to the archive image
+including the txt file and all associated img files
+
+the cit spells out the archive mage ref
+and thne has specific info fot the enry
+entry#-page#
+person name & dbate
+couple names
+event date
+
+
+
+
+ABBREVIATIONS
+
+Image#	_NR    Not recorded, mostly by Richard A Vigus  RAVigus
+
+Readers
+RAVigus
+TAWagner
+RJOtter
+AWOtter

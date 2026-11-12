@@ -1,0 +1,304 @@
+Ansbach, Roden, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9721282
+Ansbach bei Roden
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/
+
+3 Volumes
+	00154	Pfarrmatrikel Ansbach b. Roden (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1660–1823
+	00155	Pfarrmatrikel Ansbach b. Roden (Taufen – Ehen – Sterbefälle) (inkl. Register)	1812–1824
+	00156	Pfarrmatrikel Ansbach b. Roden (Taufen – Ehen – Sterbefälle) (inkl. Register)	1825–1882
+
+
+_INDEX
+00154		1-4 fiche; 64 + 64 + 64 + 33 = 		225 images,    ~221 real pages
+00155		1-2 fiche; 28 + 39 = 				 67 images
+00156		1-5 fiche; 19 + 56 + 7 + 0 + 39 = 	121 images
+
+
+===========================================DIV50==
+img#	Vol#-Fiche#-Img#		description		page# in orig
+===========================================DIV50==
+Volume	1  00154
+
+001		00154-01-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 1"
+002		00154-01-01		Title image "1"
+003		00154-01-02		inside cover
+BAPTISM-START
+004		00154-01-03		Title page- Baptism
+		00154-01-04		1701	p1 on right side	paragraph format
+		00154-01-05		1701
+		00154-01-06		1705
+		00154-01-07		1708
+		00154-01-08		1710-1712
+		00154-01-09		1713	table format
+011		00154-01-10		
+		00154-01-11		1716
+		00154-01-12		1718
+		00154-01-13		1721-1723
+		00154-01-14		1724-1725
+		00154-01-15		1726-1728
+		00154-01-16		1728-1730
+		00154-01-17		1730-1732
+		00154-01-18		1733-1735
+		00154-01-19		1735-1738
+021		00154-01-20		1738-1740
+		00154-01-21		1741-1744
+		00154-01-22		1744-1748
+		00154-01-23		1748-1751
+		00154-01-24		1751-1754
+		00154-01-25		1754-1756
+		00154-01-26		1756-1758
+		00154-01-27		1758-1761
+		00154-01-28		1761-1766
+		00154-01-29		1766-1769
+031		00154-01-30		1769-1771	much less legible for about 5 pages
+		00154-01-31		1771-1774
+		00154-01-32		1774-1777   p56-57
+		00154-01-33		1777-1780	p58-59
+		00154-01-34		1780-1783
+		00154-01-35		1783-1785
+037		00154-01-36		1785-1787	64-65
+		00154-01-37		1787-1790	66-67	mat-p#38
+		00154-01-38		1790-1791	68-flap: one entry	paragraph format
+		00154-01-39		1790-1790   69		mat-p#40 	paragraph format
+041		00154-01-40		1792-1794 	70-71	mat-p#41    paragraph format
+		00154-01-41		1795-1796 	72-73	mat-p#42   	paragraph format
+		00154-01-42		1797-1798						paragraph format
+		00154-01-43		1798-1800						paragraph format
+		00154-01-44		1801-1803						paragraph format
+		00154-01-45		1803-1805						paragraph format
+		00154-01-46		1805-1807						COLUMN format
+		00154-01-47		1807-1809						COLUMN format / paragraph
+		00154-01-48		1809-1810						paragraph format
+		00154-01-49		1811-1811						paragraph format
+051		00154-01-50		1811-1811	90-91 (blank)		paragraph format
+
+BAPTISM-INDEX-START (p1-90)
+052		00154-01-51		BAPTISM alphabetical index- clearly written names
+		...
+063		00154-01-62		index continued p22-23
+064		00154-01-63		index continued	p24-25  (last image on fiche)
+065		00154-02-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 2"
+066		00154-02-01 	Title image "1"
+067		00154-02-02		index continued	p26-27	Müller
+		...
+		00154-02-06		index continued	p34-35	Roth
+		...
+		00154-02-09		index continued	p40-41	Schürger
+		00154-02-10		index continued	p42-43	Stamm
+		...
+077		00154-02-12		index continued	p46-??	Weyer	end index Taufen
+BAPTISM-INDEX-END
+CONFIRMATION-START
+078		00154-02-13			p0-1	 1787-1791
+		...
+		00154-02-15			p4-5	 1803-1810
+		...
+084		00154-02-17			p8-9	 1822-1823	end confirmations
+CONFIRMATION-END
+MARRIAGES-START
+083	 	00154-02-18		1701-1702	p0-1		PARAGRAPH format
+			“Liber Matrimoniorum ab Anno …” = “Book of Marriages from the year …”
+		00154-02-19		1702-1707
+		00154-02-20		1709-1720
+		...
+		00154-02-22		1723-1731	p8-9	
+		...
+		00154-02-24		1723-1731	p8-9
+		...
+		00154-02-27		1756-1759	p18-19	
+		...
+		00154-02-30		1779-1787	p24-25	
+		...
+		00154-02-32		1793-1801	p28-29	
+		...
+099		00154-02-34		1808-1810	p32-33	
+100		00154-02-35		1810-1787	p34-35	mat-p# 100
+MARRIAGES-END
+MARRIAGES-INDEX-START
+101		00154-02-36		 
+		...
+107		00154-02-42		
+MARRIAGES-INDEX-END
+DEATHS-START
+						Liber Defunctorum = Book of the deceased
+108		00154-02-43		1701-1703		p0-1	PARAGRAPH format
+		00154-02-44		1703-1710		p2-3
+		00154-02-45		1711-1721		p4-5
+		...
+		00154-02-50		1752-1760		p14-15
+		...
+		00154-02-60		1809-1810		p34-35
+		...
+		00154-02-62		1812-1812		p38-39
+DEATHS-END
+DEATHS-INDEX-START
+128		00154-02-63		Baumach
+129		00154-03-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 3"
+130		00154-03-01  	Title image "1"
+131		00154-03-02		Brüchner
+		...
+		00154-03-10		Müller
+		...
+145		00154-03-16		Ziegler
+DEATHS-INDEX-END
+SEELENREGISTER-START
+146		00154-03-17		Start  “Seelenregister / Liber Status Animarum” —  			
+						souls‑book, the parish’s population register. 
+						Mostly white space
+		...
+192		00154-03-63		Continue  “Seelenregister / Liber Status Animarum”
+193		00154-04-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 4"
+194		00154-04-01		title image "1"
+195		00154-04-02		Continue  “Seelenregister / Liber Status Animarum”
+		...
+225		00154-04-32		LASTPAGE-VOL
+SEELENREGISTER-END
+END VOL 1
+
+===========================================DIV50==
+Volume 	2  	00155
+001		00155-01-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 4"  ( 5 ??)
+002		00155-01-01		Title image "2"
+003		00155-01-02		blank pages
+BAPTISMS-START
+004		00155-01-03		1812			0-1		PARAGRAPH format
+005		00155-01-04		1812-1813		2-3
+		...
+		00155-01-18		1820			30-31
+		00155-01-19		1820			32-33
+		00155-01-20		1820-1821		34-35
+		...
+		00155-01-26		1823-1824		46-47
+028		00155-01-27		1824-1824		48-49
+029		00155-02-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 5"
+030		00155-02-01		Title image "2"
+031		00155-02-02		1824-1824		50-51
+BAPTISMS-END
+BAPTISMS-INDEX-START
+032		00155-02-03		
+		...
+034		00155-02-05
+BAPTISMS-INDEX-END
+MARRIAGES-START
+035		00155-02-06		1816-1817		8-9
+		...
+044		00155-02-15		1823-1824		18-19
+MARRIAGES-END
+MARRIAGES-INDEX-START
+045		00155-02-16		
+046		00155-02-17		
+MARRIAGES-INDEX-END
+DEATHS-START
+047		00155-02-18		1812
+		...
+		00155-02-20		1813-			p4-5
+		...
+		00155-02-30		1820-1821		p24-25
+		...
+064		00155-02-35		1824-1825		p34-35
+DEATHS-END
+DEATHS-INDEX-START
+065		00155-02-36		
+066		00155-02-37		
+067		00155-02-38		LASTPAGE-VOL
+DEATHS-INDEX-END
+END VOL 2
+
+===========================================DIV50==
+Volume 	3  	00156
+001		00156-01-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 5"
+002		00156-01-01		Title image "3"
+003		00156-01-02		blank
+BAPTISMS-START
+004		00156-01-03		1825			p1		double width table
+005		00156-01-04		1825-1826		p2		double width table
+		...
+019		00156-01-18		1833			p16
+020		00156-02-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 6"
+021		00156-02-01		Title image "3"
+		...
+030		00156-02-10		1838-1839		p25
+		...
+030		00156-02-40		1862-1863		p55
+		...
+075		00156-02-55		1874-1875		p70
+076		00156-03-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 7"
+077		00156-03-01		Title image "3"
+078		00156-03-02		1875-1876
+079		00156-03-03		1877-1879
+080		00156-03-04		1879-1880
+081		00156-03-05		1881-1882
+082		00156-03-06		1882
+MISSING	00156-04-00		DOES NOT EXIST (should be fiche 8)
+083		00156-05-00		Image of fiche title: "DAW  Kuratie Ansbach  Fiche 9"
+084		00156-05-01		Title image "3"
+BAPTISMS-END
+DEATHS-START
+085		00156-05-02		1869-1870
+086		00156-05-03		1870
+		...
+094		00156-05-11		1887
+DEATHS-END
+UNKNOWN-LISTING-START
+095		00156-05-12		
+		...
+121		00156-05-38		LASTPAGE-VOL
+UNKNOWN-LISTING-END
+END VOL 3 
+
+
+===========================================DIV50==
+===========================================DIV50==
+Problems with Matricula web site or Würzburg archive microfilming-
+	Fiche number in the images is not sequential.
+	Vol 3, fiche 4 is missing.
+
+
+vol 1 Fiche 1		image shows "Fiche 1"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=1
+
+vol 1 Fiche 2		image shows "Fiche 2"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=65
+
+vol 1 Fiche 3		image shows "Fiche 3"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=129
+
+vol 1 Fiche 4		image shows "Fiche 4"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=193
+
+vol 2 Fiche 1		image shows "Fiche 4"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00155/?pg=1
+
+vol 2 Fiche 2		image shows "Fiche 5"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00155/?pg=29
+
+vol 3 Fiche 1		image shows "Fiche 5"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00156/?pg=1
+
+vol 3 Fiche 2		image shows "Fiche 6"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00156/?pg=20
+
+vol 3 Fiche 3		image shows "Fiche 7"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00156/?pg=76
+
+vol 3 Fiche 4		should be Fiche 8
+MISSING
+
+vol 3 Fiche 5		image shows "Fiche 9"
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00156/?pg=83
+
+===========================================DIV50==
+===========================================DIV50==

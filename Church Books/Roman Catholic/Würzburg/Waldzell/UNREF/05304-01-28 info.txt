@@ -1,0 +1,49 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05304-01-28
+
+Parish      Waldzell
+Volume      2
+Page#       47
+Years       ????
+Record:     _OTHER  Index Taufen ? 
+Width:      _TODO   _DOUBLE  _SINGLE
+
+Format:     Table
+Headers:    _TODO
+Columns:    > 3
+#Entries:   > 10
+
+Comments
+Last name, First name , Page number 
+(no other data in this image)
+image has 10 entries, 5 Oehrings, 5 Otter
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5304-01-28-A.png
+Acquired:           15-Oct-2019  15:28      RJO
+Orientation:        _PORTRAIT
+Entries in Image:   10
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

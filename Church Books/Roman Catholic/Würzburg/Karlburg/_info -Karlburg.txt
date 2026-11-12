@@ -1,0 +1,45 @@
+Karlburg, Karlstadt, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9728678
+Karlburg
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/karlburg/
+
+12 Volumes
+	02568	Pfarrmatrikel Karlburg (Taufen – Ehen – Sterbefälle)	1590–1652
+	02569	Pfarrmatrikel Karlburg (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1651–1738
+	02570	Pfarrmatrikel Karlburg (Taufen – Firmungen – Ehen – Sterbefälle)	1738–1822
+	02571	Pfarrmatrikel Karlburg (Taufen – Ehen – Sterbefälle – Sonstiges)	1804–1828
+	02572	Pfarrmatrikel Karlburg (Taufen – Ehen – Sterbefälle – Sonstiges)	1823–1841
+	02573	Pfarrmatrikel Karlburg (Taufen – Ehen – Sterbefälle)	1841–1869
+	02574	Pfarrmatrikel Karlburg (Taufen – Ehen – Sterbefälle)	1869–1891
+	02575	Familien-/Häuserbuch Karlburg (Sonstiges) (inkl. Register)	(1700–1822), 1822–1940
+	02576	Familien-/Häuserbuch Karlburg (Sonstiges) (Registerband)	(1700–[1880]), [1880]–1940
+	02577	Pfarrmatrikel Karlburg (Taufen – Ehen – Sterbefälle) (Registerband)	(1590–[1835]), [1835]–1927
+	02578	Pfarrmatrikel Karlburg (Firmungen)	1823–1953
+	02579	Familien-/Häuserbuch Karlburg (Sonstiges) (inkl. Register)	(1872–1942), 1942
+
+
+_INDEX
+
+_LOOKING-FOR
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Karlburg%	Karlburg, Karlstadt, Main-Spessart, Bayern, Deutschland					
+		3853	Jakob, Eva-Maria	Birth	1950-07-30
+		22462	Keller, Katharina	Birth	1852-10-10
+		22462	Keller, Katharina	Death	1936-01-08
+		22562	Keller, Michael	Birth	1830-00-00	DB+18300000..+00000000..
+		22562	Keller, Michael	Death	1855-00-00	DA+18550000..+00000000..
+		22531	Ziegler, Franz	Birth	1843-04-05
+
+        

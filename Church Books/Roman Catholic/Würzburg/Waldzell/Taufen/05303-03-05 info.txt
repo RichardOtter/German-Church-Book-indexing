@@ -1,0 +1,16 @@
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-05
+
+
+images
+
+5303-03-05-A.jpg
+1789
+left is paragraph, right is a table
+
+
+5303-03-05-B.jpg
+This is just the left side

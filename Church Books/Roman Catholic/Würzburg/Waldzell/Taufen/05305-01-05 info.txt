@@ -1,0 +1,66 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-05
+
+Parish      Waldzell
+Volume      3
+Page#       1
+Years       1825
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   4
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      Adam Mehling
+e2      
+e3      
+e4      
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      1825
+c1      Adam Mehling    died in war 23.9.08
+c2      
+c3      ???? Waldzell
+c4      
+c5      Cathar. N�th
+c6      
+c7      ?? 17 Jan 1825 ???
+c8      Dorothea Abtin
+c9      18 Jan 1825  ?????
+c10     
+c11     
+c12     _EMPTY
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-05-A.png
+Acquired:           16-Oct-2019 14:56       RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   1
+
+Comments
+This is entry 1 on Archive-Image
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

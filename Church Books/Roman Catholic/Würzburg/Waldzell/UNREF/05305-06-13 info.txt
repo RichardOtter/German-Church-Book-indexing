@@ -1,0 +1,141 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-06-13
+
+Parish      Waldzell
+Volume      3
+Page#       ??
+Years       ??
+Record:     _OTHER  Tauf index
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    8
+#Entries:   25
+
+Comments
+List of names. All Otters
+May be Taufen index
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+_HEADER-ROW
+e1
+e2
+e3
+etc
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-13-A  Otter list  LT.png
+Acquired:       14-Oct-2019  15:24      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+LT
+images A and E are very similar. E is full length, 
+A, is cut off with 4 bottom entries missing.
+Don't see any value for image A. Just analyzze image E.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+see image E
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-13-B  Otter list  LRB.png
+Acquired:       14-Oct-2019  15:25      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   
+
+Comments
+ LRB
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-13-C  Otter list  RT.png
+Acquired:       14-Oct-2019  15:25      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+ RT
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-13-D  Otter list.png
+Acquired:       15-Oct-2019  15:29      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   1-25
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-13-E.png
+Acquired:       15-Oct-2019  15:29      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   1-24
+
+Comments
+Full length image top to bottom
+
+images A and E are very similar. E is full lenght, 
+A, is cut off with 4 bottom entries missing.
+Don't see any value for image A. Just analyzze image E.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

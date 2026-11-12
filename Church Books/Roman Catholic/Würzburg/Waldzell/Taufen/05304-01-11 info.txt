@@ -1,0 +1,87 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05304-01-11
+
+Parish      Waldzell
+Volume      2
+Page#       12/13
+Years       1817
+Record:     _TAUFE
+Width:      _DOUBLE
+Format:     _PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   2/2
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+-----------------------------
+Entry   Page 12     YYYY-YYYY
+e1		Heinrich Schürger
+e2
+
+-----------------------------
+Entry   Page 13     YYYY-YYYY
+e1
+e2
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+2. Heinrich Schürger and his wife Katharina, nee Mehling:
+*30.01.1817/~31.01.1817 Waldzell: Heinrich Schürger, legitimate son of Heinrich Schürger from Waldzell and his wife Margaretha, nee Mehling, witnesses Johann Schürger and Theobald Mahler, both from Waldzell, godfather Heinrich Beyweiler from Waldzell (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5304 Fiche 1, p. 12). 
+
+
+-----------------------DIV30--
+
+Heinrich Schürger
+*30.01.1817   Waldzell
+~31.01.1817   Waldzell
+
+Heinrich Schürger   wohnort Waldzell
+&
+Margaretha Mehling
+
+<future>
+Heinrich Schürger
+&
+Katharina Mehling
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:          img:5304-01-11-A.jpg
+Acquired:            2-Aug-2023  12:23  Thomas Wagner
+Orientation:         _PORTRAIT
+Entries in Image:    1 & 1 partial, below
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==

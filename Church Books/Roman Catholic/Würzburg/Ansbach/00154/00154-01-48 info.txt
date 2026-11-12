@@ -1,0 +1,333 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-48
+Mat.pg#         49
+
+Parish          Ansbach-bei-Roden
+Volume          1
+Page#           86-87
+Years           1809-1810
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE, _PARAGRAPH
+Headers:    
+Columns:        6
+#Entries:       NN + NN
+
+image           file://./00154-01-48.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=49
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 86
+        _YEAR-CONTINUED 1809
+e1      21 may
+e2      18 jun
+e3      6 jul
+e4      11 jul
+e5      18 dec
+        _YEAR 1810
+e6      12 jan          NEW Hadim obit
+e7      12 jan          RMID-13451 Loschert, Georg Adam -b 1810-01-12
+e8      21 jan
+ 
+-----------------------DIV30--
+Page 87
+        _YEAR-CONTINUED 1810
+e1     1 jun
+e2     19 jun
+e3     18 jun
+e4     19 jun
+e5     11 jul
+e6     23 aug
+-----------------------DIV30--
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    85
+Entry   6
+Year    1810
+Detail  file://./00154-01-48-A.png
+
+Transcription
+col
+c1     Die 12.␤januari␤horn 11.␤nocty 
+c2     ␤ 
+c3     Hadim␤obit 
+c4      ␤
+c5      ␤
+c6      ␤
+-----------------------DIV30--
+Page    85
+Entry   7
+Year    1810
+Detail  file://./00154-01-48-A.png
+
+Transcription
+col
+c1     Die 12.␤januari␤horn 11 1/2.␤nocty 
+c2     ␤ 
+c3     ␤ 
+c4      ␤
+c5      ␤
+c6      ␤
+-----------------------DIV30--
+
+Two entries- 6 & 7
+6 seems to be recording the death of  child
+but it seems to not be Gerogius Adamus who is listed in second entry
+
+
+============================================================
+ENTRY 1 — DEATH ENTRY (“Hadim obit”)
+============================================================
+
+------------------------------------------------------------
+1. DIPLOMATIC TRANSCRIPTION (exact lines, exact splits)
+------------------------------------------------------------
+
+Column 1:
+Die 31 Januarii
+hora 11 mo noctu
+
+Column 2:
+Hadim
+obit
+
+Column 3:
+[blank]
+
+Column 4:
+hon: Michal Lechent judicarius
+et Barbara nata Lepchetin
+ex Cabal.
+
+Column 5:
+[blank]
+
+Column 6:
+obstetrix
+Raull
+
+
+------------------------------------------------------------
+2. NORMALIZED LATIN (line-preserving)
+------------------------------------------------------------
+
+Column 1:
+Die 31 Januarii
+hora undecima noctu
+
+Column 2:
+Hadim
+obiit
+
+Column 3:
+[vacat]
+
+Column 4:
+Honestus Michael Lechent, judiciarius,
+et Barbara nata Lepchetin
+ex Cabal.
+
+Column 5:
+[vacat]
+
+Column 6:
+Obstetrix
+Raull
+
+
+------------------------------------------------------------
+3. LETTER-BY-LETTER ANALYSIS
+------------------------------------------------------------
+
+Hadim:
+H-a-d-i-m. Non-Latin personal name; likely local or foreign.
+
+obit / obiit:
+o-b-i-t. Latin: “he/she died.”
+
+hon:
+h-o-n- : abbreviation for honestus (“respectable”).
+
+Michal Lechent:
+M-i-c-h-a-l (variant of Michael).
+L-e-c-h-e-n-t (surname).
+
+judicarius:
+j-u-d-i-c-a-r-i-u-s = judicial officer.
+
+Barbara nata Lepchetin:
+n-a-t-a = “born,” maiden name indicator.
+L-e-p-c-h-e-t-i-n = feminine Latin form of Lepchet.
+
+ex Cabal:
+C-a-b-a-l = place name.
+
+obstetrix Raull:
+o-b-s-t-e-t-r-i-x = midwife.
+R-a-u-l-l = name as written.
+
+
+------------------------------------------------------------
+4. ENGLISH TRANSLATION (modern German names)
+------------------------------------------------------------
+
+On 31 January, at 11 PM,
+Hadim died,
+child of Michael Lechent, a judicial officer,
+and Barbara Lepchet (née Lepchetin) from Cabal.
+
+The midwife Raull is noted.
+
+
+============================================================
+ENTRY 2 — BAPTISM OF GEORGIUS HARMIUS
+============================================================
+
+------------------------------------------------------------
+1. DIPLOMATIC TRANSCRIPTION (exact lines, exact splits)
+------------------------------------------------------------
+
+Column 1:
+Die 31 Januarii
+hora 11 mo noctu
+
+Column 2:
+Georgius Harmius
+
+Column 3:
+hon: Michal Lechent
+et Barbara nata Lepchetin
+
+Column 4:
+hon: Bolle:
+Georgius Harmius
+Labeille ex Lepchetin
+
+Column 5:
+obstetrix
+Raull
+
+Column 6:
+[vacat]
+
+
+------------------------------------------------------------
+2. NORMALIZED LATIN (line-preserving)
+------------------------------------------------------------
+
+Column 1:
+Die 31 Januarii
+hora undecima noctu
+
+Column 2:
+Georgius Harmius
+
+Column 3:
+Honestus Michael Lechent
+et Barbara nata Lepchetin
+
+Column 4:
+Honestus Bolle:
+Georgius Harmius,
+Labeille ex Lepchetin.
+
+Column 5:
+Obstetrix
+Raull
+
+Column 6:
+[vacat]
+
+
+------------------------------------------------------------
+3. LETTER-BY-LETTER ANALYSIS
+------------------------------------------------------------
+
+Georgius Harmius:
+G-e-o-r-g-i-u-s / H-a-r-m-i-u-s.
+Latinized form of modern German Georg Harm.
+
+hon:
+Abbreviation for honestus.
+
+Michal Lechent:
+Same father as Entry 1.
+
+Barbara nata Lepchetin:
+Maiden name Lepchet.
+
+Godparents:
+Bolle (surname).
+Georgius Harmius (likely relative).
+Labeille ex Lepchetin (surname + origin).
+
+obstetrix Raull:
+Same midwife as Entry 1.
+
+
+------------------------------------------------------------
+4. ENGLISH TRANSLATION (modern German names)
+------------------------------------------------------------
+
+On 31 January, at 11 PM,
+was baptized Georg Harm,
+son of Michael Lechent and Barbara Lepchet.
+
+Godparents were Bolle, Georg Harmius,
+and Labeille from Lepchetin.
+
+The midwife was Raull.
+
+
+============================================================
+FINAL SUMMARY (copy-ready)
+============================================================
+
+ENTRY 1 — DEATH
+Date: 31 January, 11 PM
+Child: Hadim (died)
+Parents:
+  - Michael Lechent, judicial officer
+  - Barbara Lepchet (née Lepchetin), from Cabal
+Other:
+  - Midwife: Raull
+
+ENTRY 2 — BAPTISM
+Date: 31 January, 11 PM
+Child: Georg Harm (Latin: Georgius Harmius)
+Parents:
+  - Michael Lechent
+  - Barbara Lepchet (née Lepchetin)
+Godparents:
+  - Bolle
+  - Georg Harmius
+  - Labeille from Lepchetin
+Other:
+  - Midwife: Raull
+
+-----------------------DIV30--
+
+
+
+Match to RM database
+
+RMID-13451 Loschert, Georg Adam -b 1810-01-12
+        son of Johann Michael Loschert & Barbara Coreth
+
+
+conflicts
+mother's last name and home town
+-----------------------DIV30--

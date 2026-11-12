@@ -1,0 +1,121 @@
+===========================================DIV50==
+Volume 	3  	00156
+00156-01
+00156-01-00+01	title images
+
+BAPTISM-START
+00156-01-03		1825-1825	_TABLE-DOUBLE format	12 columns
+
+
+===========================================DIV50==
+header image 	00156-01-03-HEADER.png
+
+1
+Name
+des Kindes
+
+Name of the child
+
+2
+Geburts= und Geschlechts
+folgen enthalten, bei zu
+bigen zwey, als männlich
+und weiblich, und enthalten
+auch die Bemerkung der
+verheirateten und ledigen
+Personen sowohl, als der
+...
+
+ Birth & sex
+
+ 3
+Vater
+Name, Stand und
+Geburtsort
+
+Father: name, occupation, birthplace
+
+4
+Stand, Gewerbe
+Religion, mit Ausübung
+welche Kundschaft
+selbst, Niemand
+und Zunft
+Lauzynzig
+
+Father’s lineage, trade, religion, residence
+
+5
+Mutter
+Namen und
+Geburtsort
+
+Mother: name, birthplace
+
+6
+Stand, Gewerbe
+Religion und
+ausgeübter
+Wohnort und Haus
+
+Mother’s lineage, trade, religion, residence
+
+7
+Zeit
+der Geburt,
+Tauf‑, Monat,
+Tag und
+Woche.
+
+ Date/time of birth and baptism
+
+8
+Geburtsverlang
+mit Einverständnis
+der Eltern
+und Einvernehm
+einer des
+Innhabers
+
+Place of birth and baptism
+
+9
+Leut n. Ort
+sinn
+Tünchen
+Langgöns
+
+??
+
+10
+Pfarrer
+Vinc. Wilhelm
+von Wilhelms Sohn
+
+
+Pastor performing the baptism
+
+11
+Taufpaten, Taufzeugen
+von, Vinnich Josephssohn
+Stamm, Stamm, Gemeinde
+Aubizium und
+Anzenfeldbind.
+
+
+the godparents / baptismal witnesses, with their names, social rank or status, parish/community, and residence.
+
+12
+Stellvertreter
+Inzwischen Komm: Kommissar
+Grieslmühlkomm:
+Wien, Grunwaldstr.
+liegt mir Aug:
+aufgestellt.
+
+Stellvertreter — deputy or substitute (an official acting in place of another).
+Inzwischen Komm: Kommissar / Grieslmühlkomm: — administrative/commissioner notes (names or offices abbreviated).
+Wien, Grunwaldstr. — place/address (Vienna, Grunwaldstraße).
+liegt mir Aug: aufgestellt. — a short administrative remark indicating something was presented/recorded in August (e.g., “laid before me / entered in August”).
+
+===========================================DIV50==

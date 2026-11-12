@@ -1,0 +1,122 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-23
+Mat.pg#         24
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           38-39
+Years           1748-1751
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       14 + 12
+
+image           file://./00154-01-23.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=24
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 38
+        _YEAR-CONTINUED 1748
+e1     1 may
+e2     5 may
+e3     9 may
+e4     Eadem  9 may     CANCELLED
+e5     20 may
+e6     8 jul
+e7     9 oct            RMID-1845 Greser, Maria Elizabeth Birth 1748-10-09
+        _YEAR 1749
+e8     17 feb
+e9     18 mar
+e10    23 mar
+e11    24 may
+e12    4 jun
+e13    22 jun
+e14    7 jul 
+-----------------------DIV30--
+Page 39
+        _YEAR-CONTINUED 1749
+e1      8 aug
+e2      6 sep
+e3      27 sep          RMID-13738 Loschert, Adam Michael Birth 1749-09-27
+e4      9 oct
+        _YEAR 1750
+e5      31 jan
+e6      4 feb
+e7      28 may
+e8      23 jun
+e9      13 jul
+e10     13 sep     CANCELLED
+        _YEAR 1751
+e11     20 jan
+e12     28 jan 
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    38
+Entry   7
+Year    1748
+Detail  file://./00154-01-23-A.png
+
+Transcription
+col
+c1      9. Octoberi ␤ circa 12. mes?
+c2      10. ␤ 8ber.
+c3      Joes Greser. ␤ Anna.
+c4      Maria ␤ Elisabetha.
+c5      Elisabetha Clementy ␤ Öhringer filli.
+c6      Paroaky??.
+
+Match to RM database
+RMID-1845 Greser, Maria Elizabeth Birth 1748-10-09
+
+-----------------------DIV30--
+Page    39
+Entry   3
+Year    1749
+Detail  file://./00154-01-23-B.png
+
+Transcription
+col
+c1      27. Septemberi ␤ circa 7. malut?
+c2      Eadem
+c3      Michael Loschert␤ Anna.
+c4      Adamus ␤ Michael, 
+c5      Joanes Adamus ␤ Joannes Shwina filia.
+c6      Dem??.
+
+Match to RM database
+RMID-13738 Loschert, Adam Michael Birth 1749-09-27
+
+-----------------------DIV30--
+
+This copied in error- may need it
+
+Page    39
+Entry   4
+Year    1749
+Detail  file://./
+
+Transcription
+col
+c1      9. October ␤ circa 1. malut?
+c2      Eadem
+c3      Lauretisy Öhringer. ␤ Apolonia.
+c4      Joannes ␤ Greseriny??. 
+c5      Joes Georgius ger ␤aÿ Meling, p.m. ?? ␤ in Waldzell filius.
+c6      Paroaky??.
+
+Match to RM database
+-----------------------DIV30--

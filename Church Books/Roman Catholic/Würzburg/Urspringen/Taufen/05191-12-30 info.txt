@@ -1,0 +1,97 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-12-30
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      4
+Page#       89
+Years       1835
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   >1
+
+Comments
+Entry numbers are not absolute. 
+Only a single entry was described and imaged.
+Partial entries above and below.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 78
+e2     602     Anna Maria ␤ Schürger
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2
+c00     602
+c01     Anna Maria ␤ Schürger
+c02     5th geburt ␤ ?? ␤ ?? ␤ ??
+c03     ?? ␤ ?? ␤ ??
+c04     ?? ␤ ?? 
+c05     Anna ␤ Maria ␤ Schürger ␤ ?? ␤ ??
+c06     ??
+c07     28. Dezember ␤ ?? ␤ # ?? ␤ i ??
+c08     ??
+c09     28. Dezember
+c10     ??.
+c11     Anna Maria ␤ ?? ␤ ?? ␤ ??
+c12     ►blank◄
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+*/~28.12.1835 Urspringen: Anna Maria Schürger, legitimate daughter (5th child) of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, Urspringen house number 107, godmother Anna Maria Walze from here (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 89).
+
+
+-----------------------DIV30--
+
+Anna Maria Schürger
+*28 Dec 1835   Urspringen
+~28 Dec 1835   Urspringen
+
+Johann Schürger   wohnort Urspringen HN:107
+&
+Anna Maria Scheuermann
+=>Anna Maria Schürger   #5
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 89
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5191-12-19-A.jpg
+Acquired:           05-Jul-2023  12:11      TGW
+Orientation:        _LANDSCAPE
+Entries in Image:   e1 partial, e2, e3 partial
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 12    image 30    Urspringen  Tauf        vol 4   p 89
+5191-12-30
+
+RMID-11419
+Anna Maria Schürger                 (RM same)
+*/~28.12.1835 Urspringen:           (RM same)
+# 5 child
+
+===========================================DIV50==
+===========================================DIV50==

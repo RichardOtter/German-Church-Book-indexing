@@ -1,0 +1,74 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-06-35
+
+Parish      Waldzell
+Volume      1
+Page#       
+Years       
+Record:     _OTHER  stammbaum
+
+Width:      _DOUBLE
+Format:     Irregular
+Headers:    _TODO
+Columns:    
+#Entries:   
+
+Comments
+Stammbaum for Loschert
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5303-06-35-A  tree.png
+Acquired:           15-Oct-2019  15:27      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   
+
+Comments
+Stammbaum for Loschert
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5303-06-35-B  tree.png
+Acquired:           15-Oct-2019  15:27      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   
+
+Comments
+Stammbaum for Loschert
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

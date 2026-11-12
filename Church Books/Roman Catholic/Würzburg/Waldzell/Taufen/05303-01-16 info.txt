@@ -1,0 +1,183 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-16
+
+Parish      Waldzell
+Volume      1
+Page#       20/21
+Years       1721-1723
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO   this file has rough translation
+Columns:    5
+#Entries:   7 L; 10 R
+
+Comments
+shows pages 20 and 21, side by side.
+
+Taufen- page 20, 1721;  assume year 1721 because year 1722 start is listed on page 21 row 1.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 20
+        _HEADER-ROW
+        _YEAR-CONTINUED 1721
+e1      28 Mar
+e2      29 Sep
+e3      3 Oct
+e4      23 Oct
+e5      15 Nov
+e6      28 Nov
+e7      8 Dec
+_EMPTY
+-----------------------------
+Page 21
+        _HEADER-ROW
+        _YEAR 1722
+e1      20 Jan
+e2      2 Feb
+e3      17 Apr
+e4      21 Apr
+e5      10 May  / ? / ?
+e6      18 May
+e7      27 Sep
+e8      11 gbris?
+e9      13 xbrid?
+        _YEAR 1723
+e10     22 Jan
+
++++++++++++++++++++++++DIV30++
+Details
+
++++++++++++++++++++++++DIV30++
+Page    20
+Entry   _HEADER-ROW
+Year    1722
+Detail  
+
+Transcription
+c1      <date baptism> ?
+c2      <parent names>
+c3      <child name>
+c4      <god parents? names>
+c5      ?
+
+
++++++++++++++++++++++++DIV30++
+Page    20
+Entry   2
+Year    1722
+Detail  
+
+Transcription
+c1      29 September
+c2      Valentin Öder / Harber? / Maria
+c3      Joanes Mic / chael
+c4      Joannes Michael / Georgii Stamm / ? ? / ? 
+    from Rainer Otter's GEDCOM: "Joannes Michael Georgii Stramm Aus Anspacensis"
+c5      ?
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2847    Line 2
+Johannes Michael Otter                  1 cousin 6r
+b,ba    29-Sep-1721
+    f   Valentin Otter
+    m   Anna Maria Baunach
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 20, notation 1
+Otter, Johannes Michael
+29-Sep-1721
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-01-16-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+Full page view, "Waldzell Taufen -p020 (partial)  1721.png" shows 
+just the top 4 entries on left page
+
+SEE_ABOVE_FOR_CONTENT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-01-16-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+Top of left page only (page 20)
+Image enlarged compared to "Waldzell Taufen -p020  1721.png"
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Entry   Page 20
+_HEADER-ROW
+e1      28 Mar
+e2      29 Sep
+e3      3 Oct
+e4      23 Oct
+-----------------------DIV30--
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+_HEADER-ROW  Page 20     1722
+c1      <date baptism> ?
+c2      <parent names>
+c3      <child name>
+c4      <god parents? names>
+c5      ?
+-----------------------DIV30--
+e2      Page 20     1722
+c1      29 September
+c2      Valentin Öder / Harber? / Maria
+c3      Joanes Mic / chael
+c4      Joannes Michael / Georgii Stamm / ? ? / ?
+    from Rainer Otter's GEDCOM: "Joannes Michael Georgii Stramm Aus Anspacensis"
+c5      ?
+-----------------------DIV30--
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1544
+
+BAP WCR-p020-Otter,Johannes Michael  
+ Waldzell Church Book - Baptisms, p020-p021 Otter, Johannes Michael
+
+entry   RM-ID       Name                    tags using source
+p20-e2  TMG-2847    Johannes Michael Otter  name, father, mother, baptism
+
+===========================================DIV50==

@@ -1,0 +1,86 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-30
+
+Parish      Waldzell
+Volume      3
+Page#       14
+Years       1864-1867
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   9
+
+Comments
+e8 + e9 have groom names blacked out.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1
+e2
+e3
+e4
+e5
+e6
+e7
+e8
+e9
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-30-A.png
+Acquired:       16-Oct-2019  14:53      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   2, 3
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e2      
+e3      
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-30-B.png
+Acquired:       16-Oct-2019  14:53      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   6, 7
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e6      
+e7      
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

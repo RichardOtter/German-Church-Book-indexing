@@ -1,0 +1,185 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05503-01-29
+
+Parish      Waldzell
+Volume      1
+Page#       46/47
+Years       1778-1779
+Record:     _TAUFE
+Width:      _SINGLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   L >7; R >6
+
+Comments
+Part of page 47 visible on right, about 1 and 1/2 columns
+Years are suspect, need to confirm
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 46
+        _HEADER-ROW
+        _YEAR-HEADER  not legible <1772>
+e1      10 Mar
+e2      14 Apr
+e4      22 Jun
+e5      ?
+        _YEAR  ?<1773>
+e6      5 Mar
+e7      Die 23 Sep
+-----------------------DIV30--
+Page 47
+e1      9 May
+e2      3 Aug
+e3      24 Oct
+e4      10 Nov
+        _YEAR 1774
+e5      13 Jan
+e6      7 Feb
+-----------------------DIV30--
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    46
+Entry   5
+Year    1772
+Detail  
+
+Transcription
+col
+c1      
+c2      eoden
+c3      Georgius Other, et / Elisabetha / ?
+c4      Joanes / Adamus
+c5      Joanes / Adamus / Brunn
+c6      ?
+
+-----------------------DIV30--
+Page    46
+Entry   6
+Year    1773
+Detail  
+
+Transcription
+col
+c1      1779 die 5 Mart
+c2      eoden
+c3      Fridericus Otter / et Elisabetha ?
+c4      Anna Maria
+c5      Anna Maria Amentin / as Stadelhofen
+    From Rainer Otter's GEDCOM; Witness: Anna Maria Ament Ex Stadelhofen
+c6      ?
+-----------------------DIV30--
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+3. Heinrich Schürger and his wife Margaretha, nee Mehling:
+*/~15.04.1774 Waldzell: Heinrich Schürger, legitimate son of Johann Georg Schürger from Waldzell and his wife Maria, godfather Heinrich Schürger from Waldzell (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5303, Fiche 1, p. 47). 
+
+
+-----------------------DIV30--
+
+Heinrich Schürger
+*15 Apr 1774   Waldzell
+~15 Apr 1774   Waldzell
+
+Johann Georg Schürger   wohnort Waldzell
+&
+Maria
+
+<future>
+Heinrich Schürger
+&
+Margaretha Mehling
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-NONE    Line 14
+Johannes Adamus Other
+b,ba    07-Jun-1771
+    f   Georgius Other
+    m   Elisabetha 
+
+TMG-2502    Line 15
+Anna Maria Otter                3 gg aunt
+b,ba    5-Mar-1772
+    f   Friedrich Otter
+    m   Elisabetha Amend
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 46, notation 13
+Otter, J. Adamus
+7-Jun-1771
+
+DAW; PF. Waldzell; Fiche 1; page 46, notation 14
+Otter, A. Maria
+5-Mar-1772
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-01-29-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   L 1-7  contiguous, absolute; R 1-6  contiguous, absolute
+
+Comments
+Shows top of page 46 and 47, but only 1.5 cols of 47
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-01-29-B.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1  & 2 partial, above & below
+
+Comments
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1555
+BAP WCR-p046-Otter,Johannes Adamus; Anna Maria 
+ Waldzell Church Book - Baptisms, p046-Otter, Johannes Adamus & Anna Maria  
+
+RM:
+p46 - e6
+ChurchBook -Waldzell
+_TAUFE; Anna Maria Otter; before 5 March 1772; ; 5 March 1772; p46 - e6; 5303; 1; 29; 46/47; 16 July 2024; RAVigus, RJOtter
+
+RM:
+p47 - e1
+ChurchBook -Waldzell
+_TAUFE; Heinrich Schürger; 15 April 1774; ; 15 April 1774; p47 - e1; 5303; 01; 29; 46/47; 25 August 2023; RROtter
+
+
+
+entry   RM-ID       Name                tags using source
+p46-e5  TMG-NONE    OTHER, JOHANNES ADAMUS  name, father, mother, baptism
+p46-e6  TMG-2502    Fridericus Otter
+
+===========================================DIV50==
+
+

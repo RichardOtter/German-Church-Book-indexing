@@ -1,0 +1,94 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-17
+
+Parish      Waldzell
+Volume      3
+Page#       1
+Years       1895
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      
+e2      
+e3      
+e4      
+e5      TMG-45  Otter Andreas       10 Apr 1799 zu Waldzell
+e6      
+
++++++++++++++++++++++++DIV30++
+Details
+
+_NOT-YET-DONE
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+Image name:         file:///./5305-03-17-A.png
+Acquired:           15-Oct-2019  15:29      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   1, 2
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      Noeth Joh Georg;  Heidenfelder Anna Maria   1825
+--------
+e2      Moehler Friedrich; Anna Maria R"ub  20 Jan 1797
+
++++++++++++++++++++++++DIV30++
+Details
+
+_NOT-YET-DONE
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-17-B.png
+Acquired:       15-Oct-2019  15:28      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   H, 5
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+        _HEADER-ROW      full text
+---------
+e5      Otter Andreas       10 Apr 1799 zu Waldzell
+
++++++++++++++++++++++++DIV30++
+Details
+
+_NOT-YET-DONE
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e5      TMG-45  Otter Andreas       10 Apr 1799 zu Waldzell
+
+===========================================DIV50==

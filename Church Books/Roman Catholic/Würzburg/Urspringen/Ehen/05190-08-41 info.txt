@@ -1,0 +1,87 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05190-08-41
+
+Parish      Urspringen
+Volume      3
+
+Page#       7
+Years       ??
+Record:     _EHE
+Width:      _SINGLE
+Format:     PARAGRAPH
+Headers:    TODO
+Columns:    n/a
+#Entries:   >= 3
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page NN     YYYY-YYYY
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+7. Johann Georg Schürger and his wife Maria Margaretha, nee Breitenbach:
+oo03.02.1756 Urspringen: Johann Georg Schürger, legitimate son of the deceased Johann Georg Schürger from Urspringen and his wife Maria, married Margaretha Breitenbach, legitimate daughter of Michael Breitenbach from Wiesenfeld and his wife Barbara, witnesses Johann Michael Wiesner from Urspringen and Michael Brandt from Wiesenfeld (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5190, Fiche 8, p. 7).
+
+
+-----------------------DIV30--
+
+Johann Georg Schürger
+&   03 Feb 1756   Urspringen
+Maria Margaretha Breitenbach
+
+Johann Georg Schürger   + bef 03 Feb 1756   wohnort Urspringen 
+&
+Maria
+=>
+Johann Georg Schürger
+
+Michael Breitenbach   wohnort Wiesenfeld
+&
+Barbara
+=>
+Maria Margaretha Breitenbach
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5190-08-41-A.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==

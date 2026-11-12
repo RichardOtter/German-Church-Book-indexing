@@ -1,0 +1,425 @@
+===========================================DIV50==
+_LOOKING-FOR in Obserschwarzach
+
+F	found
+N	not found
+SKIP	not examined- prob because of non exact date.
+NEW     not in RM database, found in church book
+
+
+Run on about 2026-22-05
+
+C:\Users\rotter\dev\Genealogy\repo Genealogy-scripts\Quick report for searching church books>"Report of people born or died in a place.py"
+Event type: B=birth, D=death, M=marriage: b
+Place name or part of one: oberschwarzach
+PersonID PersonName                         EventDate                  EventType PlaceName                              
+-------- ---------------------------------- -------------------------- --------- ------------------------------------------------------------------
+
+NF	    03685-01-27
+2268     Dürr, Georg Nikolaus               26 Aug 1802                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Johann Paulus and Geiersbach, Rosina Juliane Christina
+
+NF	    03685-02-20
+2269     Haag, Katharina Luisa              20 Mar 1806                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F	    03685-04-31
+20912    Dürr, Jakob                        6 Jul 1828                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg Nikolaus and Haag, Katharina Luisa
+
+SKIP
+132      Berthold, Johann                   say 1830                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+SKIP
+1114     Englert, Karl                      say 1831                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+SKIP
+20913    Dürr, Kunigunde                    Aug 1835                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg Nikolaus and Haag, Katharina Luisa
+
+SKIP
+119      Brönner, Eva                       say 1840                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F	    03685-07-19
+4632     Rädler, Georg Peter                20 Sep 1846                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+SKIP
+1058     Schanz,                            say 1850                   Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+SKIP
+2099     Barth, Vitus                       say 1851                   Birth     Düttingsfeld, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F	    03685-08-05
+20914    Dürr, Georg                        16 Nov 1851                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg Nikolaus and Haag, Katharina Luisa
+
+NF      03685-08-10(-14)
+20916    Dürr, Regina                       1853                       Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg Nikolaus and Haag, Katharina Luisa
+
+F       03686-01-21
+2271     Lutz, Anna Maria                   6 Apr 1859                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Lutz, Christianus and Schukmacher, Catharina
+
+F       03686-01-30
+14305    Schmitt, Anna Margareta            26 Oct 1860                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03686-02-05
+2270     Dürr, Georg                        9 Aug 1861                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Jakob and Völker, Kunigunda
+
+F       03686-02-07
+32       Dürr, Katharina                    4 Jan 1862                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [husband of Kataharina Dürr I],  and Dürr, Katharina
+
+F       03686-02-12
+702      Fick, Adam                         26 Oct 1862                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03686-02-27
+117      Brönner, Fabian                    29 Jul 1864                Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [father of Fabian Brönner],  and Brönner, Eva
+
+NF      03686-02-29
+703      Pzrtscher, Veronika                25 Dec 1864                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+SKIP
+2281     Dürr, Beno                         say 1869                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Andreas and [wife of Andreas Dürr],
+
+F       03686-04-07
+127      Rost, Franz                        10 Nov 1870                Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Brönner, Eva
+
+F       03686-04-09
+20920    Dürr, Johann                       3 Feb 1871                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Jakob and Völker, Kunigunda
+
+NF      03686-04-11-12
+131      Berthold, Margaretha               May 1871                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Berthold, Johann and Bopp, Catharine
+
+F       03686-04-24
+716      Glos, Heinrich                     3 Jan 1873                 Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F      03686-04-27
+20922    Ruppenstein, Johann Andreas        15 Jul 1873                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03686-04-35
+20921    Lutz, Apollonia                    20 May 1874                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+SKIP NF     03686-05-13-20
+128      Rost, Balthasar                    say 1876                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Brönner, Eva
+
+SKIP
+129      Rost, Johanna                      say 1876                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Brönner, Eva
+
+NF     03686-05-13
+126      Rost, Erhard                       25 Jan 1876                Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Brönner, Eva
+
+F       03686-05-15
+20927    Dürr, Georg                        30 Mar 1876                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Valentin and Fuchs, Margarete
+
+F     03686-05-15
+130      Rost, Josef                        2 Apr 1876                 Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Brönner, Eva
+
+SKIP
+717      , Katharina                        1879                       Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03686-06-08
+1057     Götz, Johann                       26 May 1880                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz,  and Krauf, Elisabeth
+
+F      03686-06-29
+26       Barth, Eva Maria                   30 May 1883                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Vitus and [wife of Vitus Barth],
+
+F      03686-07-05
+20928    Dürr, Kunigunda Dorothea Stephanie 22 Dec 1884                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Valentin and Fuchs, Margarete
+
+SKIP
+153      Engelmann, Theresia                say 1885                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03686-07-07
+9        Maier, Leonhard                    29 May 1885                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Nikolaus and Dürr, Katharina
+
+F       03689-01-04
+2272     Dürr, Lorenz                       7 Apr 1886                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg and Lutz, Anna Maria
+
+SKIP
+2317     Fick, Gottfried                    say 1887                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03689-01-11
+19312    Barth, Kunigunde                   29 Sep 1887                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Vitus and [wife of Vitus Barth],
+
+SKIP
+728      Schwab,                            say 1888                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+F       03689-01-13
+20926    Dürr, Marie Barbara                15 Feb 1888                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Valentin and Fuchs, Margarete
+
+NF
+95       Maier, Maria                       31 Oct 1889                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Nikolaus and Dürr, Katharina
+
+F       03689-01-22
+13854    Thomas, Josef                      28 Nov 1889                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+20925    Dürr, Kasper                       28 Jan 1891                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Valentin and Fuchs, Margarete
+
+68       Maier, Theresia                    8 Jun 1891                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Nikolaus and Dürr, Katharina
+
+2318     Hillenbrand,                       say 1892                   Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+140      Brönner, Johanna                   26 Dec 1896                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Brönner, Fabian and Dürr, Katharina
+
+1088     Brönner, Erhard                    bet 1897 and 1899          Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Brönner, Fabian and Dürr, Katharina
+
+2103     Barth, Josef                       15 Mar 1897                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Vitus and [wife of Vitus Barth],
+
+188      Fleischmann, Josef Franz           19 Mar 1898                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Joseph and Kobb, Anna
+
+138      Brönner, Karl                      22 Jan 1899                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Brönner, Fabian and Dürr, Katharina
+
+139      Fick, Veronika                     16 Feb 1899                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Fick, Adam and Pzrtscher, Veronika
+
+2288     Dürr, Andreas                      20 May 1900                Birth     ~ Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr,  and Dütt, Barbara
+
+141      Brönner, Pankratz                  17 Mar 1901 or 19 Mar 1901 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Brönner, Fabian and Dürr, Katharina
+
+1076     Rädler, Anna Maria                 20 Jun 1901                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rädler, Georg Peter and Schmitt, Anna Margareta
+
+186      Rost, Kunigunda                    23 Dec 1901                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+161      Rost, Johanna                      1903                       Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+14402    Schanz, Theodor                    21 Sep 1903                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Schanz,  and Scheuerer, Barbara
+
+2341     [Keim wife's name], [Mr Emma]      say 1905                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+174      Glos, Josef                        25 May 1905                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Glos, Heinrich and , Katharina
+
+2294     Lotter, Barbetta                   29 Oct 1906                Birth     Oberschwarzach, Schweinfurt, Bavaria, Germany
+    child of Unknown and Unknown
+
+108      Niedermaier, Rosa                  17 Aug 1907                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Johann and Barth, Eva Maria
+
+107      Niedermaier, Maria                 26 Sep 1908                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Johann and Barth, Eva Maria
+
+173      Rost, Paula                        24 Jan 1909                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+160      Rost, Franz                        abt 1910                   Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+187      Rost, Erhard                       10 Feb 1913                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+99       Niedermaier, Otto                  16 Apr 1913                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Johann and Barth, Eva Maria
+
+1091     Götz, Theresa                      abt 1914                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz, Johann and Schwab, Anna Maria
+
+1097     Schmitt, Karl                      1914                       Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+24       Niedermaier, Alois Vitus           6 Oct 1914                 Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Johann and Barth, Eva Maria
+
+2322     Berthold, Margaretta               say 1915                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+2338     Keim, Elisabeth                    say 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Paul and Husslein, Johanna
+
+2340     Keim, Emma                         say 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Paul and Husslein, Johanna
+
+2336     Keim, Johanna                      say 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Paul and Husslein, Johanna
+
+2339     Keim, Josef                        say 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Paul and Husslein, Johanna
+
+2337     Keim, Paul                         say 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Paul and Husslein, Johanna
+
+1093     Keim, Wilhelm                      abt 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Paul and Husslein, Johanna
+
+2334     Steirkorb, Erwin                   say 1915                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [Erwin father],  and Stierkorb, [Erwin mother]
+
+1096     Götz, Dorothea                     28 Jun 1915                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz, Johann and Schwab, Anna Maria
+
+1092     Götz, Klara                        abt 1916                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz, Johann and Schwab, Anna Maria
+
+1090     Götz, Konrad                       1917                       Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz, Johann and Schwab, Anna Maria
+
+191      Schwab,                            say 1918                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Schwab,  and Unknown
+
+103      Niedermaier, Regina                abt 1919                   Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Johann and Barth, Eva Maria
+
+1094     Götz, Michael                      7 Feb 1919                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz, Johann and Schwab, Anna Maria
+
+1095     Götz, Eva                          1920                       Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz, Johann and Schwab, Anna Maria
+
+21       Maier, Maria Kunigunda             14 Oct 1920                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Leonhard and Schwab, Dorothea
+
+2316     Barth, Mathilde                    22 May 1921                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Josef and Banner, Margareta
+
+2319     Fick, Wilhelm                      19 Oct 1921                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Fick, Gottfried and Hillenbrand,
+
+193      Fleischmann, Erna Kunigunda        12 Jan 1922                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Fleischmann, Josef Franz and Rädler, Anna Maria
+
+2276     Barth, Klara                       28 Apr 1922                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Josef and Banner, Margareta
+
+61       Maier, Pankraz                     9 Jun 1922                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Leonhard and Schwab, Dorothea
+
+2275     Barth, Josef                       1923                       Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Barth, Josef and Banner, Margareta
+
+158      Rost, Theodor                      abt 1923                   Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 3],
+
+164      Endres, Bertha                     6 Apr 1924                 Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Endres, Karl and Rost, Johanna
+
+2335     Keim, Anna Lisa                    say 1925                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+157      Rost, Emma                         abt 1925                   Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+23       Maier, Oskar                       20 Apr 1925                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Leonhard and Schwab, Dorothea
+
+2277     Hillenbrand, Richard               27 Mar 1926                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+22       Maier, Karl                        2 Nov 1926                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Leonhard and Schwab, Dorothea
+
+4        Maier, Rosa Johanna                16 Jul 1929                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Leonhard and Schwab, Dorothea
+
+175      Glos, Alois                        19 Sep 1929                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Glos, Josef and Rost, Paula
+
+11188    Thomas, Maria                      7 Dec 1931                 Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Thomas, Josef and Karl, Philomena
+
+2342     , Barbara                          say 1935                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [Keim wife's name], [Mr Emma] and Keim, Emma
+
+159      Rost, Josef                        abt 1935                   Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
+4201     Fick, Anneliese M                  14 Aug 1936                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Fick, [father of Annelise] and Unknown
+
+14440    Schanz, Hedwig Sabine              7 Jul 1938                 Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Schanz, Theodor and Bauerlein, Rosa
+
+1643     Keim,                              abt 1939                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Wilhelm and Götz, Klara
+
+726      Rost,                              abt 1939                   Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Schwab,
+
+13591    Götz, Rosevita                     abt 1943                   Birth     Handthal, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Keim, Wilhelm and Götz, Klara
+
+1639     Götz, Elmar                        abt 1945                   Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of [partner of Dorothea Götz],  and Götz, Dorothea
+
+692      Niedermaier, Irmgart               abt 1945                   Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Otto and Maier, Babetta
+
+727      Rost,                              abt 1945                   Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Erhard and Schwab,
+
+691      Niedermaier, Erwin                 abt 1950                   Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Otto and Maier, Babetta
+
+44       Niedermaier, Leo                   29 Mar 1950                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Alois Vitus and Maier, Maria Kunigunda
+
+690      Niedermaier, Hedwig                abt 1952                   Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Otto and Maier, Babetta
+
+725      Rost, Joachim                      26 Feb 1967                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost,  and Unknown
+
+1634     Niedermaier, Daniela               30 Jan 1972                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Leo and Schwab, Anita
+
+64       Niedermaier, Anja                  1 Nov 1975                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Leo and Schwab, Anita
+
+1077     Niedermaier, Carmen                21 Feb 1977                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Leo and Schwab, Anita
+
+1078     Niedermaier, Carolin               28 Feb 1983                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Niedermaier, Leo and Schwab, Anita
+
+

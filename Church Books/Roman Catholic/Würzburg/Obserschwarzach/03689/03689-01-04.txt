@@ -1,0 +1,89 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 1-1
+
+Archive-ID    ┠ 03689-01-04
+URL pg#       ┠ 5
+Years         ┠ 1886
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ in type face
+Columns:      ┠ 13
+#Entries:     ┠ 10
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=5
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 1
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 19 Lutz  ␤ Lorenz
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 1
+Entry  ┠  5 | year-entry 19
+Year   ┠ 1886
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 19
+c1     ┠ Lutz <s>??<s> ␤ Lorenz
+c2     ┠ II ␤Unehliche ␤ geb erst ␤ per subequ,
+c3     ┠ Geotg ␤ Dürr ␤ maleim legit.
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ Anna ␤ Lutz
+c7     ┠ ledig ␤ ??? ␤ Taufen
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03689-01-04
+2272     Dürr, Lorenz                       7 Apr 1886                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Georg and Lutz, Anna Maria
+
+
+===========================================DIV50==
+

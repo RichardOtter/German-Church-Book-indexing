@@ -1,0 +1,111 @@
+https://matricula-online.eu
+Online repository of European church records
+
+terms:
+in period-  had an event that may be in church books
+red- cousin or cousin spouse, of cousin -spouse parents
+
+
+as of 2026-03-11
+
+In vicinity of Waldzell
+
+Ansbach b. Roden
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/
+~160 people, many in period
+
+Duttenbrunn
+https://data.matricula-online.eu/en/deutschland/wuerzburg/duttenbrunn/
+only 2 people: 1 modern, 1 "wife of Rüb"
+
+Lohr a. Main-St. Michael (Innenstadt)
+https://data.matricula-online.eu/en/deutschland/wuerzburg/lohr-am-main-sankt-michael-innenstadt/
+
+
+
+In vicinity of Oberschwarzach
+
+Gerolzhofen
+https://data.matricula-online.eu/en/deutschland/wuerzburg/gerolzhofen/
+
+
+Ebrach, Mariä Himmelfahrt
+https://data.matricula-online.eu/en/deutschland/bamberg/ebrach-maria-himmelfahrt/
+only 2 people, both modern
+
+Dingolshausen
+https://data.matricula-online.eu/en/deutschland/wuerzburg/dingolshausen/
+only 2 people, both in period, but not red
+
+
+
+Geiselwind, St. Burkhard
+https://data.matricula-online.eu/en/deutschland/bamberg/geiselwind-st-burkhard/
+9 people, several in period
+
+INDEXes
+https://data.matricula-online.eu/en/deutschland/bamberg/geiselwind-st-burkhard/M4%252F35/?pg=6
+list of Enzbrenner
+Georg  323
+
+list of Holzleitner  (could be Holzinger is wrong?)
+https://data.matricula-online.eu/en/deutschland/bamberg/geiselwind-st-burkhard/M4%252F35/?pg=10
+
+
+
+
+https://fromshepherdsandshoemakers.com/2017/10/27/anatomy-of-a-german-marriage-record/
+
+https://www.germanroots.com/germandata.html
+
+
+sample from Bavaria
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSRM-DVXN?cc=3398459&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6ZQM-N3Z6
+
+column headers
+Fortlaufender Nr.
+Tauf- und familien- Name
+Stand, Religion
+Landgericht, Aufenthaltsort, Nummer des Hauses
+Ledig oder verheirathet
+
+
+sample marriage
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSRM-LZRW?cc=3398459
+
+
+
+From Armin's extract Andreas Stamm
+"C:\Users\rotter\Documents\Genealogy\GeneDB\Exhibits\Sources\Church Books\Steinfeld\Ehen\4719-05-13  Trauungsmatrikel Andreas Stamm.docx"
+
+_HEADER-ROW	Page 185		1860
+c1		Bräutigam Vor & Zu-Name
+c2		Stand, Gewerbe, Religion, Aufent-Haltsort dess. HsNummer, Ldgericht	
+c3		Eltern desslb. Vor  & Zuname
+c4		Ledig, geschieden, verwittibt et in beiden letzten Fällen Name der geschiedenen oder verstorbenen Gattin	
+c5		Geboren Wann & Wo ?	
+c6		Getraut         …..Mit oder ohne Aus…. ……
+c7		Getraut	Wann …. Tag Monat, Ort
+c8		Braut Vor & Zu-Name	
+c9		Stand, Gewerbe, Religion, Aufent-haltsort ders. Hausnummer, Landgericht	
+c10		Eltern derslb. Vor  & Zuname, Stand, …, Religion, Geburtsort et Aufenthaltsort derselben
+c11		Ledig, geschieden, verwittibt et in beiden letzten Fällen Name des geschiedenen oder verstorbenen Gatten	
+c12		Geboren Wann & Wo ?
+c13		Pfarrer oder dessen Stellvertreter
+c14		Zeugen Vor & Zuname Stand et Aufenthalts ␤ ort
+
+
+
+Bräutigam Vor & Zu- Name
+Stand, Gewerbe, Religion, Aufent- Haltsort dess. HsNummer, Ldgericht	
+Eltern desslb. Vor  & Zuname
+Ledig, geschieden, verwittibt et in beiden letzten Fällen Name der geschiedenen oder verstorbenen Gattin	Geboren  Wann & Wo ?
+Getraut  Mit oder ohne Aus…
+Getraut  Wann …. Tag Monat, Ort
+Braut Vor & Zu- Name
+Stand, Gewerbe, Religion, Aufent-haltsort ders. Hausnummer, Landgericht
+Eltern derslb. Vor  & Zuname, Stand, …,  Religion, Geburtsort et Aufenthaltsort derselben
+Ledig, geschieden, verwittibt et in beiden letzten Fällen Name des geschiedenen oder verstorbenen Gatten	Geboren Wann & Wo ?
+Pfarrer oder dessen Stellvertreter
+Zeugen Vor & Zuname Stand et Aufenthalts ort
+

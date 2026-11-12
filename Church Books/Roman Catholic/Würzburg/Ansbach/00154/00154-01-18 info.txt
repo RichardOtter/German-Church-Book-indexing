@@ -1,0 +1,85 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-18
+Mat.pg#         19
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           28-29
+Years           1733-1735
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       11 + 13
+
+image           file://./00154-01-18.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=19
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 28
+       _YEAR-HEADER 1734
+e1      18 jan       RMID-10923	Nöth, Anna Maria Birth 1733-01-17
+e2      28 jan
+e3      10 apr
+e4      23 apr
+e5      4 sep
+e6      24 sep
+e7      27 nov
+e8      20 dec
+       _YEAR 1734
+e9      ? jan
+e10     17 jan
+e11     7 feb
+e12     9 mar
+e13     27 mar
+-----------------------DIV30--
+Page 29
+       _YEAR-CONTINUED 1734
+e1      1 apr
+e2      4 apr
+e3      18 may
+e4      6 jul
+e5      10 jul
+e6      1 oct
+e7      22 oct
+e8      14 nov
+e9      29 nov
+       _YEAR 1735
+e10     4 jan
+e11     24 apr
+e12     4 may
+e13     20 jul
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page   28
+Entry  1
+Year   1733
+Detail file://./00154-01-18-A.png
+
+Transcription
+col
+c1      Die 18 January ␤ circa horam ?? ␤ vesper?
+c2      17 ␤ January
+c3      Joannes Nöth ␤ Maria
+c4      Anna Maria
+c5      Anna Maria ␤ Georgi Müller␤ filia
+c6      ??
+
+Match to RM database
+RMID-10923 Nöth, Anna Maria Birth 1733-01-17
+       daughter of Johannes Georg Nöth & Anna Maria Sendelbach
+
+-----------------------DIV30--

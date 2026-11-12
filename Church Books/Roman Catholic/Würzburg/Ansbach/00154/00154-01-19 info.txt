@@ -1,0 +1,170 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-19
+Mat.pg#         20
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           30-31
+Years           1735-1738
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       14 + 14
+
+image           file://./00154-01-19.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=20
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 30
+        _YEAR-HEADER 1735
+e1      4 aug
+e2      14 oct
+e3      29 dec          RMID-16674 Greser, Maria Anna Birth 1735-12-29
+        _YEAR 1736
+e4      20 jan          RMID-16058 Weyer, Anna Maria Birth 1736-01-20  TWIN
+                        RMID-23066 Weyer, Johann Georg Birth 1736-01-20  TWIN
+e5      15 feb
+e6      2 apr
+e7      13 may
+e8      16 may
+e9      4 jun
+e10     5 jun
+e11     14 jul
+e12     18 jul
+e13     6 aug           RMID-10924 Nöth, Johannes Adam Birth 1736-08-06
+e14     9 oct
+-----------------------DIV30--
+Page 31
+       _YEAR-CONTINUED 1736
+e1      12 oct
+e2      10 nov          RMID-16673 Joha, Johann Georg Birth 1736-11-10
+        _YEAR 1737
+e3      4 jan
+e4      20 jan
+e5      10 may
+e6      14 jul
+e7      19 jul
+e8      22 aug
+e9      26 sep
+e10     13 sep
+e11     9 dec
+e12     29 dec ??     
+        _YEAR 1738
+e13     2 feb
+e14     eadem 2 feb
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    30
+Entry   3
+Year    1735
+Detail  file://./00154-01-19-B.png
+
+Transcription
+col
+c1      29 December 
+c2      eadem
+c3      Joannes Greser ␤ Anna
+c4      Anna Maria
+c5      JAnna Maria ␤ Joannes Georgy Müller ␤ filia
+c6      joem.
+
+Match to RM database
+RMID-16674 Greser, Maria Anna Birth 1735-12-29
+
+-----------------------DIV30--
+Page    30
+Entry   4       twin
+Year    1736
+Detail  file://./00154-01-19-C.png
+
+Transcription
+col
+c1      20. January ␤ circa 12 ?? ␤ dia??
+c2      eadem
+c3      Joannes Georgius ␤ Weyer. ␤ Margaretha
+c4      Joannes Georgius ␤ et ␤ Anna Maria ␤ gemel.
+c5      Joe Georgius Geisler, ␤ et ␤ ?? ?? ␤ Waldzell filia
+c6      joem.
+
+Match to RM database
+RMID-16058 Weyer, Anna Maria Birth 1736-01-20  TWIN
+
+_NOTE
+TWINS= gemelli	twins (male, or male and female)
+
+-----------------------DIV30--
+Page    30
+Entry   4       twin
+Year    1736
+Detail  file://./00154-01-19-C.png
+
+Transcription
+col
+c1      20. January ␤ circa 12 ?? ␤ dia??
+c2      eadem
+c3      Joannes Georgius ␤ Weyer. ␤ Margaretha
+c4      Joannes Georgius ␤ et ␤ Anna Maria ␤ gemel.
+c5      Joe Georgius Geisler, ␤ et ␤ ?? ?? ␤ Waldzell filia
+c6      joem.
+
+Match to RM database
+RMID-23066 Weyer, Johann Georg Birth 1736-01-20  TWIN
+
+_NOTE
+TWINS= gemelli	twins (male, or male and female)
+
+-----------------------DIV30--
+Page    30
+Entry   13
+Year    1736
+Detail  file://./00154-01-19-A.png
+
+Transcription
+col
+c1      6 August ?? ␤  ?? ?? ␤ anon
+c2      7 ␤ August
+c3      Joannes Nöth ␤ Anna Maria
+c4      Joannes Adamus
+c5      Joannes Adamus ␤ Sebastian Scmitt ␤ ?? in Carbach ??
+c6      joem
+
+Match to RM database
+RMID-10924 Nöth, Johannes Adam Birth 1735-08-06
+        son of Johannes Georg Nöth & Anna Maria Sendelbach
+
+_NOTE fixed conflict
+in church book- date is 1736-08-06, corrected in RM
+
+-----------------------DIV30--
+Page    31
+Entry   2
+Year    1737
+Detail  file://./00154-01-19-D.png
+
+Transcription
+col
+c1      10. November ␤ circa 12 ?? ␤ dia??
+c2      eadem
+c3      Joannes Georgius ␤ Weyer. ␤ Margaretha
+c4      Joannes Georgius ␤ et ␤ Anna Maria ␤ gemel.
+c5      Joe Georgius Geisler, ␤ et ␤ ?? ?? ␤ Waldzell filia
+c6      joem.
+
+Match to RM database
+RMID-16673 Joha, Johann Georg Birth 1736-11-10
+
+-----------------------DIV30--

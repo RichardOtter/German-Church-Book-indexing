@@ -1,0 +1,89 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 5
+Record:        ┠ _TAUFE
+Page#          ┠ 27
+
+Archive-ID     ┠ 03686-01-30
+URL pg#        ┠ 31
+Years          ┠ 1860
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 12
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=31
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 27
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 58 Anna Margaretha ␤ Schmitt ␤ Wiebelsberg
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠   
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 2
+Entry  ┠ 5 | year-entry 58
+Year   ┠ 1860
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 58
+c1     ┠ Anna Margaretha ␤ Schmitt ␤ Wiebelsberg
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-01-30
+14305    Schmitt, Anna Margareta            26 Oct 1860                Birth     Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+
+
+===========================================DIV50==

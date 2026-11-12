@@ -1,0 +1,68 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-11
+Mat.pg#         12
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           14-15
+Years           1716-1717
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:        
+Columns:        5
+#Entries:       6 + 6
+
+image           file://./00154-01-11.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=12
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 14
+        _YEAR 1716
+e1      6 mar
+e2      23 jun
+e3      12
+e4      17      RMID-1831 Weyer, Johann Georg Birth 1716-10-17
+e5      19
+e6      ?
+-----------------------DIV30--
+Page 15
+        _YEAR 1717
+e1      2 apr
+e2      26 may
+e3      27 jun
+e4      14
+e5      20 aug
+e6      3 sep
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    14
+Entry   4
+Year    1715
+Detail  file://./00154-01-11-A.png
+
+Transcription
+col
+c1      17. ␤ 8 ber
+c2      Kilian Weyer ␤ Anna
+c3      Joannes Georgius
+c4      Joannes Georgius ␤ Heliminger cur ␤ Rokeglessen ??
+c5      ??
+
+Match to RM database
+RMID-1831 Weyer, Johann Georg Birth 1716-10-17
+        parents not recorded
+
+-----------------------DIV30--

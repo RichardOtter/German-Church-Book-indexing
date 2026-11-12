@@ -1,0 +1,49 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-28
+
+Parish      Waldzell
+Volume      3
+Page#       12
+Years       1857-1859
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   10
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+6       crossed out stuff
+7       Andreas Otter       TMG-2515
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-28-A.png
+Acquired:       15-Oct-2019  15:36      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   ?, ?+1
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

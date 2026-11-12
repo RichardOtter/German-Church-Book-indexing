@@ -1,0 +1,85 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 171
+
+Archive-ID     ┠ 03686-06-08
+URL pg#        ┠ 184
+Years          ┠ 1889
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 8
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=184
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 171
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 55 Goetz ␤ Johanna ␤ Oberschwarzach
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 171
+Entry  ┠  5 | year-entry 55
+Year   ┠ 1889
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 55 
+c1     ┠ Goetz ␤ Johanna ␤ Oberschwarzach
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-06-08
+1057     Götz, Johann                       26 May 1880                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Götz,  and Krauf, Elisabeth
+
+===========================================DIV50==

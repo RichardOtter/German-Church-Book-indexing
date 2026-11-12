@@ -1,0 +1,401 @@
+03679	Pfarrmatrikel Oberschwarzach (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1602–1680
+
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03679/?pg=1
+
+-----------
+Register type
+Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges
+Date range start
+Jan. 1, 1602
+Date range end
+Dec. 31, 1680
+Description
+Taufen 1602–1680;
+Firmungen 1672, 1678;
+Ehen 1603–1680;
+Sterbefälle 1608–1680;
+Sonstiges 1611, 1665–1666.
+
+Umfang
+1 Band (7,5 cm) (Kleinformat)
+
+Provenienz
+Pfarrei Oberschwarzach
+
+Zitation
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien, Nr. 3679
+(Bitte geben Sie beim Zitieren der Fundstelle auch die jeweilige Kasualie (z. B. Taufen), den (Teil-)Ort, das Jahr und die Seitenangabe an)
+
+Alte Archivsignatur
+Oberschwarzach, Band 1
+
+Alt-/Vorsignaturen
+AIU1914: 235,24 | PBV1943: Oberschwarzach, Band 1
+
+Matrikelband vollständig online
+Ja
+
+Microfilm identifier
+Oberschwarzach, Band 1, Fiche 1–7
+Storage location
+Archiv und Bibliothek des Bistums Würzburg (ABBW)
+-----------
+
+===========================================DIV50==
+RJO analysis
+7 fiche
+
+fiche	# images	last URLpg  pages
+1		47          48          1-79
+2		50          99          80-177
+3		47         147          178-267
+4		38         186          268-50a
+5		47         234          50b-139
+6		49         284          140-232
+7		9          294          233-249
+
+===========================================DIV50==
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+1		47          48          1-79
+
+0		fiche title
+1		URLpg 2	 p cover
+
+1		vol 1
+2		front material
+3		front material
+4		front material		
+5		front material		
+6		wave symbol
+7		_TAUFE    1602
+8		
+9		
+10		
+11		_TAUFE    1604
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_TAUFE    1608
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFE    1613
+31		
+32		
+33		
+34		
+35		
+36      
+37      
+38      
+39      _TAUFE    1618
+40      
+41      
+42      
+43      
+44      
+45      
+46      
+47      _TAUFE    1623
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+2		50          99          80-177
+
+0		fiche title
+1		URLpg 50	p 80-81
+
+1		
+2		_TAUFE    1624
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFE    1630
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_TAUFE    1641-1642
+21		_TAUFE    1642-1643
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_TAUFE    1651
+31		
+32		
+33		
+34		
+35		
+36      
+37      
+38      
+39      
+40      _TAUFE    1657
+41              
+42      
+43      
+44      
+45      
+46      
+47      
+48      _TAUFE    1661
+49      _TAUFE    1661-1662
+50      _TAUFE    1662
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+3		47         147          178-267
+
+0		fiche title
+1		URLpg 101	p 178-179
+
+1		_TAUFE    1662-1663
+2		
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_TAUFE    1666-1667
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		_TAUFE    1671-1672
+20		
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		_TAUFE    1674-1675
+30		
+31		
+32		
+33		
+34		
+35		
+36      
+37      
+38      
+39      
+40      _TAUFE    1678-1679
+41      
+42      
+43      
+44      
+45      
+46      _TAUFE    1679-1680
+47      _TAUFE    1680
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+4		38         186          268-50a
+
+0		fiche title
+2		URLpg 149	p bef 266
+
+1		question symbol
+2		_TAUFE    INDEX  ====================
+3		
+4		
+5		
+6		
+7		
+8		
+9		_TAUFE    INDEX  ====================
+10		double circle symbol
+11		_EHE      1665
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		
+21		_EHE      1673
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_EHE      1679-1680
+31		
+32		
+33		
+34		
+35		_EHE      1691
+36      
+37      
+38      
+ 
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+5		47         234          50b-139
+
+0		fiche title
+1		URLpg 188	p cross symbol bef 50
+
+1		cross symbol
+2		_STERBFALL     1611
+3		
+4		
+5		
+6		
+7		
+8		
+9		_STERBFALL     1621
+10		
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		_STERBFALL     1634
+20		_STERBFALL     1635-1636
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_STERBFALL     1663-1664
+31		
+32		
+33		
+34		
+35		
+36      
+37      
+38      
+39      
+40      
+41      _STERBFALL     1673-1674
+42      
+43      
+44      
+45      
+46      
+47      _STERBFALL     1678-1679
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+6		49         284          140-232
+
+0		fiche title
+1		URLpg 236	p double circle symbol
+
+1		double circle symbol
+2		_EHE       1603
+3		
+4		
+5		
+6		
+7		
+8		
+9		
+10		_EHE       1608
+11		
+12		
+13		
+14		
+15		
+16		
+17		
+18		
+19		
+20		_EHE       1613
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		_EHE       1622
+31		
+32		
+33		
+34		
+35		
+36      
+37      
+38      
+39      
+40      _EHE       1636-1637
+41      
+42      
+43      
+44      
+45      
+46      
+47      
+48      
+49      _EHE       1648
+
+===========================================DIV50==
+fiche	# images	last URLpg    pages
+7		9          294          233-249
+
+0		fiche title
+1		URLpg 286	p 233
+
+1		_EHE       1652
+2		
+3		
+4		
+5		_EHE       1658-1659
+6		
+7		
+8		_EHE       1664-1665
+9		_EHE       1665
+
+===========================================DIV50==
+===========================================DIV50==

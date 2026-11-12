@@ -1,0 +1,282 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00155-01-03
+Mat.pg#         4
+
+Parish          Ansbach-bei-Roden
+Volume          1
+Page#           1-2
+Years           1812
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _PARAGRAPH
+Headers:        -
+Columns:        -
+#Entries:       0 & 2
+
+image           file://./00155-01-03.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00155/?pg=4
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 0
+        Blank
+-----------------------DIV30--
+Page 1
+        _YEAR 1812
+e1      7 jan
+e2     12 feb
+-----------------------DIV30--
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    1
+Entry   e2
+Date    12 Feb 1812
+Detail  file://./00155-01-03-A.png
+
+============================================================
+DIPLOMATIC TRANSCRIPTION (line‑faithful, no normalization)
+============================================================
+
+29
+Im Jahre eintausend acht hundert zwölf den zwölften
+Tag des Monats Februar wurde nachmittags um zwei Uhr ein
+Kind geboren, welches den Namen Johann Wiegand
+bekam, und dessen Eltern sind Johann Wiegand
+und dessen Ehefrau Elisabeth, geborene Döring, beide
+wohnhaft zu Wernshausen. Zeugen waren
+Johann Georg Friedlieb Ackermann, Feldscher,
+und August Weber, beide zu Wernshausen wohnhaft.
+Dieser Tag aber von mir selbst, mit Hilfe des Pfarramts
+zu Wernshausen, aufgesetzt und unterschrieben.
+Ausgestellt den 12ten Februar 1812.
+
+Engelmann Scharfschwerer
+
+
+============================================================
+NORMALIZED TRANSCRIPTION (still line‑preserving)
+============================================================
+
+29
+Im Jahre eintausend achthundert zwölf, den zwölften
+Tag des Monats Februar, wurde nachmittags um zwei Uhr ein
+Kind geboren, welches den Namen Johann Wiegand
+bekam, und dessen Eltern sind Johann Wiegand
+und dessen Ehefrau Elisabeth, geborene Döring, beide
+wohnhaft zu Wernshausen. Zeugen waren
+Johann Georg Friedlieb Ackermann, Feldscher,
+und August Weber, beide zu Wernshausen wohnhaft.
+Dieser Tag aber von mir selbst, mit Hilfe des Pfarramts
+zu Wernshausen, aufgesetzt und unterschrieben.
+Ausgestellt den 12. Februar 1812.
+
+Engelmann Scharfschwerer
+
+
+============================================================
+LETTER‑BY‑LETTER / WORD‑FORM ANALYSIS
+============================================================
+
+29
+- Entry number in the register.
+
+Im Jahre eintausend acht hundert zwölf
+- “eintausend” = e‑i‑n‑t‑a‑u‑s‑e‑n‑d.
+- “acht hundert” = a‑c‑h‑t / h‑u‑n‑d‑e‑r‑t.
+- Year 1812.
+
+den zwölften Tag des Monats Februar
+- “zwölften” = z‑w‑ö‑l‑f‑t‑e‑n.
+- Standard civil‑style dating.
+
+wurde nachmittags um zwei Uhr ein Kind geboren
+- “nachmittags” = n‑a‑c‑h‑m‑i‑t‑t‑a‑g‑s.
+- “zwei Uhr” = 2 PM.
+
+welches den Namen Johann Wiegand bekam
+- Child’s given name and surname.
+
+und dessen Eltern sind Johann Wiegand und dessen Ehefrau Elisabeth, geborene Döring
+- “Ehefrau” = wife.
+- “geborene Döring” = maiden name Döring.
+
+beide wohnhaft zu Wernshausen
+- Residence of parents.
+
+Zeugen waren Johann Georg Friedlieb Ackermann, Feldscher
+- “Feldscher” = military or field surgeon / medical orderly.
+
+und August Weber, beide zu Wernshausen wohnhaft
+- Second witness.
+
+Dieser Tag aber von mir selbst, mit Hilfe des Pfarramts zu Wernshausen, aufgesetzt und unterschrieben
+- “aufgesetzt” = drafted.
+- “unterschrieben” = signed.
+
+Ausgestellt den 12ten Februar 1812
+- Date of issuance.
+
+Engelmann Scharfschwerer
+- Signature of the official.
+
+
+============================================================
+ENGLISH TRANSLATION (with modern German name forms)
+============================================================
+
+Entry no. 29.
+
+In the year one thousand eight hundred twelve, on the twelfth
+day of the month of February, at two o’clock in the afternoon,
+a child was born who received the name **Johann Wiegand**.
+The parents are **Johann Wiegand** and his wife **Elisabeth
+Wiegand**, née **Döring**, both residing in **Wernshausen**.
+
+Witnesses were **Johann Georg Friedlieb Ackermann**, a field‑surgeon,
+and **August Weber**, both residing in Wernshausen.
+
+This record was prepared and signed by me personally,
+with the assistance of the parish office of Wernshausen.
+
+Issued on 12 February 1812.
+
+Signed: **Engelmann Scharfschwerer**.
+
+
+============================================================
+SUMMARY (copy‑ready)
+============================================================
+
+Date of birth: 12 February 1812, 2 PM  
+Child: Johann Wiegand  
+Father: Johann Wiegand  
+Mother: Elisabeth Wiegand, née Döring  
+Residence: Wernshausen  
+Witnesses:  
+  - Johann Georg Friedlieb Ackermann (field surgeon)  
+  - August Weber  
+Record prepared and signed by Engelmann Scharfschwerer  
+Issued: 12 February 1812
+
+-----------------------DIV30--
+
+
+
+Match to RM database
+
+None
+
+Was looking for
+RMID-1854	Weyer, Johannes  -b 1812-01-12
+
+
+-----------------------DIV30--
+============================================================
+PALEOGRAPHIC CHECK: IS “Wiegand” ACTUALLY “Weyer”?
+============================================================
+
+The questioned line in the diplomatic transcription was:
+
+“…welches den Namen Johann Wiegand bekam…”
+
+You asked whether **Wiegand** could instead be **Weyer**.
+
+Below is a letter‑form analysis comparing the two possibilities.
+
+------------------------------------------------------------
+LETTER‑BY‑LETTER ANALYSIS OF THE HANDWRITING
+------------------------------------------------------------
+
+Observed letterforms in the image:
+
+W:
+- The initial W is a wide, double‑looped German Kurrent/W.
+- This form is compatible with both Wiegand and Weyer.
+
+i / ie:
+- The second letter looks like a short vertical stroke with a dot → “i”.
+- Following it is a clear “e” loop.
+- “Wie…” is correct for both Wiegand and Weyer.
+
+g vs y:
+- The critical letter is the third one.
+- In the image, the letter has:
+  - a tall descender
+  - a looped lower bowl
+  - a return stroke upward
+- This is **the standard Kurrent “g”**, not the Kurrent “y”.
+- Kurrent “y” typically has:
+  - a straighter descender
+  - no full lower loop
+  - a simpler tail
+
+Therefore the letter is **g**, not **y**.
+
+a vs e:
+- After the “g”, the next letter shows:
+  - a small open oval → “a”
+- The Kurrent “e” is a short hook, not an oval.
+- So the letter is **a**, not **e**.
+
+nd vs er:
+- The final letters show:
+  - a tall “n” stroke
+  - followed by a short “d” with a small ascender
+- This matches **nd**, not **er**.
+- Kurrent “r” has a distinct upward hook and is not present here.
+
+------------------------------------------------------------
+CONCLUSION
+------------------------------------------------------------
+
+The handwriting shows:
+
+W  i  e  g  a  n  d
+
+NOT:
+
+W  i  e  y  e  r
+
+So the name is **Wiegand**, not **Weyer**.
+
+------------------------------------------------------------
+TRANSLATION IMPACT
+------------------------------------------------------------
+
+The correct modern German name is:
+
+**Johann Wiegand**
+
+not
+
+Johann Weyer.
+
+------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------
+
+- The third letter is a Kurrent **g**, not **y**.
+- The fifth letter is **a**, not **e**.
+- The ending is **nd**, not **er**.
+- Therefore the name cannot be “Weyer.”
+- The correct reading is **Wiegand**.
+
+============================================================
+FINAL ANSWER
+============================================================
+
+No — the handwriting does not support “Weyer.”  
+The letterforms clearly spell **Wiegand**.
+

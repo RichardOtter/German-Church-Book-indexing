@@ -1,0 +1,149 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-13
+
+Parish      Waldzell
+Volume      1
+Page#       20/21
+Years       1794
+Record:     _STERBEFALL
+Width:      2 page
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 21     1794
+_CONTINUE _YEAR 1793
+e1
+e2
+_YEAR 1794
+e3      8 May 1794      Casparos (??) Mehling   81
+e4      18 Juli         Ann Sch�fferin  70
+e5      4 Aug 1794      Anna Maria Otter(in)    64  wife of Georgi Adami
+e6      4 Sep 1794      Georgius Adamus Gr�n    85  husband of Anna Maria
+e7      1 Nov 1794      Georgius �hring 70  husband of Catharina
+e8      2 Nov           Joes Hartmann
+_PARTIAL-ENTRY
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 4; page , notation 
+
+Item    Page    Date    Name    <TMG->
+    age     Father                  Mother  
+
+31  21      8 May 1794          Casparos (??) Mehling
+        81
+32  21      4 Aug 1794          Anna Maria Otter(in)
+        64      wife of Georgi Adami
+33  21      4 Sep 1794          Georgius Adamus Gr�n
+        85      husband of Anna Maria
+34  21      1 Nov 1794          Georgius �hring
+        70      husband of Catharina
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-04-13-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; _UNCITED; ; ; 1794; ; 5303; 04; 13; 20/21; 1 August 2023; RAVigus
+
+===========================================DIV50==
+
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-13
+
+
+Parish      Waldzell
+Volume      1
+Page#       10
+Years       1794
+Record:     _STERBEFALL
+Width:      _TODO   _DOUBLE  _SINGLE
+
+Format:     PARAGRAPH
+Headers:    _TODO
+Columns:    n/a
+#Entries:   > 8
+
+Comments
+Only one, partial page image, so entry numbers are not absolute
+Seems like that in 2012, there was no 25% of page max rule enforced by the software.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 10     1794
+_YEAR 1794
+e1      8 May   1794    Capar Mehling   age 81
+e2      18 Jul  1794    Anna    age 70
+e3      4 Aug   1794    Anna Maria Otterin in Georgiu Adami wohnung age 64
+e4      4 Sep   1794    Adam  Anna Maria    age 85
+e5      1 Nov   1794    Georgrius Öhring    age 70
+e6      2 Nov   1794    Adam Hartmann   age 46
+e7      Nov 1794
+e8      27 Nov  1794    Michael Loschert
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-04-13-B.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   total=8 contiguous
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

@@ -1,0 +1,99 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-11-54
+
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      4
+Page#       51
+Years       1828
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   >1
+
+Comments
+Entry numbers are not absolute. 
+Only a single entry was described and imaged.
+Partial entries above and below.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 51
+e2     054     Kaspar ␤ Schürger ␤ ✠  ?? ␤ 1828
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2
+c00     054
+c01     Kaspar ␤ Schürger ␤ ✠  ?? ␤ 1828
+c02     2te gebört 2 ?? ␤ ?? ␤ ??
+c03     ?? ␤ ?? ␤ ??
+c04     ?? ␤ ?? ␤ ?? 107
+c05     Anna Maria ␤ ?? ␤ Urspringen
+c06     ledig
+c07     7. Juli. ␤ ►co July◄ 4 6 uhr ␤ abends
+c08     ?? ␤ ?? ␤ ?? ␤ ??
+c09     ?: 8. Juli ␤ ??
+c10     ?? ␤ ??
+c11     Kaspar Albert ␤ Sohn ?? Matthäus ␤ Albert ?? ␤ ??
+c12     ►blank◄
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+*07.07.1828/~08.07.1828 Urspringen: Kaspar Schürger, legitimate son (2nd child) of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, Urspringen house number 107, godfather Kaspar Albert, son of Matthäus Albert from here (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 11, p. 51). +13.08.1828.
+
+
+-----------------------DIV30--
+
+Kaspar Schürger
+*07.07.1828   Urspringen
+~08.07.1828   Urspringen
+
+Johann Schürger   wohnort Urspringen HN:107
+&
+Anna Maria Scheuermann
+=> Kaspar Schürger #2
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 11, p. 51
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5191-11-54-A.jpg
+Acquired:           05-Jul-2023  12:11  Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   e1 partial, e2, e3 partial
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 11    image 54    Urspringen  Tauf        vol 4   p 51
+5191-11-54
+
+RMID  NEW
+Kaspar Schürger                         (RM NEW)
+*07.07.1828/~08.07.1828 Urspringen      (RM NEW)
+marked with iron cross- probably died in war
+# 2 child
+
+===========================================DIV50==
+===========================================DIV50==

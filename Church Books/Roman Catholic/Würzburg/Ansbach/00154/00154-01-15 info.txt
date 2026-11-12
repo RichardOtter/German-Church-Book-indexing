@@ -1,0 +1,80 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-15
+Mat.pg#         16
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           22-23
+Years           1726-1728
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:        
+Columns:        5
+#Entries:       11 + 11
+
+image           file://./00154-01-15.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=16
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 22
+        _YEAR-HEADER 1726
+e1      9 jan
+e2      28 jan
+e3      10 feb
+e4      4 mar
+e5      4 apr
+e6      12 apr
+e7      6 jun
+e8      6 ?
+e9      18 oct
+e10     5 nov
+e11     18 nov
+-----------------------DIV30--
+Page 23
+        _YEAR-HEADER 1727
+e1      10 feb
+e2      13 feb
+e3      17 feb
+e4      19 frb
+e5      8 mar
+e6      27 apr
+e7      7 may
+e8      17 jun
+e9      19 jun
+e10     11 dec
+        _YEAR 1728
+e11     15 feb          RMID-10922 Nöth, Maria Barbara Birth 1728-02-15
+
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    23
+Entry   11
+Year    1728
+Detail  file://./00154-01-15-A.png
+
+Transcription
+col
+c1      15 ␤ February
+c2      Joannes Nöth ␤ Anna Maria
+c3      Maria Bar- ␤ bara.
+c4      Maria Barbara ␤ ?? M?,␤ Ru?? ?? ␤ ?? ??
+c5      ??
+
+Match to RM database
+RMID-10922 Nöth, Maria Barbara Birth 1728-02-15
+        daughter of Johannes Georg Nöth & Anna Maria Sendelbach
+
+-----------------------DIV30--

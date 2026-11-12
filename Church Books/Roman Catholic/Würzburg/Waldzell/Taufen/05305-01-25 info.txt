@@ -1,0 +1,57 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-25
+
+Parish		Waldzell
+Volume		3
+Page#		21
+Years		1841-1842
+Record:		_TAUFE
+Width:		_DOUBLE
+
+Format:		_TABLE-DOUBLE
+Headers:	_TODO
+Columns:	12
+#Entries:	9
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+	<date> 1841
+---------------
+1
+2
+3
+4	Johann Georg Dittmeier
+5	Anna Maria Sch�rger twins	5 Sep
+6	Maria Barbara Sch�rger twins	5 Sep
+7
+8
+9
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:			5503-01-25.png
+Acquired:			16-Oct-2019  17:40		RJO
+Orientation:		_LANDSCAPE
+Entries in Image:	4, 5, 6
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

@@ -1,0 +1,348 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-07
+
+Parish      Waldzell
+Volume      1
+Page#       8/9
+Years       1718-1721 / 1723-1724
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    TODO
+Columns:    4/4
+#Entries:   5/6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 8   1718-1721
+_CONTINUE _YEAR 1718
+e1 	21 jun
+_YEAR 1719
+e2	31 jan
+_YEAR 1720
+e3	16 jan
+_YEAR 1721
+e4	28 jan
+e5	18 feb
+
+-----------------------------
+Entry   Page 9      1723-1724
+_YEAR 1723 _NONE
+_YEAR 1724
+e1      15 Feb
+e2      21 Feb
+e3      12 Apr
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 8      1721
+c1      28 Jan
+c2      
+c3      
+c4      
+
+e2      Page 8      1721
+c1      18 / Feb <1721>
+c2      Honer ? / Valentinius Oder / ? Oder,  ? / ? ?/ ?
+c3      Pis Virgo Maria / Fridericus Baunach / ? ? / Baunach ? / filia ?
+c4      Georgius ? / ? /? / Theobadius / Meling
+from Rainer Otter's GEDCOM:     Witness: Georgius Stramm Aus Ansbach
+& Theobaldus Meling
+
+
+e1      Page 9      1724
+c1      Die 15 / Februar <1721>     _TODO year ?
+c2      ? ?  Georgius Öder ? /? Öder p.p. pas? / VICUM FILIUS LEG?
+c3      ? vig / Anna ? / Meling et geborneb / in vila lag Anna,
+c4      Gergius Heger / a Roden et. / & Joes Adamus Melingc
+    from Rainer Otter's GEDCOM: Witness:  Gergius Heger Aus Roden & Joes Adamus Meling
+
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+marriage    18-Feb-1721     Waldzell
+man     TMG-2439    Line 57
+Valentin Oder                           5 gg uncle
+b   ??-???-1692     Waldzell
+d   6-Dec-1762      Unterbessenbach
+    f   Jacobus Oder
+    m   Ottilia
+not listed  woman   TMG-2459
+not listed  Anna Maria Baunach
+not listed  b   s 1697
+not listed      f   Barbarae
+not listed      m   Friderici Baunach
+
+
+Spreadsheet
+
+marriage    15-Feb-1724     Waldzell
+man     RMID-211    Line 66
+Georgius Otter                          5 gg father
+b   ??-???-1689     Waldzell    
+d   14-Apr-1759     Waldzell
+    f   Jacobus Oder
+    m   Otillia
+woman   RMID-280    Line 46 
+Anna Meling                             5 gg mother
+b       ?           ?? Unterfranken 
+    f   Michael Meling
+    m   Gertraudis
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 8, notation 1
+marriage    18-Feb-1721     recorded in Waldzell
+Valentin Öder
+    m   Jacobi Öder
+    f   Ottila
+Maria Baunach 
+    f   Fridericus Baunach
+    m   Barbara
+
+
+DAW; PF. Waldzell; Fiche 3; page 9; notation 2
+marriage    15-Feb-1724     recorded in Waldzell
+Georgius Öder
+    f   Jacobi Öder
+    m   ?
+Anna Meling     Line 46
+    f   Michael Meling
+    m   Gertraudis
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-07-A.png
+Acquired:           2010-11  RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   2
+
+Comments
+Not absolute entry numbers. Top of page not imaged.
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:file:///./5303-03-07-B.png
+Acquired:           2010-11  RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   3
+
+Comments
+Not absolute entry numbers because top of page not imaged. ?
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:file:///./5303-03-07-C.jpg
+Acquired:           2024-07  RJOtter
+Orientation:        _PORTRAIT
+Entries in Image:   
+
+Comments
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-W p008 1721 Oder & Baunach (& p001)
+Marriage Record, Waldzell Church Records: 1721 Oder & Baunach
+
+entry   RM-ID       Name                tags using source
+p8-e2       RMID-2390       Valentin Öder
+p8-e2       RMID-2410       Anna Maria Baunach 
+
+These are parents. Not clear if they are mentioned in entry
+p8-e2           Jacobus Öder
+p8-e2           Ottilia
+p8-e2           Friderici Baunach
+p8-e2           Barbarae
+
+MR-CR-W p009  1723-1724 Oder & Meling
+Marriage Record, Waldzell Church Records: p009  1723-1724 Oder & Meling
+
+RM:
+p8 - e2
+ChurchBook -Waldzell
+_EHE; Valentin Oder; 1692; Valentin Oder & Anna Maria Baunach; 18 February 1721; p8 - e2; 5303; 03; 07; 8/9; 17 July 2024; RAVigus, RJOtter
+
+RM:
+p09 - e1
+ChurchBook -Waldzell
+_EHE; Georg Oder; 1689; Oder, Georg & Meling, Anna; 15 February 1724; p09 - e1; 5303; 03; 07; 9/9; 2 August 2023; RAVigus
+
+entry   RM-ID       Name                tags using source
+p9-e1   RMID-211    Georgius Oder
+p9-e1   RMID-280    Anna Meling
+
+===========================================DIV50==
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05503-03-07
+
+
+Parish      Waldzell
+Volume      1
+Page#       3/4 ??   prob 8-9  as above
+Years       1720-1725
+Record:     _TODO   ????
+Width:      _DOUBLE
+
+Format:     TABLE_SINGLE_WIDTH
+Headers:    _TODO
+Columns:    4
+#Entries:   5
+
+Comments
+Entry numbers are not absolute.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 3      1720-1721
+_HEADER-ROW
+e1      21 Juni 1720
+---------------
+_YEAR    1721
+e2      28 Jan  1721
+e3      18 Feb  1721
+
+
+-----------------------------
+Entry   Page 4      1722-1725
+_HEADER-ROW
+_YEAR    1722
+e1      9 Juni  1722    Michael Öhring
+e2      14 Sep  1722    Christophorous 
+_YEAR    1723    vacant
+_YEAR    1724
+e3      15 Feb  1724
+e4      21 Feb  1724
+e5      12 Apr  1724
+e6      Anno 1725 (starts new year, no divider)     Mehling
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-07-2A.png
+Acquired:           11-Apr-2012  17:33      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   6
+
+Comments
+5303-03-07-A & 5303-03-07-B are printouts of same Right side of page. 5303-03-07-B starts at the top, 5303-03-0-A has the bottom.
+
+Not clear what l and r mean here.
+Seems like the  Archive image has 2 single width pages.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 4      1722-1725
+_PARTIAL-ENTRY
+_YEAR    1723  vacant
+_YEAR    1724
+e1      15 Feb
+e2      21 Feb
+e3      12 Apr
+e4      Anno 1725 (starts new year, no divider)     Mehling
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-07-2B.png
+Acquired:           14-Oct-2019  15:24      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   4
+
+Comments
+5303-03-07-A & 5303-03-07-B are printouts of same Right side of page. 5303-03-07-B starts at the top, 5303-03-0-A has the bottom.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 4      1722-1725
+_HEADER-ROW
+_YEAR    1722
+e1      9 Juni 1722     Michael Öhring
+e2      14 Sep 1722     Christophorous 
+_YEAR    1723  vacant
+_YEAR    1724
+
++++++++++++++++++++++++DIV30++
+Details
+ 
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-07-2C.png
+Acquired:           15-Oct-2019  15:26      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   3
+
+Comments
+This seems to be the left side of the double page archive-image
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 3      1720-1721
+_HEADER-ROW
+e1      21 Juni 1720
+---------------
+_YEAR 1721
+e2      28 Jan  1721
+e3      18 Feb  1721
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

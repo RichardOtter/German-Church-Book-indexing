@@ -1,0 +1,23 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05304-01-09
+
+
+
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5304-01-09-A.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5304-01-09-B.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+Comments

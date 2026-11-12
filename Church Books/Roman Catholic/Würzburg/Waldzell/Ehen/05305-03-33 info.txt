@@ -1,0 +1,241 @@
+TODO   Köhler  => Möhler
+
+Archive-Image
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-33
+
+Parish      Waldzell
+Volume      3
+Page#       17
+Years       1895- 1897   <top of page list years, but not understandable>
+Record:     _EHE
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    _THIS   5305-03-33
+Columns:    16
+#Entries:   10
+
+Comments
+<free form comments>
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 17     1895- 1897
+
+_HEADER-ROW
+e1
+e2
+e3
+e4     Johann Schürger
+e5
+e6
+e7
+e8
+e9
+e10
+
++++++++++++++++++++++++DIV30++
+Details
+
+Header
+c01         Name des Bräutigams, Vor- und Geschlechtsname:
+c02         Stand und Religion:
+c03         Landgericht, Aufenthalt, Hausnummer:
+c04         Eltern des Bräutigams:
+c05         Ledig oder Witwer (Name der verstorbenen Gattin):
+c06         Gebohren, wann, wo:
+c07         Getraut mit oder ohne Dispens/Denuntiation:
+c08         Tag, Monat, Jahr der Trauung:
+c09         Name der Braut Vor- und Geschlechtsname:
+c10         Stand und Religion:
+c11         Landgericht, Aufenthalt, Hausnummer: 
+c12         Eltern der Braut:
+c13         Ledig oder Witwe (Name des verstorbenen Gatten):
+c14         Geboren, wann, wo:
+c15         Pfarrer:
+c16         Zeugen Vor- und Zunamen, Stand, Aufenthalt:
+
+e4
+c01         Johann / Schürger
+c02         Bauer / Kath.
+c03         Rothenfels / Waldzell / Nr. 45
+c04         Heinrich / Schürger / Katharina / Mehling
+c05         ledig
+c06         4 Januar / 1850 in / Waldzell
+c07         with Dispens, 3rd degree ??
+c08         2 ?? / Juni ?? / 1878 in / Waldzell    <Other sources say 5 jun 1878>
+
+c09         Maria / Agnes / Köhler        <Other sources say Möhler>
+c10         Bauer / Tochter / Kath.
+c11         _EMPTY
+c12         Johann / Köhler/ Margaretha / Mehling   <Other sources say Möhler>
+c13         ledig
+c14         21 Juni / 1857 in / Waldzell
+c15         ?? / Andreas ??
+c16         ?? Josef / Haas und / ?? / Michael Mehling / zu Waldzell
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+oo02.06.1878 Waldzell: Johann Schürger, *04.01.1850 in Waldzell, legitimate son of Heinrich Schürger and his wife Katharina, nee Mehling, married Maria Agnes Köhler, legitimate daughter of Johann Köhler and his wife Margaretha, nee Mehling (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5305, Fiche 3, p. 17).
+
+
+-----------------------DIV30--
+
+Johann Schürger   *04 Jan 1850   Waldzell
+&   02 Jun 1878 Waldzell
+Maria Agnes Köhler
+
+Heinrich Schürger
+&
+Katharina Mehling
+=>   Johann Schürger
+
+Johann Köhler
+&
+Margaretha Mehling
+=>   Maria Agnes Köhler
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+p27 - Ae1
+ChurchBook -Waldzell
+_EHE; ; ; Johann Schürger & Maria Agnes Möhler; 2 June 1878;  p27 - Ae1; 5305; 03; 33; 17; 17 July 2024; TGWagner, RJOtter
+
+
+used 10 times
+their marriage   1
+his name         1
+his birth        1
+his CP           1
+his parent names 2
+her name         1
+her CP           1
+her parent names 2
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file://./5305-03-33-A.jpg
+Acquired:           02-Aug-2023  12:23   TW
+Orientation:        _PORTRAIT
+Entries in Image:   1  & 2 partial, above and below
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-33
+
+Parish      Waldzell
+Volume      3
+Page#       17
+Years       1875-1881
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   10
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 17     1875
+e1
+e2      TMG-1642    Michael Otter & Katharina Werthmann     
+e3      TMG-303     Schubert & R�b      
+e4
+e5
+e6      TMG-302     ?? & R�b    
+e7      TMG-1050    M�hler & Oehring    
+e8      TMG-6756    Watz        
+e9      Junker
+e10
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+Image name:     5305-03-33-B.png
+Acquired:       16-Oct-2019  14:54      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   2, 3, 9
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-33-C.png
+Acquired:       16-Oct-2019  14:54      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   6, 7, 8
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e2      TMG-1642    Michael Otter & Katharina Werthmann     
+e3      TMG-303     Schubert & R�b      
+e6      TMG-302     ?? & R�b    
+e7      TMG-1050    M�hler & Oehring    
+e8      TMG-6756    Watz        
+
+===========================================DIV50==
+
+

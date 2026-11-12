@@ -1,0 +1,91 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-21
+
+Parish      Waldzell
+Volume      3
+Page#       17
+Years       1837-1838
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   7
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1
+e2
+e3
+e4      1838    R�b
+e5      1838    Catharina Otter 
+e6      1838    Michael R�b     
+e7      1838    Maria Barbara Loschert
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-21-A.png
+Acquired:           16-Oct-2019  17:39      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   4, 5
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e4      1838    R�b
+e5      1838    Catharina Otter
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-21-B.png
+Acquired:           16-Oct-2019  17:39      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   6, 7
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e6      1838    Michael R�b
+e7      1838    Maria Barbara Loschert
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e5      TMG-2428    1838    Catharina Otter
+e6      TMG-2480    1838    Michael R�b 
+e7      TMG-2550    1838    Maria Barbara Loschert
+
+===========================================DIV50==

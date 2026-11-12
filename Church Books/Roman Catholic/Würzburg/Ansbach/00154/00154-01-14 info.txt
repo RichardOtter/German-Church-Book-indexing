@@ -1,0 +1,79 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-14
+Mat.pg#         15
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           20-21
+Years           1724-1725
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:        
+Columns:        5
+#Entries:       11 + 11
+
+image           file://./00154-01-14.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=15
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 20
+        _YEAR-HEADER 1724
+e1      4 feb
+e2      10 feb
+e3      20 mar
+e4      1 may
+e5      5 may
+e6      18 jun
+e7      3 aug
+e8      24 aug
+e9      31 aug
+e10     12 sep ??
+e11     14 sep ??
+-----------------------DIV30--
+Page 21
+        _YEAR-HEADER 1724 (et 1724)
+e1      15 nov
+e2      20 sep ??
+e3      4 oct
+e4      7 oct
+e5      16 oct
+        _YEAR 1725
+e6      1 apr
+e7      eadem 1 apr
+e8      12 sep
+e9      20 oct
+e10     eadem 20 oct            RMID-10921 Nöth, Apolonia Birth 1725-10-20
+e11     9 ??
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    21
+Entry   10
+Year    1725
+Detail  file://./00154-01-14-A.png
+
+Transcription
+col
+c1      eadem  (ditto of date: 20. October)
+c2      Joannes Nöth ␤ Anna Maria
+c3      Apolonia
+c4      Apolonia Georgy ␤ M?? ??.
+c5      ??
+
+Match to RM database
+RMID-10921 Nöth, Apolonia Birth 1725-10-20
+        daughter of Johannes Georg Nöth & Anna Maria Sendelbach
+
+-----------------------DIV30--

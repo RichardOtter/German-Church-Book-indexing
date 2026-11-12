@@ -1,0 +1,394 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00155-01-06
+Mat.pg#         7
+
+Parish          Ansbach-bei-Roden
+Volume          1
+Page#           6-7
+Years           1813-1814
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _PARAGRAPH
+Headers:        -
+Columns:        -
+#Entries:       2 & 3
+
+image           file://./00155-01-06.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00155/?pg=7
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 6
+        _YEAR-CONTINUED 1813
+e1      4 nov
+e2      7 nov
+-----------------------DIV30--
+Page 7
+e1      19 dec
+        _YEAR 1814
+e2      17 jan
+e3      31 jan
+-----------------------DIV30--
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    7
+Entry   e2
+Date    17 Jan 1814
+Detail  file://./00155-01-06-A.png
+
+============================================================
+DIPLOMATIC TRANSCRIPTION (line‑faithful, no normalization)
+============================================================
+
+Im Jahre eintausend acht hundert vierzehn den siebenzehnten
+Januar vormittags um 3 Uhr wurde ein Sohn des Michael
+und der Barbara Michel in Anspach und von der Hebamme
+Dorothea und Barbara vernommen und getauft. Die Zeugen
+sind Anton Spring und Anna Michel.
+Angabe durch den Ackermann in Anspach und Kind ist genannt
+von dem S. Peter Abgott von normalen Tag früh um neun Uhr
+und sind die Namen bekommen Johann Michel von Anspach,
+Johann Michel Wolfing, Johann Georg Wolfing Bürger und
+Ackermann in Anspach.
+Geschehen den 17. Jan. 1814.
+
+
+============================================================
+NORMALIZED TRANSCRIPTION (still line‑preserving)
+============================================================
+
+Im Jahre eintausend achthundert vierzehn, den siebzehnten
+Januar, vormittags um drei Uhr, wurde ein Sohn des Michael
+und der Barbara Michel in Anspach von der Hebamme
+Dorothea und Barbara vernommen und getauft. Die Zeugen
+sind Anton Spring und Anna Michel.
+Angabe durch den Ackermann in Anspach, und das Kind ist genannt
+von dem S. Peter Abgott vom normalen Tag früh um neun Uhr
+und hat die Namen bekommen: Johann Michel von Anspach,
+Johann Michel Wolfing, Johann Georg Wolfing, Bürger und
+Ackermann in Anspach.
+Geschehen den 17. Januar 1814.
+
+
+============================================================
+LETTER‑BY‑LETTER / WORD‑FORM ANALYSIS
+============================================================
+
+Im Jahre:
+I‑m / J‑a‑h‑r‑e. Standard civil opening.
+
+eintausend acht hundert vierzehn:
+Longhand number phrase; spacing between “acht” and “hundert” preserved.
+
+den siebenzehnten Januar:
+“siebenzehnten” = s‑i‑e‑b‑e‑n‑z‑e‑h‑n‑t‑e‑n.
+
+vormittags um 3 Uhr:
+“vormittags” = v‑o‑r‑m‑i‑t‑t‑a‑g‑s.
+
+wurde ein Sohn des Michael und der Barbara Michel:
+Clear Kurrent “Sohn”; “Michael” written M‑i‑c‑h‑a‑e‑l; “Barbara Michel” unambiguous.
+
+in Anspach:
+Place name.
+
+von der Hebamme Dorothea und Barbara vernommen und getauft:
+“Hebamme” = midwife.
+Two midwives named: Dorothea and Barbara.
+
+Die Zeugen sind Anton Spring und Anna Michel:
+“Spring” written S‑p‑r‑i‑n‑g; “Anna Michel” clear.
+
+Angabe durch den Ackermann in Anspach:
+“Ackermann” = farmer.
+
+Kind ist genannt von dem S. Peter Abgott:
+“S.” = Sanctus (Saint).
+“Abgott” written A‑b‑g‑o‑t‑t (local surname).
+
+vom normalen Tag früh um neun Uhr:
+“normalen Tag” = ordinary day.
+
+und sind die Namen bekommen:
+Phrase introducing multiple baptismal names.
+
+Johann Michel von Anspach:
+First baptismal name.
+
+Johann Michel Wolfing:
+Second name; “Wolfing” written W‑o‑l‑f‑i‑n‑g.
+
+Johann Georg Wolfing Bürger und Ackermann:
+Third name; “Bürger” = citizen; “Ackermann” = farmer.
+
+Geschehen den 17. Jan. 1814:
+Closing formula.
+
+
+============================================================
+ENGLISH TRANSLATION (modern German names)
+============================================================
+
+In the year 1814, on the seventeenth of January,
+at three o’clock in the morning, a son was born to
+Michael Michel and Barbara Michel in Anspach.
+He was examined and baptized by the midwives
+Dorothea and Barbara. The witnesses were
+Anton Spring and Anna Michel.
+
+The declaration was made by the farmer (Ackermann)
+in Anspach, and the child was named by Saint Peter’s
+representative on the ordinary day at nine o’clock in the morning.
+The child received the names:
+
+• Johann Michel of Anspach  
+• Johann Michel Wolfing  
+• Johann Georg Wolfing, citizen and farmer in Anspach
+
+Recorded on 17 January 1814.
+
+
+============================================================
+SUMMARY (copy‑ready)
+============================================================
+
+Date of birth: 17 January 1814, 3 AM  
+Place: Anspach  
+Child: multiple baptismal names  
+  - Johann Michel  
+  - Johann Michel Wolfing  
+  - Johann Georg Wolfing  
+Father: Michael Michel  
+Mother: Barbara Michel  
+Midwives: Dorothea, Barbara  
+Witnesses: Anton Spring, Anna Michel  
+Declarant: Ackermann (farmer) of Anspach  
+Recorded: 17 January 1814
+
+-----------------------DIV30--
+
+
+
+Match to RM database
+
+None
+
+Was looking for
+RMID-22078	Loschert, Johann Michael  -b 1814-01-17
+
+
+-----------------------DIV30--
+============================================================
+PALEOGRAPHIC CHECK: IS “Wiegand” ACTUALLY “Weyer”?
+============================================================
+
+The questioned line in the diplomatic transcription was:
+
+“…welches den Namen Johann Wiegand bekam…”
+
+You asked whether **Wiegand** could instead be **Weyer**.
+
+Below is a letter‑form analysis comparing the two possibilities.
+
+------------------------------------------------------------
+LETTER‑BY‑LETTER ANALYSIS OF THE HANDWRITING
+------------------------------------------------------------
+
+Observed letterforms in the image:
+
+W:
+- The initial W is a wide, double‑looped German Kurrent/W.
+- This form is compatible with both Wiegand and Weyer.
+
+i / ie:
+- The second letter looks like a short vertical stroke with a dot → “i”.
+- Following it is a clear “e” loop.
+- “Wie…” is correct for both Wiegand and Weyer.
+
+g vs y:
+- The critical letter is the third one.
+- In the image, the letter has:
+  - a tall descender
+  - a looped lower bowl
+  - a return stroke upward
+- This is **the standard Kurrent “g”**, not the Kurrent “y”.
+- Kurrent “y” typically has:
+  - a straighter descender
+  - no full lower loop
+  - a simpler tail
+
+Therefore the letter is **g**, not **y**.
+
+a vs e:
+- After the “g”, the next letter shows:
+  - a small open oval → “a”
+- The Kurrent “e” is a short hook, not an oval.
+- So the letter is **a**, not **e**.
+
+nd vs er:
+- The final letters show:
+  - a tall “n” stroke
+  - followed by a short “d” with a small ascender
+- This matches **nd**, not **er**.
+- Kurrent “r” has a distinct upward hook and is not present here.
+
+------------------------------------------------------------
+CONCLUSION
+------------------------------------------------------------
+
+The handwriting shows:
+
+W  i  e  g  a  n  d
+
+NOT:
+
+W  i  e  y  e  r
+
+So the name is **Wiegand**, not **Weyer**.
+
+------------------------------------------------------------
+TRANSLATION IMPACT
+------------------------------------------------------------
+
+The correct modern German name is:
+
+**Johann Wiegand**
+
+not
+
+Johann Weyer.
+
+------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------
+
+- The third letter is a Kurrent **g**, not **y**.
+- The fifth letter is **a**, not **e**.
+- The ending is **nd**, not **er**.
+- Therefore the name cannot be “Weyer.”
+- The correct reading is **Wiegand**.
+
+============================================================
+FINAL ANSWER
+============================================================
+
+No — the handwriting does not support “Weyer.”  
+The letterforms clearly spell **Wiegand**.
+
+Now ask Claude
+=======================================================
+DIPLOMATIC TRANSCRIPTION (line breaks & word splits as in original)
+=======================================================
+                                              1814. d. 17. Jan.
+Im Jahr Christi 1814 den zehen               [top-right margin note,
+zehnten Jänner früh um ein Uhr ist gebohren   different ink/hand]
+ein Sohn, des Michael Cörper[?] Bürger und Acker-
+mann in Ansprach[?] und dessen ehel[iche] geboh-
+rene löschardin[?] und derselbe verstmäßiger[?] Läute. vie[?]
+Zeugen sind Anton Ehring und Johann Michael
+Löffl[?] beide Bürger und Ackersmann in Ansprach.
+Und ist [?] getauft worden von dem H. Pastor
+Alwrescht[?] am nechsten Tag früh um neun Uhr, und
+hat die Wehmutter gewesen Johann Michael. der
+Vater war Johann Michael Roßling[?], des Johann Georg
+Roßling Bürger und Ackersmann in Ansprachsdorf.
+gebohren den 17. Jan. 1814.
+
+                              Bachmann [?]        [signature]
+
+=======================================================
+NORMALIZED TRANSCRIPTION (modern spelling, line endings kept)
+=======================================================
+                                              1814, den 17. Jan.
+Im Jahr Christi 1814, den zehnten
+Januar, früh um ein Uhr, ist geboren
+ein Sohn des Michael [Körper?], Bürger und Acker-
+mann in Ansbach, und dessen ehelicher, gebo-
+renen [Löschard?]in, und derselben verstmäßiger[?] Leute.
+Zeugen sind Anton Ehring und Johann Michael
+[Löffl?], beide Bürger und Ackersmann in Ansbach.
+Und ist das Kind getauft worden von dem Herrn Pastor
+[Albrecht?] am nächsten Tag früh um neun Uhr, und
+hat die Wehmutter gewesen [Name unklar]. Der
+Vater war Johann Michael [Roßling?], des Johann Georg
+Roßling Bürger und Ackersmann in Ansbach,
+ehelicher Sohn. Ansbach, den 17. Januar 1814.
+
+                              Bachmann [?]
+
+=======================================================
+LETTER-BY-LETTER / PALEOGRAPHIC NOTES (selected difficult words)
+=======================================================
+"Jänner" / "Januar"  – Kurrentschrift ä often looks like plain a with
+   a faint umlaut stroke above; the -er ending is a looped flourish,
+   easily mistaken for -es.
+
+"gebohren" – archaic spelling of "geboren" with silent h, common in
+   18th–19th c. registers; the b has a tall looped ascender, the h
+   a low crossed stroke.
+
+"Ackersmann" – Kurrent "ck" is a tight double-stroke that can look
+   like a single k; the long s (ſ) inside "-smann" resembles an f
+   without the crossbar, a frequent misread trap.
+
+"Bürger" – ü marked by two dots that are often faded/omitted in
+   period ink; the g has an open descender loop.
+
+Surnames (Cörper?/Löschard?in/Löffl?/Roßling?) – these carry the
+   most uncertainty. Kurrent capital letters (C, L, R) share very
+   similar looped forms, and surname spelling in this era was not
+   standardized, so the same family name could appear with
+   different vowels/consonants across entries. Cross-checking
+   against neighboring baptism entries in the same register (which
+   often repeat the same family names) would resolve these with
+   much more confidence than a single-image read can.
+
+=======================================================
+ENGLISH TRANSLATION (modernized German names where identifiable)
+=======================================================
+1814, the 17th of January [margin note/record number]
+
+In the year of Christ 1814, on the tenth of January,
+early at one o'clock, a son was born to Michael
+[Körper?], citizen and farmer in Ansbach, and his
+lawfully wedded wife, née [Löschard?], both people of
+respectable standing.
+
+The witnesses [godparents] are Anton Ehring and
+Johann Michael [Löffl?], both citizens and farmers
+in Ansbach.
+
+The child was baptized the following day, early at
+nine o'clock, by the Reverend Pastor [Albrecht?].
+The midwife was [name unclear]. The father was
+Johann Michael [Rossling?], lawful son of Johann
+Georg Rossling, citizen and farmer in Ansbach.
+
+Recorded/born the 17th of January, 1814.
+
+                              [Signed:] Bachmann [?]
+=======================================================
+IMPORTANT CAVEAT
+=======================================================
+This transcription was made from a single scanned image of
+Kurrentschrift, which is inherently difficult to read with full
+certainty — especially proper names, which don't follow predictable
+spelling rules. Words marked [?] are my best guess based on letter
+shape and context (standard baptism-record phrasing), not confirmed
+readings. For a genealogically reliable transcription, I'd recommend
+comparing this entry against neighboring entries in the same church
+book (surnames often recur) or having it checked by a specialist in
+German paleography / a local Ansbach parish archive.
+=======================================================

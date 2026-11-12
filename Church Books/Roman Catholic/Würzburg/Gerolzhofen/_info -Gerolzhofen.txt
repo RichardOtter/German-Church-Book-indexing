@@ -1,0 +1,77 @@
+Gerolzhofen, Landkreis Schweinfurt, Bayern, Deutschland
+FSPID=9286857
+Gerolzhofen
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/gerolzhofen/
+
+34 Volumes
+ 	01744	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sonstiges)	1576–1704
+ 	01745	Pfarrmatrikel Gerolzhofen (Ehen)	1670–1763
+ 	01746	Pfarrmatrikel Gerolzhofen (Taufen – Ehen) (Registerband)	1670–1820
+ 	01747	Pfarrmatrikel Gerolzhofen (Firmungen – Sterbefälle)	1575–1705
+ 	01748	Pfarrmatrikel Gerolzhofen (Sterbefälle) (Registerband)	1575–1705
+ 	01749	Pfarrmatrikel Gerolzhofen (Taufen – Firmungen – Ehen – Sterbefälle)	1705–1804
+ 	01750	Pfarrmatrikel Gerolzhofen (Taufen – Sterbefälle) (Registerband)	1705–1804
+ 	01751	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sonstiges)	1764–1830
+ 	01752	Pfarrmatrikel Gerolzhofen (Ehen) (Registerband)	1764–1830
+ 	01753	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sterbefälle – Sonstiges) (Registerband)	1734–1822
+ 	01754	Pfarrmatrikel Gerolzhofen (Sterbefälle – Sonstiges)	1805–1866
+ 	01755	Pfarrmatrikel Gerolzhofen (Sterbefälle) (Registerband)	(1805–1852), 1852–1899
+ 	01756	Pfarrmatrikel Gerolzhofen (Firmungen)	1799–1966
+ 	01757	Pfarrmatrikel Gerolzhofen (Taufen)	1821–1866
+ 	01758	Pfarrmatrikel Gerolzhofen (Taufen) (Registerband)	1821–1856
+ 	01759	Pfarrmatrikel Gerolzhofen (Taufen) (Registerband)	1827–1856
+ 	01760	Pfarrmatrikel Gerolzhofen (Ehen)	1830–1866
+ 	01761	Pfarrmatrikel Gerolzhofen (Ehen) (Registerband)	1830–1933
+ 	01762	Pfarrmatrikel Gerolzhofen (Taufen)	1867–1917, 1942, 1957, 1985
+ 	01763	Pfarrmatrikel Gerolzhofen (Taufen) (Registerband)	1821–1899
+ 	01764	Pfarrmatrikel Gerolzhofen (Taufen) (Registerband)	1900–1917
+ 	01765	Pfarrmatrikel Gerolzhofen (Ehen)	1867–1933
+ 	01766	Pfarrmatrikel Gerolzhofen (Sterbefälle)	1867–1933
+ 	01767	Pfarrmatrikel Gerolzhofen (Sterbefälle) (Registerband)	1867–1931
+ 	01768	Pfarrmatrikel Gerolzhofen (Sterbefälle)	1818–1824
+ 	01769	Pfarrmatrikel Gerolzhofen (Ehen)	1822–1851
+ 	01770	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sterbefälle)	1867–1933
+ 	01771	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sterbefälle – Sonstiges)	1819–1866
+ 	01772	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sterbefälle)	1867–1925
+ 	01773	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sterbefälle)	1867–1924
+ 	01774	Pfarrmatrikel Gerolzhofen (Taufen – Ehen – Sterbefälle) (Registerband)	1821–1925
+ 	01775	Bruderschaftsbuch Gerolzhofen (Sonstiges)	1653, [1700]–1779
+ 	01776	Bruderschaftsbuch Gerolzhofen (Sonstiges)	1781–1820, 1913, 1951
+ 	01777	Kaplaneibuch Gerolzhofen (Sonstiges)	(325–1854), 1854–1910
+
+
+_INDEX
+
+_LOOKING-FOR
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Gerolzhofen%	Gerolzhofen, Schweinfurt, Bayern, Deutschland					
+		76	Ach, Martin	Birth	1917-00-00
+		2103	Barth, Josef	Death	1977-04-21
+		11903	Bedenk, Regine	Birth	1780-11-05
+		192	Blattner, Katherina	Birth	1899-05-18
+		734	Blattner, Michael	Death	.	.
+		734	Blattner, Michael	Birth	1870-00-00
+		140	Brönner, Johanna	Death	1973-12-01
+		683	Endres, 	Birth	1870-00-00
+		162	Endres, Karl	Birth	1902-01-17
+		79	Enzbrenner, Ignaz	Death	1997-04-05
+		11904	Gehring, Michael	Birth	1781-05-18
+		735	Holzmann, Anna	Death	.	.
+		735	Holzmann, Anna	Birth	1875-00-00
+		21	Maier, Maria Kunigunda	Death	2013-04-21
+		173	Rost, Paula	Death	1987-09-13
+		1636	Russ, Alexander	Death	1974-06-03
+		1056	Schwab, Anna Maria	Death	1976-08-10
+		

@@ -1,0 +1,703 @@
+===========================================DIV50==
+Archive Name and Location
+
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Deutschland
+
+The archive has also been called:
+Dioesesan Archiv Würzburg  (DAW)
+
+The archive home page:
+https://abbw.bistum-wuerzburg.de/
+
+The page for family research:
+https://abbw.bistum-wuerzburg.de/archiv/familienforschung/
+
+
+At some point, probably after 1990 and before 2010, physical church books in the dioceses local churches were moved to the central archive in Würzburg and filmed onto microfiche.
+The original church books are now kept in a controlled archival environment. In 2012, the microfiche were scanned to digital images.
+
+Archive church book digital images are currently viewable from dedicated computer systems only in the archive reading room.
+
+NEW- Parishes starting with the letters 1 to M are now online at
+https://data.matricula-online.eu/en/deutschland/wuerzburg/
+
+Figure out how online records index numbers correspond to those in Würzburg
+
+
+===========================================DIV50==
+Viewing Church Books at the Archive
+
+One arrives at the Archive Reading Room and checks-in with the library front desk attendant. This includes an agreement to terms of use. Instruction on use of the software is available upon request.
+Conditions in the archive viewing room are almost luxurious. Lockers are provided for coats and umbrellas. Electronic equipment and office supplies are allowed.
+
+Images are viewable only on archive provided, locked-down computers using the provided custom software. The software makes it easy to search for the parish whose books are desired. A list of relevant images is displayed. One can be selected for viewing.
+
+Copying restrictions at the Würzburg archive:
+No digital images are allowed to be removed from the archive. Either by USB drive, email etc.
+No photography (at all) is allowed in the reading room.
+
+Laptop computers may be used in the reading room.
+
+===========================================DIV50==
+Capturing an image of the Archive-Image
+
+To make a copy of an entry in a church book:
+The archive's software is used.
+Find and view the desired page or pages of the church book. I call what you see on the screen the "Archive-Image".
+Click on the "Scan" icon at the top right of the screen.
+A new window appears.
+Right click drag to create a rectangle enclosing the desired area.
+
+TODO  from audio recording
+
+The area is then copied to a blank "printout document" representing an area the size of a sheet of A4 paper.
+The printout document is moved to a holding area in the software.
+A command button sends selected printout documents in the holding area to the printer.
+The attendant brings the paper printout to the researcher.
+Upon leaving the archive, an invoice is created which induces the daily archive use fee and a small fee per printout.
+The invoice is expected to be paid on exit.
+
+
+A major limitation with use of the archive is that data may NOT be copied digitally, to a USB flash drive, for example. Instead, images on the computer screen are printed to paper. To create a digital copy, the paper copy must be scanned. This creates a "second-generation" with Moiré pattern noise. The scan is a lower resolution copy.
+
+
+Further details on how to best create the printout document.
+
+*	The printout document may be oriented in either portrait or landscape.
+
+*	A number of regions copied from the archive-image may be placed on the printout document, however, there is a restriction on the total area. The software enforces a limit of 25% of an archive-image that may be copied to a single printout document. (This may have been increased as of 2023)
+
+*	Theoretically, one could copy an entire archive-image in four printouts. If one wanted to see some overlap between printouts, five printouts would be required. (Overlap is desired to prove that the component images were actually adjacent in the archive-image.)
+
+*	To preserve as much detail as possible, the printed part of the Archive-Image is enlarged as much as possible while fitting in the A4 margins. This is done when placing the captured area onto the printout document. The rectangle's corner is dragged to change it's zoom level.
+
+*	Many or most printouts of double page wide entries in table formated archive-images are of single, double or triple entries. The width is much longer than the height. So landscape mode printing is selected to better match the aspect ratio.
+
+*	For double page wide entries in table format, capture the left and right halves separately and include a small amount of overlap so one can unambiguously connect the two halves together when viewed in the printout.
+Since the archive software limits a printout to 25% of the Archive-Image, one can fit about 3 entries on a printout using this method. 
+Ideally, the entire area of the printout document will be filled with image. This preserves the maximum image resolution in the subsequent scan of the printout.
+See example printout and explanation in the "Misc" folder in the Church Books folder.
+Other entries will do better printed in portrait. Each printout requires a judgment call.
+
+*	Most entries start with a date. Most do not include the year!
+One must therefore determine the year by context. There are often full width divider lines written on the page when a new year is started. Other times, the year is written in the header.
+When possible, include the year in the printout composition. In some cases, one can capture the year separately. The problem is that one cannot look at the image and determine the original relationship between the entry image and the separately copied year image.
+Proposed solution: A separate printout composed of the full height of the archive-image with just the left hand columns that includes the written year may be the best solution. That would unambiguously position the entry on the page and the year.
+At minimum, explain in the written commentary how a missing year number was determined.
+
+The goal of composing the printout document is to make the image self-explanatory. The image should ideally include as much of the archive-image as required to prove the full date and position on the page. 
+
+
+I have not found any information on-line about image copying. Double check with archive personnel for current policies.
+
+Check with archive personnel whether printouts can be sent directly to pdf files instead of paper. (This would be a huge improvement.)  The response was "the system does not allow that
+
+===========================================DIV50==
+Existing Image files and their Sources
+
+Scan files with file names like-
+"5303-01-07-A.png"
+	format-   <Signatur#>-<Fiche#>-<Image#>-<SN>.png (where SN is "A", "B", "C" etc.)
+have been created after the archive digitized the microfiche. They were scanned mostly from computer printouts created by Richard Otter in 2019.
+
+Scan files with names like these but with printout header dates in 2012, were created by Armin Otter and scanned by Richard Otter in 2019.
+
+Many of the printouts I have already made were made without being able to read most of the text of the entry. Often only the date and year were ascertained and that made the page interesting and a printout was made.
+
+
+Image files with file names like-
+"Waldzell Ehen p008  1721.png"
+		format-   <parish> <type> -<page#> <year>.png
+were scanned by R.Otter from photocopies provided by Richard A Vigus in 2010. RV was hired through the Ancestry.com ProGenealogists service. The photocopies were made directly from the micro fiche. The printouts did not have the header lines created by the archive's current software. The archive's copying equipment was not very good at the time and most images have very dark edges.
+
+RV recorded in pencil on the paper photocopy both the Record type and the Page number. He did not record the number of the image on the fiche. All of these images were from the first volume of the Waldzell church book based on their dates.
+
+A spreadsheet was created by RV to keep track of identifications.
+He also created a summary list for each event type which cross referenced the notation number he wrote next to the entries of principal persons. This data has been transferred to the appropriate Archive-Image Interpretation file.
+
+Many of these images are zoomed in onto either the left or right hand page of a two page archive-image. This circumstance was not recorded, so in some case, one must guess.
+
+TODO		Retake these images with the current archive computer equipment and clear up which page numbers are on the same archive-image.
+
+
+===========================================DIV50==
+Notes:
+The list of parishes whose church books are in Würzburg-
+https://abbw.bistum-wuerzburg.de/fileadmin/Bistum_Folgeseiten/Archiv_und_Bibliothek/PDF-Allgemein/2019-07-31_ABBW-Ortsliste_Matrikeln.pdf
+
+As regards my dataset, Rainer Otter claims to have viewed church books before they were moved to the archive. However, no specific citations were recorded, as far as I know.
+This data was given to Richard Otter via a GEDCOM file.
+
+
+
+
+===========================================DIV50==
+Glossary of terms used at the archive
+and in handling Würzburg archive data
+
+-----------------
+Signatur #
+Archive specific call number. Not sure, but I think each original bound volume has its own unique signature number.
+Don't know if this has meaning outside the Würzburg archive.
+
+-----------------
+Band #
+Volume number, this was determined by how books were originally bound. Most parishes have several church book volumes, each bound separately.
+Instead of a simple numerical value, some seem to be in mixed number-letter format, e.g. "A1", "B3" etc.
+Makes it hard to know how many there are. Not clear how these numbers were assigned.
+Seems like each volume has a separate Signatur number.
+
+-----------------
+Fiche #
+A Microfiche is a rectangular piece of microfilm containing many separate images. 
+The Fiche # is the sequence number of a fiche in the set used to microfilm a particular Signatur# or bound volume.
+A specific Signatur# will have been microfilmed to a fairly small number (<100) of fiche. 
+Fiche# was determined by the microfilming process.
+
+-----------------
+Image #
+This is the sequence number of the Archive-Image on the Fiche it was filmed on.
+The largest number of images on a single fiche encountered in the archive so far is 36. That may reflect the fiche format used by the archive. (Formats exist with 60 to 168 images/fiche)
+On the Printout Header, it is labeled "Bild".
+Image# was determined by the microfilming process.
+
+-----------------
+Page #
+The number handwritten on the original church book paper pages.
+The number always seems to be at the upper left hand corner of double pages.
+Single width pages have the numbers at the upper Left and upper right corners.
+Introductory pages do not have page numbers.
+Many seem to be in the same handwriting across many pages
+Not clear when they were added, but almost certainly not contemporaneously with the priest's long hand written entry.
+The page number seems to restart at 1 in each record type section. Not expected if there was one volume.
+
+The printout header requests that the user add the page number manually. It is called "S" for "Seite".
+
+-----------------
+Archive-Image
+The digitized image of the microfilmed church book page(s). This is the digital image that would serve my documentation purposes the best. Archive restrictions make these unavailable for distribution. So, instead, portions of the Archive-Image are copied and pasted into a print layout which is then printed to paper. These printouts are scanned to generate the images seen here.
+
+-----------------
+Printout
+According to Würzburg archive rules, only printouts were available, digital images were not allowed to be downloaded.
+
+A Printout is the A4 single sided piece of paper generated at the archive from a single "Archive-Image". Archive software is used to compose the printout from portions of the Archive-Image. Archive rules, enforced by software, allow at most 25% of an Archive-Image to be captured in one Printout.
+
+Since a digital record is required, the Printout is scanned to a "Scan file" in png or jpg format. (see below)
+
+-----------------
+Printout Header
+The header is created by the archive's software and is always printed in portrait mode. The header is always 3 lines. Top line is in bold font.
+Sample
+Diözesanarchiv Würzburg, Amtsbücher as Pfarreien 3679, Fiche 2, S. (bitte ergänzen)
+Matrikelführende Stelle Oberschwarzach, Band 1, Bild 51
+Bitte geben Sie beim Zitieren nur da fett Gedruckte als Nachweis an.   14. Oktober 2019 (15:26 Uhr)/lesesaal-19
+
+explanation:
+Diözesanarchiv Würzburg, Amtsbücher as Pfarreien <Signatur#>, Fiche <Fiche#>, S. (bitte ergänzen)
+Matrikelführende Stelle <parish>, Band <Volume#>, Bild <Image#>
+Bitte geben Sie beim Zitieren nur da fett Gedruckte als Nachweis an.   <Date> ( <time>Uhr)/lesesaal-<computer#>
+
+-----------------
+Scan File
+Currently, all images are saved to png files which utilize lossless compression. The scan was done using scanner software settings which include "reduce moire" and "sharpen outline" and "reduce show-through".
+A higher than useful scan resolution was used in case blurring filters are employed.
+The scans show all of the dots on the paper used by the monochrome printer to generate gray scale images. When one of these images is opened in viewing software, it's quite ugly, almost no detail can be seen. One needs to zoom in before the text is readable.
+
+The scan file filename should reflect the contents of the printout header. Use the Sgnatur#-Fiche#-Image#-<letter> format.
+Letter will be "A", "B" "C", etc.
+
+Scan files from Thomas Georg Wagner were created as multi page pdf files.
+These were rotated so the original text is upright and then each page was extracted to a jpg image. 
+https://www.pdf2go.com/
+Each page was probably stored as jpg type compressed object in the pdf, so the result is probably the same as if the scan was saved initially to jpg.
+
+
+TODO		Continue to experiment with various image processing filters to make the scan files more readable and aesthetically pleasing.See the folder Misc at the top of the Church Books folder for some examples.
+
+-----------------
+Scan File resolution
+The original digitized image made from the microfiche is the image that would best suit my documentation needs, but it in unavailable.
+
+An effort should be made while composing the Printout using the archive's software to keep as much detail as possible. Microfilm has quite high resolution, but when printed on a monochrome printer using gray scale algorithms, detail is lost. For suggestions, see the section on creating a printout, above.
+
+-----------------
+Scan of printout
+The printout is at faily low resolution. At a scan of 400 dpi and better, the individual dots in the printout are clearly resolved, so no sense in scanning at a higher resolution.
+Using the Cannon Lide scan software, the "Custom" scna option wwas used with the following settings-
+source- document
+colormode- grayscale
+page size- A4
+resolution- 400 dpi
+data format- jpeg
+jpeg img quality- standard
+
+-----------------
+Archive-Image Interpretation File
+A document file that describes an Archive-Image. Its filename corresponds to the name used for the archive-image scan files. 
+All interpretation of the image, either as seen in the archive, or as seen in a digital image outside the archive should be saved here.
+
+Filenames: for example, if scan files exist with names like-
+5303-01-07-A.png
+5303-01-07-B.png
+5303-01-07-C.png
+then, an Image Interpretation File named 5303-01-07.txt would be created.
+The files that currently exist are all in text format.
+
+The Image Interpretation file contains information-
+*	about the Archive-Image displayed in each of the named scan files
+*	about each scan file, for instance when it was acquired and which entries it contains
+*	any information recorded when viewing the original Archive-Image at the archive.  
+
+See the "Documentation Format.txt" for a description of the Image Interpretation File contents and format.
+
+
+
+===========================================DIV50==
+Controlled vocabulary keywords
+
+-----------------
+_PORTRAIT	_LANDSCAPE	N/A
+Describes how entries are printed using the current Würzburg archive software.
+
+N/A is used if this image is not a scan of a printout.
+
+===========================================DIV50==
+===========================================DIV50==
+Notes:
+
+Printout Header instructions
+The third line of the header reads- When quoting, please only use bold print as proof. 
+This seems to be giving direction on how to cite a church book page found in the archive.
+This instruction is a bit confusing as it does not include the parish name or volume number.
+Perhaps there is a strict rule that each volume has a separate Sgnatur#.
+If the original books were re-imaged, then the fiche number would be useless.
+Since the instruction says to include fiche number, the quickest way to retrieve the correct image is by the Fiche and Bild number, but the Bild number is not included. The page/Seite number is often difficult to find in the image and is not electronically indexed or search-able.
+Seems best practice would be to cite location of an entry in the original context of the church book and then cite where the entry was viewed and copied.
+
+===========================================DIV50==
+
+Signatur numbers encountered
+
+5191	Urspringen, Main-Spessart, Bayern, Deutschland
+3679	Oberschwarzach, Schweinfurt, Bayern, Deutschland
+4711	Steinfeld, Main-Spessart, Bayern, Deutschland
+4715	Steinfeld, Main-Spessart, Bayern, Deutschland
+4719	Steinfeld, Main-Spessart, Bayern, Deutschland
+5124	Unterleinach, Würzburg, Bayern, Deutschland
+5237	Volkach, Kitzingen, Bayern, Deutschland
+5303	Waldzell, Steinfeld, Main-Spessart, Bayern, Deutschland
+5304	Waldzell, Steinfeld, Main-Spessart, Bayern, Deutschland
+5305	Waldzell, Steinfeld, Main-Spessart, Bayern, Deutschland
+
+
+
+Parishes in Matricula
+
+Frickenhausen/Rhön
+Friesenhausen
+Fuchsstadt/Hammelburg
+Fuchsstadt/Stadtlauringen
+Gädheim
+Gänheim
+Gaibach
+Gambach
+Garitz
+Gaubüttelbrunn
+Gaukönigshofen
+Gaurettersheim
+Gefäll
+Geiselbach
+Gelchsheim
+Geldersheim
+Gemeinfeld
+Gemünden, St. Peter u. Paul
+Gerach
+Gerbrunn
+Gereuth
+Gerolzhofen
+Geusfeld
+Giebelstadt
+Glattbach
+Gössenheim
+Goldbach, St.Nikolaus
+Goßmansdorf/Hofheim
+Goßmannsdorf/Ochsenfurt
+Gräfendorf
+Grafenrheinfeld
+Gramschatz
+Greßthal
+Grettstadt
+Greußenheim
+Großbardorf
+Großeibstadt
+Großheubach
+Großlangheim
+Großostheim
+Großwallstadt
+Grosswelzheim
+Grosswenkheim
+Güntersleben
+Gützingen
+Habichsthal
+Hafenlohr
+Hambach
+Hammelburg, St. Johannes
+Happertshausen
+Hassenbach
+Hassfurt
+Hausen/Arnstein
+Hausen/Bad Kissingen
+Hausen/Obernburg
+Hausen/Schonungen
+Heidenfeld
+Heigenbrücken
+Heimbuchenthal
+Heinrichsthal
+Helmstadt
+Hendungen
+Heppdiel
+Herbstadt
+Hergolshausen
+Herlheim
+Herschfeld
+Hesselbach
+Hessenthal
+Hesslar
+Hettstadt
+Heustreu
+Hilpertshausen
+Himmelstadt
+Hirschfeld
+Höchberg
+Hörstein
+Hösbach
+Hofheim
+Hofstetten/Gemünden
+Hohenroth
+Hohestadt
+Hollstadt
+Holzhausen
+Holzkirchen
+Holzkirchhausen
+Homburg
+Hopferstadt
+Hundsbach
+Ingolstadt
+Jesserndorf
+Johannesberg
+Kahl/Main
+Kaisten
+Karbach
+Karlburg
+Karlstadt, St. Andreas
+Karsbach
+Keilberg
+Kerbfeld
+Kirchheim
+Kirchlauter
+Kirchschönbach
+Kirchzell
+Kist
+Kitzingen, St. Johannes
+Kleinbardorf
+Kleinheubach
+Kleinkahl
+Kleinochsenfurt
+Kleinostheim
+Kleinrinderfeld
+Kleinwallstadt
+Kleinwenkheim
+Klingenberg
+Knetzgau
+Königsberg/Bayern
+Kolitzheim
+Krombach
+Kronungen
+Krum
+Kürnach
+Kützberg
+Langendorf
+Langenleiten
+Langenprozelten
+Laudenbach/Karlstadt
+Laudenbach/Miltenberg
+Laufach
+Lauter
+Lebenhan
+Leidersbach
+Lengfurt
+Leubach
+Leutershausen
+Leuzendorf
+Limbach
+Löhrieth
+Lohr/Main, St. Michael
+Lülsfeld
+Machtilshausen
+Maibach
+Maidbronn
+Mainaschaff
+Mainsondheim
+Margethöchheim
+Marktbreit
+Marktheidenfeld
+Marktsteinach
+Maroldsweisach
+Maßbach
+Massenbuch
+Mechenhard
+Mechenried
+Mellrichstadt
+Merkershausen
+Michelau/Steigerwald
+Michelbach
+Miltenberg
+Mittelstreu
+Mömbris
+Mömlingen
+Mönchberg
+Motten
+Müdesheim
+Mühlbach/Karlstadt
+Mühlhausen/Estenfeld
+Münnerstadt
+Mürsbach
+Neubrunn/Würzburg
+Neunkirchen
+Neuses/Bundorf
+Neustadt/Main
+Neustädtles
+Niederlauer
+Niedernberg
+Nordheim/Main
+Nordheim/Rhön
+Nüdlingen
+Oberbach
+Oberbessenbach
+Oberelsbach
+Obereschenbach
+Obereßfeld
+Obereuerheim
+Oberfladungen
+Oberleichtersbach
+Oberleinach
+Obernburg
+Oberpleichfeld
+Oberschleichach
+Oberschwappach
+Oberschwarzach
+Obersinn
+Oberstreu
+Obertheres
+Oberthulba
+Obervolkach
+Oberweißenbrunn
+Oberwerrn
+Ochsenfurt, St. Andreas
+Oellingen
+Oerlenbach
+Oesfeld
+Opferbaum
+Partenstein
+Pfarrweisach
+Pfersdorf
+Pflaumheim
+Pflochsbach
+Poppenhausen
+Poppenlauer
+Poppenroth
+Prappach
+Premich
+Prölsdorf
+Prosselheim
+Pusselsheim
+Ramsthal
+Randersacker
+Rannungen
+Rechtenbach
+Reckendorf
+Reichmannshausen
+Reistenhausen
+Retzbach
+Retzstadt
+Reupelsdorf
+Rieden
+Riedenberg
+Riedenheim
+Riedern
+Rieneck
+Rimbach
+Rimpar
+Rittershausen
+Roden
+Rodenbach
+Rödelmaier
+Rödelsee
+Röllbach
+Röllfeld
+Röthlein
+Röttingen
+Rohrbach
+Rossbach
+Roßbrunn
+Rothenbuch
+Rothenfels
+Rottendorf
+Rüdenau
+Rüdenschwinden
+Ruppertshütten
+Saal/Saale
+Sächsenheim
+Sailauf
+Salz
+Sand am Main
+Sandberg
+Schallfeld
+Schleerieth
+Schmachtenberg
+Schmalwasser
+Schmerlenbach
+Schnackenwerth
+Schneeberg
+Schönau
+Schollbrunn
+Schondra
+Schonungen
+Schraudenbach
+Schwärzelbach
+Schwanfeld
+Schwarzenau
+Schwebenried
+Schweinfurt, Hl. Geist
+Schweinfurt, St. Kilian
+Sendelbach
+Seubrighausen
+Soden
+Sommerach
+Sommerau
+Sonderhofen
+Stadelhofen
+Stadelschwarzach
+Stadtlauringen
+Stadtprozelten
+Stadtschwarzach
+Stalldorf
+Stammheim
+Stangenroth
+Steinach
+Steinbach/Ebelsbach
+Steinbach/Lohr
+Steinfeld
+Steinsfeld
+Sternberg/Sulzdorf
+Stettbach
+Stetten
+Stettfeld
+Stockheim
+Stockstadt
+Strahlungen
+Stralsbach
+Strassbessenbach
+Strüth
+Sulzbach/Main
+Sulzdorf/Giebelstadt
+Sulzfeld/Grabfeld
+Sulzfeld/Main
+Sulzheim
+Sulzthal
+Tauberrettersheim
+Theilheim/Würzburg
+Theinheim
+Thüngersheim
+Thulba
+Thundorf
+Trappstadt
+Traustadt
+Trennfeld
+Trennfurt
+Trossenfurt
+Tückelhausen
+Üchtelhausen
+Unsleben
+Unterebersbach
+Untereisenheim
+Unterelsbach
+Untererthal
+Untereßfeld
+Untereuerheim
+Unterhohenried
+Unterleinach
+Unterpleichfeld
+Unterpreppach
+Untersteinbach
+Untertheres
+Unterweissenbrunn
+Unterwittbach
+Urspringen/Lohr a. M.
+Vasbühl
+Veitshöchheim
+Volkach
+Waigolshausen
+Waldaschaff
+Waldberg
+Waldbrunn
+Waldbüttelbrunn
+Waldfenster
+Waldsachsen
+Waldzell
+Wargolshausen
+Wartmannsroth
+Wasserlos
+Watterbach
+Wechterswinkel
+Wegfurt
+Weibersbrunn
+Weilbach
+Weisbach
+Wenighösbach
+Wenigumstadt
+Wermerichshausen
+Werneck
+Wernfeld
+Westheim/Hassfurt
+Weyer
+Wiesen
+Wiesenfeld
+Wiesentheid
+Wiesthal
+Wildflecken
+Windheim/Hafenlohr
+Windheim/Wartmannsroth
+Wintersbach
+Wipfeld
+Wörth/Main
+Wolfmannshausen
+Wolfsmünster
+Wolkshausen
+Wollbach
+Wonfurt
+Wülfershausen
+Würzburg, St. Burkard
+Würzburg, Dom-Domfparrei
+Würzburg, Dom-Domstift
+Würzburg, St. Gertraud
+Würzburg, Neumünster
+Würzburg, St. Peter u. Paul, Hofpfarrei
+Würzburg-Heidingsfeld, St. Laurentius
+Würzburg-Lengfeld, St. Laurentius
+Würzburg-Oberdürrbach, St. Josef
+Würzburg-Rottenbauer, St. Josef
+Würzburg-Unterdürrbach, St. Rochus und St. Sebastian 
+Würzburg-Versbach, St. Jakobus
+Zeil am Main
+Zeilitzheim
+Zell/Ebersberg
+Zell/Main
+Zellingen
+Zeubelried
+Zeuzleben
+Zimmern

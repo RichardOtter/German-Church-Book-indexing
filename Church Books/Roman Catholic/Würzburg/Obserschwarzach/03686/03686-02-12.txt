@@ -1,0 +1,90 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 39
+
+Archive-ID     ┠ 03686-02-12
+URL pg#        ┠ 44
+Years          ┠ 1862
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 13
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=44
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 39
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 61 Adam Fick ␤ Oberschwarzach
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+e13    ┠   
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 
+Entry  ┠  
+Year   ┠ 
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 61
+c1     ┠ Adam Fick ␤ Oberschwarzach
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-02-12
+702      Fick, Adam                         26 Oct 1862                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+===========================================DIV50==

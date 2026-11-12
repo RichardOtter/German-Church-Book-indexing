@@ -1,0 +1,118 @@
+Würzburg Diocese church book on-line publish progress at 
+
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/
+
+Progress as of 4-17
+  Miltenberg
+  Mittelstreu
+
+  then a big jump
+
+  Schweinfurt-Heilig Geist (Innenstadt)
+  Schweinfurt-St. Kilian (Innenstadt)
+  Würzburg-Katholisches Matrikelamt (Innenstadt)
+  Würzburg-St. Burkard (Mainviertel)
+
+last news article
+https://data.matricula-online.eu/en/nachrichten/bistum-wurzburg-pfarreien-und-bande-erganzt/
+Dec. 5, 2025
+Bistum Würzburg: Pfarreien und Bände ergänzt Dec. 5, 2025
+Das Bistum Würzburg hat die nächsten 1.233 Kirchenbücher von Güntersleben bis Mittelstreu online bereitgestellt.
+
+prev
+https://data.matricula-online.eu/en/nachrichten/bistum-wurzburg-stellt-erste-kirchenbuecher-online/
+Dec. 10, 2024
+Bistum Würzburg stellt erste Kirchenbücher online Dec. 10, 2024
+Das Bistum Würzburg hat die ersten gut 2.000 Kirchenbücher von Aidhausen bis Großwenkheim sowie die von Schweinfurt und Würzburg online bereitgestellt.
+
+===========================================DIV50==
+parishes to search for tree members
+
+Acholshausen, Gaukönigshofen, Würzburg, Bayern, Deutschland
+Albstadt, Alzenau in Unterfranken, Aschaffenburg, Bayern, Deutschland
+Amorbach, Miltenberg, Bayern, Deutschland
+SOURCE_CREATED    Ansbach, Roden, Main-Spessart, Bayern, Deutschland
+SOURCE_CREATED    Arnshausen, Bad Kissingen, Bad Kissingen, Bayern, Deutschland
+Aschaffenburg, [KFS], Bayern, Deutschland
+Aschaffenburg-Mariä Geburt (Schweinheim)
+Aschaffenburg-St. Agatha (Innenstadt)
+Aschaffenburg-St. Laurentius (Leider)
+Aschaffenburg-St. Peter und Paul (Obernau)
+Aschaffenburg-St. Michael (Damm)
+Aschaffenburg-St. Peter und Alexander (Stift) (Innenstadt)
+Aschaffenburg-Unsere Liebe Frau (Innenstadt)
+
+Bad Kissingen, Bad Kissingen, Bayern, Deutschland
+Bad Königshofen, Bad Königshofen im Grabfeld, Rhön-Grabfeld, Bayern, Deutschland
+Baldersheim, Aub, Würzburg, Bayern, Deutschland
+Bergtheim, Würzburg, Bayern, Deutschland
+Biebelried, Kitzingen, Bayern, Deutschland
+
+TOO_RECENT        Dettelbach, Kitzingen, Bayern, Deutschland
+Dettingen, Karlstein am Main, Aschaffenburg, Bayern, Deutschland
+SOURCE_CREATED    Dingolshausen, Schweinfurt, Bayern, Deutschland
+Dippach, Eltmann, Haßberge, Bayern, Deutschland
+Dittelbrunn, Dittelbrunn, Schweinfurt, Bayern, Deutschland
+Dorfprozeltenm, Miltenberg, Bayern, Deutschland
+TOO_RECENT        Duttenbrunn, Zellingen, Main-Spessart, Bayern, Deutschland
+
+Eichenbühl, Miltenberg, Bayern, Deutschland
+Eisenbach, Obernburg am Main, Miltenberg, Bayern, Deutschland
+Erlabrunn, Würzburg, Bayern, Deutschland
+Erlach, Neustadt am Main, Main-Spessart, Bayern, Deutschland
+Erlenbach, Erlenbach am Main, Miltenberg, Bayern, Deutschland
+Erlenbach, Karlstadt, Main-Spessart, Bayern, Deutschland
+
+TOO_RECENT    Frammersbach, Frammersbach, Main-Spessart, Bayern, Deutschland
+TOO_RECENT    Frickenhausen, Frickenhausen am Main, Würzburg, Bayern, Deutschland
+
+TOO_RECENT    Gambach, Karlstadt, Main-Spessart, Bayern, Deutschland
+Geiselbach, Aschaffenburg, Bayern, Deutschland
+TOO_RECENT    Geldersheim, Schweinfurt, Bayern, Deutschland
+    Gemünden, Gemünden am Main, Main-Spessart, Bayern, Deutschland
+    Gerolzhofen, Schweinfurt, Bayern, Deutschland
+Glattbach, Aschaffenburg, Bayern, Deutschland
+Grafenrheinfeld, Grafenrheinfeld, Schweinfurt, Bayern, Deutschland
+Gramschatz, Rimpar, Würzburg, Bayern, Deutschland
+Großostheim, Aschaffenburg, Bayern, Deutschland
+Großwallstadt, Miltenberg, Bayern, Deutschland
+
+    Hafenlohr, Hafenlohr, Main-Spessart, Bayern, Deutschland
+TOO_RECENT    Hambach, Dittelbrunn, Schweinfurt, Bayern, Deutschland
+    Hammelburg, Bad Kissingen, Bayern, Deutschland
+Hausen, Hausen bei Würzburg, Würzburg, Bayern, Deutschland
+Heimbuchenthal, Aschaffenburg, Bayern, Deutschland
+Helmstadt, Würzburg, Bayern, Deutschland
+Herschfeld, Bad Neustadt an der Saale, Rhön-Grabfeld, Bayern, Deutschland
+Hessenthal, Mespelbrunn, Aschaffenburg, Bayern, Deutschland
+  Himmelstadt, Main-Spessart, Bayern, Deutschland
+Hirschfeld, Röthlein, Schweinfurt, Bayern, Deutschland
+Hofstetten, Landsberg am Lech, Bayern, Deutschland
+Holzkirchen, Landkreis Würzburg, Bayern, Deutschland
+Holzkirchen, Miesbach, Bayern, Deutschland
+Holzkirchen, Wechingen, Donau-Ries, Bayern, Deutschland
+    Hösbach, Hösbach, Aschaffenburg, Bayern, Deutschland
+    Karbach, Main-Spessart, Bayern, Deutschland
+    Karlburg, Karlstadt, Main-Spessart, Bayern, Deutschland
+    Karlstadt, Main-Spessart, Bayern, Deutschland
+Keilberg, Bessenbach, Aschaffenburg, Bayern, Deutschland
+Kirchschönbach, Prichsenstadt, Kitzingen, Bayern, Deutschland
+Kitzingen, Kitzingen, Bayern, Deutschland
+Klingenberg, Klingenberg am Main, Miltenberg, Bayern, Deutschland
+Krombach, Krombach, Aschaffenburg, Bayern, Deutschland
+Kronungen, Poppenhausen, Schweinfurt, Bayern, Deutschland
+
+Langenprozelten, Gemünden am Main, Main-Spessart, Bayern, Deutschland
+Laudenbach, Karlstadt, Main-Spessart, Bayern, Deutschland
+Laufach, Laufach, Aschaffenburg, Bayern, Deutschland
+Lohr, Lohr am Main, Main-Spessart, Bayern, Deutschland
+
+Mainaschaff, Mainaschaff, Aschaffenburg, Bayern, Deutschland
+Marktbreit, Kitzingen, Bayern, Deutschland
+Miltenberg, Miltenberg, Bayern, Deutschland
+
+Schweinfurt, Schweinfurt, Bayern, Deutschland
+
+Würzburg, Bayern, Deutschland
+

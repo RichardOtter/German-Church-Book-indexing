@@ -1,0 +1,43 @@
+Hafenlohr, Hafenlohr, Main-Spessart, Bayern, Deutschland
+FSPID=9744524
+Hafenlohr
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/hafenlohr/
+
+13 Volumes
+	02021	Pfarrmatrikel Hafenlohr (Taufen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1604–1627, 1648, 1654–[1655], 1985
+	02022	Pfarrmatrikel Hafenlohr (Taufen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1627–1660, [1850], [1950]
+	02023	Pfarrmatrikel Hafenlohr (Taufen – Firmungen – Ehen) (inkl. Register)	1677–1688, [1950]
+	02024	Pfarrmatrikel Hafenlohr (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1688–1826
+	02025	Pfarrmatrikel Hafenlohr (Taufen – Kommunion – Firmungen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1807–1891
+	02026	Familien-/Häuserbuch Hafenlohr (Sonstiges) (inkl. Register)	(1640–1882), 1882–1970
+	02027	Familien-/Häuserbuch Hafenlohr (Sonstiges)	(1688–[1850]), [1850]–1880, 1893, 1907, 1933, 1962, 1973
+	02028	Pfarrmatrikel Hafenlohr (Taufen – Sonstiges)	1822–1917
+	02029	Pfarrmatrikel Hafenlohr (Sterbefälle – Sonstiges)	1822–1961
+	02030	Familien-/Häuserbuch Hafenlohr (Sonstiges) (inkl. Register)	(1704–1882), 1882–1959
+	02031	Pfarrbuch Hafenlohr (Sonstiges)	(1540–1688), 1688–1698, (1698–1885), [1885], [1980]
+	02032	Pfarrchronik Hafenlohr (Sonstiges)	(794–[1885]), [1885]–1945
+	02033	Pfarrchronik Hafenlohr (Sonstiges)	1708–1803, 1825, 1869, [1980]
+
+
+_INDEX
+
+_LOOKING-FOR
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Hafenlohr%	Hafenlohr, Hafenlohr, Main-Spessart, Bayern, Deutschland					
+		12962	, Barbara	Birth	1841-00-00
+		13041	Fischer, 	Birth	1850-00-00
+Hafenlohr%	Hafenlohr, Main-Spessart, Bayern, Deutschland					
+		22389	Scheider, Magdalena	Birth	1765-01-04
+

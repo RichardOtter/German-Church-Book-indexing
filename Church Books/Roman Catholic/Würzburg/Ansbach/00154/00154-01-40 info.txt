@@ -1,0 +1,85 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-40
+Mat.pg#         41
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       70-71
+Years       1792-1794
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   7 + 8
+
+image       file://./00154-01-40.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=41
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 70
+        _YEAR 1792
+e1      
+e2      
+e3      
+e4      
+e5      
+        _YEAR 1793
+e6      4 jan           RMID-15122 Mehling, Elisabeth Birth 1793-01-04
+e7      
+e8      
+-----------------------DIV30--
+Page 71
+        _YEAR-CONTINUED 1793
+e1      
+e2      
+e3      
+e4      
+        _YEAR 1794
+e5      
+e6      
+e7      
+e8      
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    70
+Entry   6
+Year    1793
+Detail  file://./00154-01-40-A.png
+
+Transcription
+Die 4 to Jan circa ␤ 4 tam pomerid:
+Nata eodem die. Baptisata est Elisabetha, filia legitima
+honesti Joannis Georgii Mehling, molitoris, et Mariae
+coniugis Joannis Ludovici Linde. Levans Elisabetha Ludovica
+puella virgo. Baptizans Sachs.
+
+On the 4th day of January, around 4 in the afternoon.
+Born on the same day.
+Elisabetha was baptized, the legitimate daughter of
+the honorable Johann Georg Mehling, miller, and Maria,
+daughter of Johann Ludwig Linde.
+The one lifting (the child) was Elisabetha Ludovica,
+an unmarried young woman.
+The baptizing priest was Sachs.
+
+Match to RM database
+RMID-15122 Mehling, Elisabeth Birth 1793-01-04
+
+Linde may have been a Latinization attempt of
+Ludwig, but not at all clear why it was added.
+
+-----------------------DIV30--
+

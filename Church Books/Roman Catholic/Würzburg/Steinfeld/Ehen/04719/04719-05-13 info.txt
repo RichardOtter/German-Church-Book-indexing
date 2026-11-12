@@ -1,0 +1,120 @@
+Archive-Image
+
+Archive          Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      04719-05-13
+
+Parish      Steinfeld
+Volume      D1
+Page#       185
+Years       1860
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    14
+#Entries:   >1
+
+Comments
+The correct name is "Kunz",  born: 04 November 1836 in Unterleinach (now a part of Leinach) 
+Marriage- 03 July 1860 in Hausen, recorded in Steinfeld church book.
+
+The year is listed immediately below the heading. There is no evidence that the e1 is also in 1860.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+---------------------------------
+Entry   Page 185        1860
+_HEADER-ROW
+---------------
+e1      Andreas Stamm; Elisabeth Kunz
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+_HEADER-ROW  Page 185        1860
+c01     Bräutigam Vor & Zu-Name
+c02     Stand, Gewerbe, Religion, Aufent-Haltsort dess. HsNummer, Ldgericht 
+c03     Eltern desslb. Vor  & Zuname
+c04     Ledig, geschieden, verwittibt et in beiden letzten Fällen Name der geschiedenen oder verstorbenen Gattin
+c05     Geboren Wann & Wo ? 
+c06     Getraut         …..Mit oder ohne Aus…. ……
+c07     Getraut Wann …. Tag Monat, Ort
+c08     Braut Vor & Zu-Name 
+c09     Stand, Gewerbe, Religion, Aufent-haltsort ders. Hausnummer, Landgericht 
+c10     Eltern derslb. Vor  & Zuname, Stand, …, Religion, Geburtsort et Aufenthaltsort derselben
+c11     Ledig, geschieden, verwittibt et in beiden letzten Fällen Name des geschiedenen oder verstorbenen Gatten
+c12     Geboren Wann & Wo ?
+c13     Pfarrer oder dessen Stellvertreter
+c14     Zeugen Vor & Zuname Stand et Aufenthalts-ort
+
+
+e1      Page 185        1860
+c01     4. Andreas Stamm
+c02     Bäckermeister  kathol.  Hausen  No. 44
+c03     Theobald Stamm, Bauer, kathol. In Hausen, Barbara Knoblauch
+c04     ledig
+c05     28. Dezember 1831 Hausen
+c06     Ohne des …. Mit ….
+c07     3. Juli ……
+c08     Elisabeth Kunz
+c09     Bauers-tochter, Unterleinach k., Landgericht Würzburg
+c10     Johann Kunz, kath., Bauer in Unterleinach, k., Maria geb. Fischer Bauersfrau
+c11     ledig
+c12     4. November 1836 Unter-leinach
+c13     derselbe
+c14     Joseph Kraft Müller in Unterleinach; Adam (?) Knoblauch, Bauer in Hausen
+
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+ChurchBook -Steinfeld 
+_EHE; 3 July 1960; Andreas Stamm; ; Andreas Stamm & Elisabeth Kunz; ; 4719; 5; 13; 185; 30 July 2023; AWOtter
+
+
+use image: 4719-05-13-A.png
+e1      RMID-47     Andreas Stamm
+e1      RMID-48     Elisabeth Kunz
+e1      RMID-865    Theobald Stamm
+e1      RMID-866    Barbara Knoblauch
+e1      RMID-867    Johann Kunz
+e1      RMID-868    Anna Maria Fischer
+
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:4719-05-13-A.png
+Acquired:           11-Apr-2012  17:34      Armin Otter
+Orientation:        _LANDSCAPE
+Entries in Image:   1 (unknown position)
+
+Comments
+Übertragen: Armin Otter, Würzburg am 14. Januar 2013
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-S Stamm & Kunz
+Catholic church book  Steinfeld; Marriage Record: Andreas Stamm and Elisabeth Kunz
+
+entry   RM-ID       Name                tags using source
+e1      RMID-47     Andreas Stamm       name, birth, marriage, occupation, father, mother, residence
+e1      RMID-48     Elisabeth Kunz      name, birth, marriage; occupation, father, mother
+e1      RMID-865    Theobald Stamm      name
+e1      RMID-866    Barbara Knoblauch   name
+e1      RMID-867    Johann Kunz         name
+e1      RMID-868    Anna Maria Fischer  name
+
+===========================================DIV50==
+===========================================DIV50==

@@ -1,0 +1,294 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-20
+
+Parish      Waldzell
+Volume      1
+Page#       28/29
+Years       1734-1736/?
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    Waldzell Taufen -p020.txt
+Columns:    6
+#Entries:   12
+
+Comments
+Absolute entry numbers, determined from notes and images.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 28
+        _YEAR-CONTINUED 1734
+        _PARTIAL-ENTRY   Elisabetha
+e1      22 Mar
+e2      25 May
+e3      25 Oct??
+        _YEAR 1735
+e4	10 jan
+e5	26 jan
+e6	5 mar
+e7	22 mar
+e8	25 may
+e9	25 oct
+        _YEAR 1736
+e10	oct jan   ?8 jan?
+e11	18 jan
+e12	13 feb
+
+-----------------------------
+Entry   Page 29     ?-?
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e11      Page 28     1736
+c1      18 January / ? / ?
+c2      19 January
+c3      Georgius Other  / Anna
+c4      Fridericus
+c5      Fridericus ? / ? ? ? / in Birks ??
+c6      Pa??
+
+===========================================DIV50==
+Interpretation
+
+From notes 2024-07
+Didn't record the SFI number, but noted that the two
+visible pages were 28/29. Noted entries on page (presumably left side, p28).
+
+_TOP
+e1
+e2
+e3
+_YEAR 1735
+e4
+e5
+e6
+e7
+e8
+e9
+_YEAR 1736
+e10
+e11
+e12
+
+Notes say Friedrich entry is e10, but image clearly shows he is e11.
+
+===========================================DIV50==
+Description of Image
+Image name:     file://.//5303-01-20-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   total=6
+
++++++++++++++++++++++++DIV30++
+Entries List
+page 28
+
+_PARTIAL-ENTRY
+ae1
+ae2
+ae3
+_YEAR 1736
+ae4
+ae5		Fredrich Otter b1736
+ae6
++++++++++++++++++++++++DIV30++
+
+Comments
+group a is all contiguous.
+These are not absolute positions. Top of page not imaged.
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2407    Line 6
+Fredrich Otter                      4th gg father
+b,ba    18-Jan-1736
+    f   Georg Otter
+    m   Anna Meling
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 28, notation 5
+Otter, Friedericus
+1796
+
+===========================================DIV50==
+Description of Image
+Image name:     file://.//5303-01-20-B.jpg
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   total=8
+
++++++++++++++++++++++++DIV30++
+Entries List
+page 28
+
+HEADER
+e1
+e2
+e3
+_YEAR 1735
+_BREAK
+ae1
+ae2
+_YEAR 1736
+ae3
+ae4		Friedrich Otter b1736
+ae5
+_BOTTOM
++++++++++++++++++++++++DIV30++
+
+Comments
+2 contiguous groups,
+e1-e3 is absolute since header is included
+ae1-ae5 has bottom visible. ae5 is last entry.
+
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Fridericus Otter; before 18 January 1736; ; 18 January 1736; p28 - e11; 5503; 01; 20; 28; 31 July 2023; RAVigus, RJOtter
+
+entry   RM-ID       Name                tags using source
+p28-e5  RMID-77     Fredrich Otter  name, father, mother, baptism
+
+===========================================DIV50==
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-20
+
+
+Parish      Waldzell
+Volume      1
+Page#       28 ?
+Years       1735-1736
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   > 9
+
+Comments
+RJO did not see original image. 
+Description is from scan of printout by Armin 2012-04-11
+RJO said this was 7 column format
+Only one, partial page image, so entry numbers are not absolute
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 28     1764-1766
+_HEADER-ROW
+_YEAR 1735
+e1      10 Jan  1735
+e2      26 Jan  1735
+e3      8 Mar   1735
+e4      22 Mar  1735
+e5      25 May  1735
+e6      25 Oct  1735
+_YEAR 1736
+e7      8 Jan   1736; Sebastian Voit
+e8      8 Jan   1736; Georgius Otter
+e9      13 Feb  1736; Joanne Casparus Michler
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 28         1735
+c1      10 Jan
+c2      Michael Möhler
+c3      Anguseus
+c4      Eva Maria
+
+e2      Page 28         1735
+c1      26 Jan 1735
+c2      Joannes Michler
+c3      Gertrudis
+c4      Anna Maria
+
+e3      Page 28         1735
+c1      8 Mar 1735
+c2      Christophorus Scherger
+c3      Elisabetha
+c4      Anna Maria
+
+e4      Page 28         1735
+c1      22 Mar 1735
+c2      Christophorus Pfaffer
+c3      Barbara
+c4      Gertrudis
+
+e5      Page 28         1735
+c1      25 May
+c2      Ivann Georgius Meling
+c3      Magdalena
+c4      Henricus
+
+e6      Page 28         1735
+c1      25 Oct
+c2      Mathew Grus
+c3      Maria   Anna Maria
+c4      _EMPTY
+
+e7      Page 28         1736
+c1      8 Jan
+c2      Sebastian Voit
+c3      Maria Magdalena
+c4      Leonharus
+
+e8      Page 28         1736
+c1      18 Jan
+c2      Georgius Otter
+c3      Anna
+c4      Fridericus
+
+e9      Page 28         1736
+c1      13 Feb
+c2      Joanne Casparus Michler
+c3      Dorothea
+c4      Franz Georgius
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image 
+
+Image name:         file:///./5303-01-20-C.png
+Acquired:           11-Apr-2012  17:33      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   total=11 contiguous
+
+Comments
+RJO did not see original image. 
+printout by Armin Otter 11-Apr-2012
+Seems like that in 2012, there was no 25% of page max rule enforced by the software.
+Only one, partial page image, so entry numbers are not absolute
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

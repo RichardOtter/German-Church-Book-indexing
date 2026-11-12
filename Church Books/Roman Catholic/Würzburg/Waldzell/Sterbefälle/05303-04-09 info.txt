@@ -1,0 +1,264 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-04-09
+
+Parish      Waldzell
+Volume      1
+Page#       12/13
+Years       1757-1760
+Record:     _STERBEFALL
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 11
+
+Comments
+Not absolute entry numbers. Cannot see top of page.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 12     1757-1760
+_PARTIAL-ENTRY
+e1      22 Apr      Eva Jois Adami Hartmann     3 1/2 ann
+e2      18 Aug      Maria Cunigunda  Jois Fleck
+_YEAR 1758
+e3      10 Jun      Dorothea
+e4      6 Nov       Maria Adami �hring
+e5      12 Dec      Anna Maria Mehlingin
+e6      24 Dec      Barbara
+_YEAR 1759
+e7      17 Jan      Maria Fleckin Jois 
+e8      ---
+e9      14 Apr      ?? Georgius Otter
+e10     19 Jun      Anna Maria  Caspar Mehling
+e11     2 Sep       Joannes Henricus Jois Georgius Flevk
+_YEAR 1760
+_PARTIAL-ENTRY
+
+new scan p 12
+
+
+-----------------------------
+Entry   Page 13  
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+None
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   11
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+
+Comments
+p13 top
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-C.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+
+Comments
+p13 bottom
+
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-D-1.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-D-2.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-D-3.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-D-4.png
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+ChurchBook -Waldzell
+_STERBEFALL; _UNCITED; ; ; 1761–1763; ; 5303; 04; 09; 12/13; 18 July 2024; RAVigus
+
+===========================================DIV50==
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05503-04-09
+
+Parish      Waldzell
+Volume      1
+Page#       13
+Years       1761-1763
+Record:     _STERBEFALL
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   > 1
+
+Comments
+_TODO       needs work
+Not clear that 13A and 13B are correctly labeled as being the same page.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page        YYYY
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+None
+
+
+this is same image as previous
+
+===========================================DIV50==
+Description of Image
+Image name:     file:///./5303-04-09-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+A Top- no overlap with bottom image
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 13A
+e1      
+e2      
+e3      Aug
+e4              Jois
+e5              Margaretha
+e6      Oct     Eva Catharina   Adami Loschert
+_YEAR 1762
+e8      27 Jan      obigt Margaretha
+e9      28 Feb      obigt Michael Margarethha Bef...
+e10     6 Mar       obigt  Michael Loschert
+e11     14 Apr  obigt  Georgius Loschert  vidius ann 86 O.J.m
+_YEAR 1763
+e13     1 Mar   obigt  Anna Otterin  ANN 72
+e14             Michael Loschert  ann 60
+e15             Georgius Geisler  ann 83
+e16             Dorothea
+e17             Michael Ochs
+e18             Jacobus Geis  ann 76
+e19             Elizabetha Öhring
+_PARTIAL-ENTRY   ann 34 O J m
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-04-09-C.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+B Bottom- no overlap with top image
+Seems like a big jump in years. 1763 to 1767
+Is this image correctly labeled?
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 13B
+e1      29 Jan  <partial>   Magdelana Öhringin
+e2      6 Feb   Barbara Michlerin ann 80
+e3      19 Mar      Hartmann ann 56
+e4      29 Jul      Maria Catharin Brunnin
+e5      4 Oct       Anna Dorothea Hartmann  ann 50
+e6      Catharina Michlerin     Georgy
+e7      Georgius        infans ann 10 m
+_YEAR 1767
+e8      30 Jan  Anna Maria Geislerin
+e9      24 Aug  Henrig Loschery  infans
+e10     23      
+_YEAR 1768
+e11     4 Mar   Henricus Brunn  Anna Maria
+e12     2 Mar   ?  Otterin
+e13     21 Mai  Joannes Michler
+_YEAR 1769
+e14     4 feb
+e15     7 Feb   Georg Nöth
+e16     28 Mai  Michael Möhler
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+p13 -e5
+ChurchBook -Waldzell
+_STERBEFALL; Georgius Otter; 1689; ; 14 April 1759; p13 -e5 (at top of image C); 5303; 04; 09; _NR; 18 July 2024; RROtter
+
+===========================================DIV50==

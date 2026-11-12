@@ -1,0 +1,58 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-02-14
+
+Parish      Waldzell
+Volume      3
+Page#       40
+Years       1863-1864
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   9
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1      _NOT-YET-DONE
+e2      
+e3      
+e4      
+e5      
+e6      
+e7      
+e8      
+e9      _NOT-YET-DONE
+
++++++++++++++++++++++++DIV30++
+Details
+
+_NOT-YET-DONE
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-02-14-A.png
+Acquired:           16-Oct-2019  17:41      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   5, 6, 7
+
+Comments
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

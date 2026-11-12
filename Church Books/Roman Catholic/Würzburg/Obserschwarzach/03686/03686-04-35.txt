@@ -1,0 +1,88 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 4
+Record:        ┠ _TAUFE
+Page#          ┠ 128
+
+Archive-ID     ┠ 03688-04-35
+URL pg#        ┠ 139
+Years          ┠ 1874
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 
+Columns:       ┠ 13
+#Entries:      ┠ 11
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=139
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page 128
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 5  Lutz ␤ Apolonia ␤ Oberschwarzach
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠     
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 128
+Entry  ┠ 7 | year-entry 25
+Year   ┠ 
+Detail ┠ file://./
+
+Transcription
+col    ┠ contents
+margin ┠ 25
+c1     ┠ Lutz ␤ Apolonia ␤ Oberschwarzach
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 
+Name       ┠ Apollonia Lutz
+BirthDate  ┠ 20 May 1874
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03686-04-35
+20921    Lutz, Apollonia                    20 May 1874                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+===========================================DIV50==

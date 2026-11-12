@@ -1,0 +1,65 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-18
+
+Parish      Waldzell
+Volume      3
+Page#       14/?
+Years       1835
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    
+#Entries:   8
+
+Comments
+pages have bleed-through
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1
+e2
+e3
+e4
+e5
+e6      Johann Adam Otter   G. Adam Otter   died
+e7
+e8      Rüb     died
+
++++++++++++++++++++++++DIV30++
+Details
+
+e6   TODO
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-18-A.png
+Acquired:           16-Oct 2019  17:38      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   6, 7, 8
+
+Comments
+Entries 5, 6 & 7 copied in a block by half, with overlap.
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e6      RMID-2436    Johann Adam Otter
+
+===========================================DIV50==

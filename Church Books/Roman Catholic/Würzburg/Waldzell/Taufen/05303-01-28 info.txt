@@ -1,0 +1,167 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-28
+
+Parish      Waldzell
+Volume      1
+Page#       44/45
+Years       1768-1770
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   > 1
+
+Comments
+
+overlap in the 2 images- 44 and 45.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 44
+        _HEADER-ROW
+        _YEAR-CONTINUED 1767
+e1      
+e2      
+e3      1 Feb
+e4      
+e5      
+e6      
+e7      
+        _YEAR 1768    <Additional text>
+e8      
+e9      
+e10     13 Nov
+        YEAR 1769
+-----------------------------
+Page 45
+        _HEADER-ROW
+        _YEAR-CONTINUED 1769
+e1      
+e2      
+        _YEAR 1770
+e3      28 Mar
+e4      12 Apr
+e5      
+e6      
+e7      
+e8      
+e9      
+        _PARTIAL-ENTRY
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page    44
+Entry   10
+Year    1768
+
+Transcription
+col
+c1      Die 13 November
+c2      edoet.
+c3      Fridericus Oder / et Elisabetha ?
+c4      Maria Cathari / - na
+c5      Maria Catharina / Grun ? / ?
+        From Rainer Otter's GEDCOM: Witness: Maria Catharina Grun
+c6      laed ?
+
+
+
+Page    45
+Entry   4
+Year    1770
+Transcription
+col
+c1      Die 11 April    11 or 12
+c2      eodet
+c3      Adam Otter / A Maria zip??
+c4      Catharina
+c5      Catharina Michler Soluta Ex Waldzell
+        From Rainer Otter GEDCOM: Witness: Catharina Michler Soluta Ex Waldzell
+c6      sacre
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2501    Line 12
+Maria Catharina Otter               3 gg aunt
+b,ba    13-Nov-1768
+    f   Friedrich Otter
+    m   Elisabetha Amend
+
+TMG-2494    Line 13
+Catharina Otter                     1 cousin 5 r
+b,ba    11-Apr-1770
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 44, notation 11
+Otter, Maria Catharina
+13-Dec-1768
+
+DAW; PF. Waldzell; Fiche 1; page 45, notation 12
+Otter, Catharina
+11-Apr-1770
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-01-28-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-01-28-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1553 
+BAP WCR-p044-Otter,Maria Catharina
+ Waldzell Church Book - Baptisms, p044-Otter, Maria Catharina  
+
+RM:
+p44 -e10
+ChurchBook -Waldzell
+_TAUFE; Maria Catharina Otter; before 13 November 1768; ; 13 November 1768; p44 -e10; _NR; _NR; _NR; 44-45; 17 July 2024; RAVigus, RJOtter
+
+
+TMG-src-1554
+BAP WCR-p045-Otter,Catharina
+ Waldzell Church Book - Baptisms, p045-Otter, Catharina
+
+entry   RM-ID       Name                tags using source
+p44-e10 TMG-2501    Maria Catharina Otter   name, father, mother, baptism
+p45-e4  RMID-2454   Catharina Otter
+
+===========================================DIV50==

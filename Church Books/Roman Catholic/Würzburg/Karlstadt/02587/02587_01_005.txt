@@ -1,0 +1,45 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      02587_01_005
+
+
+
+TRANSCRIPTION
+Header:
+Tauf Register der Pfarrey Carlstadt 1814.
+
+Column headings:
+
+1   Name
+2   Geburts und Geschlechts
+3   Vater
+4   Stand, Gewerb
+5   Mutter
+6   Stand, Gewerb
+7   Zeit der Geburt
+8   Geburts Verlauf
+9   Zeit und Ort
+10  Pfarrrey
+11  Taufpathen, Taufzeugen
+12  Stellvertreter derselben
+
+
+TRANSLATION (English)
+Header:
+Baptism Register of the Parish of Karlstadt, 1814.
+
+Column headings:
+
+1   Name
+2   Birth and Sex
+3   Father
+4   Status / Occupation
+5   Mother
+6   Status / Occupation
+7   Time of Birth
+8   Course of Birth
+9   Time and Place (of Baptism)
+10  Parish
+11  Godparents / Baptismal Witnesses
+12  Representatives of the same

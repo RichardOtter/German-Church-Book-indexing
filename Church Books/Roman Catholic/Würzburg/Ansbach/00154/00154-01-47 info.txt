@@ -1,0 +1,249 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-47
+Mat.pg#         48
+
+Parish          Ansbach-bei-Roden
+Volume          1
+Page#           84-85
+Years           1807-1809
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       NN + NN
+
+image           file://./00154-01-47.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=48
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 84
+        _YEAR-CONTINUED 1807
+e1      1 jun
+e2      5 aug
+e3      13 aug   RMID-22077	Loschert, Maria Margaretha	Birth	1807-08-13
+e4      20 aug
+e5      27 swp
+e6      23 oct
+e7      31 oct
+e8      29 nov
+        _YEAR 1808
+e9      19 jan
+e10     9 feb
+e11     18 feb
+e12     28 apr
+-----------------------DIV30--
+Page 85
+        _YEAR-CONTINUED 1808
+e1     5 jun
+e2     28 jun
+e3     18 sep
+e4      1 nov
+e5      20 nov
+        _YEAR 1809
+e6      1 jan
+e7      11 feb
+e8      8 feb ??
+e9      17 mar
+e10     30 apr
+e11     21 may
+-----------------------DIV30--
+
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    85
+Entry   3
+Year    1807
+Detail  file://./00154-01-47-A.png
+
+Transcription
+col
+c1      Die 13.␤Augusti
+c2      ?
+c3      Maria␤Margaretha
+c4      hon: Michael␤Loschert 
+c5      ␤
+c6      ␤
+
+[DIPLOMATIC TRANSCRIPTION]
+
+Col. 1:
+Die 13 Augusti
+
+Col. 2:
+alkred
+
+Col. 3:
+Maria Margaretha
+
+Col. 4:
+Parens: Michael Loschead judiciarius
+et Barbara nata Loscherina ex Limbach
+
+Col. 5:
+pudica Virgo M. Margaretha Ochsenstein ex Watten
+
+Col. 6:
+Sacellum
+
+
+[NORMALIZED LATIN (LINE-PRESERVING)]
+
+Col. 1:
+Die 13 Augusti
+
+Col. 2:
+[alkred]  ← lectio incerta / not interpreted
+
+Col. 3:
+Maria Margaretha
+
+Col. 4:
+Parentes: Michael Loschead, judiciarius,
+et Barbara nata Loscherina ex Limbach.
+
+Col. 5:
+Pudica virgo Maria Margaretha Ochsenstein ex Watten.
+
+Col. 6:
+Sacellum.
+
+
+[LETTER-BY-LETTER / WORD-FORM ANALYSIS]
+
+Die:
+- Latin “die” = “on the day”.
+- Common heading for date in Catholic registers.
+
+13:
+- Arabic numeral for the calendar day.
+
+Augusti:
+- Genitive singular of “Augustus” (month name).
+- “Die 13 Augusti” = “on the 13th of August”.
+
+alkred:
+- As written; form is unclear.
+- Could be an internal note, abbreviation, or misread; no standard Latin word fits cleanly.
+- Left unnormalized and marked as uncertain.
+
+Maria:
+- Standard Latin/German given name “Maria”.
+
+Margaretha:
+- Latinized form of “Margarete/Margaretha”.
+- Child’s given name; also reused for the godmother.
+
+Parens:
+- Singular “parent”; here used as a heading for the parents’ line.
+- In normalized form expanded to “Parentes” to match the plural sense.
+
+Michael:
+- Latinized form of German “Michael”.
+- Father’s given name.
+
+Loschead:
+- Surname as written; likely a Latinized or phonetic rendering of a German family name.
+- The “-head” ending may reflect local orthography; kept exactly as in the record.
+
+judiciarius:
+- Latin occupational term from “judex” (judge).
+- Means “judicial officer”, “court official”, or someone attached to the judiciary.
+
+et:
+- Latin conjunction “and”.
+
+Barbara:
+- Latinized form of German “Barbara”.
+- Mother’s given name.
+
+nata:
+- Feminine participle “born”; used in registers to indicate maiden name.
+- “Barbara nata Loscherina” = “Barbara born Loscherina” (née Loscher).
+
+Loscherina:
+- Latinized feminine form of the surname “Loscher”.
+- The “-ina” ending is a typical Latin feminine suffix.
+
+ex:
+- Latin preposition “from, out of”.
+- Used for place of origin.
+
+Limbach:
+- Place name; likely a village or town “Limbach”.
+- Treated as German toponym, unchanged.
+
+pudica:
+- Latin adjective “modest, chaste”.
+- Common moral descriptor for unmarried female sponsors.
+
+Virgo:
+- Latin noun “virgo” = “maiden, virgin”.
+- Indicates the godmother is an unmarried woman.
+
+M.:
+- Abbreviation for “Maria”.
+- Expanded in normalized text to “Maria”.
+
+Margaretha:
+- As above; given name “Margaretha”.
+
+Ochsenstein:
+- Surname as written; clearly German.
+- Likely from a place or family “Ochsenstein”.
+
+ex:
+- Again “from”.
+
+Watten:
+- Place name; likely village/town “Watten”.
+- Kept as written.
+
+Sacellum:
+- Latin noun “sacellum” = “chapel”.
+- Indicates the baptism took place in a chapel rather than the main parish church.
+
+
+[ENGLISH TRANSLATION (WITH MODERN GERMAN NAME SENSE)]
+
+Column 1:
+On the 13th of August.
+
+Column 2:
+[Entry note “alkred” – meaning uncertain.]
+
+Column 3:
+The child, Maria Margaretha.
+
+Column 4:
+Parents: Michael Loschead, a court official,
+and Barbara née Loscher, from Limbach.
+
+Column 5:
+Godmother: the modest maiden Maria Margaretha Ochsenstein from Watten.
+
+Column 6:
+[The baptism took place] in the chapel.
+
+-----------------------DIV30--
+
+Match to RM database
+
+RMID-22077 Loschert, Maria Margaretha	Birth	1807-08-13
+        daughter of Johann Michael Loschert & Barbara Coreth
+
+conflicts
+mother's last name and home town
+-----------------------DIV30--

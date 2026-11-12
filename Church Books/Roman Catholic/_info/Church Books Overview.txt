@@ -1,0 +1,323 @@
+===========================================DIV50==
+Overview of German Church Books and Church Book Archives
+
+Each parish kept a log book of religious events written in longhand usually with difficult to read script. Catholic church books were written in Latin.
+At the time, these were the only vital records that were kept. Details can be found on the web, but records start around 1550 and stop at about 1900. Civil records started in about 1870.
+
+Church books have mostly been moved from local churches to central archives.
+
+_TODO		Are there duplicates of the books of interest? They may be more legible.
+
+===========================================DIV50==
+Catholic Archives
+
+See the documents "Archive- Würzburg.txt" and "Archive- Bamberg.txt" for information about the Catholic church book archives relevant to my interests.
+
+===========================================DIV50==
+Evangelical/Lutheran Archives
+
+None examined, all family members found so far were Catholic.
+
+===========================================DIV50==
+Data Organization
+
+All records retrieved from Church books are in the "Church Books" folder, organized by location (parish for Catholic records). 
+
+In the Church Books folder root, are several text files and folders:
+
+Church Books Overview.txt		(this document)
+Archive- Würzburg.txt			Archive specific information
+Archive- Bamberg.txt			Archive specific information
+Documentation Format.txt		How to format the Archive-Image Interpretation file
+Documentation Check List.txt	Guide to recording data in the archive
+Folders named for each Parish
+
+In each parish folder, there is an "Info_<name>.txt" file giving an overview, the location of the parish, location of the archive, the kinds of records, other locations of records for the parish and status of progress. For some, it also contains an index of the images on each fiche.
+
+In each parish folder, there are folders for each of the main event types recorded in the books: Taufen, Ehen, Sterbefälle.
+
+In some parish folders, there is also a "Misc" folder for information that isn't otherwise categorized. For example, some church books contain mini-census type listings of families and/or houses. There may also be Confirmation and Communion records in some books.
+
+In some parish folders, there is an "unsorted" folder.
+These are records that are not yet referenced by RM database source records. It is the work in progress location for that parish.
+
+Each of the Taufen, Ehen, Sterbefälle, Misc, unsorted folders contain image files that capture a part of an archive-image. For each Archive-Image captured, there is a corresponding documentation file that contains information about the image. This is the Archive-Image Interpretation file.
+
+
+_TODO		Each of the unsorted images should be characterized as to record type- Taufen, Ehen,  etc, then the principal person in the record should be identified. 
+
+_TODO		Consider whether it is smart to separate records by event type. The file names used will sort the records chronologically if they are all in the same folder, which may be better- or not.
+
+===========================================DIV50==
+Parishes currently in Church Books folder 
+
+Obserschwarzach
+Steinfeld
+Unterleinach
+Volkach
+Waldzell
+
+All records currently are from the Würzburg Catholic archive.
+
+===========================================DIV50==
+Cross References
+
+Parish records for villages without parishes
+
+Hausen, Steinfeld, Main-Spessart, Unterfranken, Bayern, Deutschland
+	see parish at Steinfeld, Main-Spessart, Unterfranken, Bayern, Deutschland
+
+===========================================DIV50==
+Glossary of terms
+
+Please see the glossary at the end of this document for explanations of terms used herein.
+For the many terms that relate to the specific archives, see the glossaries in the documents "Archive- Würzburg.txt" and "Archive- Bamberg.txt".
+
+Those documents also explain any special handling of data imposed by archives' restrictions on image export.
+
+
+===========================================DIV50==
+Documentation goal
+
+For each Archive-Image of interest, the goal is to create an Archive-Image Interpretation File containing an interpretation of the Archive-Image as viewed at the archive and as captured in the scan file.
+There should be one Archive-Image Interpretation for each Archive-Image. There may be more than one scan file for each Archive-Image. Each scan file should be described and interpreted independently in the same Archive-Image Interpretation file.
+
+For each principal person found-
+Record the Signatur#, Fiche#, Image#/Bild# of the Archive-Image.
+Record if the Archive image is a double page view or single.
+Record the page number or page numbers displayed in the archive-image.
+Record the entry number and page number of the entry found to be of interest.
+Record the table headers if the data is in table format. 
+Transcribe the entry in full, record the exact words/spelling as in the original.
+Separately, interpret the text in German or English.
+
+Provide evidence that the person found is related to the proposed parents or offspring.
+
+I am also interested in creating a general index of the Waldzell church books.
+
+As my quest is to record as much information as possible about the villages associated with my family, I want to record secondary information seen on the archive-images instead of discarding it. So if an Archive-Image is found that contains a principal person in the focus of the search, I would like to record:
+* The information about the principal person. A best attempt of an exact transcription. 
+		Interpretation of the transcription should be recorded separately (in the same Archive-Image Interpretation file).
+* The context of the principal person in the church book page. 
+		My goal is to have an exact "entry number" for the citation. 
+		A page number and entry number narrows down the location of the text in the book.
+* The dates for the other entries on the page.
+* How the year is determined from the location in the book relative to the last explicit recording of the year.
+* How many other records were entered in that year to get a feel for population change.
+* The names of any other possibly familiar names on the same archive image.
+
+Images to acquire at the Archive-
+*	Image evidence to support transcription and interpretation of principal persons' entries
+*	A full length image of the left side of a page. This will show the header and last line of page. Include as much of the width as is allowed by the imaging restrictions. (This will provide absolute entry numbers for the archive-image and allow recording of secondary information.)
+*	If table format and header line is different than others already collected, image the headers line.
+
+
+===========================================DIV50==
+Privacy laws in Germany
+
+Birth,Taufen-	120 years after birth
+Marriage, Ehen-	100 years after marriage
+Deaths-			 40 yrs after death
+
+for year 2020,		1900, 1920, 1980    Seems like this is not an issue.
+
+
+===========================================DIV50==
+Glossary of terms used 
+and some detailed explanations
+
+-----------------
+TMG
+"The Master Genealogist" software for Windows. Richard Otter's main genealogy database for close relatives. This has the most detailed source information.
+
+changed to 
+
+RM
+"RootsMagic" software for Windows. Richard Otter's main genealogy database for close relatives. This has the most detailed source information.
+
+-----------------
+TMG number
+Primary identification number used for people in the GeneDB TMG project.
+
+changed to 
+
+RM-ID
+TMG number
+Primary identification number used for people in the GeneDB TMG project.
+
+-----------------
+Archive-Image
+The microfilmed image of a church book page(s). Archive-Image refers to a single image as seen on the fiche, either with a fiche reader, or after digitalization, via the archive computer equipment.
+An Archive-Image is usually of the book open flat, containing both the left and right hand side pages.
+Some Archive-Images, the front cover, for example, are of a single page.
+See also the glossary in the doc "Archive- Würzburg.txt"
+
+-----------------
+Archive-Image Interpretation file
+A document file that has information about the correspondingly named Archive-Image. 
+All interpretation of the image, either as seen in the archive, or as seen in an image outside the archive should be saved in this file.
+
+For example:
+An archive image with a citation: Signatur 5503, fiche 2, image 22 might be named-   "5503-02-22"
+There may be 2 images taken of that Archive-Image named, 5503-02-22-A.png and 5503-02-22-B.png
+There is a single Archive-Image Interpretation file named 5503-02-22.txt
+File 5503-02-22.txt contains info about the Archive-Image as seen in the archive, and also descriptions and interpretations of the scan files 03-02-22-A.png and 5503-02-22-B.png obtained from that Archive-Image.
+
+-----------------
+Record type
+Generally one of the following:
+
+	Taufen			Baptisms
+	Ehen			Marriage	or Trauungs
+	Sterbefälle		Deaths
+
+	and possibly also:
+	Kommunion		Communion
+	Firmung			Confirmation
+	Familienbuch	Family listing
+	Haüsenbuch		House listing
+
+-----------------
+_TODO
+An easy to search for reminder in a document indicating questions to answer and work to done.
+
+
+===========================================DIV50==
+Controlled vocabulary keywords
+
+Keywords used in the archive-image interpretation file. 
+These keywords are easily searchable using software. Their form makes them unlikely to be found in normal text.
+
+-----------------
+_TAUFE	_EHE	_STERBEFALL		_OTHER
+Type of records on this page(s)
+
+-----------------
+_DOUBLE			_SINGLE
+Indicate whether the archive image shows one page or two.
+
+-----------------
+_PARAGRAPH	_TABLE-SINGLE	_TABLE-DOUBLE	_OTHER
+
+Describes how the entries are written on the pages shown in the archive-image.
+_TABLE-SINGLE indicates that the data is tabular and is contained on a single page. If width is double, then both sides have tables, if width is sinle, then the one shown page is a table.
+while _TABLE-DOUBLE indicates that the data is contained in a single table spanning both sides of the archive image on 2 pages
+
+_PARAGRAPH format is used for earlier records. Indicates both sides of the archive image are in free-text format- if width is double. If width is single, then the one shown page is paragraph format
+
+_OTHER is used for unusual format or diagrams.
+
+TODO
+Need notation- if the case even exists, where one side of the archive image is a table and the other is paragraph format
+
+If only one side was examined, then do a slash notation- T/P  P/T or T/?  P/?
+
+-----------------
+_YEAR
+Used in the Entries list to indicate that this row was added by the author to signify the beginning of a new year. 
+The text of the line is often something like "Anno 1790". 
+Placing this in the Entries list allows reconstruction of dates from their position in the list.
+This line is not counted in the # of entries total.
+
+-----------------
+_CONTINUE _YEAR
+The previous page had entries for this same year. They are continued here.
+This can only be used as the first item in the entries list.
+
+-----------------
+_HEADER-ROW
+Used in Entries list to indicate that this row is a table header.
+Each archive-image interpretation file that contains a person of interest should refer to a listing of the headers used on this page(s). An image does not need to be taken of the headeers on each page. Just one image is enough for each standard header.
+This line is not counted in the # of entries total.
+
+-----------------
+_PARTIAL-ENTRY
+Used in Entries list to indicate that this row exists but is partially illegible because it is cut off at the top of bottom. If some text is readable, it may be added after the keyword.
+
+-----------------
+_YEAR NNNN _NONE
+the year is noted but no events exist in that year
+
+
+-----------------
+_NOT-YET-DONE
+
+-----------------
+_NO-DATA
+
+-----------------
+-----------------
+-----------------
+
+
+===========================================DIV50==
+Web links of interest
+
+See FamilySearch Wiki article for more info-
+https://www.familysearch.org/wiki/en/Germany_Church_Records
+
+Here is a website that is a sort of interface to the Catholic archives in Germany.
+http://www.katholische-archive.de/Kirchenb%C3%BCcher/tabid/171/Default.aspx
+
+Some example church book entires-
+https://www.familytreemagazine.com/premium/reading-german-church-records/
+
+also-
+http://narafriends-pittsfield.org/gechurch.htm
+
+Marriage record, lots of info-
+https://fromshepherdsandshoemakers.com/2017/10/27/anatomy-of-a-german-marriage-record/
+
+http://www.kolpingcincinnati.com/Genealogy/Church%20Records/German%20Church%20Records-Beidler-partial%208-red.pdf
+
+Many Lutheran church books are available on-line- 
+https://www.archion.de/
+This site has some good handwriting interpretation.
+
+===========================================DIV50==
+
+In German church books (Kirchenbücher), the most common sections are:
+
+Taufen (Taufregister) – baptisms
+Geburten – births (less common in older church books; baptism was usually recorded instead)
+Ehen (Heiraten, Trauungen, Copulationen) – marriages
+Aufgebote – marriage banns
+Sterbefälle (Tote, Beerdigungen, Begräbnisse) – deaths and burials
+Konfirmationen – confirmations (Protestant)
+Kommunikanten – records of those taking communion
+Firmungen – confirmations (Catholic)
+Seelenregister (Status Animarum) – parish census or household lists
+Konvertiten – converts
+Familienregister (Familienbuch) – family registers linking parents and children
+
+Older books, especially before the 1800s, often use Latin headings:
+
+German	Latin
+Taufen	Baptizati, Baptismi
+Ehen	Copulati, Matrimonia
+Tote/Beerdigungen	Mortui, Defuncti, Sepulti
+Konfirmationen	Confirmati
+Familienregister	Status Animarum
+
+For genealogical research, the three principal sections are usually:
+
+Taufen (baptisms)
+Ehen (marriages)
+Sterbe-/Begräbnisregister (deaths/burials)
+
+
+Plural	Singular
+
+Taufen	Taufe
+Ehen	Ehe
+Heiraten	Heirat
+Trauungen	Trauung
+Aufgebote	Aufgebot
+Geburten	Geburt
+Sterbefälle	Sterbefall
+Beerdigungen	Beerdigung
+Begräbnisse	Begräbnis
+Konfirmationen	Konfirmation
+Firmungen	Firmung
+Kommunikanten	Kommunikant (person)
+Konvertiten	Konvertit (person)

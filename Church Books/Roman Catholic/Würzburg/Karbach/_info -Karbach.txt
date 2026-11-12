@@ -1,0 +1,59 @@
+Karbach, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9286781
+Karbach b. Marktheidenfeld
+
+full FS place name
+FSPID=
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/karbach-bei-marktheidenfeld/
+
+16 Volumes
+	02552	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen – Ehen – Sterbefälle)	1632–1673, 1777, 1783–1787
+	02553	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	(1451, 1485), 1736–1907
+	02554	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen – Ehen – Sterbefälle) (Registerband)	(1736–1810), [1850]
+	02555	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen – Ehen – Sterbefälle) (Registerband)	(1736–1838), [1850]
+	02556	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen) (tlw. Protokolle) (inkl. Register)	1810–1838
+	02557	Pfarrmatrikel Karbach b. Marktheidenfeld (Ehen) (tlw. Protokolle) (inkl. Register)	1810–1838
+	02558	Pfarrmatrikel Karbach b. Marktheidenfeld (Sterbefälle) (tlw. Protokolle) (inkl. Register)	1810–1838
+	02559	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen) (inkl. Register)	1836–1875
+	02560	Pfarrmatrikel Karbach b. Marktheidenfeld (Ehen) (inkl. Register)	1836–1949
+	02561	Pfarrmatrikel Karbach b. Marktheidenfeld (Sterbefälle) (inkl. Register)	1836–1875
+	02562	Pfarrmatrikel Karbach b. Marktheidenfeld (Taufen – Ehen – Sterbefälle) (Registerband)	1836–1875
+	02563	Seelenverzeichnis (Status Animarum) Karbach b. Marktheidenfeld (Sonstiges)	1701–1773
+	02564	Familien-/Häuserbuch Karbach b. Marktheidenfeld (Sonstiges) (inkl. Register)	(1760–1822), 1822–1840
+	02565	Familien-/Häuserbuch Karbach b. Marktheidenfeld (Sonstiges) (inkl. Register)	(1760–1830), 1830–1890
+	02566	Familien-/Häuserbuch Karbach b. Marktheidenfeld (Sonstiges) (inkl. Register)	(1700–1890), 1890–1950
+	02567	Pfarrbuch Karbach b. Marktheidenfeld (Sonstiges)	1797–1799
+
+_INDEX
+
+_LOOKING-FOR
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Karbach%	Karbach, Main-Spessart, Bayern, Deutschland					
+		13990	, Barbara	Birth	1765-10-28
+		13258	Baunach, Gertraud	Birth	1903-03-23
+		376	Hain, 	Birth	1860-00-00
+		378	Hain, 	Birth	1890-00-00
+		219	Hain, Anna	Birth	1890-07-21
+		16617	Roth, Andreas Andrew	Birth	1824-07-31
+		16619	Roth, Kaspar	Birth	1793-10-06
+		16619	Roth, Kaspar	Death	1874-05-08
+		16621	Roth, Martinus Georg	Birth	1764-03-24
+		16620	Schmelz, Anna Barbara	Death	1852-12-30
+		1904	Schneider, Johann Adam	Birth	1838-00-00
+		849	Schneider, Maria Bernarda	Birth	1868-08-20
+		12158	Schubert, Rosina	Birth	1865-00-00
+		377	[wife of Hain], 	Birth	1865-00-00
+
+        

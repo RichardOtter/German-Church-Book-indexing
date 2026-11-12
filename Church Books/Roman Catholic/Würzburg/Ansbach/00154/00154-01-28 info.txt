@@ -1,0 +1,180 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-28
+Mat.pg#         29
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       48 + 49
+Years       1761-1766
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    
+Columns:    6
+#Entries:   22 + 23
+
+image       file://./00154-01-28.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=29
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 48
+        _YEAR-CONTINUED 1761
+e1      28 Oct
+e2      11 Nov          RMID-16059 Nöth, Adam Birth 1761-11-11
+e3      17 Nov
+        _YEAR 1762
+e4      2 Jan
+e5      3 Feb
+e6      5 Feb
+e7      2 Mar           RMID-15115 Mehling, Johann Georg Birth 1762-03-02
+e8      8 Mar
+e9      24 Apr
+e10     26 Apr
+e11     29 May
+e12     10 sep
+e13     28 sep          RMID-15124 Ludwig, Anna Maria Birth 1762-09-28
+        _YEAR 1763
+e14     25 Jan
+e15     5 Feb
+e16     18 Mar
+e17     22 Apr
+e18     11 Jun
+e19     14 Aug??
+e20     19 Aug??        RMID-13730 Loschert, Johannes Michael Birth 1763-08-19
+e21     17 Oct          RMID-15141 Geisler, Anna Maria Birth 1763-12-17
+e22     18 Aug
+-----------------------DIV30--
+Page 49  
+        _YEAR 1764
+e1      23 Jun??
+e2      2 ??
+e3      7 ??
+e4      8 Sep
+e5      13 ?
+e6      21 ??
+        _YEAR 1765
+e7      5 Jan
+e8      11 Jan
+e9	14 Jan
+e10     10 Mar
+e11     6 ??
+e12     25 Apr
+e13     29 ?
+e14     1 May
+e15     26 ?
+        _YEAR 1766
+e16	7 Feb
+e17     11 Mar
+e18     29 Apr
+e19     19 May
+e20     22 May
+e21     18 Jun
+e22     28 Jun
+e23     27 Jul 
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    48
+Entry   2
+Year    1761
+Detail  file://./00154-01-28-B.png
+
+Transcription
+col
+c1      11. November ␤ ?oad 10 morte ?
+c2      12
+c3      Adamus Nöth ␤ Margaretha
+c4      Adamus
+c5      Adamus Loscher ␤ Joes Georgi filius
+c6      jacelly??
+
+Match to RM database
+RMID-16059 Nöth, Adam Birth 1761-11-11
+
+-----------------------DIV30--
+Page    48
+Entry   7
+Year    1762
+Detail  file://./00154-01-28-D.png
+
+Transcription
+col
+c1      2. Martius circa ␤ 5 m?
+c2      Eadem
+c3      Georgius Mehling ␤ Anna Maria
+c4      Joannes ␤ Georgius
+c5      Joannes Georgius ␤ Loschert
+c6      <blank>
+
+Match to RM database
+RMID-15115 Mehling, Johann Georg Birth 1762-03-02
+
+-----------------------DIV30--
+Page    48
+Entry   13
+Year    1763
+Detail  file://./00154-01-28-E.png
+
+Transcription
+col
+c1      28  7ber ?? ␤ 6 vesper? 
+c2      29
+c3      Joanes Ludwig ␤ Eva
+c4      Anna ␤ Maria
+c5      Anna Maria Mehlingin ␤ conjugate
+c6      Dem?.
+
+Match to RM database
+RMID-15124 Ludwig, Anna Maria Birth 1762-09-28
+
+-----------------------DIV30--
+Page    48
+Entry   20
+Year    1763
+Detail  file://./00154-01-28-C.png
+
+Transcription
+col
+c1      19 Aug ?? ␤ 1 ?????
+c2      Eadem
+c3      Michael Loschert ␤ Margaretha
+c4      Joannes ␤ Michael
+c5      Joannes Georg Sen ␤ ?elbach, Joes Georgius
+c6      ????
+
+Match to RM database
+RMID-13730 Loschert, Johannes Michael Birth 1763-08-19
+
+-----------------------DIV30--
+Page    48
+Entry   21
+Year    1763
+Detail  file://./00154-01-28-A.png
+
+Transcription
+col
+c1      17. Xber circa ␤ 10 mal?????
+c2      Eadem
+c3      Georg Hubert Geisler ␤ Anna Maria
+c4      Anna ␤ Maria
+c5      Anna Maria Brück ␤ ne?? Joes Michel
+c6      ????
+
+Match to RM database
+RMID-15141 Geisler, Anna Maria Birth 1763-12-17
+
+-----------------------DIV30--
+
+
+

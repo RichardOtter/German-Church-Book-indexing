@@ -1,0 +1,86 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-06
+Mat.pg#         7
+
+Parish          Ansbach-bei-Roden
+Volume          1
+Page#           4-5
+Years           1704-1707
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _PARAGRAPH
+Headers:        n/a
+Columns:        n/a
+#Entries:       15 + 14
+
+image           file://./00154-01-06.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=7
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 4
+        _YEAR-CONTINUED 1705
+e1      22 Mar
+e2      7
+        _YEAR 1705
+e3     27
+e4     10
+e5     18
+e6     13 May
+e7      5 May
+e      1 Jul
+9      9 Oct
+e10    4 Nov
+e11    26 Dec
+        _YEAR 1706
+e12    25 Jan
+e13    31 Jan
+e14     4 Feb
+e15     4 Mar
+-----------------------DIV30--
+Page 5
+        _YEAR-CONTINUED 1706
+e1       2 May
+e2      29 Mar
+e3       7 May
+e4      25 May
+e5      17 Aug
+e6      12 Sep
+e7       5 Sep
+e8       6 Dec          RMID-16676 Brueckner, Anna Maria Birth 1706-12-06
+        _YEAR 1707
+e9      18 Feb
+e10      2 Mar
+e11     10 Mar
+e12     ?? Mar
+e13      3 Apr
+e14     21 Oct
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    5
+Entry   8
+Year    1706
+Detail  file://./00154-01-06-A.png
+
+Transcription
+words recognized by RJO
+6. December Gaph fila est Anna Maria filia legitimus Michael ??
+nev el Anna Conigunius, ?? ?? Anna Maria ?? ??
+?? ?? ?? in Erlach.
+
+Match to RM database
+RMID-16676 Brueckner, Anna Maria Birth 1706-12-06
+son of Christophorius Loschert & Maria Menling
+
+-----------------------DIV30--

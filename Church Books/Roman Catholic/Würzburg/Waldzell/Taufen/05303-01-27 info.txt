@@ -1,0 +1,551 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-27
+
+Parish      Waldzell
+Volume      1
+Page#       42/43
+Years       1762-1766
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   > 12
+
+Comments
+entry numbers absolute from notes and new images
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 42
+        _HEADER-ROW
+        _YEAR-CONTINUED 1762
+        _PARTIAL-ENTRY  18 Sep
+e1      1 Oct
+e2      6 Oct
+e3      29
+e4      ?
+e5
+e6
+e7
+e8
+e9
+        _YEAR 1763
+e10      16 Feb
+e11      28 Jul
+e12      6 Oct
+e13      29 Oct
+e14      30 Oct
+e15     5 Nov
+e16     13 Dec
+e17     20 Dec
+        _YEAR 1764
+e18
+e19
+e20
+e21
+e22
+e23
+e24
+-----------------------------
+Page 43
+        _HEADER-ROW
+        _CONTINUE _YEAR 1764
+e1
+e2
+        _YEAR 1765
+e3      22 Jan
+e4      2 Mar
+e5      9 Mar
+e6      11 Nov
+e7      22 Sep
+e8      8 Nov
+        _YEAR 1766
+e9      2 ?
+e10      21 ?
+e11     21 Apr
+e12     21 Aug
+e13     13 Sep
+e14     17 Sep
+e15     20 Oct
+e16
+        _YEAR 1768
+e17
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page    42
+Entry   10
+Year    1763
+Detail
+
+Transcription
+col
+c1      16 Feb
+c2      eoden  <the same, or ditto>
+c3      Adamus Otter / Anna Maria
+c4      Georgius / Adamus
+c5      Georgii A Loschert / ?
+c6      sacct
+
+
+Page    43
+Entry   13
+Year    1766
+Detail
+
+Transcription
+col
+c1      13 9ber circa / 3 ?
+c2      14
+c3      Adamus Otter / Anna Maria
+c4      Anna / Maria
+c5      Anna Maria / ex Ansbach
+c6      sacett?
+
+
+Page    43
+Entry   14
+Year    1766
+Detail  
+
+Transcription
+col
+c1      17 9ber circa / 6 ?
+c2      eoden <14>
+c3      Friederich Otter / Elisabetha
+c4      Andreas
+c5      ???
+c6      sacett?
+
+
+===========================================DIV50==
+Interpretation
+
+from notes
+
+Page 42
+e5= Georg Adam Otter 
+
+Page 43
+e11= Anna Maria Otter -t 13-Sep 1766
+From Rainer's GEDCOM, Witness: Anna Maria Greß from Anspach 
+
+Page 43
+e12= Andreas Otter -t 17-Sep-1766
+From Rainer's GEDCOM, Witness: Andreas Ament Ex Stadelhofen
+Name listed as "Andreas", parents are "Fridericus Otter"and Ëlisabetha". Godfather is "Andreas Amend ex Stadelhofen". (Mother maiden name is Amend.) Date is "17 7ber" of 1766. (17 Sept 1766)
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2470    Line 5
+Georg Adam Otter                    1 cousin 5r
+b,ba    16-Feb-1763
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+TMG-2493    Line 10
+Anna Maria Otter                    1 cousin 5 r
+b,ba    13-Sep-1766
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+TMG-881     Line 11
+Andreas Otter I                     3 gg father
+b,ba    17-Sep-1766
+    f   Friedrich Otter
+    m   Elisabetha Amend
+
+-----------------------------
+Summary doc
+DAW Diosessian Archiv Würzburg
+
+DAW; PF. Waldzell; Fiche 1; page 42, notation 4
+Otter, Georgius Adamus
+16-Feb-1763
+
+DAW; PF. Waldzell; Fiche 1; page 43, notation 9
+Otter, A. Maria
+13-Sep-1766
+
+DAW; PF. Waldzell; Fiche 1; page 43, notation 10
+Otter, Andreas
+17-Sep-1766
+
+===========================================DIV50==
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   Total=12  contiguous in one group
+
++++++++++++++++++++++++DIV30++
+Entries List
+Entry   Page 42     1762-1763
+_CONTINUE _YEAR 1762
+_PARTIAL-ENTRY  18 Sep
+ae1      1 Oct
+ae2      6 Oct
+ae3      29
+ae4      ?
+_YEAR 1763
+ae5      16 Feb
+ae6      28 Jul
+ae7      6 Oct
+ae8      29 Oct
+ae9      30 Oct
+ae10     5 Nov
+ae11     13 Dec
+ae12     20 Dec
++++++++++++++++++++++++DIV30++
+
+Comments
+left side, page 42
+not absolute since top of page not imaged.
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   Total=13  contiguous in one group
+
++++++++++++++++++++++++DIV30++
+Entries List
+Entry   Page 43     1764-1766
+_YEAR 1765
+be1      22 Jan
+be2      2 Mar
+be3      9 Mar
+be4      11 Nov
+be5      22 Sep
+be6      8 Nov
+_YEAR 1766
+be7      2 ?
+be8      21 ?
+be9      21 Apr
+be10     21 Aug
+be11     13 Sep
+be12     17 Sep
+be13     20 Oct
++++++++++++++++++++++++DIV30++
+
+Comments
+right side, page 43
+not absolute since top of page not imaged.
+
+original text
+cannot see header row
+row
+1    Anno 1765
+2    22 Jan
+3    2 Mar
+4    9 Mar
+5    11 Nov
+6    22 Sep
+7    8 Nov
+8    Anno 1766
+9    2 ?
+10   21 ?
+11   21 Apr
+12   21 Aug
+13   13 Sep
+14   14 Sep
+15   20 Oct
+
+row 13
+c1   13 9ber circa / 3 ?
+c2   14
+c3   Adamus Otter / Anna Maria
+c4   Anna / Maria
+c5   Anna Maria / ex Ansbach
+c6   sacett?
+From Rainer's GEDCOM, Witness: Anna Maria Greß from Anspach 
+
+row 14
+c1   14 9ber circa / 6 ?
+c2   eoden <14>
+c3   Friederich Otter / Elisabetha
+c4   Andreas
+c5   ???
+c6   sacett?
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-C.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-D.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-E.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-F.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-27-G.jpg
+Acquired:       2024-07    RJOtter
+Orientation:    _PORTRAIT
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1547
+BAP WCR-p042-Otter,Georgius Adamus        
+ Waldzell Church Book - Baptisms, p042-Otter, Georgius Adamus
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Georg Adam Otter=Anna Maria Otter=Andreas Otter I; ; ; 1762–1763; p43 - e13; 5303; 01; 27; 42/43; 16 July 2024; RAVigus, RJOtter
+
+TMG-src-1522
+BAP WCR-p043-Otter,Anna Maria; Andreas I          
+ Waldzell Church Book - Baptisms, p043-Otter, Anna Maria & Andreas I
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Andreas Otter; before 17 September 1766; ; 17 September 1766; p43 - e11; 5503; 1; 27; 42/43; 31 July 2023; RAVigus, Rainer Otter
+
+
+entry   RM-ID       Name                tags using source
+p42-e5  TMG-2470    Georg Adam Otter    name, father, mother, baptism
+p43-e11 TMG-2493    Anna Maria Otter    name, father, mother, baptism
+p43-e12 TMG-881     Andreas Otter I
+
+===========================================DIV50==
+
+
+
+
+
+
+
+
+
+===========================================DIV50==
+===========================================DIV50==
+notes 2024-07
+
+
+ Waldzell Church Book - Baptisms, p043-Otter, Anna Maria & Andreas I
+
+Taufen p45 1765
+
+
+S 5503
+B 1
+F 1
+img 27
+double   Table
+
+left side p 42
+_CONTINUE _YEAR 1762
+9 entries
+_YEAR  1763
+8 entries
+_YEAR 1764
+7 entries
+
+right side p 43
+_CONTINUE _YEAR 1764
+2 entries
+_YEAR  1765
+6 entries
+_YEAR  1766
+8 entries
+_YEAR  1767
+6 entries
+_YEAR 1768
+1 etry
+
+scan both sides- top &bottom each  4 scans
+
+===========================================DIV50==
+===========================================DIV50==
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-27
+
+Parish      Waldzell
+Volume      1
+Page#       35 ?
+Years       1764-1766
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   > 12
+
+Comments
+RJO did not see original image.
+Description is from scan of printout by Armin 2012-04-11
+Only one, partial page image, so entry numbers are not absolute
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 35     1764-1766
+_HEADER-ROW
+e1      14 Oct  1764; Loschert
+e2      22 Nov  1764; Jois Georg Michler
+_YEAR 1765
+e3      22 Jan  1765; Georgius Michler
+e4      2 Mar   1765; Michael Öhring
+e5      9 Mar   1765; Andreas Öhring
+e6      11 Nov  1765
+e7      9ber??  1765; Brun
+e8      Öhring  1765
+_YEAR 1766
+e9      26 Mar  1766; Jois Georg Michler
+e10     21 Apr  1766; Fleck.
+e11     21 Aug  1766; Joannes Möhler
+e12     19 Jul  1766; Adamus Otter
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 35     1764
+c1      14 Oct  ??
+c2      Loschert
+c3      Dorothea
+
+
+e2      Page 35     1764
+c1      22 Nov
+c2      Jois Georg Michler
+c3      Elizabetha
+
+
+e3      Page 35     1765
+c1      22 Jan
+c2      Georgius Michler
+c3      Barbara Maria Catharina
+
+
+e4      Page 35     1765
+c1      2 Mar
+c2      Michael Öhring
+c3      Dorothea
+c4      Henricus
+
+
+e5      Page 35     1765
+c1      9 Mar
+c2      Andreas Öhring
+c3      Margaretha
+c4      Andreas
+
+
+e6      Page 35     1765
+c1      11 Nov
+
+
+e7      Page 35     1765
+c1      9ber??
+c2      Brun
+c3      Maria Anna
+
+
+e8      Page 35     1765
+c1
+c2      Öhring
+c3      Cathar.
+c4      Catharina
+
+
+e9      Page 35     1766
+c1      26 Mar
+c2      Jois Georg Michler
+c3      Catharina
+c4      Maria Catharina
+
+
+e10     Page 35     1766
+c1      21 Apr
+c2      Jois Georg Fleck.
+c3      Catharina
+c4      Joannes Adamus
+
+
+e11     Page 35     1766
+c1      21 Aug
+c2      Joannes Möhler
+c3      Dorothea
+c4      Maria Catharina
+
+
+e12     Page 35     1766
+c1      19 Jul
+c2      Adamus Otter
+c3      Anna Maria
+c4      Anna Maria
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-01-27-G.png
+Acquired:           11-Apr-2012  17:33      Armin Otter
+Orientation:        _PORTRAIT
+Entries in Image:   total=12 contiguous
+
+Comments
+RJO did not see original image.
+Description is from scan of printout by Armin 2012-04-11
+RJO said this was 7 column format
+Seems like that in 2012, there was no 25% of page max rule enforced by the software.
+Only one, partial page image, so entry numbers are not absolute
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-NOT_DONE_YET
+
+entry   RM-ID       Name                tags using source
+e12     TMG-2493    Adamus Otter        
+
+===========================================DIV50==

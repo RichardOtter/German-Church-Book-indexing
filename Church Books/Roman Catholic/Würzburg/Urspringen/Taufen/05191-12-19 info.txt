@@ -1,0 +1,96 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-12-19
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      4
+Page#       78
+Years       1833
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   >1
+
+Comments
+Only a single entry was described and imaged.
+This appears to be on row 1, just below header.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 78
+e1     519     Katharina ␤ Schürger
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1
+c00     519
+c01     Katharina ␤ Schürger
+c02     4th geburt ␤ ?? ␤ ?? ␤ ??
+c03     Johann ␤ Schürger ␤ ??
+c04     ?? ␤ ?? ␤ Schürger. ␤ ?? 107- ␤ Urspringen
+c05     ?? ␤ ?? ␤ ?? ␤ Urspringen
+c06     ??
+c07     11 t ?? ␤ July Abend ␤ 9 uhr.
+c08     ?? ␤ ?? ␤ Waldzell ??
+c09     12 Juli ␤ ?? ␤ ?? ␤ Urspringen
+c10     Amberg ␤ Pfarr
+c11     Katharina ␤ Scheuermann ␤ ?? ␤ ??
+c12     ►blank◄
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+*10.07.1832/~11.07.1832 Urspringen: Katharina Schürger, legitimate daughter (4th child) of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, Urspringen house number 107, godmother Katharina Scheuermann from here (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 78).
+
+
+-----------------------DIV30--
+
+Katharina Schürger
+*10 Jul 1832   Urspringen
+~11 Jul 1832   Urspringen
+
+Johann Schürger   wohnort Urspringen HN:107
+&
+Anna Maria Scheuermann
+=>Katharina Schürger  #4
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 12, p. 78
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5191-12-19-A.jpg
+Acquired:           05-Jul-2023  12:11  Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   e1, e2 partial
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 12    image 19    Urspringen  Tauf        vol 4   p 78
+jpg 5
+5191-12-19
+
+RMID-11418
+Katharina Schürger                  (RM same)
+*10.07.1832/~11.07.1832 Urspringen  (RM 10-Jul-1934)
+# 4 child
+
+===========================================DIV50==
+===========================================DIV50==

@@ -1,0 +1,47 @@
+Himmelstadt, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9733461
+Himmelstadt
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/helmstadt/
+
+12 Volumes
+	02211	Pfarrmatrikel Helmstadt (Taufen – Ehen – Sterbefälle – Sonstiges)	1647–1675
+	02212	Pfarrmatrikel Helmstadt (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1675–1727
+	02213	Pfarrmatrikel Helmstadt (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges)	1719–1794
+	02214	Pfarrmatrikel Helmstadt (Taufen – Kommunion – Firmungen – Ehen – Sterbefälle – Sonstiges)	(1783–1794), 1794–1869
+	02215	Pfarrmatrikel Helmstadt (Taufen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1822, 1825–1849
+	02216	Pfarrmatrikel Helmstadt (Taufen – Ehen – Sterbefälle) (inkl. Register)	1850–1879
+	02217	Pfarrmatrikel Helmstadt (Firmungen)	1871–1961
+	02218	Familien-/Häuserbuch Helmstadt (Sonstiges)	(1600–1786), 1786–1900
+	02219	Pfarrmatrikel Helmstadt (Taufen)	1880–1947, 1956
+	02220	Pfarrmatrikel Helmstadt (Ehen)	1880–1983
+	02221	Pfarrmatrikel Helmstadt (Sterbefälle)	1880–1964
+	02222	Pfarrmatrikel Helmstadt (Taufen – Ehen – Sterbefälle) (Registerband)	(1880–1913), 1913–1983
+
+
+_INDEX
+
+_LOOKING-FOR
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Himmelstadt%	Himmelstadt, Main-Spessart, Bayern, Deutschland					
+		1031	, Helene	Birth	1930-00-00
+		20044	Karle, Nicholaus	Birth	1866-02-27
+		20041	Scheb, Conrad Joseph	Birth	1830-00-00
+		20041	Scheb, Conrad Joseph	Death	1865-00-00	DB+18650000.5+00000000..
+		20043	Scheb, Conrad Joseph	Birth	1864-03-16
+		20067	Scheb, Eva	Birth	1865-00-00
+		20138	Scheb, Franz	Birth	1876-00-00
+		20042	Scheb, Katharina Susanna	Birth	1866-08-11
+		20042	Scheb, Katharina Susanna	Death	1945-05-25
+		20040	Stamm, Barbara	Birth	1834-11-11

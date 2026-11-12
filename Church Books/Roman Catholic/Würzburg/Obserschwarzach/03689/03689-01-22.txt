@@ -1,0 +1,86 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 19
+
+Archive-ID    ┠ 03689-01-22
+URL pg#       ┠ 23
+Years         ┠ 1889
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 8
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=23
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 19
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 44 Fick
+e4     ┠ 45 Thomas ␤ Josef
+e5     ┠ 46 Engel
+e6     ┠ 47 Fuchs
+e7     ┠ 48 Fuchs
+e8     ┠ 49 König
+e9     ┠ <empty>
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 19
+Entry  ┠  4 | year-entry 45
+Year   ┠ 1889
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 45 
+c1     ┠ ␤Thomas ␤ Josef
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ 
+EventDate  ┠ 28 Nov 1889
+Name       ┠ Josef Thomas
+BirthDate  ┠ 27 Nov 1889
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03689-01-22
+13854    Thomas, Josef                      28 Nov 1889                Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
+===========================================DIV50==

@@ -1,0 +1,107 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-02-13
+
+Parish      Waldzell
+Volume      1
+Page#       76/77
+Years       1810-1811
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   L 5; R 5
+
+Comments
+Absolute entry numbers. Can see page "77" at top right corner.
+Very clear handwriting
+
+About 1.5 inches of the right side of page 76 is visible. 
+Probably not useful. Estimate there are 5 entries on p76.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 76     1810
+e1      
+e2      
+e3      
+e4      
+e5      
+
+-----------------------------
+Entry   Page 77     1811
+_YEAR 1811
+e1      Joannes Georgius Soeder 1811
+e2      Theobaldus Abt  1811
+e3      Philippus Francifus Gerling 1811
+e4      Andreas Grun    1811
+e5      Maria Margaretha Otterin    1811
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page 77  e5
+Maria Margaretha Otterin    1811
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2478    Line 31
+Maria Margaretha Otter                      2 cousin 4 r
+b,ba    27-Jul-1811
+    f   Georg Adam Otter
+    m   Margaretha �hring
+
+-----------------------------
+Summary doc
+
+Comment
+Maria Margaretha Otter is listed but on page 63, with no date, and without notation number.
+Probably an error. Nothing on p63 that matches. The match on p77 is good.
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-02-13-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+Absolute entry numbers. Can see page "77" at top right corner.
+Very clear handwriting
+
+About 1.5 inches of the right side of page 76 is visible. 
+Probably not useful. Estimate there are 5 entries on p76.
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1568
+BAP WCR-p077-Otter,Maria Margaretha
+ Waldzell Church Book - Baptisms, p077-Otter, Maria Margaretha 
+
+RM:
+p77 - e5
+ChurchBook -Waldzell
+_TAUFE; Maria Margaretha Otter; before 27 July 1811; ; 27 July 1811; p77 - e5; 5303; 02; 13; 76/77; 17 July 2024; RAVigus
+
+
+entry   RM-ID       Name                    tags using source
+p77-e5  TMG-2478    Maria Margaretha Otter  name, father, mother, baptism
+
+===========================================DIV50==

@@ -1,0 +1,90 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-31
+Mat.pg#         32
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       54-55
+Years       1771-1774
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    
+Columns:    7
+#Entries:   
+
+image       file://./00154-01-31.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=32
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 54
+        _YEAR-CONTINUED 1771
+e1       2 oct
+e2      11
+e3      15
+e4     14 dec
+        _YEAR 1772
+e5      19 jan
+e6      28 mar
+e7      22 sep
+e8      22 feb
+e9      28
+e10     20
+e11     2
+        _YEAR 1773
+e12     12 feb          RMID-15977 Joha, Johann Georg Birth 1773-02-12
+e13     
+e14     
+e15     
+e16     
+        _YEAR 1768
+e17     
+e18     
+e19     
+e20     
+-----------------------DIV30--
+Page 55
+        _YEAR-CONTINUED 1768
+e1      
+e2      
+e3      
+e4      
+e5      
+e6      
+e7      
+e8      
+e9      
+e10     
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    54
+Entry   12
+Year    1773
+Detail  file://./00154-01-31-A.png
+
+Transcription
+col
+c1      Die 12. February ␤ ?? ?? ??
+c2      Eadem
+c3      Joannes ␤ Georgius
+c4      Joanney Georgi ␤ Joha et ␤ Anna Maria
+c5      Joey Georgius ␤ Baunach ␤ ??
+c6      ??
+c7      1773
+
+Match to RM database
+RMID-15977 Joha, Johann Georg Birth 1773-02-12
+
+-----------------------DIV30--

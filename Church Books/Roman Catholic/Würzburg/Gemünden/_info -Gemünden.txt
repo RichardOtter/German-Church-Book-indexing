@@ -1,0 +1,55 @@
+Gemünden, Gemünden am Main, Landkreis Main-Spessart, Bayern, Deutschland
+FSPID=9753833
+Gemünden a. Main-St. Peter und Paul (Innenstadt)
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/gemuenden-am-main-sankt-peter-und-paul-innenstadt/
+
+
+21 Volumes
+ 	01694	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Kommunion – Firmungen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	(1574–1598), 1598–1825
+ 	01695	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle)	1598–1733
+ 	01696	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle – Sonstiges)	1626, 1733-1779
+ 	01697	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle) (Registerband)	1733–1779
+ 	01698	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Firmungen – Ehen – Sterbefälle)	1780–1816
+ 	01699	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle) (Registerband)	1780–1816
+ 	01700	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Firmungen – Ehen – Sterbefälle – Sonstiges) (inkl. Register)	1810–1871
+ 	01701	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen)	1828–1861
+ 	01702	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle) (Zweitschrift)	1838–1854
+ 	01703	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen)	1862–1889
+ 	01704	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Ehen)	1828–1891
+ 	01705	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sterbefälle)	1828–1867
+ 	01706	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle ) (Registerband)	1828–1867
+ 	01707	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Taufen – Ehen – Sterbefälle) (Registerband)	1827–1899
+ 	01708	Pfarrmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sterbefälle)	1868–1899
+ 	01709	Familien-/Häuserbuch Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sonstiges)	(1598–1750), [1850]
+ 	01710	Familien-/Häuserbuch Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sonstiges)	(1700–1850), [1850]
+ 	01711	Familien-/Häuserbuch Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sonstiges)	1800–1900
+ 	01712	Familien-/Häuserbuch Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sonstiges) (inkl. Register)	1840–1900
+ 	01713	Familien-/Häuserbuch Gemünden a. Main-St. Peter und Paul (Innenstadt) (Sonstiges) (inkl. Register)	1840–1900
+ 	01714	Judenmatrikel Gemünden a. Main-St. Peter und Paul (Innenstadt) (Geburten – Ehen – Sterbefälle – Sonstiges)	1805–1875
+
+
+_INDEX
+
+
+
+_LOOKING-FOR
+
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Gemünden%	Gemünden, Gemünden am Main, Main-Spessart, Bayern, Deutschland					
+		22398	Diel, Valentin	Birth	1903-04-20
+		1847	Dietmayer, Margaretha	Birth	1767-04-03
+		1847	Dietmayer, Margaretha	Marriage	1787-05-07
+		21678	Hartmann, Anton	Birth	1837-04-14
+		1846	Seyfried, Bernard	Marriage	1787-05-07

@@ -1,0 +1,66 @@
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03685/?pg=52
+
+p77
+double width table
+numbered columns
+
+HEADERS
+This later form is much easier because several headers are legible and the content underneath confirms their meaning. It appears to be a much more detailed Catholic baptism register, probably introduced after a diocesan reform, expanding the earlier 8-column layout into 13 columns.
+
+Reading the numbered columns across both pages:
+
+No.	Header (approximate transcription)	Meaning1	Namen der Kinder	Name of the child
+2	In welchem und dem Namen der Hebamme oder Geburtshilfe, ob sie getauft haben, ihrer Wohnung	Midwife/accoucheuse: name, whether she performed an emergency baptism, and residence
+3	Namen des Vaters, dessen Geschäft, Name der Mutter	Father's name and occupation; mother's name
+4	Stand des Vaters, dessen Religion; Namen und Wohnort derselben	Parents' status/religion and residence
+5	Anzeigepflicht auf Namen, Stand und Geschlecht des Kindes (or similar)	Information supplied by the declarant/reporting person; legitimacy information often appears here
+6	Namen der Pathen oder Taufzeugen und deren Geschlecht; Namen derselben ...	Godparents/sponsors and their identities
+7	Stand der Pathen, Religion	Status/occupation and religion of sponsors
+8	Taufpriester; Aufenthalt / Ort; Namen und Stand	Baptizing clergyman and/or residence information
+9	Zeit der Geburt	Time of birth
+10	Tauftag oder der Taufende	Date of baptism (sometimes also identifying the baptizer)
+11	Pfarrer oder dessen Stellvertreter	Priest or substitute officiating
+12	Taufzeugen (bei Nottaufen) vor und nach vollzogener Taufe	Witnesses or sponsors connected with emergency baptism cases
+13	Bemerkungen betreffend Legitimation, Ehelichkeit, Adoption usw.	Remarks column
+Evidence from the entries
+
+For Anna Maria (second visible entry):
+
+Col. 1: "Anna Maria"
+Col. 3: "Antonl/Andreas ... Maria"
+Col. 4: "... katholisch"
+Col. 6: Godparent's name
+Col. 7: "... katholisch"
+Col. 9: "28te Febr. 12 Uhr nachts" (birth date and hour)
+Col.10: "29ste Febr." (baptism date)
+Col.11: priest's signature/name
+Col.13: remarks
+
+For the lower Anna Maria entry:
+
+Col. 9 clearly says "31. May 2 Uhr Nachts" (born 31 May, 2 a.m.)
+Col.10 says "31. May" (baptized same day)
+
+That confirms columns 9 and 10 are birth and baptism data respectively.
+
+More precise reconstruction
+
+The most likely full set of categories is:
+
+Child's name.
+Midwife (name, residence, emergency baptism if performed).
+Father (name and occupation).
+Mother and religion/parental status.
+Legitimacy and reporting information.
+Sponsors/godparents.
+Sponsors' occupation and religion.
+Sponsors' residence.
+Birth date and time.
+Baptism date.
+Baptizing priest.
+Witnesses/substitute clergy (especially for emergency baptisms).
+Remarks.
+
+This layout is very similar to the standardized Bavarian and Würzburg diocesan forms introduced in the early 1800s, which separated birth details, baptism details, sponsors, clergy, and legitimacy into distinct fields.
+
+If you can provide a crop showing only the header row at high resolution, I can probably transcribe nearly every printed heading word-for-word instead of inferring from the entries below it. The image here is just barely good enough to identify the columns from their contents.

@@ -1,0 +1,222 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-26
+
+Parish      Waldzell
+Volume      1
+Page#       40/41
+Years       1758-1762
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   13 + >10
+
+Comments
+These are absolute positions
+Image 40A is top half, 40B is bottom half.
+First 3 columns of page 041 can also be seen in both images.
+
+page 41 Year Divider lines cannot be read, guess they are consecutive.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 40
+        _HEADER-ROW
+e1      17 Aug
+e2      22 Sep
+e3      1 Oct
+e4      28 Nov
+        _YEAR 1759
+e5      10 Jan      big 12
+e6      21 Jan
+e7      11 Feb
+e8      ?
+e9      20 Mar
+e10     20 May
+e11     23 Jul
+e12     3 Aug
+e13     Aug
+-----------------------DIV30--
+Page 41
+        _HEADER-ROW
+e1      25 Sep
+e2      11 Dec
+        _YEAR 1760    <guess>
+e3      6 Apr
+e4      7 May
+e5      10 Jun
+e6      5 Jul
+e7      21 Aug
+e8      23 Jul?
+        _YEAR 1761    <guess>
+e9      9 Feb
+e10     11 Feb
+e11     1 May
+e12     4 May
+e13     7 Aug
+e14     30 Aug
+e15     2 Nov
+e16     15 Nov
+e17     15 ??
+        _YEAR  1762    <guess>
+e18     27 ??
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+Page    40
+Entry   7
+Year    1759
+
+Transcription
+col
+c1      11 February / ? 8. maduk?
+c2      eoden?
+c3      Adamus Oder / Anna Maria
+c4      Anna/ Maria
+c5      Anna Maria / Loschertin ?
+    from Rainer Otter GEDCOM, c4="Anna Maria Loschert"
+c6      dacSeldang
+
+e5      Page 41     1760
+c1      10 Juni / ?
+c2      eode
+c3      Georg Otter / Maria
+c4      Eva
+c5      Eva Loschertin / ?
+c6      sac?
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2465    Line 8
+Anna Maria Otter                1 cousin 5r
+b,ba    11-Feb-1759
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+TMG-2469    Line 9
+Eva Otter                       1 cousin 5r
+b,ba    10-Jun-1760
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 40, notation 7
+Otter, A. Maria
+11-Feb-1759
+
+DAW; PF. Waldzell; Fiche 1; page 41, notation 8
+Otter, Eva
+10-Jun-1760
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-26-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+Image 40A is top half, 40B is bottom half.
+First 3 columns of page 041 can also be seen in both images.
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-26-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   5-13  contiguous
+
+Comments
+These are absolute numbers based on overlap with image Waldzell Taufen -p040A  1758-1759.png
+This provides 3 more entries on L side and a bunch more on R sided to the list gotten from top image.
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-01-26-C.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   
+
+Comments
+This is a top of page image of Right hand side.
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Anna Maria Otter; before 11 February 1759; ; 11 February 1759; p40 - e7; 5303; 1; 26; 40-41; 16 July 2024; RAVigus, RJO
+
+TMG-src-1551
+BAP WCR-p041-Otter,Eva
+ Waldzell Church Book - Baptisms, p041-Otter, Eva
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Eva Otter; before 10 June 1760; ; 10 June 1760; e6 - p41; 5303; 1; 26; 40/41; 16 July 2024; RAVigus, RJOtter+
+
+entry   RM-ID       Name                tags using source
+p40-e7  TMG-2465    Anna Maria Otter    name, father, mother, baptism
+p41-e5  TMG-2469    Eva Otter           name, father, mother, baptism
+
+===========================================DIV50==
+
+
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==
+
+already copied to top, but confirm before deletion
+
+ Waldzell Church Book - Baptisms, p041-Otter, Eva
+
+img 26
+same as last image, right sied
+
+Taufen- page 41, 1759-1760
+row
+h    header
+e1    25 Sep
+e2    11 Dec
+e3    Anno 1760
+e4    6 Apr
+e5    7 May
+e6    10 Jun
+e7    5 Jul
+e8    21 Aug
+
+(information overlaps with image of page 40, TMG source 1550)
+
+e6
+c1   10 Juni / ?
+c2   eode
+c3   Georg Otter / Maria
+c4   Eva
+c5   Eva Loschertin / ?
+c6   sac?
+
+===========================================DIV50==
+===========================================DIV50==

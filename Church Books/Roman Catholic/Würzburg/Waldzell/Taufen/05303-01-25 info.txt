@@ -1,0 +1,130 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-25
+
+Parish      Waldzell
+Volume      1
+Page#       38/39
+Years       1756
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    _TODO
+Columns:    6
+#Entries:   11/8
+
+Comments
+
+not absolute entry numbers, Top of pages not imaged
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 38
+_PARTIAL-ENTRY
+_YEAR 1756
+e1      23 Jan
+e2      Mar
+e3      18 Mar
+e4      30 Mar
+e5      11 Apr
+e6      12 Jun
+e7      21 Jul
+
+-----------------------------
+Page 39
+        _YEAR-CONTINUED 1756
+e1      7 ??
+e2      9 Oct
+e3      12 Dec
+        _YEAR 17??   <guess 1757>
+e4      9 May
+e5      13 Juny
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    38
+Entry   6
+Year    1756
+
+Transcription
+col
+c1      12 Juni / ? ?
+c2      eo???
+c3      Georgius Adam / ? / Maria Catharina
+c4      Anna / Maria
+c5      Anna maria / Christopjan / ku???
+c6      Joem??
+
+
+-----------------------DIV30--
+Page    38
+Entry   7
+Year    1756
+
+Transcription
+col
+c1      21 Jul / ? ?
+c2      eo???
+c3      Adam Other / Anna Maria
+c4      Joanes
+c5      Joanes / Michler
+c6      Joem??
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2461    Line 7
+Joannes Otter
+b,ba    21-Jun-1756     1 cousin 5r
+    f   Georg Adam Otter
+    m   Anna Maria Brunn
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 38, notation 6
+Otter, Johann
+28-Jul-1756
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file://./5303-01-25-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   L total=7 contiguous; R total=5 contiguous
+
+Comments
+not absolute positions
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1549
+BAP WCR-p038-Otter,Joannes       
+ Waldzell Church Book - Baptisms, p038-Otter, Joannes
+
+RM:
+p38 - e7
+ChurchBook -Waldzell
+_TAUFE; Joannes Otter; before 21 June 1756; ; 21 June 1756; p38 - e7; 5303; 01; 25; 38/39; 16 July 2024; RAVigus, RJOtter
+
+entry   RM-ID       Name                tags using source
+p38-e6  TMG-2461    Joannes Otter   name, father, mother, baptism
+
+===========================================DIV50==

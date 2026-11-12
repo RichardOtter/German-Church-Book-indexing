@@ -1,0 +1,37 @@
+The page is arranged in 8 columns, with the headings written partly in Latin and partly in German. The handwriting is difficult, but the column structure is fairly recognizable from other early 19th-century Catholic baptismal registers.
+
+Reading left to right, the headers appear to be:
+
+Original header	  ┠ Expanded transcription ┠ English
+mensis	          ┠  mensis	           ┠ Month (and date)
+Baptizati	      ┠  Baptizati	       ┠ Baptized child
+Parentes	      ┠  Parentes	       ┠ Parents
+Patrini	          ┠  Patrini	       ┠ Sponsors / Godparents
+domus dig. mens	  ┠  Domus, dies mensis, diei & hora (abbreviated)	 ┠ House/place, day and hour of birth
+B	              ┠  Baptizati	       ┠ Person who performed the baptism
+Paroch.	          ┠  Parochia ...1804 Anno Domini	               ┠ Parish entry | year 1804 A.D.
+Obs	              ┠  Observationes	   ┠ Remarks / Notes
+
+Looking at the first entry helps confirm the meanings:
+
+Column 1 contains entries such as "Oberschwarzach die 25 Decem." (25 December, Oberschwarzach).
+Column 2 has the child's name "Carolus".
+Column 3 describes the parents.
+Column 4 lists the godparent(s).
+Column 5 contains birth details such as "die 6 Januarii circa 12 vespertinam" (6 January, about noon/afternoon).
+Column 6 gives the baptizing priest, e.g. "Joannes Georgius Henricus".
+Column 7 contains parish/status notes and legitimacy information.
+Column 8 is for additional remarks.
+
+A more literal reconstruction of the headings would be:
+
+Mensis – Month/date
+Baptizati – Baptized
+Parentes – Parents
+Patrini – Godparents
+Domus, dies mensis, diei & hora nativitatis – House, day/date, and hour of birth
+Baptizati – Baptizer
+Parochia / Anno Domini 1804 – Parish record column
+Observationes – Remarks
+
+The fifth and seventh headings are the least legible in this crop. If you can provide a slightly higher-resolution image of just the top header row, I can probably produce a line-faithful transcription of the Latin wording rather than an identification from context.

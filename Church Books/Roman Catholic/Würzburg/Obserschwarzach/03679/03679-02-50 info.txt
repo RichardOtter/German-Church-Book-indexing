@@ -1,0 +1,133 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03679
+Parish         ┠ Oberschwarzach
+Volume         ┠ 1
+Record:        ┠ _TAUFE
+Page#          ┠ 176-177
+
+Archive-ID     ┠ 03679-02-50
+URL pg#        ┠ 99
+Years          ┠ 1862        ???  may be 1802
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _PARAGRAPH
+Headers:       ┠ n/a
+Columns:       ┠ n/a
+#Entries:      ┠ 8 + 9
+
+Comments
+??? which RM person is sought
+RM-32       AT 13  Katharina Dürr b 4 Jan 1862
+
+image           file://./03679-02-50.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03679/?pg=99
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 176
+
+entry  ┠ contents
+e1     ┠ img
+e2     ┠ img
+e3     ┠ img
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ img
+
+-----------------------------
+Page 177
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ img
+e9     ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 
+Entry  ┠  
+Year   ┠ 
+Detail ┠ file://./
+
+Transcription
+
+
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+????
+probably thought that this was 1862 page, but likely 1802
+
+
+===========================================DIV50==
+
+
+===========================================DIV50==
+Based on image done at archive
+
+this is superseded by web image
+
+
+Image name:         img:3679-02-51-A -WA.png
+Acquired:           14-Oct-2019  15:26      RJO
+Orientation:        _PORTRAIT
+Entries in Image:   L 1,2,3 8 ; R 6
+
+Comments
+L side entries 1-3  the block at top
+L side entry 8      the middle block
+R side entry 6 and partial 7    the bottom block
+
+
+-----------------------------
+Entry   Page L 
+e1      
+e2      
+e3      
+-----
+e8      
+
+-----------------------------
+Entry   Page R      YYYY-YYYY
+e6
+_PARTIAL-ENTRY
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM      BAP-CR-O Dürr, Katharina -b1862
+Baptism  Oberschwarzach Church Records 3679-02-51
+
+entry       RM-ID       Name                tags using source
+pLR-e?      RM-32       AT 13  Katharina Dürr b 4 Jan 1862
+
+
+
+

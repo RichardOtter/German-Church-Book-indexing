@@ -1,0 +1,124 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-07
+
+Parish      Waldzell
+Volume      1
+Page#       64/65
+Years       1797-1798
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   L >7; R >8
+
+Comments
+
+
+most of page 65 also included
+p65 1798  (cannot read, but is inferred)
+Absolute entry numbers. Top of page visible as well as page number "64" at top left corner.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page    64
+     1797
+e1      <illegible>
+e2      19
+e3      10 Sep
+e4      25 Oct
+e5      27 Oct
+e6      ??
+        _PARTIAL-ENTRY   22 Nov
+
+-----------------------DIV30--
+Page    65
+     1798
+e1      ?
+e2      25 Feb
+e3      14 Apr
+e4      26 Apr
+e5      10 Jun
+e6      Jul
+e7      21 Jul
+        _PARTIAL-ENTRY
+-----------------------DIV30--
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page 64     e3      1797
+Die 10 9ber ?   Fridericus ? ? Otter
+et Anna Maria ?  ?  Fridericus Loscchert
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2464    Line 22
+Fridericus Otter                    2 cousin 4 r
+b,ba    10-Sep-1797     6 or 10 of Sep ?
+    f   Joannes Otter
+    m   Anna Maria Öhring
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 64, notation 21
+Fridericus Otter
+10-Sep-1797
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-02-07-A.png
+Acquired:           2010-11    RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   L 1-7; R 1-7
+
+Comments
+Absolute entry numbers. Top of page visible as well as page number "64" at top left corner.
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-02-07-B.png
+Acquired:           2024-07    RJOtter
+Orientation:        _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-02-07-C.png
+Acquired:           2024-07    RJOtter
+Orientation:        _PORTRAIT
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1561
+BAP WCR-p064-Otter,Fridericus
+ Waldzell Church Book - Baptisms, p064-Otter, Fridericus    
+
+
+entry   RM-ID       Name                tags using source
+p64-e3  TMG-2464    Fridericus Otter    name, father, mother, baptism
+
+===========================================DIV50==

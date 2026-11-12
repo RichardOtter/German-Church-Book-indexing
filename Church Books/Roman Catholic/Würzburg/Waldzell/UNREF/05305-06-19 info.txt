@@ -1,0 +1,126 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-06-19
+
+Parish      Waldzell
+Volume      3
+Page#       ??
+Years       ??
+Record:     _OTHER  index  Taufen and other events?
+Width:      _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    5305-06-14.txt
+Columns:    8
+#Entries:   >30
+
+Comments
+Section of index with Sch�rgers
+Seems to be an index of Taufen because second column header is Familien & Tauf Namm
+Columns have roman numbers and Arabic numbers. Could be volume I, II or III and page number.
+columns may include other events
+Header line is fully visible. Absolute entry numbers
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+HEADER_LINE
+e1      4   Sch�rger  Johan         25
+e2      5   Maria Katharina         27
+e3      6   Veronica                27
+e4      7   Johannes                20
+e5      8   Maria Anna              29
+e6      9   Heinrich
+e7      10  Adam
+e8      1   Johann
+e9      2   ?? Barbara
+e10     3   ??                      38
+e11     4   
+e12     5   Georg   
+e13     6   
+e14         to the right of others  ??      42
+e15                                 Stephan 56
+e16                                 Stepan  38
+e16         Stenger   ??
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-19-A.png
+Acquired:       14-Oct-2019  15:24      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   1-16
+
+Comments
+Seems to be an index of Taufen because second column header is Familien & Tauf Namm
+Columns have roman numbers and Arabic numbers. Could be volume I, II or III and page number.
+columns may include other events
+Header line is fully visible. Absolute entry numbers
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-06-19-B.png
+Acquired:       14-Oct-2019  15:24      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   tota=~30
+
+Comments
+This is the same page as 5305-06-19-A.png, but the bottom part of page.
+Can see bottom edge of page, but not top. Image is of left side of page.
+Can see for top image that Sch�rger  Johan is absolute e1.
+Entries on this page that are not on 5305-06-19-A.png, may not be interesting.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
+e1      _PARTIAL-ENTRY   Sch�rge
+e2      5   Maria Katharina         27
+e3      6   Veronica                27
+e4      7   Johannes                20
+e5      8   Maria Anna              29
+e6      9   Heinrich
+e7      10  Adam
+e8      1   Johann
+e9      2   ?? Barbara
+e10     3   ??                      38
+e11     4   
+e12     5   Georg   
+e13     6   
+e14         to the right of others  ??      42
+e15                                 Stephan 56
+e16                                 Stepan  38
+e16         Stenger   ??
+e17     
+e18     
+e19     
+e20     
+e21     
+e22     
+e23     
+e24     
+e25     
+e26     
+e27     Schwin
+e28             Joseph
+e29     
+e30     
+e31     
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+===========================================DIV50==

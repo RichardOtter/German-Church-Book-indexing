@@ -1,0 +1,112 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-05
+Mat.pg#         6
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           2-3
+Years           702-1704
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _PARAGRAPH
+Headers:        n/a
+Columns:        n/a
+#Entries:       11 + 12
+
+image           file://./00154-01-05.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+-----------------------DIV30--
+Page 2 
+         _YEAR 1702
+e1       2 Jan          RMID-1821 Loschert, Johann Adam Birth 1702-01-02
+e2      30 Jan
+e3       9 Feb
+e4      28 Mar
+e5      23 Jun          RMID-16693 Joha, Anna Margarethe Birth 1702-06-23
+e6       1 Aug
+e7       7 Aug
+e8       9 Sep    
+e9      13 Nov          RMID-10920 Sendelbach, Anna Maria Birth 1702-11-13
+e10     27 Sep
+         _YEAR 1703
+e11     22 Jan
+-----------------------DIV30--
+Page 3
+        _YEAR-CONTINUED 1703
+e1      20 Feb
+e2       5 Mar
+e3      16 Jun
+e4      28 Jun
+e5      28 Aug
+e6       1 Sep
+e7       5 Sep
+e8      10 Dec
+e9      27 Dec
+        _YEAR 1704
+e10     17 Jan
+e11     24 Jan
+e12      1 Feb
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    2
+Entry   1
+Year    1702
+Detail  file://./00154-01-05-A.png
+
+Transcription
+words recognized by RJO
+2 Jan 1702  The date matches the RM entry.
+Joh Adam Loschert
+Christophori Loschert
+Maria
+Müller
+
+Match to RM database
+RMID-1821 Loschert, Johann Adam Birth 1702-01-02
+son of Christophorius Loschert & Maria Menling
+
+-----------------------DIV30--
+Page    2
+Entry   5
+Year    1702
+Detail  file://./00154-01-05-B.png
+
+Transcription
+words recognized by RJO
+23 Junny 1702   The date matches the RM entry.
+Anna Margareta Joha
+Philip Joha Ansbach
+Margareta 
+
+Match to RM database
+RMID-16693 Joha, Anna Margarethe Birth 1702-06-23
+daughter of Philipp Joha & Margaretha Loschert
+
+-----------------------DIV30--
+Page    2
+Entry   9
+Year    1702
+Detail  file://./00154-01-05-C.png
+
+Transcription
+words recognized
+13 die 9ber Baptis??? Anna Maria Sendelbach  Johann
+   Maria  
+
+Match to RM database
+RMID-10920 Sendelbach, Anna Maria Birth 1702-11-13
+(parents not recorded)
+
+-----------------------DIV30--

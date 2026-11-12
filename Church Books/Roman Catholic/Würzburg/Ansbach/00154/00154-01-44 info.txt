@@ -1,0 +1,330 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-44
+Mat.pg#         45
+
+Parish      Ansbach-bei-Roden
+Volume      1
+Page#       78-79
+Years       1801-1803
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   
+
+image       file://./00154-01-44.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=45
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 78
+        _YEAR 1801
+e1      21 jan    
+e2      25 jun    RMID-20993 Mehling, Maria Elisabth Birth 1801-06-25
+e3      10 sep
+e4      23 oct
+e5      22 nov
+e6      22 dec
+e7      23 dec
+        _YEAR 1802
+e8      2 jan
+e9      3 jan
+-----------------------DIV30--
+Page 79
+        _YEAR-CONTINUED 1802
+e1      17 jan    RMID-15138 Mehling, Anna Maria Birth 1802-01-17
+e2      7 feb
+e3      6 may
+e4      20 jun
+e5      21 jun
+e6      19 aug
+e7      2 sep
+e8      18 sep
+        _YEAR 1803
+e9      4 feb
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    78
+Entry   2
+Year    1801
+Detail  file://./00154-01-44-A.png
+
+Transcription
+Die 25 junii
+Hodie est Baptizata est Maria Elisabetha, filia Egidii honesti
+Jois Georgius Mehling Mathaei et Mariae conjugis, nata Ludwigni.
+Ego Elisabetha Ludetizia, D. Sacerd. Kleer baptizavi.
+
+Translation
+On June 25, Maria Elisabetha was baptized, daughter of Egidius Jois Georgius
+Mehling and his wife, daughter of Mathaeus and Maria, born of Ludwig.
+I, Elisabetha Ludetizia, priest Kleer, baptized her.
+
+Summary
+EventType   Baptism
+EventPlace  Ansbach b. Roden
+EventDate   25 Jun 1801
+Name        Maria Elisabeth Mehling
+BirthDate   25 Jun 1801
+Father      Johann Georg Mehling
+Mother      Maria geb. Ludwig
+Godparent   Elisabeth Ludwig
+
+Match to RM database
+RMID-20993 Mehling, Maria Elisabeth Birth 1801-06-25
+
+-----------------------DIV30--
+Page    79
+Entry   1
+Year    1802
+Detail  file://./00154-01-44-B.png
+
+Transcription
+Die 17. januarii
+Nata et baptizata est Anna Maria filia legitima honesta
+Jois georgii Mehling et Anna maria conjugis natae Brunnin est Waldzell
+levans Anna Maria Heidenfelderin ex Waldzell. Reupiring P.
+recte adsignavit.
+
+Translation
+On January 17, Anna Maria was born and baptized, the legitimate daughter
+of the honest Johann Georg Mehling and Anna Maria, his wife, née Brunn,
+from Waldzell. The sponsor was Anna Maria Heidenfelder, from Waldzell.
+Reupiring, priest, duly signed.
+
+Summary
+EventType   Baptism
+EventPlace  Ansbach b. Roden
+EventDate   17 Jan 1802
+Name        Anna Maria Mehling
+BirthDate   17 Jan 1802
+Father      Johann Georg Mehling
+Mother      Anna Maria geb. Brunn from Waldzell
+Godparent   Anna Maria Heidenfelder
+
+
+Match to RM database
+RMID-15138 Mehling, Anna Maria Birth 1802-01-17
+
+-----------------------DIV30--
+
+
+For the attached image of a German baptism record, create a diplomatic transcription(preserving original line breaks and word splits), perform letter by letter analysis and then english translation and then summarize as code block so I can copy it.
+The text is in 2 columns. The first column has the date on line 1 and time on line 2. The second column is the paragraph of text.
+Probably has this info: child and parents:
+Maria Elisabeth Mehling b 25 Jun 1801
+Parents-
+Johann Georg Mehling
+and
+Anna Maria Ludwig
+
+
+Line 1 (col. 2)
+Hodie — H tall; di minims; e open.
+est — long‑s + t.
+Baptizata — B large; ti ligature; z with long tail.
+est — long‑s.
+Maria — M three minims; ri ligature.
+Elisabetha — long‑s; th ligature.
+filia — f long descender; li minims.
+Egidii — E open; dii minims.
+honesti — h tall; ne looped; long‑s.
+
+Line 2 (col. 2)
+Jois — J long descender; oi ligature; final long‑s.
+Georgius — G rounded; eo ligature; rg looped; ius minims.
+Mehling — M three minims; eh clear; lin minims; g with tail.
+Mathaei — M; th ligature; aei minims.
+et — e open; t short.
+Mariae — M minims; riae clear.
+conjugis — ju looped; long‑s.
+nata — clear.
+Ludwigni — L tall; udwi minims; gn ligature; final i.
+
+Line 3 (col. 2)
+Ego — E open; g looped.
+Elisabetha — long‑s; th ligature.
+Ludetizia — ti ligature; zia clear.
+D. Sacerd. — Dominus Sacerdos (the priest).
+Kleer — K tall; lee looped; r short.
+baptizavi — z with tail.
+
+
+
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==
+
+For the attached image of a German baptism record, create a diplomatic transcription (preserving original line breaks and word splits), perform letter by letter analysis and then english translation and then summarize as code block so I can copy it. You have done a poor job with putting the transcribed words in the correct lines.
+The text is in 2 columns. The first column has the date on line 1 and when present, the time on line 2. The second column is the paragraph of text.
+Probably has this info: child and parents:
+Maria Elisabth Mehling born 25-Jun-1801
+parents
+Johann Georg Mehling
+and Anna Maria Brunn
+
+You’re right to push on line accuracy—that’s where the meaning lives. Let’s do this one cleanly and strictly line‑faithful.
+
+Absolutely — now that you’ve confirmed the correct readings **Mechlig → Mehling** and **Waldbell → Waldzell**, here is the **fully corrected, line‑faithful diplomatic transcription**, followed by analysis, translation, and a clean copy‑block.
+
+I will **not** move any words between lines. Everything stays *exactly* where the scribe placed it.
+
+---
+
+# 🧾 **DIPLOMATIC TRANSCRIPTION (2 columns, original line breaks preserved)**
+
+### **Column 1**
+```
+Die 17. januarii
+```
+
+### **Column 2**
+```
+Nata et baptizata est Anna Maria filia legitima honesta
+Jois georgii Mehling et Anna maria conjugis natae Brunnin est Waldzell
+levans Anna Maria Heisenfelderin ex Waldzell. Reupiring P.
+recte adsignavit.
+```
+
+---
+
+# 🔍 **LETTER‑BY‑LETTER / PALEOGRAPHIC ANALYSIS**
+
+### **Column 1**
+- **Die** — D with tall ascender; *ie* separate.  
+- **17.** — Arabic numerals; period after day.  
+- **januarii** — long initial j; *nuar* in tight minims; final *ii* as two strokes.
+
+---
+
+### **Column 2 — Line 1**
+**Nata** — N in two minims; *ta* clear.  
+**et** — e open; t short.  
+**baptizata** — *ti* ligature; *z* with long tail.  
+**est** — long‑s + t.  
+**Anna Maria** — capital A with loop; double‑n minims; Maria with three‑minim M.  
+**filia legitima** — *filia* with long f; *legitima* with clear *gi*.  
+**honesta** — h tall; *ne* looped; final *sta* clear.
+
+---
+
+### **Column 2 — Line 2**
+**Jois** — J long descender; *oi* ligature; final long‑s.  
+**georgii** — G rounded; *eo* ligature; *rg* looped; final *ii* minims.  
+**Mehling** — M three minims; *eh* clear; *lin* minims; g with long tail.  
+**et Anna maria** — *et* as above; Anna and Maria as in line 1.  
+**conjugis** — *con* tight; *ju* looped; final long‑s.  
+**natae Brunnin** — *natae* with final e; *Brunnin* with capital B, *run* minims, feminine *‑in* ending.  
+**est Waldzell** — *est* long‑s; *Waldzell* with W, *ald* minims, *zell* double‑l.
+
+---
+
+### **Column 2 — Line 3**
+**levans** — “lifting” (sponsor); long‑s at end.  
+**Anna Maria Heisenfelderin** — capital H; *ei* diphthong; *sen* minims; *felder* clear; *‑in* feminine suffix.  
+**ex Waldzell.** — *ex* small e + x; Waldzell as above.  
+**Reupiring P.** — priest’s surname; P. = *Pastor* or *Parochus*.
+
+---
+
+### **Column 2 — Line 4**
+**recte adsignavit.** — “signed correctly”; *adsignavit* with *ad* prefix, *signa* minims, *vit* ending.
+
+---
+
+# 🇬🇧 **ENGLISH TRANSLATION**
+
+**“On the 17th of January  
+was born and baptized Anna Maria, the legitimate daughter of the honest  
+Jois Georgius Mehling and Anna Maria, his wife, née Brunn, of Waldzell.  
+The sponsor was Anna Maria Heisenfelder, of Waldzell.  
+Reupiring, priest, duly signed.”**
+
+- **Jois georgii Mehling** = Johann Georg Mehling (Latin *Georgius*).  
+- **natae Brunnin** = “born Brunn” (mother’s maiden name).  
+- **Waldzell** is the corrected place name.
+
+---
+
+# 📦 **COPY‑READY SUMMARY (CODE BLOCK)**
+
+```
+COLUMN 1:
+Die 17. januarii
+
+COLUMN 2:
+Nata et baptizata est Anna Maria filia legitima honesta
+Jois georgii Mehling et Anna maria conjugis natae Brunnin est Waldzell
+levans Anna Maria Heisenfelderin ex Waldzell. Reupiring P.
+recte adsignavit.
+
+TRANSLATION:
+On January 17, Anna Maria was born and baptized, the legitimate daughter
+of the honest Jois Georgius Mehling and Anna Maria, his wife, née Brunn,
+of Waldzell. The sponsor was Anna Maria Heisenfelder, of Waldzell.
+Reupiring, priest, duly signed.
+```
+
+---
+
+If you want, I can now produce a **TEI‑XML diplomatic encoding** with `<cb/>` and `<lb/>` markers, or a **genealogical abstract** formatted for RootsMagic or your SQL schema.
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Baptism Register Entry — Diplomatic Transcription</title>
+        <respStmt>
+          <resp>Transcription</resp>
+          <name>Richard & Copilot</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Unpublished manuscript transcription.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Deutschland</country>
+            <region>Bayern</region>
+            <settlement>Ansbach b. Roden</settlement>
+            <repository>Pfarrarchiv Ansbach b. Roden</repository>
+            <idno type="URL">https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=45</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Handwritten Catholic baptism register, Latin with German elements.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <ab type="baptism-entry">
+        <cb n="1"/>
+        <lb/>Die 17. januarii
+
+        <cb n="2"/>
+        <lb/>Nata et baptizata est Anna Maria filia legitima honesta
+        <lb/>Jois georgii Mehling et Anna maria conjugis natae Brunnin est Waldzell
+        <lb/>levans Anna Maria Heisenfelderin ex Waldzell. Reupiring P.
+        <lb/>recte adsignavit.
+      </ab>
+    </body>
+  </text>
+</TEI>

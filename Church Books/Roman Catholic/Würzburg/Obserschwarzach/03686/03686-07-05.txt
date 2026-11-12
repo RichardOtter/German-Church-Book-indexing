@@ -1,0 +1,85 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03686
+Parish        ┠ Oberschwarzach
+Volume        ┠ 4
+Record:       ┠ _TAUFE
+Page#         ┠ 203-203
+
+Archive-ID    ┠ 03686-07-05
+URL pg#       ┠ 217
+Years         ┠ 1884-1885
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 8
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=217
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 203
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 67 Dürr ␤ Kunigunda Dorothea ␤ Stephanie
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 203
+Entry  ┠  3 | year-entry 67
+Year   ┠ 1884
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 67
+c1     ┠ Dürr ␤ Kunigunda Dorothea ␤ Stephanie
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F      03686-07-05
+20928    Dürr, Kunigunda Dorothea Stephanie 22 Dec 1884                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr, Valentin and Fuchs, Margarete
+
+===========================================DIV50==

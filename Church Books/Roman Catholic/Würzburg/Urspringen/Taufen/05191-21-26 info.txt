@@ -1,0 +1,104 @@
+TODO-  dates are reversed ?  probably both are Sep.
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-21-26
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      5
+Page#       23
+Years       1842
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    13
+#Entries:   >1
+
+Comments
+Entry numbers are not absolute. 
+Only a single entry was described and imaged.
+Partial entries above and below.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 78
+e2     141     Franz ␤ Schürger
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2
+c00     141
+c01     Franz ␤ Valentin ␤ Schürger
+c02     7 dn Geburt ␤ 4th ?? ␤ 1te ?? ␤ ?? ␤ ??
+c03     Johann ␤ Schürger
+c04     Saddler ␤ Kathol.
+c05     ?? ␤ No: 107.
+c06     Anna ␤ Maria ␤ Scheuer ␤ mann
+
+c07     ?? ␤ ?? ␤ ??
+c08     ?? ␤ ?? 
+c09     15den ␤ September ␤ Abends ␤ 10 Uhr.
+c10     16den ␤ September 
+c11     C. ?? ␤ mann, ␤ ??
+c12     Valentin ␤ Albert ␤ ledig von ␤ hier
+c13     _EMPTY
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+*15.09.1842/~16.07.1842 Urspringen: Franz Valentin Schürger, legitimate son (7th child) of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, Urspringen house number 107, godfather Valentin Albert, not married from here (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5193, Fiche 21, p. 23).
+
+
+-----------------------DIV30--
+
+Franz Valentin Schürger
+*15 Sep 1842   Urspringen
+~16 Sep 1842   Urspringen
+
+Johann Schürger   Urspringen HN:107
+&
+Anna Maria Scheuermann
+=> Franz Valentin Schürger   #7
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 21, p. 23
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5191-21-26-A.jpg
+Acquired:           05-Jul-2023  12:11  Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   e1 partial, e2, e3 partial
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Work Area
+
+Birth and Baptism out of order
+Check for correct month for each
+
+WCA     Signatur 5191   Fiche 21    image 26    Urspringen  Tauf        vol 5   p 23
+5191-21-26
+
+RMID-11420
+Franz Valentin Schürger             (RM Frank Valentin Schürger)
+*15.09.1842/~16.07.1842 Urspringen  (RM same)
+# 7 child
+
+===========================================DIV50==
+===========================================DIV50==

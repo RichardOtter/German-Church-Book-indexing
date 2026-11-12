@@ -1,0 +1,108 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-01-17
+
+Parish      Waldzell
+Volume      1
+Page#       22/23
+Years       1724-1725
+Record:     _TAUFE
+Width:      _SINGLE     maybe   _DOUBLE
+
+Format:     _TABLE-SINGLE
+Headers:    Waldzell Taufen -p020.txt
+Columns:    5
+#Entries:   L 11 R 9
+
+Comments
+LEFT SIDE p22
+RIGHT SIDE p23
+p23 has absolute entry numbers
+
+start year of  archive_image is unknown since p22 was not imaged.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Page 22
+not imaged
+-----------------------------
+Page 23
+        _HEADER-ROW
+        _YEAR 1724
+e1      17 Sep  1724
+e2      7 Oct   1724
+e3      7 ??    1724
+        _YEAR 1725
+e4      5 Jan   1725
+        _PARTIAL-ENTRY
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page    23
+Entry   4
+Year    1725
+Detail  
+
+Transcription
+c1      5 Jan.
+c2      Georgious Oder / ? / Anna Maria
+c3      Gertude
+c4      Gerh? Capar / Meling ?
+c5      Leuhang?
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2454    Line 3
+Gertrude Otter                      4 gg aunt
+b,ba    5-Jan-1725
+    f   Georg Otter
+    m   Anna Mehling
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 23, notation 2
+Otter, Gertrade
+5-Jan-1725
+
+===========================================DIV50==
+Description of Image
+Image name:     file://./5303-01-17-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   1-4  absolute
+
+Comments
+only shows right side page, p23
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1545
+BAP WCR-p023-Otter,Gertrude
+ Waldzell Church Book - Baptisms, p023-Otter, Gertrude 
+
+RM:
+ChurchBook -Waldzell
+_TAUFE; Gertrude Otter; before 5 January 1725; ; 5 January 1725; p24 - e4; 5303; 01; 17; 22/23; 16 July 2024; RAVigus, RJOtter
+
+
+entry   RM-ID       Name                tags using source
+p23-e4  RMID-2405   Gertrude Otter      name, CP, baptism
+
+===========================================DIV50==

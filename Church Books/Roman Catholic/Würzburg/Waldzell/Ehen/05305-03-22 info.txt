@@ -1,0 +1,85 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-03-22
+
+Parish      Waldzell
+Volume      3
+Page#       6
+Years       1836-1838
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    16
+#Entries:   5
+
+Comments
+top row empty, not counted in the 5 total.
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1  R�b         TMG-2479
+e2  Loschert    TMG-2546    [m to Katharina Otter]
+e4  Sch�rger    TMG-2484
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-22-A.png
+Acquired:       15-Oct-2019  15:30      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:    1, 4
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-03-22-B.png
+Acquired:       16-Oct-2019  14:52      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:    2, 3
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e1  R�b         TMG-2479
+e2  Loschert    TMG-2546    [m to Katharina Otter]
+e4  Sch�rger    TMG-2484
+
+===========================================DIV50==

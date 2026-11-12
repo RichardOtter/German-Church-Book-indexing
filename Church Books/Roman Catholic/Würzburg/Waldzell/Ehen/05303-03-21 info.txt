@@ -1,0 +1,102 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-21
+
+Parish      Waldzell
+Volume      1
+Page#       30/31
+Years       1807-1809
+Record:     _EHE
+Width:      2 page
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   => 3
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+-----------------------------
+Entry   Page 30     1807-1809
+_YEAR 1807
+e1
+_YEAR 1808
+e2
+e3
+e4
+_YEAR 1809
+e5
+e6
+
+-----------------------------
+Entry   Page 31     1809-1810
+_CONTINUE _YEAR 1809
+e1
+e2
+_YEAR 1810
+e3
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+oo26.07.1808 Urspringen: Heinrich Schürger, legitimate son of Georg Schürger and his wife Anna Maria, nee Michler, married Margaretha Mehling, legitimate daughter of the deceased Georg Mehling and his wife Barbara, nee Seuffert, witnesses Johann Schürger and Michael Seuffert (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5303, Fiche 3, p. 30).
+
+
+-----------------------DIV30--
+
+Heinrich Schürger
+&   26 Jul 1808   Urspringen
+Margaretha Mehling
+
+Georg Schürger
+&
+Anna Maria Michler
+=> Heinrich Schürger
+
+Georg Mehling   + bef 26 Jul 1808
+&
+Barbara Seuffert
+=> Margaretha Mehling
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM:
+p30 - e3 (could be e2 or e4, all fall in 1808)
+ChurchBook -Waldzell
+_EHE; Heinrich Schürger; ; Heinrich Schürger & Margaretha Mehling; 26 July 1808; p30 - e3    (could be e2 or e4, all fall in 1808); 5303; 03; 21; 30/31; 17 July 2024; TGWagner
+
+===========================================DIV50==
+Description of Image
+
+Image name:         file:///./5303-03-21-A.jpg
+Acquired:           2-Aug-2023  12:23  Thomas Wagner
+Orientation:        _PORTRAIT
+Entries in Image:   1  & 2 partial, above and below
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+===========================================DIV50==

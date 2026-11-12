@@ -1,0 +1,144 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-02-06
+
+Parish      Waldzell
+Volume      1
+Page#       62/63
+Years       1795
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   L >3; R >5
+
+Comments
+
+Absolute entry numbers. Can see top of page and page number "62".
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page    62
+     1795-1796
+e1      
+e2      31 Oct
+        _YEAR 1796
+e3      14 Jan
+        _PARTIAL-ENTRY
+-----------------------DIV30--
+Page    63
+     1786-1797
+e1      
+e2      24 Sep
+e3      13 Oct
+e4      ?
+        _YEAR 1797
+e5      20 Jan
+        _PARTIAL-ENTRY
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2      Page 62     1795
+Die 31 octob  indert undeeman et duodeceiman worhund
+eft georius Adamus joneen geogei
+mario nato Loohsd nats grissein. Ce
+Sautung Rern Bayinfany
+
+
+e3      Page 63     1796
+Die 13 oktober  baptismus Michael ?  ?  ?  Joannes
+Otter et Anna Maria con. ? Michael Michler
+    From Rainer Otter's GEDCOM, Witness: Michael Michler
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2472    Line 20
+Georg Adam Otter                2 cousin 4 r
+b,ba    31-Oct-1795
+    f   Georg Adam Otter
+    m   Margaretha Öhring
+
+TMG-2463    Line 21
+Michael Otter                   2 cousin 4 r
+b,ba    13-Oct-1796
+    f   Joannes Otter
+    m   Anna Maria Öhring
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 62, notation 19
+Otter, Georgius Adamus
+31-Oct-1795
+
+DAW; PF. Waldzell; Fiche 1; page 63, notation 20
+Otter, Michael
+13-Oct-1796
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5303-02-06-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   1-3
+
+Comments
+Absolute entry numbers. Can see top of page and page number "62".
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5303-02-06-B.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   1-6
+
+Comments
+Absolute entry numbers. In combination with image "Waldzell Taufen -p062  1795.png", we can see that entry 1 is the first on the archive-image page.
+Also can see page number "63" at top right corner. 
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1559
+BAP WCR-p062-Otter,Georgius Adamus   
+Waldzell Church Book - Baptisms, p062-Otter, Georgius Adamus
+
+TMG-src-1560
+BAP WCR-p063-Otter,Michael (Johann)     
+Waldzell Church Book - Baptisms, p063-Otter, Michael (Johann)
+
+RM:
+p62 - e2
+ChurchBook -Waldzell
+_TAUFE; Georgius Adamus Otter; before 31 October 1795; ; 31 October 1795; p62 - e2; 5303; 02; 06; 62/63; 1 August 2023; RAVigus
+
+RM:
+p63 - e3
+ChurchBook -Waldzell
+_TAUFE; Michael Otter; before 13 October 1796; ; 13 October 1796; p63 - e3; 5303; 02; 06; 62/63; 1 August 2023; RAVigus
+
+
+entry   RM-ID       Name                tags using source
+p62-e2  TMG-2472    Georg Adam Otter    name, father, mother, baptism
+p63-e3  TMG-2463    Michael Otter       name, father, mother, baptism
+
+===========================================DIV50==

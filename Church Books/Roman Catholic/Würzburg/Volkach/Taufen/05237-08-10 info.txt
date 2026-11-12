@@ -1,0 +1,94 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05237-08-10
+
+Parish      Volkach
+Volume      4
+Page#       251
+Years       1858
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    13
+#Entries:   8
+
+Comments
+Full Headers visible
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 12     1858
+
+_HEADER-ROW
+e1      
+e2      
+e3      
+e4      
+e5      
+e6      
+e7      Nikolaus Georg Mayer    28 Marz 1858 
+e8      
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e7      Page 12     1858
+c00     37
+c01     Nikolaus
+c02     5 ??? . 2  ??
+c03     Mayer / Georg / ??? / Lieb
+c04     ??  Kath
+c05     ?? geb. Walter / ??
+c06     ??
+c07     28. Marz / 1858 / Neugrub 6 / Ufr
+c08     ??
+c09     ??  28. Marz / ????????
+c10     ??
+c11     Nikolaus ???????
+c12     _EMPTY
+
+===========================================DIV50==
+Interpretation
+
+Possible better transcription unknown source-
+
+Nikolaus Maier
+Born on 28 März 1858 morgens 6:00 Uhr at Volkach, Unterfranken, Bayern.
+Father: Georg Maier, Bischwind bei Dingoldshausen?, 1828
+Mother: Barbara Maier geb. Walter  (1830); nicht in Obervolkach
+
+lt. Kirchenbuch/church register "Volkach", Band 4, fiche 8, p. 251
+ (37/21) - 5. Kind/2. Knabe, Pate Nikolaus Manger, Volkach.
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:05237-08-10-A.png
+Acquired:           14-Oct-2019  15:26  RJO
+Orientation:        _PORTRAIT
+Entries in Image:   7
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+BAP-CR-V Mayer, Nikolaus Georg
+Baptism Volkach Church Records 5237-08-10
+
+entry   RM-ID       Name                tags using source
+e7      RMID-31     Nikolaus Georg Mayer    name, birth
+
+===========================================DIV50==
+===========================================DIV50==

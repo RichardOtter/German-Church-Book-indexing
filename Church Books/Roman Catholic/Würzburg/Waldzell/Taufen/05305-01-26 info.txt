@@ -1,0 +1,59 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-01-26
+
+
+Parish      Waldzell
+Volume      3
+Page#       22
+Years       1842-1843
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   6
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+e1
+e2
+e3
+e4      Johanna Watzin              12 Feb 1843
+e5      Maria Barbara Otterin       13 May 1843 
+e6      Maria Barbara Joha          14 May 1843
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5305-01-26-A.png
+Acquired:           16-Oct-2019  17:40      RJO
+Orientation:        _LANDSCAPE
+Entries in Image:   4, 5, 6
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+RM-src-_NOT-YET-DONE
+
+entry   RM-ID       Name                tags using source
+e5      TMG-2430    Maria Barbara Otterin   13 May 1843 
+
+===========================================DIV50==
+

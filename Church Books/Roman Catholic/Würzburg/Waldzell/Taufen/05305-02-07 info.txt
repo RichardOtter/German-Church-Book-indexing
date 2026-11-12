@@ -1,0 +1,156 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05305-02-07
+
+Parish      Waldzell
+Volume      3
+Page#       33
+Years       1855-1857
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   12
+
+Comments
+Entry numbers absolute.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 33
+        _HEADER-ROW
+e1      Mehling 1855
+e2          1855
+e3          1855
+e4      Oehring             16 Jan 1856
+e5          1856
+e6          1856
+e7          1856
+e8          1856
+e9          1856
+e10         1856
+e11     Maria Agnes M�hler      21 Jan 1857
+e12     4 Feb 1857
+-----------------------DIV30--
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-02-07-A.png
+Acquired:       14-Oct-2019  15:25      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   1-12
+
+Comments
+Full left side of page, shows headers and all 12 entries,
+shows cols 1-4 and partial 5.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 33
+            _HEADER-ROW
+e1          1855
+e2          1855
+e3          1855
+e4          16 Jan 1856
+e5          1856
+e6          1856
+e7          1856
+e8          1856
+e9          1856
+e10         1856
+e11         21 Jan 1857
+e12         4 Feb 1857
+-----------------------DIV30--
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-02-07-B.png
+Acquired:       14-Oct-2019  15:25      RJO
+Orientation:    _PORTRAIT
+Entries in Image:   1-12
+
+Comments
+
+Full length middle of page, shows all 12 entries,
+shows cols 6-8 and partial 9.This image will only be useful if there is something in columns 5-8 for none primary person.
+
+Don't remember why this was taken.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 33     1855-1857
+
+_HEADER-ROW
+e1      
+e2      
+e3      
+e4      
+e5      
+e6      
+e7      
+e8      
+e9      
+e10     
+e11     
+e12     
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:     5305-02-07-C.png
+Acquired:       14-Oct-2019  15:26      RJO
+Orientation:    _LANDSCAPE
+Entries in Image:   1,4,11
+
+Comments
+match these with full page in image B
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 33     1855-1856
+
+e1      Mehling
+-----------
+e4      Oehring
+-----------
+e11     Maria Agnes M�hler
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-2793
+BAP WCR 5305-02-07 Anna Marie Agnes M�hler
+
+entry   RM-ID       Name                tags using source
+e11     TMG-30      Maria Agnes M�hler  name, birth
+
+===========================================DIV50==

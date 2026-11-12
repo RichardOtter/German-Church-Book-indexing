@@ -1,0 +1,158 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05503-01-??
+
+Parish      Waldzell
+Volume      1
+Page#       72-73
+Years       1806-1807
+Record:     _TAUFE
+Width:      _DOUBLE
+
+Format:     TABLE_SINGLE_SIDE
+Headers:    _TODO
+Columns:    6
+#Entries:   L 9; R 9
+
+Comments
+LEFT SIDE p72
+RIGHT SIDE p73
+
+Absolute entry numbers. Can see top of page and page number "72" at top left.
+Entries on right side only show first column. Can see col 1 of p 73.
+Can also see that p 73 is aligned.
+
+Very clear handwriting.
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 72     1806-1807
+_YEAR 1806
+_HEADER-ROW
+e1      2 Mar   Michael Seufert et Eva Catharina R�bien au Waldzell, Maria Margaretha; Maria Margaretha Mehling ex Waldzell; ?
+e2      13 Apr
+e3      27 May  Adamus Otter et Margaretha Oehringinn; Henricus Oehring
+e4      4 Oct
+e5      26 Dec
+e6      28 Dec  ; Andreas Otter et Maria acha Handlinn au Steinfeld
+_YEAR 1807
+e7      1 jan   Michael R�b,  Barbara Sch�rger; Joannes Michael;
+e8      21 feb  Joannes Georgius
+e9      26      Adam Schaefer eet Anna Maria Oehring;   Maria Catharina; ?? Virgo Anna Maria Mehlingin; ?
+
+-----------------------------
+Entry   Page 73     1807-1808
+e1      1 Mai
+e2      27 Aug
+e3      _EMPTY  probably year divider 1808
+e4      3 Jan
+e5      3 Feb
+e6      1 Mar
+e7      17 Mai
+e8      21 Jun
+e9      12 Jul
+e10     3 Aug
+
+
++++++++++++++++++++++++DIV30++
+Details
+
+e1      Page 72     1806
+c1      2 Mar
+c2      eodem
+c3      hon: Michael Seufert et Eva Catharina R�bien au Waldzell
+c4      Maria Margaretha
+c5      Maria Margaretha Mehling ex Waldzell
+c6      sacellang
+
+
+Page 72     e3      1806
+c1      27 May
+c2      eodem
+c3      hon: Adamus Otter et Margaretha Oehringinn
+c4      Henricus
+c5      hon: Vir Henricus Oehring
+c6      sacellang
+
+
+e6      Page 72     1806
+c1      28 Dec
+c2      eodem
+c3      Andreas Otter et Maria acha Handlinn au Steinfeld
+c4      Anna Maria
+c5      puchia Virgo Anna Mari Fleckinn ????
+    from Rainer Otter's GEDCOM: witness: Anna Maria Fleck
+c6      sacellang
+
+
+===========================================DIV50==
+Interpretation
+
+===========================================DIV50==
+Source Citation
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+TMG-2476    Line 29
+Henricus Otter                      2 cousin 4 r
+b,ba    27-May-1806
+    f   Georg Adam Otter
+    m   Margaretha �hring
+
+RMID-2459    Line 30
+Anna Maria Katharina Otter          2 gg aunt
+b,ba    28-Dec-1806
+    f   Andreas Otter
+    m   Anna Maria Handel
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 1; page 72, notation 29
+Otter, Anna Maria
+28-Dec-1806
+
+DAW; PF. Waldzell; Fiche 1; page 72, notation 28
+Otter, Henricus
+27-May-1806
+
+Comment
+On summary sheet, Anna Maria Otter 28-Dec-1806 is listed as notation 28, in error.
+It is correct on image.
+
+===========================================DIV50==
+Description of Image
+
+Image name:     file:///./5303-02-11-A.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   L 9; R 9
+
+Comments
+Absolute entry numbers.
+Entries on right side p73 only show first column
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-1567
+BAP WCR-p072-Otter,Henricus; Anna Maria
+ Waldzell Church Book - Baptisms, p072-Otter, Henricus & Anna Maria
+
+RM:
+p72 - e3
+ChurchBook -Waldzell
+_TAUFE; Henricus Otter; before 27 May 1808; ; 27 May 1808; p72 - e3; 5303; 02; 11; 72-73; 16 July 2024; RAVigus, RJOtter
+
+
+entry   RM-ID        Name                        tags using source
+p72-e3  TMG-2476     Henricus Otter              name, father, mother, baptism
+p72-e6  RMID-2459    Anna Maria Katharina Otter
+
+===========================================DIV50==

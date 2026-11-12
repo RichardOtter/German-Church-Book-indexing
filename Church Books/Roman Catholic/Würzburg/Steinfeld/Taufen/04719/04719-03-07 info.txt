@@ -1,0 +1,76 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      04719-03-07
+
+Parish      Steinfeld
+Volume      D1
+Page#       134-136  ??
+Years       1862-1863
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   >4
+
+Comments
+full header readable
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page ??     1862-1863
+_HEADER-ROW
+-----
+YEAR_DIVIDER    1863
+?       Maria   5 Jan <1863>        m Elisabetha    
+_PARTIAL-ENTRY
+
++++++++++++++++++++++++DIV30++
+Details
+
+Name des Kindes                             Maria Stamm
+Geburts- und Geschlechter-folge             2. Geburt  ??
+Vater Vor- u. Zuname Geburtsort             Andreas Stamm von Hausen
+Wohnort Hausnummer Stand Religion           Hausen No. 44 Wirth und Bäcker Katholisch
+Mutter Vor- u. Zuname                       Elisabetha Kunz von Unterleinach
+Stand, Gewerbe, Religion                    Bäckersfrau  Katholisch  No. 44
+Zeit der Geburt                             5. Januar Vormittags 10 Uhr
+Geburts- Verlauf Hebamme                    ?? ?? Miltenberger  
+Zeit u. Ort der Taufe                       6. Januar Kirche zu Hausen 
+Pfarrer oder ……                             Knole Kaplan
+Taufpate Stand, Gewerbe Religion, Wohnort   Maria Kunz, ledig, katholisch von Unterleinach
+Stellvertreter
+
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:4719-03-07-A.png
+Acquired:           11-Apr-2012  13:06  Armin Otter
+Orientation:        _LANDSCAPE
+Entries in Image:   1
+
+Comments
+
+===========================================DIV50==
+RM Sources and Citations
+
+BAP-CR-Steinfeld 4710-03-07  Stamm,Maria b1863
+
+entry   RM-ID       Name                tags using source
+
+===========================================DIV50==
+===========================================DIV50==

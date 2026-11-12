@@ -1,0 +1,112 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05303-03-17
+
+Parish      Waldzell
+Volume      1
+Page#       22/23
+Years       1787-1789
+Record:     _EHE
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    N/A
+Columns:    N/A
+#Entries:   7/6
+
+Comments
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 23     1787-1789
+y 1784
+e1
+_YEAR 1785
+e2
+_YEAR 1786
+e3
+e4   27 Feb
+_YEAR 1788
+e5     1 Sep
+_YEAR 1789
+e6
+
++++++++++++++++++++++++DIV30++
+Details
+
+e2      Page 23     1788
+1 Sep   matrimorind Andrey Otter    Elisabeth   Cathania Michlerin      
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+marriage    1-Sep-1788  Waldzell
+man     RMID-859        Line 11
+Andreas Otter I                         3 gg father
+b,ba    17-Sep-1766     Waldzell
+d           ??-1819     Waldzell
+    f   Fridericus Otter
+    m   Elisabetha Amend
+woman   RMID-860        Line 47
+Eva Catharina Michler                   3 gg mother
+b                       Waldzell
+d           ??-1796     Waldzell
+    f   Jois (Johannes) Michler
+    m   Dorothea
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 23; notation 5
+marriage    1-Sep-1788      recorded in Waldzell
+Andreas Otter
+    f   Friderici 
+    m   Elisabetha
+Eva Catharina Michlerin
+    f   Jo'is (Johannes) Michler
+    m   Dorothea
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5303-03-17-A.png
+Acquired:           2010-11    RAVigus
+Orientation:        _PORTRAIT
+Entries in Image:   2
+
+Comments
+Not absolute entry numbers because top of page not imaged.
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-W p023  1787-1789 Otter & Michler
+Marriage Record, Waldzell Church Records: p023  1787-1789 Otter & Michler
+
+RM:
+p23 - e2
+ChurchBook -Waldzell
+_EHE; Andreas Otter; before 17 September 1766; Andreas Otter & Eva Catharina Michler; 1 September 1788; p23 - e2; 5303; 03; 17; 22/23; 17 July 2024; RAVigus
+
+
+entry   RM-ID           Name                tags using source
+p23-e2  RMID-859        Andreas Otter I
+p23-e2  RMID-860        Eva Catharina Michler
+
+===========================================DIV50==
+===========================================DIV50==

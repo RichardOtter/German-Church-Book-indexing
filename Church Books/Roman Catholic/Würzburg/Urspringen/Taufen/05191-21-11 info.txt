@@ -1,0 +1,115 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-21-11
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      5
+Page#       8
+Years       1839
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    13
+#Entries:   >1
+
+Comments
+Only a single entry was described and imaged.
+This appears to be on row 1, just below header.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 8
+header 13 columns & left margin
+e1     507     Maria ␤ Anna ␤ Schürger
+
++++++++++++++++++++++++DIV30++
+Details
+
+header
+c01     Name
+c02     # of child,
+c03     father name
+c04     ?
+c05     ?
+c06     mother name
+c07     ?
+c08     ?
+c09     birth date and time
+c10     baptism
+c11     ?
+c12     god parent name and Wohnung
+c13     ?
+
+
+e1
+c00     507
+c01     Maria ␤ Anna ␤ Schürger
+c02     6t geburt ␤ ?? ␤ ?? ␤ ?? ␤ ?? ␤ ??
+c03     Johann ␤ Schürger
+c04     ?? ␤ ??
+c05     ?? ␤ ?? ␤ 18 ?? 107
+c06     Anna ␤ Maria ␤ Scheuer ␤ mann.
+c07     ?? ␤ ??
+c08     ?? ␤ ??
+c09     1839 ␤ 26. Juli ␤ Abend 10 uhr
+c10     27. Juli ␤ ?? ␤ ? ␤ ??
+c11     P. ?? ␤ ?? ␤ ?? ␤ ?? 
+c12     Anna ␤ Maria ␤ Hetterich ␤ ??
+c13     ►blank◄
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+*26.07.1839/~27.07.1839 Urspringen: Maria Anna Schürger, legitimate daughter (6th child) of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, Urspringen house number 107, godmother Anna Maria Hetterich from here (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5193, Fiche 21, p. 8).
+
+
+-----------------------DIV30--
+
+Maria Anna Schürger
+*26 Jul 1839   Urspringen
+~27 Jul 1839   Urspringen
+
+Johann Schürger   wohnort Urspringen HN:107
+&
+Anna Maria Scheuermann
+=> Maria Anna Schürger   #6
+
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 21, p. 8
+
+===========================================DIV50==
+Description of Image
+
+Image name:         img:5191-21-11-A.jpg
+Acquired:           05-Jul-2023  12:11  Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   e1, e2 partial
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 21    image 11    Urspringen  Tauf        vol 5   p 8
+5191-21-11
+
+RMID-13568
+Maria Anna Schürger                     (RM same)
+*26.07.1839/~27.07.1839 Urspringen      (RM 1840)
+# 6 child
+
+===========================================DIV50==
+===========================================DIV50==

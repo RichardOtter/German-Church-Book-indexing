@@ -1,0 +1,41 @@
+Dingolshausen, Landkreis Schweinfurt, Bayern, Deutschland
+FSPID=9287268
+Dingolshausen
+
+Archive
+Archiv und Bibliothek des Bistums Würzburg
+Domerschulstr. 17
+97070 Würzburg
+Telefon: +49 931 386-67 100
+Fax: +49 931 386-67 101
+E-Mail: abbw@bistum-wuerzburg.de
+Website: www.abbw.bistum-wuerzburg.de
+
+Matricula-online
+https://Matricula-online.eu
+https://data.matricula-online.eu/en/deutschland/wuerzburg/dingolshausen/
+
+10 Volumes
+ 	00981	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle – Sonstiges)	1659–1769
+ 	00982	Pfarrmatrikel Dingolshausen (Taufen – Firmungen – Ehen – Sterbefälle)	1734–1791
+ 	00983	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle)	1791–1828
+ 	00984	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle – Sonstiges)	1828–1858
+ 	00985	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle) (inkl. Register)	1818–1861
+ 	00986	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle) (Registerband)	1667–1864
+ 	00987	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle) (inkl. Register)	1859–1876
+ 	00988	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle) (Registerband)	1859–1875
+ 	00989	Pfarrmatrikel Dingolshausen (Taufen – Ehen – Sterbefälle) (inkl. Register)	1876–1961
+ 	00990	Pfarrmatrikel Dingolshausen (Firmungen)	1791–1829, 1842–1956
+
+
+_INDEX
+
+_LOOKING-FOR
+
+InputPlace	MatchedPlaceName	PersonID	PersonName	EventType	EventDate	RawRMDate
+Dingolshausen%	Dingolshausen, Schweinfurt, Bayern, Deutschland					
+		11901	Gehring, Valentin	Birth	1818-11-17
+		11903	Bedenk, Regine	Marriage	1811-01-08
+		11904	Gehring, Michael	Marriage	1811-01-08
+		
+

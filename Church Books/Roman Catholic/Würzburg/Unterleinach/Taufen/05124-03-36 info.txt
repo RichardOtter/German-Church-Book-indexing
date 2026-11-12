@@ -1,0 +1,68 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05124-03-36
+
+
+Parish      Unterleinach
+Volume      5
+Page#       193
+Years       1886  ??
+Record:     _TAUFE
+
+Width:      _DOUBLE
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    13
+#Entries:   > 3
+
+Comments
+Kunz
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 193        1886
+_HEADER-ROW
+_PARTIAL-ENTRY
+-----
+e?      
+e?+1        Elisabetha Kunz
+e?+2
+
++++++++++++++++++++++++DIV30++
+Details
+
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5124-03-36-A.png
+Acquired:           11-Apr-2012  17:34  Armin Otter
+Orientation:        _LANDSCAPE
+Entries in Image:   3
+
+Comments
+Full header visible
+image too dark, perhaps a new scan may help, but I don't have printout
+
+===========================================DIV50==
+RM Sources and Citations
+
+MR-CR-S Stamm & Kunz
+Catholic church book  Steinfeld; Marriage Record: Andreas Stamm and Elisabeth Kunz
+
+entry   RM-ID       Name                tags using source
+e?      RMID-48     Elisabeth Kunz
+
+===========================================DIV50==
+===========================================DIV50==

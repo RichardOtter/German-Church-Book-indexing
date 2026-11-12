@@ -1,0 +1,104 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      00154-01-24
+Mat.pg#         25
+
+Parish          Ansbach b. Roden
+Volume          1
+Page#           40-41
+Years           1751-1754
+Record:         _TAUFE
+Width:          _DOUBLE
+
+Format:         _TABLE-SINGLE
+Headers:    
+Columns:        6
+#Entries:       14 + 12
+
+image           file://./00154-01-24.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/00154/?pg=25
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------DIV30--
+Page 40
+        _YEAR-CONTINUED 1751
+e1     23 feb
+e2     10 may
+e3     5 jun
+e4     3 oct
+e5     14 oct
+e6     14 dec
+        _YEAR 1752
+e7     6 jun
+e8     28 jun
+e9     17 jul           RMID-13735 Loschert, Georg Adam Birth 1752-07-17
+e10    20 jul
+e11    22 jul
+e12    26 aug
+e13    7 sep
+e14    12 sep
+-----------------------DIV30--
+Page 41
+        _YEAR-CONTINUED 1752
+e1      6 nov
+        _YEAR 1753
+e2      22 jan
+e3      25 jan
+e4      7 feb
+e5      4 mar
+e6      23 apr
+e7      13 oct          RMID-15140 Öhring, Johann Georg Birth 1753-10-13
+e8      27 aug
+e9      14 dec
+        _YEAR 1754
+e10     20 jan
+e11     6 feb
+e12     10 mar
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+Details
+
+-----------------------DIV30--
+Page    40
+Entry   9
+Year    1752
+Detail  file://./00154-01-24-A.png
+
+Transcription
+col
+c1     17. July ␤ circa 1. me?
+c2     Eadem
+c3     Michael Loschert ␤ Margaretha.
+c4     Georgius ␤ Adamus
+c5     Georgius ?? ␤ Clementin Ohring ␤ filia
+c6     Dem.
+
+Match to RM database
+RMID-13735 Loschert, Georg Adam Birth 1752-07-17
+
+-----------------------DIV30--
+Page    41
+Entry   7
+Year    1753
+Detail  file://./00154-01-24-B.png
+
+Transcription
+col
+c1     13. October ␤ circa 9. m??
+c2     Eadem
+c3     Joseph Öhringer. ␤ Margaretha.
+c4     Joannes ␤ Georgius.
+c5     Joannes Christ?? ␤ pfori Geigler ␤ filii??
+c6     Parorh??.
+
+Match to RM database
+RMID-15140 Öhring, Johann Georg Birth 1753-10-13
+
+-----------------------DIV30--
+

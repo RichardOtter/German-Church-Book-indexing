@@ -1,0 +1,56 @@
+Würzburg Archive documentation checklist
+
+For each fiche image that is cited, record the following:
+
+Signatur#	
+
+Fiche#		
+
+Image#		
+
+Parish		
+
+Volume		
+
+Page#			(if double page give both numbers)
+
+Record Type:	_TAUFE	_EHE	_STERBEFALL		_OTHER
+
+Width:			_DOUBLE	_SINGLE
+
+Format:			PARAGRAPH	_TABLE-SINGLE	_TABLE-DOUBLE	_OTHER
+
+Headers:	
+
+Columns:	
+
+#Entries:	
+
+Transcription in Latin
+
+
+Interpretation in German or English.
+
+
+
+Images:
+for each Archive-Image cited, create a printout that includes the entire left side of the page from top to bottom. Include top and bottom edge of church book page. Extend to the right as far as allowed by the software.
+
+The goal is to see the cited entry in the context of the Archive-Image and record the style of header used intables.
+
+For each cited entry, obtain it's image with the best resolution reasonable possible.
+
+For each image taken, record the following:
+
+
+Image name:
+For each day at the archive, add a serial number to the printout restarting at 1, at the top left corner, near the header.
+The header will give the date of the printout, but the time value will not be unique- hence the need for the serial number to uniquly identify the printout.
+
+Entries in Image:
+Entries will be shown in printout without context, so each entry on the printout must be numbered. 
+Do not make marks on the printout except for the serial number near the header.
+
+
+
+

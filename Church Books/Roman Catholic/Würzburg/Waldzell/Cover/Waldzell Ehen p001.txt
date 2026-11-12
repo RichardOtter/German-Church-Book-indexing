@@ -1,0 +1,83 @@
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+
+Archive-ID      05503-03-03
+
+Parish      Waldzell
+Volume      1
+Page#       i,1
+Years       1701
+Record:     _OTHER  intro material
+Width:      _DOUBLE
+
+Format:     PARAGRAPH
+Headers:    n/a
+Columns:    n/a
+#Entries:   > 1
+
+Comments
+LEFT_SIDE unnumbered page
+RIGHT_SIDE page 1
+
+page 1 of the vol 1 Ehen church book.
+Lieber Matrimonium
+
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+-----------------------------
+Entry   Page 1      1701
+e1      16 Jan; Waldzell; 
+
++++++++++++++++++++++++DIV30++
+Details
+
+===========================================DIV50==
+Interpretation
+
+
+===========================================DIV50==
+Source Citation
+
+
+===========================================DIV50==
+RAVigus transcription
+
+Spreadsheet
+
+-----------------------------
+Summary doc
+
+DAW; PF. Waldzell; Fiche 3; page 1
+Book Cover  Marriage Book from 1701 + 1702 (NONE)  page 1
+
+===========================================DIV50==
+Description of Image
+
+Image name:     Waldzell Ehen p001  1701.png
+Acquired:       2010-11    RAVigus
+Orientation:    _PORTRAIT
+Entries in Image:   1
+
+Comments
+page 1 of the vol 1 church book.
+
+===========================================DIV50==
+RM Sources and Citations
+
+TMG-src-2660
+MR WCR p008 1721 Oder & Baunach
+Marriage Record, Waldzell Church Records: 1721 Oder & Baunach------
+
+entry   RM-ID       Name                tags using source
+none on this page
+
+
+Comments
+page 1 is just for reference. Don't think there is any
+person specific info related to Otters. Starts at year 1701.
+It is included in this source just so it is referenced by something.
+
+===========================================DIV50==

@@ -1,0 +1,124 @@
+TODO   says "not married" ?? who does this refer to?
+
+Archive-Image
+
+Archive         Archiv und Bibliothek des Bistums Würzburg
+Archive-ID      05191-11-42
+
+
+Parish      Urspringen
+Record:     _TAUF
+Volume      4
+Page#       39
+Years       1826
+Width:      _DOUBLE
+
+Format:     _TABLE-DOUBLE
+Headers:    _TODO
+Columns:    12
+#Entries:   >1
+
+Comments
+Only a single entry was described and imaged.
+This appears to be on row 1, just below header.
+
+Record found, imaged and interpreted by Thomas Gregor Wagner, Würzburg 2023-07. (TGW)
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Entry   Page 39
+header  12 columns & left margin
+e1      396     ?? ␤ Johann ␤ Schürger
+
++++++++++++++++++++++++DIV30++
+Details
+
+header
+c01     Name
+c02     # of child,
+c03     father name
+c04     ?
+c05     ?
+c06     mother name
+c07     ?
+c08     ?
+c09     birth date and time
+c10     baptism
+c11     ?
+c12     god parent name and Wohnung
+
+
+e1
+c00     396
+c01     ?? ␤ Johann ␤ Schürger
+c02     ?? ␤ ?? ␤ ?? 
+c03     Johann ␤ Schürger ␤ Urspringen
+c04     ?? ␤ ?? ␤ ?? ␤ Urspringen ␤ ?? 
+c05     Anna ␤ Maria ␤ Scheuer␤ mann ␤ Urspringen ␤ 107
+c06     _EMPTY
+c07     1826. ␤ 10 July ␤ ?? ␤ ??
+c08     ?? ␤ ?? ␤ ??
+c09     1826. ␤ 21 July ␤ ?? ␤ Urspringen ␤ Urspringen
+c10     ?? ␤ ?? ␤ ?? ␤ ??
+c11     Johann Georg ␤ Tremer ?? ␤ ?? ␤ Taufen ?? ␤ cathol. Urspringen
+c12     _EMPTY
+
+===========================================DIV50==
+Interpretation
+
+by Thomas Wagner
+
+1. Johann Schürger (*1826):
+*20.07.1826/~21.07.1826 Urspringen: Johann Schürger, legitimate son of the saddler Johann Schürger and his wife Anna Maria, nee Scheuermann, godfather Johann Georg Tremer, day laborer, not married (Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 11, p. 39).
+
+
+-----------------------DIV30--
+
+Johann Schürger
+*20 Jul 1826   Urspringen
+~21 Jul 1826   Urspringen
+
+Johann Schürger
+&
+Anna Maria, nee Scheuermann
+=> Johann Schürger
+
+===========================================DIV50==
+Source Citation
+
+Diözesanarchiv Würzburg, Amtsbücher aus Pfarreien 5191, Fiche 11, p. 39
+
+===========================================DIV50==
+Description of Image
+
+Image name:         5191-12-42-A.jpg
+Acquired:           05-Jul-2023  11:36      Thomas Wagner
+Orientation:        _LANDSCAPE
+Entries in Image:   e1, e2 partial
+
+===========================================DIV50==
+RM Sources and Citations
+
+
+===========================================DIV50==
+Work Area
+
+WCA     Signatur 5191   Fiche 11    image 42    Urspringen  Tauf        vol 4   p 39
+5191-11-42
+
+RMID-11417
+Johann Schürger                     (RM same)
+*20-Jul-1826                        (RM has 26-Jul-1826)
+Son of Johann Schürger and his wife Anna Maria, nee Scheuermann
+
+parents linkage                     (RM same)
+RMID-11411
+Johann Schürger                     (RM same)
+&
+RMID-11412
+Anna Maria, nee Scheuermann         (RM same)
+# 1 child
+
+===========================================DIV50==
+===========================================DIV50==
