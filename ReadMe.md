@@ -16,14 +16,15 @@ If you are working on a similar project, I would be very interested in hearing f
 
 ## Project Scope
 
-The records currently consist primarily of:
+The geographical focus is on the Lower Franconia region of Bavaria, Germany (Unterfranken, Bayern, Deutschland).
+
+The records currently consist of:
 
 - Baptismal registers (*Taufen*)
 - Marriage registers (*Ehen*)
 - Burial or death registers (*Beerdigungen*, *Sterbefälle*, or *Tote*)
-- Family registers and related church records when available
 
-Most source images originate from church books available through Matricula and related digitization efforts.
+Most source images originate from church books available through the archive or Matriculw-online.eu
 
 ## Repository Structure
 
@@ -85,9 +86,3 @@ If you maintain a similar church-book indexing or transcription repository, plea
 - Place-name normalization
 - Genealogical data exchange
 - OCR and machine-learning approaches to historical records
-
-## License
-
-Unless otherwise noted, original transcription and indexing work in this repository is released under the license specified in this repository.
-
-Please verify the copyright and usage conditions of the underlying source images before redistributing them.
