@@ -9,7 +9,7 @@ Page#         ┠ 25-25
 
 Archive-ID    ┠ 03689-01-28
 URL pg#       ┠ 29
-Years         ┠ 1781
+Years         ┠ 1891
 Width:        ┠ _DOUBLE
 
 Format:       ┠ _TABLE-DOUBLE

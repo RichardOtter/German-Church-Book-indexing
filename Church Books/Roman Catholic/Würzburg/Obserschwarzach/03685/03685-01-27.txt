@@ -1,7 +1,7 @@
 Archive-Image
 
 Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
-Call number    ┠ 03686
+Call number    ┠ 03685
 Parish         ┠ Oberschwarzach
 Volume         ┠ 4
 Record:        ┠ _TAUFE

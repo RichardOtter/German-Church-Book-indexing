@@ -1,0 +1,89 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 76-76
+
+Archive-ID    ┠ 03689-03-15
+URL pg#       ┠ 82
+Years         ┠ 1901
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 12
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=82
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 76
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 18 Brönner ␤ Pankraz
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 76
+Entry  ┠ 6 | year-entry 18
+Year   ┠ 1901
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 18
+c1     ┠ Brönner ␤ Pankraz
+c2     ┠ ␤
+c3     ┠ Fabianus ␤ Brönner
+c4     ┠ Ökonmen ␤ kath.
+c5     ┠ Oberschwar ␤ Nr. 101.
+c6     ┠ Katharina ␤ geb. ␤ Dürr
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ 17. Marz 1901 ␤ ?? 5 Uhr
+c10    ┠ 19. Marz 1901 ␤ ?? 5 Uhr
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 19 Mar 1901
+Name       ┠ Pankraz Brönner
+BirthDate  ┠ 17 Mar 1901
+Father     ┠ Fabian Brönner
+Mother     ┠ Katharina Dürr
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to RM database
+
+F       03689-03-15
+141      Brönner, Pankratz                  17 Mar 1901 or 19 Mar 1901 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Brönner, Fabian and Dürr, Katharina
+
+===========================================DIV50==

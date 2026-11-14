@@ -1,0 +1,97 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 72-72
+
+Archive-ID    ┠ 03689-03-11
+URL pg#       ┠ 78
+Years         ┠ 1900
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 13
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=78
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 72
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 19 Dürr ␤ Andreas
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+e13    ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 72
+Entry  ┠ 2 | year-entry 19
+Year   ┠ 1900
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 19
+c1     ┠ Dürr ␤ Andreas
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ?? ␤ kath.
+c5     ┠ Obershwarzach ␤ Nr. 9.
+c6     ┠ Barbara ␤ Dürr
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ 20. Mai 1900 ␤ ?? ?? 5 Uhr
+c10    ┠ 21. Mai 1900 ␤ ?? ?? 4 Uhr
+c11    ┠ ␤
+c12    ┠ ?? Ruppenstein ␤ ?? in Oberschwarzach
+c13    ┠ <empty>
+
+misc desc ┠ text across col 1-7
+misc content ┠ ?? ?? ?? ?? ?? ?? ??
+
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 21 May 1900
+Name       ┠ Andreas Dürr
+BirthDate  ┠ 20 May 1900
+Father     ┠ Michael Dürr
+Mother     ┠ Barbara Dürr
+Godparent  ┠ ?? Ruppenstein
+
+-----------------------DIV30--
+Match to RM database
+
+F       03689-03-11
+2288     Dürr, Andreas                      20 May 1900                Birth     ~ Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Dürr,  and Dütt, Barbara
+
+
+===========================================DIV50==
+
+

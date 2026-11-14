@@ -67,11 +67,11 @@ c13    ┠ ␤
 Translation
 
 Summary
-EventType  ┠ 
+EventType  ┠ _TAUFE
 EventPlace ┠ 
-EventDate  ┠ 
+EventDate  ┠ 10 Jun 1891
 Name       ┠ 
-BirthDate  ┠ 
+BirthDate  ┠ 8 Jun 1891
 Father     ┠ 
 Mother     ┠ 
 Godparent  ┠ 
@@ -82,6 +82,9 @@ Match to RM database
 F       03689-01-30
 68       Maier, Theresia                    8 Jun 1891                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Maier, Nikolaus and Dürr, Katharina
+
+
+Name does not seem to match
 
 ===========================================DIV50==
 

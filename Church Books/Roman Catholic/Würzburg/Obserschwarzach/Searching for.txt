@@ -199,30 +199,39 @@ F       03689-01-30
 68       Maier, Theresia                    8 Jun 1891                 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Maier, Nikolaus and Dürr, Katharina
 
+SKIP
 2318     Hillenbrand,                       say 1892                   Birth     Siegendorf, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Unknown and Unknown
 
+F       03689-02-31
 140      Brönner, Johanna                   26 Dec 1896                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Brönner, Fabian and Dürr, Katharina
 
+SKIP
 1088     Brönner, Erhard                    bet 1897 and 1899          Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Brönner, Fabian and Dürr, Katharina
 
+F       03689-02-32
 2103     Barth, Josef                       15 Mar 1897                Birth     Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Barth, Vitus and [wife of Vitus Barth],
 
+F       03689-03-04
 188      Fleischmann, Josef Franz           19 Mar 1898                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Rost, Joseph and Kobb, Anna
 
+F       03689-03-06
 138      Brönner, Karl                      22 Jan 1899                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Brönner, Fabian and Dürr, Katharina
 
+F       03689-03-06
 139      Fick, Veronika                     16 Feb 1899                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Fick, Adam and Pzrtscher, Veronika
 
+F       03689-03-11
 2288     Dürr, Andreas                      20 May 1900                Birth     ~ Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Dürr,  and Dütt, Barbara
 
+F       03689-03-15
 141      Brönner, Pankratz                  17 Mar 1901 or 19 Mar 1901 Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
     child of Brönner, Fabian and Dürr, Katharina
 

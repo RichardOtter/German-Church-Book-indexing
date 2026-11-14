@@ -3,7 +3,7 @@ Archive-Image
 Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
 Call number   ┠ 03686
 Parish        ┠ Oberschwarzach
-Volume        ┠ 4
+Volume        ┠ 5
 Record:       ┠ _TAUFE
 Page#         ┠ 205-205
 
@@ -45,8 +45,8 @@ e12    ┠ 24 Maier Leonhard ␤ <s>Georg</s> ???
 +++++++++++++++++++++++DIV30++
 Details
 
-Page   ┠ 
-Entry  ┠  
+Page   ┠ 205
+Entry  ┠  12 | year-entry 24
 Year   ┠ 1885
 Detail ┠ file://./
 

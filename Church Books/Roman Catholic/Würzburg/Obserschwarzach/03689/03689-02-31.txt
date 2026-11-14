@@ -1,0 +1,90 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 58-58
+
+Archive-ID    ┠ 03689-02-31
+URL pg#       ┠ 63
+Years         ┠ 1896-1897
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 
+Columns:      ┠ 13
+#Entries:     ┠ 11
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=63
+
+Comments
+
++++++++++++++++++++++++DIV30++
+Entries List
+
+Page   ┠ 58
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 57 Brönner ␤ Johanna 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+margin ┠ 
+
++++++++++++++++++++++++DIV30++
+Details
+
+Page   ┠ 58
+Entry  ┠ 8 | year-entry 57
+Year   ┠ 1896
+Detail ┠ file://./
+
+Transcription
+col     contents
+margin ┠ 57
+c1     ┠ Brönner ␤ Johanna 
+c2     ┠ ␤
+c3     ┠ Fabian ␤ Brönner
+c4     ┠ Ökonmen ␤ kath.
+c5     ┠ Oberschwar ␤ Nr. 101.
+c6     ┠ Katharina ␤ geb. ␤ Dürr
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ 26. Dezember ␤ 1896 ␤ mittag 12 Uhr
+c10    ┠ 27. Dezember ␤ 1896 ␤ morgen, 1/9 3 ??
+c11    ┠ ␤
+c12    ┠ Josefius Rost, ␤ ledig m. Handthal.
+c13    ┠ <empty>
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 27 Dec 1896
+Name       ┠ Johanna Brönner
+BirthDate  ┠ 26 Dec 1896
+Father     ┠ Fabian Brönner
+Mother     ┠ Katharina Dürr
+Godparent  ┠ Jospeheus Rost von Handthal
+
+-----------------------DIV30--
+Match to RM database
+
+F       03689-02-31
+140      Brönner, Johanna                   26 Dec 1896                Birth     Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Brönner, Fabian and Dürr, Katharina
+
+
+===========================================DIV50==

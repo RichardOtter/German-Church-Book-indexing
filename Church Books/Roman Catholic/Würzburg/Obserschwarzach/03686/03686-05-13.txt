@@ -3,11 +3,11 @@ Archive-Image
 Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
 Call number    ┠ 03686
 Parish         ┠ Oberschwarzach
-Volume         ┠ 4
+Volume         ┠ 5
 Record:        ┠ _TAUFE
 Page#          ┠ 141
 
-Archive-ID     ┠ 03688-05-13
+Archive-ID     ┠ 03686-05-13
 URL pg#        ┠ 153
 Years          ┠ 1876
 Width:         ┠ _DOUBLE
