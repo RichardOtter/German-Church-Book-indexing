@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 82
+
         _YEAR 1805
 e1      7 aug
 e2      30 aug          RMID-2372 Loschert, Maria Anna Birth 1805-08-30
@@ -37,8 +39,10 @@ e7      25 dec
         _YEAR 1906
 e8      11 jan
 e9      16 jan
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 83
+
         _YEAR 1806
 e1      7 mar
 e2      23 mar          RMID-15118 Mehling, Johann Adam Birth 1806-03-23
@@ -51,18 +55,21 @@ e8      22 dec
         _YEAR 1807
 e9      4 feb
 e10     4 may
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    82
 Entry   2
 Year    1805
 Detail  file://./00154-01-46-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 30 Augusti ␤ hora 5 mat.
 c2      eadem
@@ -71,6 +78,7 @@ c4      Michael Loschert ␤ et Barbara de Carbach
 c5      Conjuges Joannes Georgius ␤ Maria Anna Christina de Carbach
 c6      Sacellum
 
+-----------------------DIV30--
 Translation
 c1      30 August, at 5 in the morning,
 c2      Maria Anna
@@ -97,16 +105,20 @@ Mother       Barbara (no surname given), from Carbach
 Godparent    Johann Georg
              Maria Anna Christina of Carbach
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-2372 Loschert, Maria Anna Birth 1805-08-30
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    83
 Entry   2
 Year    1806
 Detail  file://./00154-01-46-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 23 Martii ␤ hora secunda matutina
 c2      Eodem mane ␤ hora septima
@@ -128,10 +140,15 @@ Mother       Anna Maria Brunn (from Waldzell)
 Godparent    - Johann Franz Sendelbach
              - Maria Sendel (wife of his son)
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15118 Mehling, Johann Adam Birth 1806-03-23
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+AI
 
 For the attached image of a German baptism record, create a diplomatic transcription (preserving original line breaks and word splits), then create a normalized transcription, still preserving line endings, then perform letter by letter analysis and then an english translation  with modern German names and then summarize as code block so I can copy it. 
 The text is in 6 columns. The column 1 has the date on line 1 and when present, the time on line 2. Column 2 is the birth date, column 3
@@ -360,9 +377,6 @@ Notes:
 ---
 
 
-===========================================DIV50==
-===========================================DIV50==
-===========================================DIV50==
 ===========================================DIV50==
 
 For the attached image of a German baptism record, create a diplomatic transcription (preserving original line breaks and word splits), then create a normalized transcription, still preserving line endings, then perform letter by letter analysis and then an english translation  with modern German names and then summarize as code block so I can copy it. 

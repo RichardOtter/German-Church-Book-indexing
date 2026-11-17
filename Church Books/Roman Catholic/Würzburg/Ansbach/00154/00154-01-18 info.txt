@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 28
+
        _YEAR-HEADER 1734
 e1      18 jan       RMID-10923	Nöth, Anna Maria Birth 1733-01-17
 e2      28 jan
@@ -41,8 +42,10 @@ e10     17 jan
 e11     7 feb
 e12     9 mar
 e13     27 mar
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 29
+
        _YEAR-CONTINUED 1734
 e1      1 apr
 e2      4 apr
@@ -58,18 +61,21 @@ e10     4 jan
 e11     24 apr
 e12     4 may
 e13     20 jul
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page   28
 Entry  1
 Year   1733
 Detail file://./00154-01-18-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 18 January ␤ circa horam ?? ␤ vesper?
 c2      17 ␤ January
@@ -78,8 +84,12 @@ c4      Anna Maria
 c5      Anna Maria ␤ Georgi Müller␤ filia
 c6      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-10923 Nöth, Anna Maria Birth 1733-01-17
        daughter of Johannes Georg Nöth & Anna Maria Sendelbach
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 22
+
         _YEAR-HEADER 1726
 e1      9 jan
 e2      28 jan
@@ -38,8 +39,10 @@ e8      6 ?
 e9      18 oct
 e10     5 nov
 e11     18 nov
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 23
+
         _YEAR-HEADER 1727
 e1      10 feb
 e2      13 feb
@@ -54,18 +57,20 @@ e10     11 dec
         _YEAR 1728
 e11     15 feb          RMID-10922 Nöth, Maria Barbara Birth 1728-02-15
 
------------------------DIV30--
-
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    23
 Entry   11
 Year    1728
 Detail  file://./00154-01-15-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      15 ␤ February
 c2      Joannes Nöth ␤ Anna Maria
@@ -73,8 +78,12 @@ c3      Maria Bar- ␤ bara.
 c4      Maria Barbara ␤ ?? M?,␤ Ru?? ?? ␤ ?? ??
 c5      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-10922 Nöth, Maria Barbara Birth 1728-02-15
         daughter of Johannes Georg Nöth & Anna Maria Sendelbach
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

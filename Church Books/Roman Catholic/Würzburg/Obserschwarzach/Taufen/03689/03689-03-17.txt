@@ -1,0 +1,99 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 78-78
+
+Archive-ID    ┠ 03689-03-17
+URL pg#       ┠ 84
+Years         ┠ 1901
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 03689-01-04 -headers.txt
+Columns:      ┠ 13
+#Entries:     ┠ 12
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=84
+
+Comments
+
+
+===========================================DIV50==
+Entries List
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 78
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 48 Rost ␤ Kunigunda Maria
+e12    ┠ 
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+Details
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 78
+Entry  ┠ 11 | year-entry 48
+Year   ┠ 1901
+Detail ┠ file://./
+
+-----------------------DIV30--
+Transcription
+
+col     contents
+margin ┠ 48
+c1     ┠ Rost ␤ Kunigunda Maria
+c2     ┠ ␤
+c3     ┠ Josef ␤ Rost
+c4     ┠ ?? ␤ kath.
+c5     ┠ Oberschw. ␤ Nr. 34.
+c6     ┠ Margar. ␤ geb. ␤ Schmitt
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ 23. Dezember ␤ 1901 ␤ ?? 9 Uhr
+c10    ┠ 26. Dezember ␤ 1901 ␤ ?? 13 Uhr
+c11    ┠ ␤
+c12    ┠ Kunigunda Schmitt, ␤ ledig m Kirschschönbach
+c13    ┠ <empty>
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 26 Dec 1901
+Name       ┠ Kunigunda Maria Rost
+BirthDate  ┠ 23 Dec 1901
+Father     ┠ Josef Rost
+Mother     ┠ Margaretha Schmitt
+Godparent  ┠ Kunigunda Schmitt
+
+-----------------------DIV30--
+Match to database
+
+F       03689-03-17     LTVM-6WB
+RMID= 186   FSFTID= LTVM-6WB
+Rost, Kunigunda Maria   23 Dec 1901 Birth Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

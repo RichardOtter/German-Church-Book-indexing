@@ -21,10 +21,10 @@ Description is from scan of printout by Armin 2012-04-11
 Only one, partial page image, so entry numbers are not absolute
 
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 2
 _PARTIAL-ENTRY
 e1      23 Mar 1703
@@ -34,18 +34,31 @@ e4      17 Nov 1703
 _YEAR 1704
 e5      11 Mar 1704
 e6      1 Dec 1704
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
+
+-----------------------DIV30--
 Transcription
 
-===========================================DIV50==
-Interpretation
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-Source Citation
+OLD FORMAT INFO
+
+
+
+
+
 
 ===========================================DIV50==
 Description of Image

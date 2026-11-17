@@ -21,32 +21,54 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 6
         _YEAR-CONTINUED 1813
 e1      4 nov
 e2      7 nov
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 7
+
 e1      19 dec
         _YEAR 1814
 e2      17 jan
 e3      31 jan
------------------------DIV30--
-
-
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    7
 Entry   e2
 Date    17 Jan 1814
 Detail  file://./00155-01-06-A.png
+
+
+-----------------------DIV30--
+Transcription
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
+None
+
+Was looking for
+RMID-22078	Loschert, Johann Michael  -b 1814-01-17
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+AI
 
 ============================================================
 DIPLOMATIC TRANSCRIPTION (line‑faithful, no normalization)
@@ -177,19 +199,6 @@ Witnesses: Anton Spring, Anna Michel
 Declarant: Ackermann (farmer) of Anspach  
 Recorded: 17 January 1814
 
------------------------DIV30--
-
-
-
-Match to RM database
-
-None
-
-Was looking for
-RMID-22078	Loschert, Johann Michael  -b 1814-01-17
-
-
------------------------DIV30--
 ============================================================
 PALEOGRAPHIC CHECK: IS “Wiegand” ACTUALLY “Weyer”?
 ============================================================

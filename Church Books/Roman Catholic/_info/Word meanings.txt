@@ -1,3 +1,6 @@
+
+===========================================DIV50==
+
 Ökonom
 In the context of an 1896 German baptismal record from a small village, Ökonom (or Oekonom) translates to farmer, agriculturalist, or landowning farmer.
 While the modern word means "economist," 19th-century church and civil records used it as a standard, respectful occupational title for someone who ran a farm.
@@ -7,3 +10,40 @@ Key Nuances in 19th-Century Records
 • Property Ownership: Unlike a Tagelöhner (day laborer) or Knecht (farmhand), an Ökonom typically owned or held a long-term lease on his own farmland. He managed his own agricultural business rather than working for wages on someone else's land.
 • Elevated Social Status: In many rural regions, especially in Bavaria, Franconia, and central Germany, the title carried slightly higher social prestige than the standard word Bauer (peasant/farmer). Pastors and clerks frequently used it for well-established farmers or those managing larger estates.
 • Spelling Variations: In late 19th-century handwriting (such as Kurrent script), you will often see it spelled with an "Oe" instead of an umlaut: Oekonom or Oekonomen (which is the dative or genitive grammatical form, meaning "of the farmer" or "to the farmer").
+
+
+
+===========================================DIV50==
+
+This is the "Zeit der Geburt" column, and the text below 1903 is the time of birth.
+
+The priest is using the old German notation:
+
+früh   = morning
+abends = evening
+nachts = at night
+morgens = in the morning
+vorm. = vormittags (before noon)
+nachm. = nachmittags (afternoon)
+Uhr = o'clock
+
+My reading of the visible entries is:
+
+Date	Text under 1903
+21. Januar	abends 8 Uhr
+25. Januar	nachm. 4 Uhr
+2. Februar	abends 8 Uhr
+6. Februar	abds ½ 6 Uhr (= abends halb sechs = 5:30 PM)
+10. Februar	früh 8 Uhr
+11. Februar	nachts 12 Uhr
+15. Februar	abends 10 Uhr
+25. Februar	abends 8 Uhr
+2. März	morgens 3 Uhr
+
+A couple of notes:
+
+The entry that looks like "½ 6 Uhr" follows the old German convention: halb 6 means 5:30, not 6:30.
+The "11. Februar" entry is the hardest to read. I believe it is nachts 12 Uhr, which was a common expression for midnight.
+
+
+===========================================DIV50==

@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 76
+
         _YEAR-CONTINUED 1798
 e1      10 dec
         _YEAR 1799
@@ -39,8 +41,10 @@ e8      11 dec
 e9      18 dec
         _YEAR 1800
 e10      6 jan
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 77
+
         _YEAR-CONTINUED 1800
 e1     10 mar ??
 e2      30 apr          RMID-15139 Öhring, Georg Birth 1800-04-30
@@ -51,18 +55,21 @@ e6      7 nov
 e7      16 nov
 e8      20 ?? dec
 e9      28 dec
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    76
 Entry   4
 Year    1799
 Detail  file://./00154-01-43-A.png
 
+-----------------------DIV30--
 Transcription
+
 Die 14 Augusti
 Nata et eadem baptizata est Anna Maria, filia legitima Joannis
 Georgii Mehling et Annae Mariae Brunn conjugum Brunin patrina Anna Maria
@@ -75,17 +82,18 @@ the legitimate daughter of Johann Georg Mehling
 and Anna Maria Brunn, spouses.
 The godmother was Anna Maria Möhlerin from Waldzell.
 
-Match to RM database
+Match to database
 RMID-15114 Mehling, Anna Maria Birth 1799-08-14
 
------------------------DIV30--
-
++++++++++++++++++++++++DIV30++
 Page    77
 Entry   2
 Year    1800
 Detail  file://./00154-01-43-B.png
 
+-----------------------DIV30--
 Transcription
+
 Die 30 Aprilis circa
 ??
 Natus et eodem die baptizatus est Georg, filius legit: honest: Georgii
@@ -93,6 +101,7 @@ Natus et eodem die baptizatus est Georg, filius legit: honest: Georgii
 patrinus Georgius Mehling, baptiz: p. D. Rean Lacky.
 
 
+-----------------------DIV30--
 Translation
 On the 30th of April, around [the stated hour],  
 was born and on the same day baptized Georg,  
@@ -101,10 +110,9 @@ and Anna Maria, née Geister, his wife.
 Godfather: Georg Mehling.  
 Baptized by Rev. Rean Lacky.**
 
-Match to RM database
+Match to database
 RMID-15139 Öhring, Georg Birth 1800-04-30
 
------------------------DIV30--
 
 
 For the attached image of a german baptism record, create a diplomatic transcription(preserving original line breaks and word splits), perform letter by letter analysis and then english translation.
@@ -410,3 +418,4 @@ This matches the text visible in the manuscript excerpt you supplied (the Schieg
 > Baptized by Rev. Rean Lacky.**
 
 ---
+===========================================DIV50==

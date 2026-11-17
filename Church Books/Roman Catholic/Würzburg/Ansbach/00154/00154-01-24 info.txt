@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 40
+
         _YEAR-CONTINUED 1751
 e1     23 feb
 e2     10 may
@@ -42,8 +43,10 @@ e11    22 jul
 e12    26 aug
 e13    7 sep
 e14    12 sep
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 41
+
         _YEAR-CONTINUED 1752
 e1      6 nov
         _YEAR 1753
@@ -59,18 +62,21 @@ e9      14 dec
 e10     20 jan
 e11     6 feb
 e12     10 mar
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    40
 Entry   9
 Year    1752
 Detail  file://./00154-01-24-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1     17. July ␤ circa 1. me?
 c2     Eadem
@@ -79,16 +85,20 @@ c4     Georgius ␤ Adamus
 c5     Georgius ?? ␤ Clementin Ohring ␤ filia
 c6     Dem.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-13735 Loschert, Georg Adam Birth 1752-07-17
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    41
 Entry   7
 Year    1753
 Detail  file://./00154-01-24-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1     13. October ␤ circa 9. m??
 c2     Eadem
@@ -97,8 +107,11 @@ c4     Joannes ␤ Georgius.
 c5     Joannes Christ?? ␤ pfori Geigler ␤ filii??
 c6     Parorh??.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15140 Öhring, Johann Georg Birth 1753-10-13
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 
+===========================================DIV50==

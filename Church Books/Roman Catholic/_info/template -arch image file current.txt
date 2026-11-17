@@ -22,9 +22,11 @@ https://data.matricula-online.eu/$
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
++++++++++++++++++++++++DIV30++
 Page   ┠ $
 
 entry  ┠ contents
@@ -50,14 +52,19 @@ e19    ┠
 e20    ┠ 
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
++++++++++++++++++++++++DIV30++
 Page   ┠ $
 Entry  ┠ $
 Year   ┠ $
 Detail ┠ file://./
 
+-----------------------DIV30--
 Transcription
+
 col     contents
 margin ┠ 
 c1     ┠ ␤
@@ -88,13 +95,9 @@ Mother     ┠
 Godparent  ┠ 
 
 -----------------------DIV30--
-Match to RM database
+Match to database
 
-
-
-===========================================DIV50==
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-Based on image done at archive
 
-this is superseded by web image

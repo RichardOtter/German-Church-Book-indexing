@@ -22,11 +22,12 @@ First 3 columns of page 041 can also be seen in both images.
 
 page 41 Year Divider lines cannot be read, guess they are consecutive.
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 40
+
         _HEADER-ROW
 e1      17 Aug
 e2      22 Sep
@@ -42,8 +43,10 @@ e10     20 May
 e11     23 Jul
 e12     3 Aug
 e13     Aug
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 41
+
         _HEADER-ROW
 e1      25 Sep
 e2      11 Dec
@@ -66,16 +69,20 @@ e16     15 Nov
 e17     15 ??
         _YEAR  1762    <guess>
 e18     27 ??
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
+
++++++++++++++++++++++++DIV30++
 Page    40
 Entry   7
 Year    1759
 
+-----------------------DIV30--
 Transcription
-col
+
 c1      11 February / ? 8. maduk?
 c2      eoden?
 c3      Adamus Oder / Anna Maria
@@ -84,7 +91,21 @@ c5      Anna Maria / Loschertin ?
     from Rainer Otter GEDCOM, c4="Anna Maria Loschert"
 c6      dacSeldang
 
-e5      Page 41     1760
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
+
++++++++++++++++++++++++DIV30++
+Page    41
+Entry   5
+Year    1760
+
+-----------------------DIV30--
+Transcription
+
 c1      10 Juni / ?
 c2      eode
 c3      Georg Otter / Maria
@@ -92,12 +113,18 @@ c4      Eva
 c5      Eva Loschertin / ?
 c6      sac?
 
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-Interpretation
 
-===========================================DIV50==
-Source Citation
+
+
 
 ===========================================DIV50==
 RAVigus transcription

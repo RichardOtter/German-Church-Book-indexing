@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 50
+
         _YEAR-CONTINUED 1766
 e1      9 oct
 e2      15 oct
@@ -49,8 +51,10 @@ e17     10 ??
 e18     17 mar
 e19     26 mar
 e20     21 may
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 51
+
         _YEAR-CONTINUED 1768
 e1      30 jul
 e2      1 dec       RMID-13732 Loschert, Johann Georg Birth 1768-12-01  TWIN
@@ -64,18 +68,21 @@ e7      27 dec
 e8      27 jan
 e9      15 mar
 e10     18 mar
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    50
 Entry   5
 Year    1767
 Detail  file://./00154-01-29-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      2. Febr circa ␤ 7 morte ?
 c2      Eadem
@@ -84,16 +91,19 @@ c4      Maria Catherina
 c5      Maria Cath. lendel? ␤ ?? ??
 c6      jacelly??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-1809 Mehling, Maria Katharina Birth 1767-02-02
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    50
 Entry   8
 Year    1767
 Detail  file://./00154-01-29-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      2. Aug: circa ␤ 4 pomerid
 c2      3 Aug
@@ -102,16 +112,19 @@ c4      Georgius Adamus
 c5      Georg ?? ?? ␤ Michaelis
 c6      anelly??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-1808 Sendelbach, Georg Adam Birth 1767-08-02
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    51
 Entry   2
 Year    1768
 Detail  file://./00154-01-29-C.png
 
+-----------------------DIV30--
 Transcription
+
 <there is unusual text just above this entry, between e1 and e2
 Perhaps a new data recorder because handwriting changes>
 
@@ -124,16 +137,20 @@ c4      Johann ␤ Philipiwes?? ␤ Joes Georgius ␤ gemini
 c5      Johanny Philipp ␤Coschefel ␤ Joey Georgius ␤ Baunach Jolali.
 c6      anelly??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-13732 Loschert, Johann Georg Birth 1768-12-01  TWIN
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    51
 Entry   2
 Year    1768
 Detail  file://./00154-01-29-C.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      1 ina  december ␤circa horah ␤ 12 noctuim.
 c2      aeka ␤ die  <guess this means- same day>
@@ -142,7 +159,10 @@ c4      Johann ␤ Philipiwes?? ␤ Joes Georgius ␤ gemini
 c5      Johanny Philipp ␤Coschefel ␤ Joey Georgius ␤ Baunach Jolali.
 c6      anelly??
 
-Match to RM database
-RMID-13733 Loschert, Johann Philipp Birth 1768-12-01    TWIN
-
 -----------------------DIV30--
+Match to database
+
+RMID-13733 Loschert, Johann Philipp Birth 1768-12-01    TWIN
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

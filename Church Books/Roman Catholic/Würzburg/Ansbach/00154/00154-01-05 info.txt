@@ -65,7 +65,9 @@ Entry   1
 Year    1702
 Detail  file://./00154-01-05-A.png
 
+-----------------------DIV30--
 Transcription
+
 words recognized by RJO
 2 Jan 1702  The date matches the RM entry.
 Joh Adam Loschert
@@ -73,7 +75,7 @@ Christophori Loschert
 Maria
 Müller
 
-Match to RM database
+Match to database
 RMID-1821 Loschert, Johann Adam Birth 1702-01-02
 son of Christophorius Loschert & Maria Menling
 
@@ -83,14 +85,16 @@ Entry   5
 Year    1702
 Detail  file://./00154-01-05-B.png
 
+-----------------------DIV30--
 Transcription
+
 words recognized by RJO
 23 Junny 1702   The date matches the RM entry.
 Anna Margareta Joha
 Philip Joha Ansbach
 Margareta 
 
-Match to RM database
+Match to database
 RMID-16693 Joha, Anna Margarethe Birth 1702-06-23
 daughter of Philipp Joha & Margaretha Loschert
 
@@ -100,12 +104,14 @@ Entry   9
 Year    1702
 Detail  file://./00154-01-05-C.png
 
+-----------------------DIV30--
 Transcription
+
 words recognized
 13 die 9ber Baptis??? Anna Maria Sendelbach  Johann
    Maria  
 
-Match to RM database
+Match to database
 RMID-10920 Sendelbach, Anna Maria Birth 1702-11-13
 (parents not recorded)
 

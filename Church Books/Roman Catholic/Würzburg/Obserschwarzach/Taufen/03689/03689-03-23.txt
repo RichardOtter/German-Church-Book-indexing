@@ -1,0 +1,111 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 84-84
+
+Archive-ID    ┠ 03689-03-23
+URL pg#       ┠ 90
+Years         ┠ 1903
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 03689-01-04 -headers.txt
+Columns:      ┠ 13
+#Entries:     ┠ 12
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=90
+
+Comments
+
+
+===========================================DIV50==
+Entries List
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 84
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 9. Rost ␤ Johanna
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+Details
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 84
+Entry  ┠ 5 | year-entry 9
+Year   ┠ 1903
+Detail ┠ file://./
+
+-----------------------DIV30--
+Transcription
+
+col     contents
+margin ┠ 9
+c1     ┠ Rost ␤ Johanna
+c2     ┠ ␤
+c3     ┠ Josef ? ␤ Rost
+c4     ┠ ? ␤ kath.
+c5     ┠ Oberschw. ␤ Nr. 7 
+c6     ┠ ? ␤ Burger
+c7     ┠ dto. <Ehefrau ␤ kath.>
+c8     ┠ dto. <W. b. M.>
+c9     ┠ 10 Februar ␤ 1903 ␤ früh 7 Uhr
+c10    ┠ 12 Februar ␤ 1903 ␤ nachm. 4 Uhr
+c11    ┠ dto.
+c12    ┠ Joh. Norr ␤ Pf.>
+c13    ┠ ␤
+
+misc   ┠ text across columns 1-6
+text   ┠ ? ? ? ? ? ? ? ? ?
+
+Notes:
+dto. <Ehefrau ␤ kath.>
+means- 'dto.'  abbreviation of "ditto", same as above.
+The last none dto. entry is shown in angle brackets, and is therefore the 
+content of this cell.
+
+W. b. M. (likely = wohnt bei Mann)
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 12 Feb 1903
+Name       ┠ Johanna Rost
+BirthDate  ┠ 10 Feb 1903
+Father     ┠ Josef Rost
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to database
+
+F       03689-03-23     LTVC-KSK
+RMID= 161   FSFTID= LTVC-KSK
+Rost, Johanna   10 Feb 1903 Birth Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rost, Josef and [wife of Josef Rost, mother of 7],
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+

@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 70
+
         _YEAR 1792
 e1      
 e2      
@@ -36,8 +37,10 @@ e5
 e6      4 jan           RMID-15122 Mehling, Elisabeth Birth 1793-01-04
 e7      
 e8      
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 71
+
         _YEAR-CONTINUED 1793
 e1      
 e2      
@@ -48,18 +51,21 @@ e5
 e6      
 e7      
 e8      
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    70
 Entry   6
 Year    1793
 Detail  file://./00154-01-40-A.png
 
+-----------------------DIV30--
 Transcription
+
 Die 4 to Jan circa ␤ 4 tam pomerid:
 Nata eodem die. Baptisata est Elisabetha, filia legitima
 honesti Joannis Georgii Mehling, molitoris, et Mariae
@@ -75,11 +81,14 @@ The one lifting (the child) was Elisabetha Ludovica,
 an unmarried young woman.
 The baptizing priest was Sachs.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15122 Mehling, Elisabeth Birth 1793-01-04
 
 Linde may have been a Latinization attempt of
 Ludwig, but not at all clear why it was added.
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 
+===========================================DIV50==

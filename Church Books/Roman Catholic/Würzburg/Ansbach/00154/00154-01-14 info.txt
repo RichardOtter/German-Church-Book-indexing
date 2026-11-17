@@ -21,10 +21,10 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 20
         _YEAR-HEADER 1724
 e1      4 feb
@@ -38,7 +38,8 @@ e8      24 aug
 e9      31 aug
 e10     12 sep ??
 e11     14 sep ??
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 21
         _YEAR-HEADER 1724 (et 1724)
 e1      15 nov
@@ -53,18 +54,21 @@ e8      12 sep
 e9      20 oct
 e10     eadem 20 oct            RMID-10921 Nöth, Apolonia Birth 1725-10-20
 e11     9 ??
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    21
 Entry   10
 Year    1725
 Detail  file://./00154-01-14-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      eadem  (ditto of date: 20. October)
 c2      Joannes Nöth ␤ Anna Maria
@@ -72,8 +76,12 @@ c3      Apolonia
 c4      Apolonia Georgy ␤ M?? ??.
 c5      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-10921 Nöth, Apolonia Birth 1725-10-20
         daughter of Johannes Georg Nöth & Anna Maria Sendelbach
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

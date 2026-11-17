@@ -21,29 +21,51 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 0
+
         Blank
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 1
+
         _YEAR 1812
 e1      7 jan
 e2     12 feb
------------------------DIV30--
-
-
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    1
 Entry   e2
 Date    12 Feb 1812
 Detail  file://./00155-01-03-A.png
+
+-----------------------DIV30--
+Transcription
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
+None
+
+Was looking for
+RMID-1854	Weyer, Johannes  -b 1812-01-12
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+AI
 
 ============================================================
 DIPLOMATIC TRANSCRIPTION (line‑faithful, no normalization)
@@ -170,19 +192,6 @@ Witnesses:
 Record prepared and signed by Engelmann Scharfschwerer  
 Issued: 12 February 1812
 
------------------------DIV30--
-
-
-
-Match to RM database
-
-None
-
-Was looking for
-RMID-1854	Weyer, Johannes  -b 1812-01-12
-
-
------------------------DIV30--
 ============================================================
 PALEOGRAPHIC CHECK: IS “Wiegand” ACTUALLY “Weyer”?
 ============================================================

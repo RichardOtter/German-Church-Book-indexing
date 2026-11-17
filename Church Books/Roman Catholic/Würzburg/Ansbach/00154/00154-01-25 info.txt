@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 42
+
         _YEAR-CONTINUED 1754
 e1       2 mar
 e2       13 apr
@@ -41,8 +42,10 @@ e10      13 apr
 e11      25 jun
 e12      9 aug
 e13      19 aug
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 43
+
          _YEAR-CONTINUED 1755
 e1       29 oct
 e2       2? sep
@@ -57,18 +60,21 @@ e9       29 aug          RMID-13740 Loschert, Maria Margaretha Birth 1756-08-29
 e10      Eadem 20 aug
 e11      13 sep
 e12      4 nov
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    42
 Entry   7
 Year    1755
 Detail  file://./00154-01-25-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      20. January ␤ circa 3. m??
 c2      Eadem
@@ -77,16 +83,20 @@ c4      Joanes ␤ Adamus
 c5      Adamus Joamis ?? ␤ Schrins?? filius.
 c6      Dem??.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-13734 Loschert, Johann Adam Birth 1755-01-20
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    43
 Entry   9
 Year    1756
 Detail  file://./00154-01-25-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      29. Augusti, ␤ circa 1. ??
 c2      Eadem
@@ -95,8 +105,11 @@ c4      Maria ␤ Margaretha
 c5      Maria Marga- ␤ retha ␤ pfeufer?? filia.
 c6      Dem??.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-13740 Loschert, Maria Margaretha Birth 1756-08-29
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 
+===========================================DIV50==

@@ -21,10 +21,11 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 4
         _YEAR-CONTINUED 1705
 e1      22 Mar
@@ -44,7 +45,8 @@ e12    25 Jan
 e13    31 Jan
 e14     4 Feb
 e15     4 Mar
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 5
         _YEAR-CONTINUED 1706
 e1       2 May
@@ -62,24 +64,28 @@ e11     10 Mar
 e12     ?? Mar
 e13      3 Apr
 e14     21 Oct
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    5
 Entry   8
 Year    1706
 Detail  file://./00154-01-06-A.png
 
+-----------------------DIV30--
 Transcription
+
 words recognized by RJO
 6. December Gaph fila est Anna Maria filia legitimus Michael ??
 nev el Anna Conigunius, ?? ?? Anna Maria ?? ??
 ?? ?? ?? in Erlach.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-16676 Brueckner, Anna Maria Birth 1706-12-06
 son of Christophorius Loschert & Maria Menling
 

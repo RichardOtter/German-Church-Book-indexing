@@ -1,0 +1,47 @@
+COLUMN HEADERS
+Image from 03686-01-04
+This is page 1 of the Taufen section
+Geburts-Register, Oberschwarzach (1856)
+
+Usage
+From 1856 thru 1886
+pages 1 to 210 of volume 5, ID=03686
+03686-01-04 thru 03686-97-12 
+
+===============================================================
+TRANSCRIPTION
+
+1. Name ␤ des ␤ Kindes
+2. Art ␤ Geburts ␤ lebend ␤ oder ␤ Mutter ␤ Name der ␤ Hebamme ␤ oder des ␤ Geburtshelfers
+3. Name ␤ des ␤ Vaters, ␤ dessen ␤ Geschlechts- ␤ Name
+4. Stand ␤ Vaters, ␤ Religion
+5. Wohnplatz ␤ Aufenthalts- ␤ ort, ␤ Nummer ␤ des ␤ Taufes
+6. Name ␤ der ␤ Mutter, ␤ Vor- und ␤ Geschlechts- ␤ Name
+7. Stand ␤ der ␤ Mutter ␤ Religion
+8. Gemeinde ␤ Pfarr- ␤ sprengel ␤ Wohnplatz der ␤ Rumpf-stde.
+9. Zeit ␤ Geburt, ␤ Tag, Stunde, ␤ Minute der ␤ Geburt
+10. Tauftag ␤ Ort ␤ Tag
+11. Pfarrer ␤ oder ␤ dessen ␤ Verwalter
+12. Taufzeugen ␤ Tauf-Päthen
+13. Stellvertreter ␤ derselben ␤ Vor- u. Geschlächts- ␤ name, Stand, ␤ Aufenthaltsort
+
+===============================================================
+English Translation
+
+1. Name of the child
+2. Type of birth living or dead mother name of the midwife or the birth attendant
+3. Name of the father and his surname
+4. Status of father and religion
+5. Residence place residence location number of baptism
+6. Name of the mother first and surname
+7. Status of the mother and religion
+8. Municipality parish district residence of registered address
+9. Time of birth day hour minute of birth
+10. Day of baptism place day
+11. Priest or his administrator
+12. Godparents witnesses baptism sponsors
+13. Deputy of the same first and surname status residence
+
+===============================================================
+Note: Headers are in German Gothic/Fraktur script.
+␤  indicates line breaks within column headers in the original document.

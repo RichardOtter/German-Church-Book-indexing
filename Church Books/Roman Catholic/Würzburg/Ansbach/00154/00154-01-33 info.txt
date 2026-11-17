@@ -22,11 +22,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 Comments
 Blank entries not understood
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 58
+
         _YEAR-HEADER 1777
 e1      <blank>
 e2      <blank>
@@ -47,8 +48,10 @@ e15     26 feb
 e16     21              RMID-1812 Schürger, Barbara Birth 1778-03-21
 e17     13
 e18     10
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 59
+
         _YEAR-HEADER 1778
 e1      may
 e2      16 jun
@@ -67,18 +70,20 @@ e13     7 nov           RMID-1817 Loschert, Johannes Georg Birth 1779-11-07
 e14     14 nov
         _YEAR 1780
 e15     3 jan  
------------------------DIV30--
-
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    58
 Entry   16
 Year    1778
 Detail  file://./00154-01-33-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 21. Mart. circa ␤ 10. noct?
 c2      Eadem
@@ -87,16 +92,20 @@ c4      Barbara
 c5      Barbara Hefin ␤ lol
 c6      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-1812 Schürger, Barbara Birth 1778-03-21
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    59
 Entry   07
 Year    1779
 Detail  file://./00154-01-33-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 23 Febr.␤ noch??
 c2      Eadem
@@ -105,20 +114,24 @@ c4      Margaretha
 c5      Margaretha ?? ␤ gem. lol. 
 c6      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15978 Ludwig, Margaretha Birth 1779-02-23
 
 Month is hard to read. Looks like the entry above- Feb. 
 Unlikely to be Mar since next entry is 2 march,
 would be out of sequence.
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    59
 Entry   13
 Year    1779
 Detail  file://./00154-01-33-C.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 7. Nov. circa ␤ 3 ed 4 poiemnd?? ␤ ✝︎
 c2      Eadem
@@ -127,10 +140,12 @@ c4      Joannes ␤Georgius.
 c5      ?? Georgius ␤ Brückner fil. Philipp ␤ lol. 
 c6      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-1817 Loschert, Johannes Georg Birth 1779-11-07
 
------------------------DIV30--
 
+===========================================DIV50==
 
 

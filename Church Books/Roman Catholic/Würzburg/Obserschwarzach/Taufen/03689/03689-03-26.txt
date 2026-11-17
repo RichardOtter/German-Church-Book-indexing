@@ -1,0 +1,108 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ -87
+
+Archive-ID    ┠ 03689-03-26
+URL pg#       ┠ 93
+Years         ┠ 1903
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 03689-01-04 -headers.txt
+Columns:      ┠ 13
+#Entries:     ┠ 12
+
+image         ┠ file://./03689-03-26.png
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=93
+
+Comments
+
+===========================================DIV50==
+Entries List
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 87
+
+entry  ┠ contents
+e1     ┠ 41 Kellermann, Maria
+e2     ┠ 42 Schanz ␤ Theodor Georg
+e3     ┠ 43 Josef
+e4     ┠ 44 Mittstadt
+e5     ┠ 45 Lindner
+e6     ┠ 46 Fick, Rosina
+e7     ┠ 47 Herold, Euphemia
+e8     ┠ 48 Lutz, Anton
+e9     ┠ 49 Burger, Joseph
+e10    ┠ 50 Holscheckin, Joseph Karl
+e11    ┠ 51 Höferl, Franz
+e12    ┠ 52 Fuchs, Bonifaz Georg
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+Details
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 87
+Entry  ┠ 2 | year-entry 42
+Year   ┠ 1903
+Detail ┠ file://./03689-03-26  -R2 -L.png
+Detail ┠ file://./03689-03-26  -R2 -R.png
+
+Note
+03689-03-26  -R2 -L.png
+means archive image 03689-03-26
+Row 2, Left side
+
+-----------------------DIV30--
+Transcription
+
+col     contents
+margin ┠ 42
+c1     ┠ Schanz ␤ Theodor Georg
+c2     ┠ 3. Kind, ␤ 2. Knabe ␤ Lindner
+c3     ┠ Martin ␤ Schanz
+c4     ┠ bauer ␤ kath.
+c5     ┠ Mutzenroth ␤ Mr. 6
+c6     ┠ Margar ␤ Schwab
+c7     ┠ dto. <?? ␤ kath.>
+c8     ┠ dto. <W. b. M.>
+c9     ┠ 21. September ␤ 1903 ␤ nachm. 2 Uhr
+c10    ┠ 23. September ␤ 1903 ␤ nachm. ½ 4 Uhr
+c11    ┠ dto. <J. Kaglau ␤ Fech>
+c12    ┠ Georg Schanz ␤ wohn. in Mutzenroth
+c13    ┠ <empty>
+
+misc   ┠ text across columns 1-6
+text   ┠ ? ? ? ? ? ? ? ? ? 
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 23 Sep 1903   3:30 PM
+Name       ┠ Theodor Georg Schanz
+BirthDate  ┠ 21 Sep 1903    2 PM
+Father     ┠ Martin Schanz
+Mother     ┠ Margaretha Schwab
+Godparent  ┠ Georg Schanz
+
+-----------------------DIV30--
+Match to database
+
+F       03689-03-26
+RMID= 14402   FSFTID= GHTQ-B3W
+Schanz, Theodor   21 Sep 1903 Birth Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Schanz,  and Scheuerer, Barbara
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+

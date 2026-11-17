@@ -1,0 +1,97 @@
+Archive-Image
+
+Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number    ┠ 03686
+Parish         ┠ Oberschwarzach
+Volume         ┠ 5
+Record:        ┠ _TAUFE
+Page#          ┠ 118
+
+Archive-ID     ┠ 03686-04-24
+URL pg#        ┠ 128
+Years          ┠ 1873
+Width:         ┠ _DOUBLE
+
+Format:        ┠ _TABLE-DOUBLE
+Headers:       ┠ 03686-01-04 -headers.txt
+Columns:       ┠ 13
+#Entries:      ┠ 10
+
+image          ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03686/?pg=128
+
+Comments
+
+
+===========================================DIV50==
+Entries List
+
++++++++++++++++++++++++DIV30++
+Page 118
+
+entry  ┠ contents
+e1     ┠ 1  Glos ␤ Heinrich. ␤ Mutzenroth.
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+Details
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 118
+Entry  ┠ 1 | year-entry  1
+Year   ┠ 1873
+Detail ┠ file://./
+
+-----------------------DIV30--
+Transcription
+
+col    ┠ contents
+margin ┠ 1
+c1     ┠ Glos ␤ Heinrich. ␤ Mutzenroth.
+c2     ┠ ␤
+c3     ┠ ␤
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ ␤
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ ␤
+c10    ┠ ␤
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ 
+EventPlace ┠ 
+EventDate  ┠ 
+Name       ┠ 
+BirthDate  ┠ 
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to database
+
+F       03686-04-24
+RMID= 716   FSFTID= LTJG-JKQ
+Glos, Heinrich   3 Jan 1873 Birth Mutzenroth, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Unknown and Unknown
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

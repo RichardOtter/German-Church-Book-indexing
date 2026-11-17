@@ -23,11 +23,12 @@ Comments
 Page 25 transitions to a six column format
 c1= birth date, c2= baptism date
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 24
+
         _YEAR-HEADER 1728
 e1      7 may
 e2      10 aug
@@ -41,8 +42,10 @@ e8      20 dec
 e9      27 feb
 e10     5 apr
 e11     9 ??
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 25
+
         _YEAR-CONTINUED 1729
         _6-COLUMNS
 e1      5 may
@@ -59,18 +62,21 @@ e10     19 apr
 e11     1 sep          RMID-10918 Nöth, Maria Margaretha Birth 1730-09-01
 e12     30 sep
 e13     30 nov
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    23
 Entry   11
 Year    1739
 Detail  file://./00154-01-16-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      1. September
 c2      2. September
@@ -79,8 +85,12 @@ c4      Maria Mar- ␤ garetha
 c5      Maria Margaretha ␤ ?? ?? ??␤ ?? ?? 
 c6      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-10918 Nöth, Maria Margaretha Birth 1730-09-01
         daughter of Johannes Georg Nöth & Anna Maria Sendelbach
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

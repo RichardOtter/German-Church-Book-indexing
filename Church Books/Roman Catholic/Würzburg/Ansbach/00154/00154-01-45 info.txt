@@ -20,11 +20,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 80
+
         _YEAR-CONTINUED 1803
 e1      29 jun
 e2      18 jul
@@ -36,8 +38,10 @@ e7      22 nov
         _YEAR 1804
 e8      20 jan
 e9      8 feb
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 81
+
         _YEAR 1804
 e1      11 jun
 e2      26 aug          RMID-15975 Joha, Johann Georg Birth 1804-08-26
@@ -49,18 +53,21 @@ e6      23 feb
 e7      6 mar
 e8      18 may
 e9      2 aug
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    80
 Entry   5
 Year    1803
 Detail  file://./00154-01-45-A.png
 
+-----------------------DIV30--
 Transcription
+
 Die 17 Aug
 nach baptisata est Maria Barbara F. legit Michaily
 Loschert et Barbara nata Corethes. levres Barbara
@@ -72,6 +79,7 @@ Nach(mittags) baptizata est Maria Barbara filia legitima Michaelis
 Loschert et Barbarae natae Coreth. Levans Barbara
 Sendelbachin baptizata est. Reverendus Dominus S. Maurer.
 
+-----------------------DIV30--
 Translation
 On 17 August, in the afternoon,  
 was baptized Maria Barbara Loschert, the legitimate daughter of Johannes Michael Loschert and Barbara, née Coreth.
@@ -89,16 +97,20 @@ Father       Michael Loschert
 Mother       Barbara geb. Coreth
 Godparent    Barbara Sendelbach
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-22076 Loschert, Maria Barbara Birth 1803-08-17
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    81
 Entry   2
 Year    1804
 Detail  file://./00154-01-45-B.png
 
+-----------------------DIV30--
 Transcription
+
 Die 26 Augusti
 hora quarta post meridiem
 Natus eodem mense baptizatus est Joannes Georgius,
@@ -107,6 +119,7 @@ conjugum, filius legitimus. Kelamensis Joannes Georgius
 Öhring ex Lutzbach. Baptizans H. L. Haunt.
 
 
+-----------------------DIV30--
 Translation
 On the 26th of August, at 4 o’clock in the afternoon,  
 was born in the same month and baptized Johann Georg,  
@@ -126,14 +139,15 @@ Father       Johann Georg Joha
 Mother       Margaretha geb. Ludwig
 Godparent    Johann Georg Öhring from Lutzbach
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15975 Joha, Johann Georg Birth 1804-08-26
 
------------------------DIV30--
-
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-===========================================DIV50==
+AI
 
 For the attached image of a German baptism record, create a diplomatic transcription (preserving original line breaks and word splits), then create a normalized transcription, still preserving line endings, then perform letter by letter analysis and then an english translation and then summarize as code block so I can copy it. 
 The text is in 2 columns. The first column has the date on line 1 and when present, the time on line 2. The second column is the paragraph of text.
@@ -260,9 +274,6 @@ Sendelbach. She was baptized by the Reverend S. Maurer.
 ---
 
 If you want, I can now generate the **TEI‑XML diplomatic + normalized parallel encoding** for this entry.
-===========================================DIV50==
-===========================================DIV50==
-===========================================DIV50==
 ===========================================DIV50==
 
 For the attached image of a German baptism record, create a diplomatic transcription (preserving original line breaks and word splits), then create a normalized transcription, still preserving line endings, then perform letter by letter analysis and then an english translation and then summarize as code block so I can copy it. 

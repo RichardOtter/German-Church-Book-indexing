@@ -19,7 +19,7 @@ Comments
 Part of page 47 visible on right, about 1 and 1/2 columns
 Years are suspect, need to confirm
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
 -----------------------DIV30--
@@ -45,16 +45,18 @@ e6      7 Feb
 -----------------------DIV30--
 
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    46
 Entry   5
 Year    1772
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      
 c2      eoden
@@ -64,12 +66,20 @@ c5      Joanes / Adamus / Brunn
 c6      ?
 
 -----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 Page    46
 Entry   6
 Year    1773
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      1779 die 5 Mart
 c2      eoden
@@ -78,7 +88,18 @@ c4      Anna Maria
 c5      Anna Maria Amentin / as Stadelhofen
     From Rainer Otter's GEDCOM; Witness: Anna Maria Ament Ex Stadelhofen
 c6      ?
+
 -----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+
+
 
 ===========================================DIV50==
 Interpretation

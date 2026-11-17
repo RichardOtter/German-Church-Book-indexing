@@ -1,0 +1,99 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 77-77
+
+Archive-ID    ┠ 03689-03-16
+URL pg#       ┠ 83
+Years         ┠ 1901
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 03689-01-04 -headers.txt
+Columns:      ┠ 13
+#Entries:     ┠ 13
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=83
+
+Comments
+
+===========================================DIV50==
+Entries List
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 77
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 30. Radler ␤ Anna Maria
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+e13    ┠ 
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+Details
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 77
+Entry  ┠ 6 | year-entry 30
+Year   ┠ 1901
+Detail ┠ file://./
+
+-----------------------DIV30--
+Transcription
+
+col     contents
+margin ┠ 30.
+c1     ┠ Radler ␤ Anna Maria
+c2     ┠ ␤
+c3     ┠ Georg ␤ Radler
+c4     ┠ ␤
+c5     ┠ ␤
+c6     ┠ Margar. ␤ Schmitt
+c7     ┠ ␤
+c8     ┠ ␤
+c9     ┠ 20. Juni 1901 ␤ funf 6 Uhr
+c10    ┠ 23. Juni 1901 ␤ ?? 3 Uhr
+c11    ┠ ␤
+c12    ┠ Anna Maria Schmitt ␤ ledig m. Wiebelsberg
+c13    ┠ <empty>
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ Oberschwarzach
+EventDate  ┠ 23 Jun 1901
+Name       ┠ Anna Maria Radler
+BirthDate  ┠ 20 Jun 1901
+Father     ┠ Georg Radler
+Mother     ┠ Margaretha Schmitt
+Godparent  ┠ Anna Maria Schmitt
+
+-----------------------DIV30--
+Match to database
+
+F       03689-03-16
+RMID= 1076   FSFTID= LTJG-7N8
+Rädler, Anna Maria   20 Jun 1901 Birth Wiebelsberg, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Rädler, Georg Peter and Schmitt, Anna Margareta
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

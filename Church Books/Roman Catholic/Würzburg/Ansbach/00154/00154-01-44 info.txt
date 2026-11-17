@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 78
+
         _YEAR 1801
 e1      21 jan    
 e2      25 jun    RMID-20993 Mehling, Maria Elisabth Birth 1801-06-25
@@ -37,8 +39,10 @@ e7      23 dec
         _YEAR 1802
 e8      2 jan
 e9      3 jan
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 79
+
         _YEAR-CONTINUED 1802
 e1      17 jan    RMID-15138 Mehling, Anna Maria Birth 1802-01-17
 e2      7 feb
@@ -50,18 +54,21 @@ e7      2 sep
 e8      18 sep
         _YEAR 1803
 e9      4 feb
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    78
 Entry   2
 Year    1801
 Detail  file://./00154-01-44-A.png
 
+-----------------------DIV30--
 Transcription
+
 Die 25 junii
 Hodie est Baptizata est Maria Elisabetha, filia Egidii honesti
 Jois Georgius Mehling Mathaei et Mariae conjugis, nata Ludwigni.
@@ -82,22 +89,25 @@ Father      Johann Georg Mehling
 Mother      Maria geb. Ludwig
 Godparent   Elisabeth Ludwig
 
-Match to RM database
+Match to database
 RMID-20993 Mehling, Maria Elisabeth Birth 1801-06-25
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    79
 Entry   1
 Year    1802
 Detail  file://./00154-01-44-B.png
 
+-----------------------DIV30--
 Transcription
+
 Die 17. januarii
 Nata et baptizata est Anna Maria filia legitima honesta
 Jois georgii Mehling et Anna maria conjugis natae Brunnin est Waldzell
 levans Anna Maria Heidenfelderin ex Waldzell. Reupiring P.
 recte adsignavit.
 
+-----------------------DIV30--
 Translation
 On January 17, Anna Maria was born and baptized, the legitimate daughter
 of the honest Johann Georg Mehling and Anna Maria, his wife, née Brunn,
@@ -115,11 +125,13 @@ Mother      Anna Maria geb. Brunn from Waldzell
 Godparent   Anna Maria Heidenfelder
 
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15138 Mehling, Anna Maria Birth 1802-01-17
 
 -----------------------DIV30--
-
+AI
 
 For the attached image of a German baptism record, create a diplomatic transcription(preserving original line breaks and word splits), perform letter by letter analysis and then english translation and then summarize as code block so I can copy it.
 The text is in 2 columns. The first column has the date on line 1 and time on line 2. The second column is the paragraph of text.
@@ -328,3 +340,5 @@ If you want, I can now produce a **TEI‑XML diplomatic encoding** with `<cb/>` 
     </body>
   </text>
 </TEI>
+
+===========================================DIV50==

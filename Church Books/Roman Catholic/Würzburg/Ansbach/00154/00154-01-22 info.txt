@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 36
+
         _YEAR-CONTINUED 1744
 e1     6 mar
 e2     2 may
@@ -43,8 +44,10 @@ e12     14 sep
 e13     18 sep
 e14     29 oct ??
 e15     9 oct
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 37
+
         _YEAR-CONTINUED 1745
 e1      23 nov
 e2      2 dec
@@ -62,18 +65,21 @@ e11     11 may
 e12     3 jul
         _YEAR 1748
 e13     27 mar
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    37
 Entry   9
 Year    1747
 Detail  file://./00154-01-22-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      21. Martz ␤ circa ??
 c2      22. Martz.
@@ -82,7 +88,8 @@ c4      Joes Georgius.
 c5      Joes Michael ␤ ?? ?? ␤?? in ?? ␤ filli.
 c6      ??.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-13739 Loschert, Johann Georg Birth 1747-03-21
 
------------------------DIV30--
+===========================================DIV50==

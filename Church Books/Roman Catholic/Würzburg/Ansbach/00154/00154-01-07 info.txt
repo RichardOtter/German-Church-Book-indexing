@@ -21,10 +21,11 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
     
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 6
         _YEAR-CONTINUED 1707
 e1       9 Jun          RMID-16694 Joha, Clemens Birth 1707-06-09  TWIN
@@ -41,7 +42,8 @@ e10     11 Dec
         _YEAR 1709
 e11     10 Jan
 e12     ??
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 7
         _YEAR 1709
 e1      21 Jan
@@ -55,41 +57,48 @@ e8      22
 e9      27
 e10     27
 e11     15 Nov
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    6
 Entry   1
 Year    1707
 Detail  file://./00154-07-01-A.png
 
+-----------------------DIV30--
 Transcription
+
 9. Junius (1707) baptizati sunt gemini filii Philippi Johar et Margaretha coniugu in Ansbach ... est Johannes Georgius, alter Clemens ... 
 
 words recognized by RJO
 9 Juny  Bapti  Philip Joha  & Margaretha
 Ansbach  baptism  ??? Georgius  Alter Clemens
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-16694 Joha, Clemens Birth 1707-06-09  TWIN
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    6
 Entry   1
 Year    1707
 Detail  file://./00154-07-01-A.png
 
+-----------------------DIV30--
 Transcription
+
 9. Junius (1707) baptizati sunt gemini filii Philippi Johar et Margaretha coniugu in Ansbach ... est Johannes Georgius, alter Clemens ... 
 
 words recognized by RJO
 9 Juny  Bapti  Philip Joha  & Margaretha
 Ansbach  baptism  ??? Georgius  Alter Clemenz
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-16675 Joha, Johann Georg Birth 1707-06-09  TWIN
 
 message via FamilySearch
@@ -97,18 +106,21 @@ Sunday, May 24th, 2026
 Hartmut Kania
 Hello Mr. Otter - yes, I have an idea. The Latin entry reads: 9. Junius (1707) baptizati sunt gemini filii Philippi Johar et Margaretha coniugu in Ansbach ... est Johannes Georgius, alter Clemens ... | The German entry reads: Am 9. Juni (1707) wurden die Zwillingssöhne von Philipp Johar und Margaretha in Ansbach getauft ... der eine ist Johannes Georgius, der andere Clemens ... | In English: June 9 (1707) the twin sons of Philipp Johar and Margaretha were baptized in Ansbach ... one is Johannes Georgius, the other Clemens ... | Best regards Hartmut (Kania)
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    6
 Entry   8
 Year    1708
 Detail  file://./00154-07-01-B.png
 
+-----------------------DIV30--
 Transcription
+
 words recognized by RJO
 21 September Baptis? ? Anna Maria filia legitima Joannis Pfeifer et ?
 ? conius in Ansbach ? ? Anna maria vi? Sch? ?
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-1822 Pfeifer, Anna Maria Birth 1708-09-21
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++

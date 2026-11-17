@@ -19,11 +19,13 @@ Comments
 
 not absolute entry numbers, Top of pages not imaged
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------------
++++++++++++++++++++++++DIV30++
 Page 38
+
 _PARTIAL-ENTRY
 _YEAR 1756
 e1      23 Jan
@@ -34,8 +36,9 @@ e5      11 Apr
 e6      12 Jun
 e7      21 Jul
 
------------------------------
++++++++++++++++++++++++DIV30++
 Page 39
+
         _YEAR-CONTINUED 1756
 e1      7 ??
 e2      9 Oct
@@ -44,16 +47,19 @@ e3      12 Dec
 e4      9 May
 e5      13 Juny
 
-
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    38
 Entry   6
 Year    1756
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      12 Juni / ? ?
 c2      eo???
@@ -62,13 +68,20 @@ c4      Anna / Maria
 c5      Anna maria / Christopjan / ku???
 c6      Joem??
 
+-----------------------DIV30--
+Translation
 
 -----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 Page    38
 Entry   7
 Year    1756
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      21 Jul / ? ?
 c2      eo???
@@ -76,6 +89,18 @@ c3      Adam Other / Anna Maria
 c4      Joanes
 c5      Joanes / Michler
 c6      Joem??
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+
+
 
 ===========================================DIV50==
 Interpretation

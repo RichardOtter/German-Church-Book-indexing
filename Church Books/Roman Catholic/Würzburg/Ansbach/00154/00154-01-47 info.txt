@@ -21,10 +21,11 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 84
         _YEAR-CONTINUED 1807
 e1      1 jun
@@ -40,8 +41,10 @@ e9      19 jan
 e10     9 feb
 e11     18 feb
 e12     28 apr
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 85
+
         _YEAR-CONTINUED 1808
 e1     5 jun
 e2     28 jun
@@ -55,20 +58,21 @@ e8      8 feb ??
 e9      17 mar
 e10     30 apr
 e11     21 may
------------------------DIV30--
-
-
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    85
 Entry   3
 Year    1807
 Detail  file://./00154-01-47-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 13.␤Augusti
 c2      ?
@@ -76,6 +80,20 @@ c3      Maria␤Margaretha
 c4      hon: Michael␤Loschert 
 c5      ␤
 c6      ␤
+
+-----------------------DIV30--
+Match to database
+
+RMID-22077 Loschert, Maria Margaretha	Birth	1807-08-13
+        daughter of Johann Michael Loschert & Barbara Coreth
+
+conflicts
+mother's last name and home town
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+AI
 
 [DIPLOMATIC TRANSCRIPTION]
 
@@ -237,13 +255,3 @@ Godmother: the modest maiden Maria Margaretha Ochsenstein from Watten.
 Column 6:
 [The baptism took place] in the chapel.
 
------------------------DIV30--
-
-Match to RM database
-
-RMID-22077 Loschert, Maria Margaretha	Birth	1807-08-13
-        daughter of Johann Michael Loschert & Barbara Coreth
-
-conflicts
-mother's last name and home town
------------------------DIV30--

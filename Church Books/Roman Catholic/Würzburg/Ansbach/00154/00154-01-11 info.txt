@@ -21,10 +21,11 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 14
         _YEAR 1716
 e1      6 mar
@@ -33,7 +34,8 @@ e3      12
 e4      17      RMID-1831 Weyer, Johann Georg Birth 1716-10-17
 e5      19
 e6      ?
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 15
         _YEAR 1717
 e1      2 apr
@@ -42,18 +44,21 @@ e3      27 jun
 e4      14
 e5      20 aug
 e6      3 sep
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    14
 Entry   4
 Year    1715
 Detail  file://./00154-01-11-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      17. ␤ 8 ber
 c2      Kilian Weyer ␤ Anna
@@ -61,8 +66,11 @@ c3      Joannes Georgius
 c4      Joannes Georgius ␤ Heliminger cur ␤ Rokeglessen ??
 c5      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-1831 Weyer, Johann Georg Birth 1716-10-17
         parents not recorded
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

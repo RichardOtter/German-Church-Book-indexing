@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 30
+
         _YEAR-HEADER 1735
 e1      4 aug
 e2      14 oct
@@ -43,8 +45,10 @@ e11     14 jul
 e12     18 jul
 e13     6 aug           RMID-10924 Nöth, Johannes Adam Birth 1736-08-06
 e14     9 oct
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 31
+
        _YEAR-CONTINUED 1736
 e1      12 oct
 e2      10 nov          RMID-16673 Joha, Johann Georg Birth 1736-11-10
@@ -62,18 +66,21 @@ e12     29 dec ??
         _YEAR 1738
 e13     2 feb
 e14     eadem 2 feb
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    30
 Entry   3
 Year    1735
 Detail  file://./00154-01-19-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      29 December 
 c2      eadem
@@ -82,16 +89,20 @@ c4      Anna Maria
 c5      JAnna Maria ␤ Joannes Georgy Müller ␤ filia
 c6      joem.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-16674 Greser, Maria Anna Birth 1735-12-29
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    30
 Entry   4       twin
 Year    1736
 Detail  file://./00154-01-19-C.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      20. January ␤ circa 12 ?? ␤ dia??
 c2      eadem
@@ -100,19 +111,23 @@ c4      Joannes Georgius ␤ et ␤ Anna Maria ␤ gemel.
 c5      Joe Georgius Geisler, ␤ et ␤ ?? ?? ␤ Waldzell filia
 c6      joem.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-16058 Weyer, Anna Maria Birth 1736-01-20  TWIN
 
 _NOTE
 TWINS= gemelli	twins (male, or male and female)
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    30
 Entry   4       twin
 Year    1736
 Detail  file://./00154-01-19-C.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      20. January ␤ circa 12 ?? ␤ dia??
 c2      eadem
@@ -121,19 +136,23 @@ c4      Joannes Georgius ␤ et ␤ Anna Maria ␤ gemel.
 c5      Joe Georgius Geisler, ␤ et ␤ ?? ?? ␤ Waldzell filia
 c6      joem.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-23066 Weyer, Johann Georg Birth 1736-01-20  TWIN
 
 _NOTE
 TWINS= gemelli	twins (male, or male and female)
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    30
 Entry   13
 Year    1736
 Detail  file://./00154-01-19-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      6 August ?? ␤  ?? ?? ␤ anon
 c2      7 ␤ August
@@ -142,20 +161,25 @@ c4      Joannes Adamus
 c5      Joannes Adamus ␤ Sebastian Scmitt ␤ ?? in Carbach ??
 c6      joem
 
-Match to RM database
+
+-----------------------DIV30--
+Match to database
+
 RMID-10924 Nöth, Johannes Adam Birth 1735-08-06
         son of Johannes Georg Nöth & Anna Maria Sendelbach
 
 _NOTE fixed conflict
 in church book- date is 1736-08-06, corrected in RM
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    31
 Entry   2
 Year    1737
 Detail  file://./00154-01-19-D.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      10. November ␤ circa 12 ?? ␤ dia??
 c2      eadem
@@ -164,7 +188,12 @@ c4      Joannes Georgius ␤ et ␤ Anna Maria ␤ gemel.
 c5      Joe Georgius Geisler, ␤ et ␤ ?? ?? ␤ Waldzell filia
 c6      joem.
 
-Match to RM database
-RMID-16673 Joha, Johann Georg Birth 1736-11-10
 
 -----------------------DIV30--
+Match to database
+
+RMID-16673 Joha, Johann Georg Birth 1736-11-10
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==

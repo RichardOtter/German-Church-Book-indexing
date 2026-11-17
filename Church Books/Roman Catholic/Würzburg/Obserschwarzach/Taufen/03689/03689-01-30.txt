@@ -1,0 +1,100 @@
+Archive-Image
+
+Archive       ┠ Archiv und Bibliothek des Bistums Würzburg
+Call number   ┠ 03689
+Parish        ┠ Oberschwarzach
+Volume        ┠ 8
+Record:       ┠ _TAUFE
+Page#         ┠ 27-27
+
+Archive-ID    ┠ 03689-01-30
+URL pg#       ┠ 31
+Years         ┠ 1891
+Width:        ┠ _DOUBLE
+
+Format:       ┠ _TABLE-DOUBLE
+Headers:      ┠ 03689-01-04 -headers.txt
+Columns:      ┠ 13
+#Entries:     ┠ 9
+
+image         ┠ file://./
+https://data.matricula-online.eu/en/deutschland/wuerzburg/oberschwarzach/03689/?pg=31
+
+Comments
+
+
+===========================================DIV50==
+Entries List
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 27
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 24 Maier ␤ ALozifer ?? ␤ ? ␤ ? ? ? ␤ ? ? ?
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+Details
+
++++++++++++++++++++++++DIV30++
+Page   ┠ 27
+Entry  ┠ 4 | year-entry 24
+Year   ┠ 1891
+Detail ┠ file://./
+
+-----------------------DIV30--
+Transcription
+
+col     contents
+margin ┠ 24
+c1     ┠ Maier ␤ ALozifer ?? ␤ ? ␤ ? ? ? ␤ ? ? ?
+c2     ┠ 
+c3     ┠ Nikolaus ␤ Maier
+c4     ┠ ?? ␤ kath.
+c5     ┠ Oberschw.␤ H.N. 101. ␤ N.184 ??
+c6     ┠ Katharina ␤ geb Dürr
+c7     ┠ ??
+c8     ┠ <empty>
+c9     ┠ 8. Juni ??␤ ½ 5
+c10    ┠ 10. Juni ␤ ?? ½ 3
+c11    ┠ ␤
+c12    ┠ ␤
+c13    ┠ ␤
+
+-----------------------DIV30--
+Translation
+
+Summary
+EventType  ┠ _TAUFE
+EventPlace ┠ 
+EventDate  ┠ 10 Jun 1891
+Name       ┠ 
+BirthDate  ┠ 8 Jun 1891
+Father     ┠ 
+Mother     ┠ 
+Godparent  ┠ 
+
+-----------------------DIV30--
+Match to database
+
+F       03689-01-30
+RMID= 68   FSFTID= LTJW-5H4
+Maier, Theresia   8 Jun 1891 Birth Oberschwarzach, Oberschwarzach, Schweinfurt, Bayern, Deutschland
+    child of Maier, Nikolaus and Dürr, Katharina
+
+
+Name does not seem to match
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+

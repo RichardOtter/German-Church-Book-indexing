@@ -18,11 +18,13 @@ Columns:    6
 Comments
 entry numbers absolute from notes and new images
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------------
++++++++++++++++++++++++DIV30++
 Page 42
+
         _HEADER-ROW
         _YEAR-CONTINUED 1762
         _PARTIAL-ENTRY  18 Sep
@@ -52,8 +54,10 @@ e21
 e22
 e23
 e24
------------------------------
+
++++++++++++++++++++++++DIV30++
 Page 43
+
         _HEADER-ROW
         _CONTINUE _YEAR 1764
 e1
@@ -78,14 +82,19 @@ e16
 e17
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
++++++++++++++++++++++++DIV30++
 Page    42
 Entry   10
 Year    1763
 Detail
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      16 Feb
 c2      eoden  <the same, or ditto>
@@ -94,13 +103,24 @@ c4      Georgius / Adamus
 c5      Georgii A Loschert / ?
 c6      sacct
 
+-----------------------DIV30--
+Translation
 
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
+
+
++++++++++++++++++++++++DIV30++
 Page    43
 Entry   13
 Year    1766
 Detail
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      13 9ber circa / 3 ?
 c2      14
@@ -109,13 +129,24 @@ c4      Anna / Maria
 c5      Anna Maria / ex Ansbach
 c6      sacett?
 
+-----------------------DIV30--
+Translation
 
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
+
+
++++++++++++++++++++++++DIV30++
 Page    43
 Entry   14
 Year    1766
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      17 9ber circa / 6 ?
 c2      eoden <14>
@@ -123,6 +154,18 @@ c3      Friederich Otter / Elisabetha
 c4      Andreas
 c5      ???
 c6      sacett?
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+
+
 
 
 ===========================================DIV50==

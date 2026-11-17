@@ -22,10 +22,10 @@ Only p24, left side of archive -image was imaged
 the first column of p25 can also bee seen
 
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------------
++++++++++++++++++++++++DIV30++
 Page 24
         _HEADER-ROW
         _YEAR 1726
@@ -35,14 +35,15 @@ e2      30 Mar  1727
 e3      30 Apr  1727
 e4      8 May   1727
 e5      28 Aug  1727
------------------------------
-Entry   Page 25     
 
++++++++++++++++++++++++DIV30++
+Entry   Page 25     
 
 the rest is not visible
 
-
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
 +++++++++++++++++++++++DIV30++
@@ -51,19 +52,29 @@ Entry   5
 Year    1727
 Detail
 
+-----------------------DIV30--
 Transcription
+
 c1      28 August
 c2      Georgius Oder / ?? / Anna
 c3      Georgius ???
 c4      ????? / ????
 c5      tem???
 
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-Interpretation
 
-===========================================DIV50==
-Source Citation
+
+
+
+
 
 ===========================================DIV50==
 RAVigus transcription

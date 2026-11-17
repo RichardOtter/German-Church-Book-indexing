@@ -20,10 +20,10 @@ Comments
 overlap in the 2 images- 44 and 45.
 
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------------
++++++++++++++++++++++++DIV30++
 Page 44
         _HEADER-ROW
         _YEAR-CONTINUED 1767
@@ -39,8 +39,10 @@ e8
 e9      
 e10     13 Nov
         YEAR 1769
------------------------------
+
++++++++++++++++++++++++DIV30++
 Page 45
+
         _HEADER-ROW
         _YEAR-CONTINUED 1769
 e1      
@@ -56,13 +58,18 @@ e9
         _PARTIAL-ENTRY
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
++++++++++++++++++++++++DIV30++
 Page    44
 Entry   10
 Year    1768
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 13 November
 c2      edoet.
@@ -72,12 +79,21 @@ c5      Maria Catharina / Grun ? / ?
         From Rainer Otter's GEDCOM: Witness: Maria Catharina Grun
 c6      laed ?
 
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
 
 
++++++++++++++++++++++++DIV30++
 Page    45
 Entry   4
 Year    1770
+
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 11 April    11 or 12
 c2      eodet
@@ -86,6 +102,18 @@ c4      Catharina
 c5      Catharina Michler Soluta Ex Waldzell
         From Rainer Otter GEDCOM: Witness: Catharina Michler Soluta Ex Waldzell
 c6      sacre
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+
 
 
 ===========================================DIV50==

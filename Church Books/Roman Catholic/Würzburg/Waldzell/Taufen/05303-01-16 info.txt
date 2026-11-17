@@ -60,13 +60,20 @@ Entry   _HEADER-ROW
 Year    1722
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 c1      <date baptism> ?
 c2      <parent names>
 c3      <child name>
 c4      <god parents? names>
 c5      ?
 
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
 
 +++++++++++++++++++++++DIV30++
 Page    20
@@ -74,7 +81,9 @@ Entry   2
 Year    1722
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 c1      29 September
 c2      Valentin Öder / Harber? / Maria
 c3      Joanes Mic / chael
@@ -82,12 +91,18 @@ c4      Joannes Michael / Georgii Stamm / ? ? / ?
     from Rainer Otter's GEDCOM: "Joannes Michael Georgii Stramm Aus Anspacensis"
 c5      ?
 
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
+
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-Interpretation
 
-===========================================DIV50==
-Source Citation
+
 
 ===========================================DIV50==
 RAVigus transcription
@@ -136,30 +151,41 @@ Top of left page only (page 20)
 Image enlarged compared to "Waldzell Taufen -p020  1721.png"
 
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Entry   Page 20
+
 _HEADER-ROW
 e1      28 Mar
 e2      29 Sep
 e3      3 Oct
 e4      23 Oct
------------------------DIV30--
-
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 _HEADER-ROW  Page 20     1722
 c1      <date baptism> ?
 c2      <parent names>
 c3      <child name>
 c4      <god parents? names>
 c5      ?
+
 -----------------------DIV30--
+Transcription
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 e2      Page 20     1722
 c1      29 September
 c2      Valentin Öder / Harber? / Maria
@@ -167,12 +193,15 @@ c3      Joanes Mic / chael
 c4      Joannes Michael / Georgii Stamm / ? ? / ?
     from Rainer Otter's GEDCOM: "Joannes Michael Georgii Stramm Aus Anspacensis"
 c5      ?
+
 -----------------------DIV30--
+Transcription
 
-===========================================DIV50==
-RM Sources and Citations
+-----------------------DIV30--
+Translation
 
-TMG-src-1544
+-----------------------DIV30--
+Match to database
 
 BAP WCR-p020-Otter,Johannes Michael  
  Waldzell Church Book - Baptisms, p020-p021 Otter, Johannes Michael
@@ -180,4 +209,7 @@ BAP WCR-p020-Otter,Johannes Michael
 entry   RM-ID       Name                    tags using source
 p20-e2  TMG-2847    Johannes Michael Otter  name, father, mother, baptism
 
++++++++++++++++++++++++DIV30++
+
 ===========================================DIV50==
+

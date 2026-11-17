@@ -20,11 +20,12 @@ Comments
 NOTES  parents unclear in row 10
 
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    48
+
         _HEADER-ROW
 e1      Jan 2
 e2      
@@ -36,8 +37,10 @@ e6
 e7      
 e8      6 Sep
 e9      
------------------------------
+
++++++++++++++++++++++++DIV30++
 Page    49
+
         _HEADER-ROW
 e1      25 Sep
 e2      
@@ -51,17 +54,21 @@ e8
 e9      
         _YEAR 1778
 e10     3 Jan
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
++++++++++++++++++++++++DIV30++
 Page    48
 Entry   1
 Year    1775
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      2 Jan
 c2      eoden
@@ -71,13 +78,21 @@ c5      Maria / Veronica Grapin / aus ?
         from Rainer Otter's GEDCOM Witness: Maria Veronica Gru�
 c6      ?
 
+-----------------------DIV30--
+Translation
 
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 Page    48
 Entry   8
 Year    1776
 Detail  
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      Die 6 September
 c2      eoden
@@ -87,14 +102,35 @@ c5      Theobaldus Mehling
         From Rainer Otter's GEDCOM  Witness Theobaldus Mehling
 c6      ?
 
+-----------------------DIV30--
+Translation
 
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 e10     Page 49     1778
+
 c1      Die 3 Jan
 c2      eoden
 c3      JOHANNIS MICHAEL OTHER  / GERLADZLIN
 c4      MARIA MAGDALENA
 c5      MARIA MAGDALENA / ? / ?
 c6      ?
+
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+
+
+
+
 
 
 ===========================================DIV50==

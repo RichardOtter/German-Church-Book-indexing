@@ -21,11 +21,12 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 46
+
         _YEAR-CONTINUED 1758
 e1      5 jun
 e2      10 jul
@@ -42,8 +43,10 @@ e11     14 sep
 e12     11 oct
 e13     25 oct
 e14     29 oct
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 47
+
         _YEAR-CONTINUED 1759
 e1      20 nov
 e2      3 dec
@@ -65,18 +68,21 @@ e15     18 mar
 e16     12 apr
 e17     29 jun
 e18     25 oct
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    46
 Entry   19
 Year    1759
 Detail  file://./00154-01-27-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      25. Aug ␤ ? 9 m? ␤ ✠
 c2      Eadem
@@ -85,16 +91,20 @@ c4      Anna ␤ Maria
 c5      Anna Maria ␤Greserin ? ?
 c6      Pat?
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-13736 Loschert, Anna Maria Birth 1759-08-25
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    47
 Entry   11
 Year    1760
 Detail  file://./00154-01-27-B.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      24. October ␤ posi 10 anm?
 c2      Eadem
@@ -103,9 +113,11 @@ c4      Anna ␤ Maria
 c5      Anna Maria ␤Greserin ? ?
 c6      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-13731 Loschert, Anna Maria Birth 1760-10-24
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 
-
+===========================================DIV50==

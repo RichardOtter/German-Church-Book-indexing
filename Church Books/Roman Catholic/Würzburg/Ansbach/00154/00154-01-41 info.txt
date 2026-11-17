@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 72
+
         _YEAR 1795
 e1      23 apr
 e2      9 jun
@@ -35,8 +37,10 @@ e5      22 jul
 e6      26 jul
 e7      10 aug
 e8      14 aug
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 73
+
         _YEAR-CONTINUED 1793
 e1      ?
 e2      26 oct
@@ -53,18 +57,21 @@ e11     22 sep
 e12     8 oct
 e13     19 dec
 e14     24 dec
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    72
 Entry   3
 Year    1795
 Detail  file://./00154-01-41-A.png
 
+-----------------------DIV30--
 Transcription
+
 Die 25 junii circa 7 man
 es gut machel.
 
@@ -88,16 +95,20 @@ This is vernacular German, very sloppy handwriting.
 This is likely a clerical note, not part of the baptism entry.
 It may refer to preparing the register, correcting an entry, or performing a ritual “properly.”
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-15123 Mehling, Johann Michael Birth 1795-06-25
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    73
 Entry   6
 Year    17
 Detail  file://./00154-01-41-B.png
 
+-----------------------DIV30--
 Transcription
+
 Die Nonojunii
 Natus et deinde baptizatus est Maria Philippina filia Johannis Georgii Weyer
 et Barbara nata Schürgerina. Levans Philippina Weyerin ?? Sang.
@@ -109,10 +120,12 @@ daughter of Johann Georg Weyer
 and Barbara, born Schürger.
 Godmother: Philippina Weyer, ?? Sang.
 
-Match to RM database
+-----------------------DIV30--
+Match to database
+
 RMID-1813 Weyer, Maria Philippina Birth 1796-06-09
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 
-
+===========================================DIV50==
 

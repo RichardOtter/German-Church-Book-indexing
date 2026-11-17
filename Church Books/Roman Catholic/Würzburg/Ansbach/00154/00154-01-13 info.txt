@@ -21,10 +21,11 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 18
         _YEAR-HEADER 1721
 e1      21 jul
@@ -38,7 +39,8 @@ e7      2 aug
 e8      16 sep
 e9      27 aug
 e10     10 may ???
------------------------DIV30--
+
++++++++++++++++++++++++DIV30++
 Page 19
         _YEAR-HEADER 1723
 e1      9 jan
@@ -51,18 +53,21 @@ e7      29 aug
 e8      2 sep
 e9      19 ?
 e10     5 oct
------------------------DIV30--
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    18
 Entry   4
 Year    1922
 Detail  file://./00154-01-13-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1      30 January
 c2      Matthäi Mehling ␤ Margareta
@@ -70,9 +75,11 @@ c3      Anna Maria
 c4      Ann Josmis ␤ Georgius Büchner ␤ filia
 c5      ??
 
-Match to RM database
+-----------------------DIV30--
+Match to database
 RMID-13737 Mehling, Anna Maria Birth 1722-01-30
         daughter of Matthäi Mehling & Margarteha
 
++++++++++++++++++++++++DIV30++
 
------------------------DIV30--
+===========================================DIV50==

@@ -55,15 +55,19 @@ e19    ┠
 e20    ┠ 
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page   ┠ $
 Entry  ┠ $
 Year   ┠ $
 Detail ┠ file://./
 
+-----------------------DIV30--
 Transcription
+
 col    ┠ contents
 margin ┠ 
 c1     ┠ ␤
@@ -80,6 +84,9 @@ c11    ┠ ␤
 c12    ┠ ␤
 c13    ┠ ␤
 
+misc   ┠ 
+text   ┠ 
+
 -----------------------DIV30--
 Translation
 
@@ -94,17 +101,23 @@ Mother     ┠
 Godparent  ┠ 
 
 -----------------------DIV30--
-Match to RM database
+Match to database
 
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
-
+=
+=
+=
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==
+=
+=
+=
 ===========================================DIV50==
 Based on image done at archive
-
 this is superseded by web image
-
-
 =======
 =======
 =======
@@ -116,7 +129,7 @@ Archive        ┠ Archiv und Bibliothek des Bistums Würzburg
 Call number    ┠ $
 Parish         ┠ $
 Volume         ┠ $
-Record:        ┠ _TAUFE
+Record:        ┠ _TAUFE _EHE _STERBFAL
 Page#          ┠ $-$
 
 Archive-ID     ┠ $-$-$
@@ -134,33 +147,10 @@ https://data.matricula-online.eu/
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+===========================================DIV50==
 Entries List
 
-Page   ┠ $
-
-entry  ┠ contents
-e1     ┠ 
-e2     ┠ 
-e3     ┠ 
-e4     ┠ 
-e5     ┠ 
-e6     ┠ 
-e7     ┠ 
-e8     ┠ 
-e9     ┠ 
-e10    ┠ 
-e11    ┠ 
-e12    ┠ 
-e13    ┠ 
-e14    ┠ 
-e15    ┠ 
-e16    ┠ 
-e17    ┠ 
-e18    ┠ 
-e19    ┠ 
-e20    ┠ 
-
++++++++++++++++++++++++DIV30++
 Page   ┠ $
 
 entry  ┠ contents
@@ -186,15 +176,43 @@ e19    ┠
 e20    ┠ 
 
 +++++++++++++++++++++++DIV30++
+Page   ┠ $
+
+entry  ┠ contents
+e1     ┠ 
+e2     ┠ 
+e3     ┠ 
+e4     ┠ 
+e5     ┠ 
+e6     ┠ 
+e7     ┠ 
+e8     ┠ 
+e9     ┠ 
+e10    ┠ 
+e11    ┠ 
+e12    ┠ 
+e13    ┠ 
+e14    ┠ 
+e15    ┠ 
+e16    ┠ 
+e17    ┠ 
+e18    ┠ 
+e19    ┠ 
+e20    ┠ 
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
-Page   ┠ 
-Entry  ┠ 
-Year   ┠ 
++++++++++++++++++++++++DIV30++
+Page   ┠ $
+Entry  ┠ $
+Year   ┠ $
 Detail ┠ file://./
 
+-----------------------DIV30--
 Transcription
-Page   ┠ $
 
 entry
 contents of entry
@@ -208,7 +226,6 @@ e1
 -----------------------DIV30--
 Translation
 
-
 Summary
 EventType  ┠ 
 EventPlace ┠ 
@@ -220,16 +237,24 @@ Mother     ┠
 Godparent  ┠ 
 
 -----------------------DIV30--
-Match to RM database
+Match to database
 
++++++++++++++++++++++++DIV30++
 
 ===========================================DIV50==
+
+=
+=
+===========================================DIV50==
+===========================================DIV50==
+===========================================DIV50==
+=
+=
 
 ===========================================DIV50==
 Based on image done at archive
 
 this is superseded by web image
-
 
 =======
 =======
@@ -272,12 +297,12 @@ _LOOKING-FOR
 =======
 =======
 =======
-
-
-
-
-
-
+=
+=
+=
+=
+=
+=
 _YEAR-CONTINUED YYYY
 _YEAR YYYY
 _YEAR-HEADER YYYY
@@ -285,16 +310,17 @@ _YEAR-HEADER YYYY
 _TABLE-START
 _CONFLICT
 
-
         _YEAR-HEADER 1807
         _YEAR-CONTINUED 1807
         _YEAR-HEADER-CONTINUED 1807
 
-
+dto.
 Eadem
 ␤
 ┃
 ►
 ◄
 ✝︎
-┠  and one space starts column
+┠ and one space starts column
+½
+⅓

@@ -21,11 +21,13 @@ https://data.matricula-online.eu/en/deutschland/wuerzburg/ansbach-bei-roden/0015
 
 Comments
 
-+++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Entries List
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 86
+
         _YEAR-CONTINUED 1809
 e1      21 may
 e2      18 jun
@@ -37,8 +39,9 @@ e6      12 jan          NEW Hadim obit
 e7      12 jan          RMID-13451 Loschert, Georg Adam -b 1810-01-12
 e8      21 jan
  
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page 87
+
         _YEAR-CONTINUED 1810
 e1     1 jun
 e2     19 jun
@@ -46,20 +49,21 @@ e3     18 jun
 e4     19 jun
 e5     11 jul
 e6     23 aug
------------------------DIV30--
-
-
 
 +++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
 Details
 
------------------------DIV30--
++++++++++++++++++++++++DIV30++
 Page    85
 Entry   6
 Year    1810
 Detail  file://./00154-01-48-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1     Die 12.␤januari␤horn 11.␤nocty 
 c2     ␤ 
@@ -67,13 +71,22 @@ c3     Hadim␤obit
 c4      ␤
 c5      ␤
 c6      ␤
+
 -----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
++++++++++++++++++++++++DIV30++
 Page    85
 Entry   7
 Year    1810
 Detail  file://./00154-01-48-A.png
 
+-----------------------DIV30--
 Transcription
+
 col
 c1     Die 12.␤januari␤horn 11 1/2.␤nocty 
 c2     ␤ 
@@ -81,12 +94,29 @@ c3     ␤
 c4      ␤
 c5      ␤
 c6      ␤
------------------------DIV30--
 
 Two entries- 6 & 7
 6 seems to be recording the death of  child
 but it seems to not be Gerogius Adamus who is listed in second entry
 
+-----------------------DIV30--
+Translation
+
+-----------------------DIV30--
+Match to database
+
+RMID-13451 Loschert, Georg Adam -b 1810-01-12
+        son of Johann Michael Loschert & Barbara Coreth
+
+
+conflicts
+mother's last name and home town
+-----------------------DIV30--
+
++++++++++++++++++++++++DIV30++
+
+===========================================DIV50==
+AI
 
 ============================================================
 ENTRY 1 — DEATH ENTRY (“Hadim obit”)
@@ -318,16 +348,3 @@ Godparents:
 Other:
   - Midwife: Raull
 
------------------------DIV30--
-
-
-
-Match to RM database
-
-RMID-13451 Loschert, Georg Adam -b 1810-01-12
-        son of Johann Michael Loschert & Barbara Coreth
-
-
-conflicts
-mother's last name and home town
------------------------DIV30--
